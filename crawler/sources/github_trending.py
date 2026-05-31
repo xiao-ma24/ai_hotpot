@@ -112,8 +112,48 @@ def fetch_github_trending() -> list[dict]:
     except Exception as e:
         logger.warning(f"GitHub keyword search failed: {e}")
 
-    # 按 stars 排序
-    items.sort(key=lambda x: x.get("stars", 0), reverse=True)
+    # 策略 3: 第三方 Trending API（提供 star 日增量，需外网/VPN）
+    try:
+        TRENDING_API_URL = "https://gh-trending-api.herokuapp.com/repositories"
+        resp = requests.get(TRENDING_API_URL, params={"since": "daily"}, timeout=15)
+        if resp.status_code == 200:
+            repos = resp.json()
+            for repo in repos:
+                url = repo.get("url") or repo.get("html_url", "")
+                # 更新已有条目的 stars_today
+                if url in seen:
+                    for item in items:
+                        if item["url"] == url:
+                            item["stars_today"] = repo.get("currentPeriodStars", 0)
+                            if repo.get("language"):
+                                item["language"] = repo["language"]
+                            break
+                    continue
+                seen.add(url)
+
+                desc = repo.get("description") or ""
+                lang = repo.get("language") or ""
+                if not _is_ai_related(repo.get("name", ""), desc, lang):
+                    continue
+
+                items.append({
+                    "title": repo.get("name", ""),
+                    "description": desc[:500],
+                    "url": url,
+                    "stars": repo.get("stars", 0),
+                    "language": lang,
+                    "stars_today": repo.get("currentPeriodStars", 0),
+                    "forks": repo.get("forks", 0),
+                    "source": "GitHub Trending",
+                })
+            logger.debug(f"  Trending API: {len(repos)} repos processed")
+        elif resp.status_code == 403:
+            logger.debug("Trending API rate limited")
+    except Exception as e:
+        logger.debug(f"Trending API not reachable (may need VPN): {e}")
+
+    # 按 star 增量 + 总 star 排序
+    items.sort(key=lambda x: (x.get("stars_today", 0), x.get("stars", 0)), reverse=True)
     logger.info(f"GitHub: {len(items)} AI-related repos found")
     return items
 
