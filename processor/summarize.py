@@ -14,7 +14,7 @@ logger = logging.getLogger(__name__)
 
 # DeepSeek API 配置 (OpenAI 兼容接口)
 DEEPSEEK_BASE_URL = "https://api.deepseek.com"
-DEEPSEEK_MODEL = "deepseek-chat"
+DEEPSEEK_MODEL = "deepseek-V4-flash"
 
 # 每批处理条数（控制 token 消耗）
 BATCH_SIZE = 15
@@ -25,7 +25,7 @@ _client: OpenAI | None = None
 def _get_client() -> OpenAI:
     global _client
     if _client is None:
-        api_key = os.environ.get("DEEPSEEK_API_KEY", "")
+        api_key = os.environ.get("DEEPSEEK_API_KEY", "sk-18de7c1c17a14a9484ac02c39ca86f3a")
         if not api_key:
             raise RuntimeError("DEEPSEEK_API_KEY environment variable not set")
         _client = OpenAI(api_key=api_key, base_url=DEEPSEEK_BASE_URL)
