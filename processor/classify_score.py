@@ -8,7 +8,7 @@ from processor.prompts import SYSTEM_PROMPT, CLASSIFY_SCORE_PROMPT
 
 logger = logging.getLogger(__name__)
 
-BATCH_SIZE = 20
+BATCH_SIZE = 10
 
 
 def classify_and_score(items: list[dict]) -> list[dict]:

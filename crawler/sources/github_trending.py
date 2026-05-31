@@ -53,12 +53,10 @@ def fetch_github_trending() -> list[dict]:
         "User-Agent": "ai-daily-hotpot/1.0",
     }
 
-    # 策略 1: 一次性搜索多个 AI 主题（合并为一次 API 调用）
+    # 策略 1: AI 关键词搜索，按 stars 排序
     try:
-        # 用 OR 连接多个主题，一次查询覆盖所有
-        topic_query = "+".join(f"topic:{t}" for t in AI_TOPICS[:5])
         params = {
-            "q": f"{topic_query}+stars:>50",
+            "q": "ai+machine-learning+llm+deep-learning+stars:>50",
             "sort": "stars",
             "order": "desc",
             "per_page": 30,
@@ -69,18 +67,15 @@ def fetch_github_trending() -> list[dict]:
         else:
             resp.raise_for_status()
             data = resp.json()
-
             for repo in data.get("items", []):
                 url = repo.get("html_url", "")
                 if url in seen:
                     continue
                 seen.add(url)
                 items.append(_parse_repo(repo))
-
-            logger.debug(f"  Topic search: {len(items)} repos so far")
-
+            logger.debug(f"  Keyword search: {len(items)} repos so far")
     except Exception as e:
-        logger.warning(f"GitHub topic search failed: {e}")
+        logger.warning(f"GitHub keyword search failed: {e}")
 
     # 策略 2: 搜索最近一周创建的高星 AI 项目（关键词匹配）
     try:

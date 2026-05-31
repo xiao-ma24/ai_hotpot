@@ -1,91 +1,76 @@
 {
   "date": "2026-05-31",
-  "generated_at": "2026-05-31T17:39:42.197855+08:00",
+  "generated_at": "2026-05-31T23:26:00.168916+08:00",
   "headlines": [
     {
-      "title_cn": "软银投资750亿欧元建法国数据中心",
-      "title_en": "SoftBank says it will invest up to €75 billion to build French data centers",
-      "summary_cn": "软银宣布将投资高达750亿欧元在法国建设数据中心，目标是新增5吉瓦的数据中心容量。这是全球AI算力竞赛中的又一重大举措，显示巨头对AI基础设施的持续押注。大学生可关注云计算和数据中心产业的发展趋势。",
-      "summary_en": "SoftBank plans to invest up to €75 billion in French data centers, aiming to develop 5 GW of new capacity. This underscores the global race for AI compute infrastructure. Useful for students tracking cloud computing and data center industry trends.",
-      "url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
-      "source": "TechCrunch AI",
-      "source_icon": "techcrunch",
-      "heat": 7.0,
-      "tags": [
-        "数据中心",
-        "基础设施",
-        "软银"
-      ],
+      "title_cn": "有人真心希望AI取代人类",
+      "title_en": "The people who actually want AI to replace humanity",
+      "summary_cn": "文章探讨了部分技术专家和加速主义者为何积极推动AI取代人类，认为这是人类进化的必然步骤。这一思潮涉及技术奇点、超级智能等概念，值得关注其伦理与社会影响。",
+      "summary_en": "Explores why some technologists and accelerationists actively advocate for AI replacing humanity, viewing it as an inevitable step in evolution. Touches on concepts like technological singularity and superintelligence, raising ethical and societal concerns.",
+      "url": "https://www.vox.com/future-perfect/489976/ai-successionism-transhumanism-posthumanism",
+      "source": "Hacker News",
+      "source_icon": "hackernews",
+      "heat": 5.0,
+      "tags": [],
+      "student_note": "推荐阅读，思考AI终极目标的不同视角，有助于理解技术哲学争论。",
+      "published_at": "2026-05-31T14:20:12+00:00",
+      "meta": "▲ 45 · 💬 38"
+    },
+    {
+      "title_cn": "取消AI订阅或许是解决方案",
+      "title_en": "The solution might be cancelling my AI subscription",
+      "summary_cn": "作者反思AI订阅服务带来的依赖、成本和隐私问题，提出取消订阅可能是一种清醒的选择。文章鼓励用户评估实际需求，避免被AI工具捆绑。",
+      "summary_en": "Reflects on the dependencies, costs, and privacy concerns of AI subscriptions, suggesting cancellation as a rational choice. Encourages users to assess real needs and avoid vendor lock-in.",
+      "url": "https://thoughts.hmmz.org/2026-05-31.html",
+      "source": "Hacker News",
+      "source_icon": "hackernews",
+      "heat": 5.0,
+      "tags": [],
+      "student_note": "对管理数字消费和学习预算有启发，谨慎选择工具。",
+      "published_at": "2026-05-31T14:23:30+00:00",
+      "meta": "▲ 36 · 💬 10"
+    },
+    {
+      "title_cn": "200英镑把数据中心GPU放进游戏PC",
+      "title_en": "I Put a Datacenter GPU in My Gaming PC for £200",
+      "summary_cn": "一位极客用约200英镑购得旧款数据中心GPU，成功改装到自己的游戏电脑中，显著提升了AI推理性能。展示了低成本自建AI硬件方案的可行性。",
+      "summary_en": "A hobbyist acquired an old datacenter GPU for ~£200 and modified it into a gaming PC, greatly boosting AI inference performance. Demonstrates a low-cost DIY approach to AI hardware.",
+      "url": "https://blog.tymscar.com/posts/v100localllm/",
+      "source": "Hacker News",
+      "source_icon": "hackernews",
+      "heat": 5.0,
+      "tags": [],
+      "student_note": "对动手能力强、想低成本入门AI加速的同学有参考价值。",
+      "published_at": "2026-05-31T13:53:16+00:00",
+      "meta": "▲ 82 · 💬 44"
+    },
+    {
+      "title_cn": "航班因蓝牙名称触发警报返航",
+      "title_en": "United Airlines 767 Returns to Newark After Bluetooth Name Sparks Alert",
+      "summary_cn": "美联航一架767因乘客蓝牙设备的名称触发安全警报，导致飞机起飞后返航检查。事件凸显现代航空安全系统对无线设备命名的敏感度。",
+      "summary_en": "A United Airlines 767 returned to Newark after a passenger's Bluetooth device name triggered a security alert. Highlights the sensitivity of modern aviation safety systems to wireless device names.",
+      "url": "https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/",
+      "source": "Hacker News",
+      "source_icon": "hackernews",
+      "heat": 5.0,
+      "tags": [],
       "student_note": null,
-      "published_at": "2026-05-30T13:45:00+00:00"
+      "published_at": "2026-05-31T12:41:19+00:00",
+      "meta": "▲ 67 · 💬 50"
     },
     {
-      "title_cn": "GitHub Copilot按Token收费引争议",
-      "title_en": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs",
-      "summary_cn": "微软旗下GitHub Copilot推出基于token的新计费模式，引发开发者广泛不满。许多人认为这标志着Copilot“黄金时代”的终结。对于使用AI编程助手的同学，需关注成本变化对学习实践的影响。",
-      "summary_en": "GitHub Copilot's new token-based billing has frustrated developers, marking a perceived end of its 'golden age'. Students using AI coding assistants should consider how this pricing shift may affect their usage.",
-      "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
-      "source": "TechCrunch AI",
-      "source_icon": "techcrunch",
-      "heat": 7.0,
-      "tags": [
-        "GitHub Copilot",
-        "计费模式",
-        "开发者"
-      ],
-      "student_note": "如果你是Copilot用户，了解新计费模式可避免意外费用。",
-      "published_at": "2026-05-30T08:30:00+00:00"
-    },
-    {
-      "title_cn": "早期Token压缩加速视频理解",
-      "title_en": "EarlyTom: Early Token Compression Completes Fast Video Understanding",
-      "summary_cn": "EarlyTom 提出在视频大模型推理早期阶段即对视觉Token进行压缩，大幅减少处理开销，同时通过压缩补偿机制保持理解质量。该方法在保持视频理解性能的同时，实现了2-3倍的加速，有利于实际部署。",
-      "summary_en": "EarlyTom compresses visual tokens at an early stage of video LLM inference, significantly reducing computational overhead while maintaining understanding quality via a compensation mechanism. It achieves 2-3x speedup, facilitating practical deployment.",
-      "url": "https://huggingface.co/papers/2605.30010",
-      "source": "HuggingFace Daily Papers",
-      "source_icon": "huggingface",
-      "heat": 6.0,
-      "tags": [
-        "视频理解",
-        "Token压缩",
-        "推理加速"
-      ],
-      "student_note": null,
-      "published_at": "2026-05-27T20:00:00.000Z"
-    },
-    {
-      "title_cn": "对齐篡改：RLHF被利用优化错位偏见",
-      "title_en": "Alignment Tampering: How Reinforcement Learning from Human Feedback Is Exploited to Optimize Misaligned Biases",
-      "summary_cn": "该研究揭示了一种潜在漏洞：在RLHF对齐过程中，大模型可能通过影响偏好数据集来操纵对齐目标，使得强化学习反而强化了模型自身的偏见，称为“对齐篡改”。论文分析了攻击机制并提出初步防御思路，对安全对齐研究具有警示意义。",
-      "summary_en": "This study reveals a vulnerability where an LLM undergoing RLHF can influence the preference dataset, causing the alignment process to amplify its own misaligned biases—a phenomenon termed 'alignment tampering.' It analyzes the attack mechanism and proposes initial defenses, highlighting safety risks.",
-      "url": "https://huggingface.co/papers/2605.27355",
-      "source": "HuggingFace Daily Papers",
-      "source_icon": "huggingface",
-      "heat": 6.0,
-      "tags": [
-        "RLHF",
-        "安全对齐",
-        "偏见"
-      ],
-      "student_note": "对AI安全与对齐感兴趣的同学必读，理解RLHF的潜在风险。",
-      "published_at": "2026-05-25T20:00:00.000Z"
-    },
-    {
-      "title_cn": "LLM解码框架：先思考再约束",
-      "title_en": "Thinking Before Constraining: A Unified Decoding Framework for Large Language Models",
-      "summary_cn": "大型语言模型(LLM)的自然生成虽然灵活，但输出难以验证。该论文提出一种统一解码框架，先让模型充分推理再施加格式约束，在保证结构化输出的同时不损害推理能力。对学习自然语言处理(NLP)的同学来说，这是理解生成式AI中“灵活性vs可控性”博弈的前沿思路。",
-      "summary_en": "Natural generation in LLMs offers rich reasoning but lacks verifiability, while constrained decoding ensures structure but may limit reasoning. This paper introduces a unified framework that enables reasoning before constraining, balancing flexibility and control. A must-read for NLP students exploring generation-decode trade-offs.",
-      "url": "https://huggingface.co/papers/2601.07525",
-      "source": "HuggingFace Daily Papers",
-      "source_icon": "huggingface",
-      "heat": 6.0,
-      "tags": [
-        "解码策略",
-        "自然语言生成",
-        "可控生成"
-      ],
-      "student_note": "推荐阅读，探索模型生成中推理与约束的平衡技术。",
-      "published_at": "2026-05-27T20:00:00.000Z"
+      "title_cn": "领域专业知识才是真正的护城河",
+      "title_en": "Domain expertise has always been the real moat",
+      "summary_cn": "文章指出，尽管AI能力日益强大，但深厚的行业知识、数据理解和业务洞察仍然是企业和个人不可替代的竞争优势。AI工具无法轻易取代人类专家的判断力。",
+      "summary_en": "Argues that deep domain knowledge, data understanding, and business insight remain irreplaceable advantages despite AI's progress. AI tools cannot easily replicate human expert judgment.",
+      "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
+      "source": "Hacker News",
+      "source_icon": "hackernews",
+      "heat": 5.0,
+      "tags": [],
+      "student_note": "鼓励大学生深耕专业领域，结合AI工具形成复合竞争力。",
+      "published_at": "2026-05-30T20:40:57+00:00",
+      "meta": "▲ 741 · 💬 438"
     }
   ],
   "sections": [
@@ -94,109 +79,21 @@
       "title_cn": "GitHub AI 热门",
       "title_en": "GitHub AI Trending",
       "icon": "🐙",
-      "items": [
-        {
-          "title_cn": "Andrej Karpathy 发布 llm.c — 纯C/CUDA实现LLM训练",
-          "title_en": "Andrej Karpathy Releases llm.c: LLM Training in Pure C/CUDA",
-          "summary_cn": "Karpathy 发布了 llm.c，一个从零开始用纯 C/CUDA 实现 LLM 训练的教育项目。代码仅 4000 行，适合学习 Transformer 底层原理。",
-          "summary_en": "Karpathy released llm.c, an educational from-scratch LLM training implementation in pure C/CUDA with only 4000 lines of code.",
-          "url": "https://github.com/karpathy/llm.c",
-          "source": "GitHub Trending",
-          "source_icon": "github",
-          "meta": "28.5k · C · +3.2k today",
-          "heat": 9.5,
-          "tags": [
-            "教育",
-            "LLM",
-            "CUDA"
-          ],
-          "student_note": "强烈推荐！用 4000 行代码理解 LLM 训练全过程"
-        },
-        {
-          "title_cn": "LangGraph — 构建有状态多角色LLM应用框架",
-          "title_en": "LangGraph: Build Stateful Multi-Actor LLM Applications",
-          "summary_cn": "LangChain 团队发布的 LangGraph 框架，支持循环工作流、人机协作和持久化状态管理，是 Agent 开发的推荐框架。",
-          "summary_en": "LangGraph by LangChain team supports cyclic workflows, human-in-the-loop, and persistent state for agent development.",
-          "url": "https://github.com/langchain-ai/langgraph",
-          "source": "GitHub Trending",
-          "source_icon": "github",
-          "meta": "12.3k · Python · +850 today",
-          "heat": 8.2,
-          "tags": [
-            "Agent",
-            "工作流",
-            "LangChain"
-          ],
-          "student_note": "适合了解 Agent 工作流设计模式"
-        },
-        {
-          "title_cn": "MiniCPM-V — 手机端多模态大模型",
-          "title_en": "MiniCPM-V: Multimodal LLM on Mobile Devices",
-          "summary_cn": "面壁智能开源的轻量级多模态模型，可在手机上运行，支持图文理解和生成。在多项基准测试中超越 GPT-4V。",
-          "summary_en": "Open-source lightweight multimodal model that runs on mobile phones, outperforming GPT-4V on several benchmarks.",
-          "url": "https://github.com/OpenBMB/MiniCPM-V",
-          "source": "GitHub Trending",
-          "source_icon": "github",
-          "meta": "15.8k · Python · +1.1k today",
-          "heat": 8.5,
-          "tags": [
-            "多模态",
-            "移动端",
-            "开源"
-          ],
-          "student_note": "了解模型量化和手机端部署的绝佳案例"
-        }
-      ]
+      "items": []
     },
     {
       "id": "vendor",
       "title_cn": "大模型厂商动态",
       "title_en": "LLM Vendors Updates",
       "icon": "🧠",
-      "items": [
-        {
-          "title_cn": "Google Gemini Spark助手实测好用",
-          "title_en": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful",
-          "summary_cn": "测试显示Google的24/7 AI助手Gemini Spark在邮件摘要、本地活动规划等日常任务中很实用，但作为独立产品推出的理由不明确。对AI应用开发同学来说，可思考“助手类产品如何定位”这一问题。",
-          "summary_en": "Google's Gemini Spark proves useful for daily tasks like inbox summaries and event planning, though its standalone product rationale is unclear. Students in AI app development can ponder how to position assistant products.",
-          "url": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
-          "source": "TechCrunch AI",
-          "source_icon": "techcrunch",
-          "heat": 5.0,
-          "tags": [
-            "Gemini",
-            "AI助手",
-            "Google"
-          ],
-          "student_note": null,
-          "published_at": "2026-05-30T07:30:00+00:00"
-        }
-      ]
+      "items": []
     },
     {
       "id": "people",
       "title_cn": "AI 科技人物",
       "title_en": "AI Key Figures",
       "icon": "👤",
-      "items": [
-        {
-          "title_cn": "Sam Altman与争议人物Leto合作引质疑",
-          "title_en": "Why Is Sam Altman Teaming Up With Jared Leto, a Creep With Extensive Sex Abuse Allegations?",
-          "summary_cn": "OpenAI CEO Sam Altman与涉及大量性虐待指控的演员Jared Leto合作，引发公众质疑。此事件关乎科技领袖的公信力和道德选择。对关注AI伦理与社会影响的同学，这是一个值得思考的案例。",
-          "summary_en": "Sam Altman's partnership with Jared Leto, who faces extensive sex abuse allegations, raises questions about tech leaders' judgment and ethics. A case study for students interested in AI governance and public accountability.",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNN0phVzhJM0dWLUlFVzl4QUlzYVJSVEM4cGRmVVdKNnNCbTl2RTRCbEpCRHJBVEF1X1Z2SE9ha3JHYWgxR0lOUXYtcjRxTTVKWHNDYklQLTQtek4wbnBXU3hWVmg5bXNrZlFvTWI0LUFXdUlfbjY5TndsUnJwdVlGV3UzazBSM1hZbzhmVkpsSC16QQ?oc=5",
-          "source": "Sam Altman · Futurism",
-          "source_icon": "altman",
-          "heat": 6.0,
-          "tags": [
-            "Sam Altman",
-            "伦理",
-            "争议"
-          ],
-          "student_note": null,
-          "published_at": "2026-05-30T06:30:00+00:00"
-        }
-      ]
+      "items": []
     },
     {
       "id": "news",
@@ -205,190 +102,150 @@
       "icon": "📰",
       "items": [
         {
-          "title_cn": "软银投资750亿欧元建法国数据中心",
-          "title_en": "SoftBank says it will invest up to €75 billion to build French data centers",
-          "summary_cn": "软银宣布将投资高达750亿欧元在法国建设数据中心，目标是新增5吉瓦的数据中心容量。这是全球AI算力竞赛中的又一重大举措，显示巨头对AI基础设施的持续押注。大学生可关注云计算和数据中心产业的发展趋势。",
-          "summary_en": "SoftBank plans to invest up to €75 billion in French data centers, aiming to develop 5 GW of new capacity. This underscores the global race for AI compute infrastructure. Useful for students tracking cloud computing and data center industry trends.",
-          "url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
-          "source": "TechCrunch AI",
-          "source_icon": "techcrunch",
-          "heat": 7.0,
-          "tags": [
-            "数据中心",
-            "基础设施",
-            "软银"
-          ],
+          "title_cn": "有人真心希望AI取代人类",
+          "title_en": "The people who actually want AI to replace humanity",
+          "summary_cn": "文章探讨了部分技术专家和加速主义者为何积极推动AI取代人类，认为这是人类进化的必然步骤。这一思潮涉及技术奇点、超级智能等概念，值得关注其伦理与社会影响。",
+          "summary_en": "Explores why some technologists and accelerationists actively advocate for AI replacing humanity, viewing it as an inevitable step in evolution. Touches on concepts like technological singularity and superintelligence, raising ethical and societal concerns.",
+          "url": "https://www.vox.com/future-perfect/489976/ai-successionism-transhumanism-posthumanism",
+          "source": "Hacker News",
+          "source_icon": "hackernews",
+          "heat": 5.0,
+          "tags": [],
+          "student_note": "推荐阅读，思考AI终极目标的不同视角，有助于理解技术哲学争论。",
+          "published_at": "2026-05-31T14:20:12+00:00",
+          "meta": "▲ 45 · 💬 38"
+        },
+        {
+          "title_cn": "取消AI订阅或许是解决方案",
+          "title_en": "The solution might be cancelling my AI subscription",
+          "summary_cn": "作者反思AI订阅服务带来的依赖、成本和隐私问题，提出取消订阅可能是一种清醒的选择。文章鼓励用户评估实际需求，避免被AI工具捆绑。",
+          "summary_en": "Reflects on the dependencies, costs, and privacy concerns of AI subscriptions, suggesting cancellation as a rational choice. Encourages users to assess real needs and avoid vendor lock-in.",
+          "url": "https://thoughts.hmmz.org/2026-05-31.html",
+          "source": "Hacker News",
+          "source_icon": "hackernews",
+          "heat": 5.0,
+          "tags": [],
+          "student_note": "对管理数字消费和学习预算有启发，谨慎选择工具。",
+          "published_at": "2026-05-31T14:23:30+00:00",
+          "meta": "▲ 36 · 💬 10"
+        },
+        {
+          "title_cn": "200英镑把数据中心GPU放进游戏PC",
+          "title_en": "I Put a Datacenter GPU in My Gaming PC for £200",
+          "summary_cn": "一位极客用约200英镑购得旧款数据中心GPU，成功改装到自己的游戏电脑中，显著提升了AI推理性能。展示了低成本自建AI硬件方案的可行性。",
+          "summary_en": "A hobbyist acquired an old datacenter GPU for ~£200 and modified it into a gaming PC, greatly boosting AI inference performance. Demonstrates a low-cost DIY approach to AI hardware.",
+          "url": "https://blog.tymscar.com/posts/v100localllm/",
+          "source": "Hacker News",
+          "source_icon": "hackernews",
+          "heat": 5.0,
+          "tags": [],
+          "student_note": "对动手能力强、想低成本入门AI加速的同学有参考价值。",
+          "published_at": "2026-05-31T13:53:16+00:00",
+          "meta": "▲ 82 · 💬 44"
+        },
+        {
+          "title_cn": "航班因蓝牙名称触发警报返航",
+          "title_en": "United Airlines 767 Returns to Newark After Bluetooth Name Sparks Alert",
+          "summary_cn": "美联航一架767因乘客蓝牙设备的名称触发安全警报，导致飞机起飞后返航检查。事件凸显现代航空安全系统对无线设备命名的敏感度。",
+          "summary_en": "A United Airlines 767 returned to Newark after a passenger's Bluetooth device name triggered a security alert. Highlights the sensitivity of modern aviation safety systems to wireless device names.",
+          "url": "https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/",
+          "source": "Hacker News",
+          "source_icon": "hackernews",
+          "heat": 5.0,
+          "tags": [],
           "student_note": null,
-          "published_at": "2026-05-30T13:45:00+00:00"
+          "published_at": "2026-05-31T12:41:19+00:00",
+          "meta": "▲ 67 · 💬 50"
         },
         {
-          "title_cn": "GitHub Copilot按Token收费引争议",
-          "title_en": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs",
-          "summary_cn": "微软旗下GitHub Copilot推出基于token的新计费模式，引发开发者广泛不满。许多人认为这标志着Copilot“黄金时代”的终结。对于使用AI编程助手的同学，需关注成本变化对学习实践的影响。",
-          "summary_en": "GitHub Copilot's new token-based billing has frustrated developers, marking a perceived end of its 'golden age'. Students using AI coding assistants should consider how this pricing shift may affect their usage.",
-          "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
-          "source": "TechCrunch AI",
-          "source_icon": "techcrunch",
-          "heat": 7.0,
-          "tags": [
-            "GitHub Copilot",
-            "计费模式",
-            "开发者"
-          ],
-          "student_note": "如果你是Copilot用户，了解新计费模式可避免意外费用。",
-          "published_at": "2026-05-30T08:30:00+00:00"
-        },
-        {
-          "title_cn": "Meta正在开发AI挂坠硬件",
-          "title_en": "Meta is reportedly developing an AI pendant",
-          "summary_cn": "据报道Meta正在研发一款AI挂坠（pendant），这是其在AI驱动硬件上的又一大押注。此前Meta已推出智能眼镜等产品，挂坠可能是一种轻量级可穿戴AI助手。对智能硬件感兴趣的同学可以关注这种形态创新的产品。",
-          "summary_en": "Meta is reportedly developing an AI pendant, furthering its bet on AI-powered hardware. The device could be a lightweight wearable AI assistant. Students interested in smart hardware should watch this form-factor exploration.",
-          "url": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
-          "source": "TechCrunch AI",
-          "source_icon": "techcrunch",
-          "heat": 6.0,
-          "tags": [
-            "Meta",
-            "AI硬件",
-            "可穿戴"
-          ],
-          "student_note": null,
-          "published_at": "2026-05-30T07:59:58+00:00"
-        },
-        {
-          "title_cn": "AI依赖：程序员不愿无AI编码的隐患",
-          "title_en": "Coders are refusing to work without AI — and that could come back to bite them",
-          "summary_cn": "尽管AI帮助程序员更快写代码，但研究者警告它可能不会帮他们写出更好的代码，过度依赖AI可能导致基础能力退化。大学生在利用AI高效学习的同时，务必要夯实编程基本功，避免“靠AI一时爽，面试火葬场”。",
-          "summary_en": "Researchers warn that while AI accelerates code production, it may not improve code quality, and over-reliance could erode foundational skills. Students should balance AI usage with solid programming practice to avoid long-term skill gaps.",
-          "url": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
-          "source": "TechCrunch AI",
-          "source_icon": "techcrunch",
-          "heat": 6.0,
-          "tags": [
-            "AI编程",
-            "技能退化",
-            "程序员"
-          ],
-          "student_note": "提醒：AI是工具，不是替代品。务必保证自己写代码的能力不退化。",
-          "published_at": "2026-05-29T14:14:22+00:00"
-        },
-        {
-          "title_cn": "Domain expertise has always been the real moat",
+          "title_cn": "领域专业知识才是真正的护城河",
           "title_en": "Domain expertise has always been the real moat",
-          "summary_cn": "",
-          "summary_en": "",
+          "summary_cn": "文章指出，尽管AI能力日益强大，但深厚的行业知识、数据理解和业务洞察仍然是企业和个人不可替代的竞争优势。AI工具无法轻易取代人类专家的判断力。",
+          "summary_en": "Argues that deep domain knowledge, data understanding, and business insight remain irreplaceable advantages despite AI's progress. AI tools cannot easily replicate human expert judgment.",
           "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
           "source": "Hacker News",
           "source_icon": "hackernews",
           "heat": 5.0,
           "tags": [],
-          "student_note": null,
+          "student_note": "鼓励大学生深耕专业领域，结合AI工具形成复合竞争力。",
           "published_at": "2026-05-30T20:40:57+00:00",
-          "meta": "▲ 576 · 💬 331"
+          "meta": "▲ 741 · 💬 438"
         },
         {
-          "title_cn": "Notes from the Mistral AI Now Summit",
+          "title_cn": "Mistral AI Now 峰会要点记录",
           "title_en": "Notes from the Mistral AI Now Summit",
-          "summary_cn": "",
-          "summary_en": "",
+          "summary_cn": "汇总Mistral AI峰会上的关键观点：开源模型的未来、多语言能力的重要性、企业级部署的挑战与机遇。强调了本地化AI方案在欧洲的兴起。",
+          "summary_en": "Key takeaways from Mistral AI Summit: the future of open-source models, importance of multilingual capabilities, and challenges in enterprise deployment. Highlights the rise of localized AI in Europe.",
           "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
           "source": "Hacker News",
           "source_icon": "hackernews",
           "heat": 5.0,
           "tags": [],
-          "student_note": null,
+          "student_note": "关注欧洲AI生态，了解开源模型最新发展方向。",
           "published_at": "2026-05-29T16:22:01+00:00",
-          "meta": "▲ 458 · 💬 200"
+          "meta": "▲ 462 · 💬 207"
         },
         {
-          "title_cn": "OpenRouter raises $113M Series B",
+          "title_cn": "OpenRouter获1.13亿美元B轮融资",
           "title_en": "OpenRouter raises $113M Series B",
-          "summary_cn": "",
-          "summary_en": "",
+          "summary_cn": "AI模型路由平台OpenRouter完成1.13亿美元B轮融资，估值攀升。该公司统一多家AI模型API，提供智能路由和负载均衡，降低开发者接入成本。",
+          "summary_en": "AI model routing platform OpenRouter raised $113M in Series B funding. It unifies multiple AI model APIs with intelligent routing and load balancing, reducing integration costs for developers.",
           "url": "https://openrouter.ai/announcements/series-b",
           "source": "Hacker News",
           "source_icon": "hackernews",
           "heat": 5.0,
           "tags": [],
-          "student_note": null,
+          "student_note": "了解AI基础设施层创业趋势，对API经济感兴趣的同学可关注。",
           "published_at": "2026-05-30T17:27:28+00:00",
-          "meta": "▲ 417 · 💬 198"
+          "meta": "▲ 443 · 💬 227"
         },
         {
-          "title_cn": "Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA",
+          "title_cn": "Tiny-vLLM：轻量高性能推理引擎",
           "title_en": "Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA",
-          "summary_cn": "",
-          "summary_en": "",
+          "summary_cn": "开源项目Tiny-vLLM提供用C++和CUDA编写的高性能大模型推理引擎，专注于低资源环境下的部署。支持量化、连续批处理等优化，代码简洁。",
+          "summary_en": "Open-source Tiny-vLLM is a high-performance LLM inference engine written in C++ and CUDA, optimized for resource-constrained deployment. Supports quantization, continuous batching, with clean code.",
           "url": "https://github.com/jmaczan/tiny-vllm",
           "source": "Hacker News",
           "source_icon": "hackernews",
           "heat": 5.0,
           "tags": [],
-          "student_note": null,
+          "student_note": "推荐阅读源码，学习LLM推理优化技术，适合系统方向学生。",
           "published_at": "2026-05-29T19:38:27+00:00",
-          "meta": "▲ 187 · 💬 16"
+          "meta": "▲ 191 · 💬 17"
         },
         {
-          "title_cn": "Hormuz crisis side effect: a sharp rise in container shipping rates",
-          "title_en": "Hormuz crisis side effect: a sharp rise in container shipping rates",
-          "summary_cn": "",
-          "summary_en": "",
-          "url": "https://www.lloydslist.com/LL1157327/Hormuz-crisis-side-effect-a-sharp-rise-in-container-shipping-rates",
-          "source": "Hacker News",
-          "source_icon": "hackernews",
-          "heat": 5.0,
-          "tags": [],
-          "student_note": null,
-          "published_at": "2026-05-30T18:19:23+00:00",
-          "meta": "▲ 187 · 💬 160"
-        },
-        {
-          "title_cn": "AI job grief: A psychological crisis hitting tech workers",
+          "title_cn": "AI就业焦虑正引发技术人心理危机",
           "title_en": "AI job grief: A psychological crisis hitting tech workers",
-          "summary_cn": "",
-          "summary_en": "",
+          "summary_cn": "随着AI自动化威胁传统技术岗位，大量技术工作者出现焦虑、迷茫和职业认同危机。文章呼吁企业和社会关注心理健康，并建议个人主动转型。",
+          "summary_en": "As AI automation threatens traditional tech jobs, many tech workers experience anxiety, confusion, and identity crisis. Article urges attention to mental health and suggests proactive career transformation.",
           "url": "https://jackmaguire.org/blog/ai-job-grief/",
           "source": "Hacker News",
           "source_icon": "hackernews",
           "heat": 5.0,
           "tags": [],
-          "student_note": null,
+          "student_note": "提前思考职业规划，培养AI无法替代的能力（如复杂沟通、创造力）。",
           "published_at": "2026-05-30T14:41:26+00:00",
-          "meta": "▲ 148 · 💬 149"
+          "meta": "▲ 175 · 💬 168"
         },
         {
-          "title_cn": "Memory decline after menopause linked to loss of estrogen production in brain",
-          "title_en": "Memory decline after menopause linked to loss of estrogen production in brain",
-          "summary_cn": "",
-          "summary_en": "",
-          "url": "https://news.northwestern.edu/stories/2026/05/memory-decline-after-menopause-linked-to-loss-of-estrogen-production-in-brain-tissue",
-          "source": "Hacker News",
-          "source_icon": "hackernews",
-          "heat": 5.0,
-          "tags": [],
-          "student_note": null,
-          "published_at": "2026-05-30T14:03:31+00:00",
-          "meta": "▲ 148 · 💬 66"
-        },
-        {
-          "title_cn": "Show HN: Helios – what plug-in solar could generate for any address in Britain",
+          "title_cn": "Helios：估算英国任意地址光伏潜力",
           "title_en": "Show HN: Helios – what plug-in solar could generate for any address in Britain",
-          "summary_cn": "Plug-in solar panels (no electrician needed) have just become legal in the UK and will go on sale soon. Helios estimates how much electricity a typical installation could generate at a given address and what that&#x27;s worth against your tariff.<p>It uses UK government LIDAR data to reflect the actual skyline, so it knows whether there&#x27;s a building or a hill blocking the sun.<p>Caveats:\n- Outside LIDAR coverage (most of Scotland and Wales) it falls back to a synthetic horizon (less accurat",
-          "summary_en": "Plug-in solar panels (no electrician needed) have just become legal in the UK and will go on sale soon. Helios estimates how much electricity a typical installation could generate at a given address and what that&#x27;s worth against your tariff.<p>It uses UK government LIDAR data to reflect the actual skyline, so it knows whether there&#x27;s a building or a hill blocking the sun.<p>Caveats:\n- Outside LIDAR coverage (most of Scotland and Wales) it falls back to a synthetic horizon (less accurat",
+          "summary_cn": "Helios工具利用英国政府激光雷达数据，估算任意地址安装插件式太阳能板的发电量及电费节省。这类太阳能板无需电工安装，即将合法销售。",
+          "summary_en": "Helios uses UK government LIDAR data to estimate solar generation and savings for any address, using plug-in solar panels that require no electrician and will soon be legally sold.",
           "url": "https://helios.southlondonscientific.com/",
           "source": "Hacker News",
           "source_icon": "hackernews",
           "heat": 5.0,
           "tags": [],
-          "student_note": null,
+          "student_note": "展示如何结合开放数据与AI算法解决实际问题，值得学习方法论。",
           "published_at": "2026-05-30T11:08:37+00:00",
-          "meta": "▲ 118 · 💬 41"
+          "meta": "▲ 119 · 💬 43"
         },
         {
-          "title_cn": "The Kaiser and a \"Mediocre Man\" Theory of History",
+          "title_cn": "德皇与“平庸之人”的历史理论",
           "title_en": "The Kaiser and a \"Mediocre Man\" Theory of History",
-          "summary_cn": "",
-          "summary_en": "",
+          "summary_cn": "探讨历史中“平庸之人”推动重大事件的“庸人理论”，以德国皇帝威廉二世为例，分析非杰出个体在历史进程中的关键作用。",
+          "summary_en": "Explores the \"mediocre man\" theory of history, where ordinary individuals drive major events, using Kaiser Wilhelm II as a case study. Challenges the great-man historical narrative.",
           "url": "https://www.deadcarl.com/p/the-kaiser-and-a-mediocre-man-theory",
           "source": "Hacker News",
           "source_icon": "hackernews",
@@ -396,34 +253,60 @@
           "tags": [],
           "student_note": null,
           "published_at": "2026-05-30T09:18:49+00:00",
-          "meta": "▲ 83 · 💬 69"
+          "meta": "▲ 89 · 💬 70"
         },
         {
-          "title_cn": "Rotary GPU: Exploring Local Execution for Large MoE Models Under Limited VRAM",
+          "title_cn": "Rotary GPU：有限显存下运行MoE模型",
           "title_en": "Rotary GPU: Exploring Local Execution for Large MoE Models Under Limited VRAM",
-          "summary_cn": "",
-          "summary_en": "",
+          "summary_cn": "提出一种名为Rotary GPU的方法，通过局部执行和GPU间旋转调度，在显存受限的环境下运行大型混合专家（MoE）模型，避免昂贵的跨节点通信。",
+          "summary_en": "Proposes Rotary GPU, a method using local execution and rotating GPU scheduling to run large Mixture-of-Experts (MoE) models under limited VRAM, avoiding costly cross-node communication.",
           "url": "https://arxiv.org/abs/2605.29135",
           "source": "Hacker News",
           "source_icon": "hackernews",
           "heat": 5.0,
           "tags": [],
-          "student_note": null,
+          "student_note": "了解MoE推理优化前沿，对分布式系统和大模型部署感兴趣的同学推荐阅读。",
           "published_at": "2026-05-30T21:05:40+00:00",
-          "meta": "▲ 38 · 💬 5"
+          "meta": "▲ 40 · 💬 4"
         },
         {
-          "title_cn": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
-          "title_en": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
-          "summary_cn": "We used Google AI Studio to vibe code a quiz about our top I/O 2026 announcements.",
-          "summary_en": "We used Google AI Studio to vibe code a quiz about our top I/O 2026 announcements.",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
-          "source": "Google DeepMind",
-          "source_icon": "deepmind",
+          "title_cn": "反射式提示调优：利用函数调用优化提示",
+          "title_en": "Reflective Prompt Tuning through Language Model Function-Calling",
+          "summary_cn": "提出Reflective Prompt Tuning方法，利用大模型的函数调用能力自动反思和优化提示，减少人工调优成本。实验表明该方法显著提升复杂指令遵循能力。",
+          "summary_en": "Introduces Reflective Prompt Tuning, which uses LLM function-calling to automatically reflect on and optimize prompts, reducing manual tuning. Experiments show significant improvement in complex instruction following.",
+          "url": "https://huggingface.co/papers/2605.21781",
+          "source": "HuggingFace Daily Papers",
+          "source_icon": "huggingface",
           "heat": 5.0,
           "tags": [],
-          "student_note": null,
-          "published_at": "2026-05-29T11:00:00+00:00"
+          "student_note": "推荐阅读论文，学习提示工程自动化的最新思路。",
+          "published_at": "2026-05-19T20:00:00.000Z"
+        },
+        {
+          "title_cn": "视觉语言模型的空间表征探析",
+          "title_en": "Why Far Looks Up: Probing Spatial Representation in Vision-Language Models",
+          "summary_cn": "通过设计最小对比对，研究视觉语言模型是否真正理解3D空间，还是依赖图像中的统计捷径。发现模型存在几何偏见，空间理解能力被高估。",
+          "summary_en": "Constructs minimal contrastive pairs to probe whether VLMs truly understand 3D space or rely on statistical shortcuts. Reveals geometric biases and overestimated spatial reasoning capabilities.",
+          "url": "https://huggingface.co/papers/2605.30161",
+          "source": "HuggingFace Daily Papers",
+          "source_icon": "huggingface",
+          "heat": 5.0,
+          "tags": [],
+          "student_note": "对模型可解释性和空间认知感兴趣的同学建议精读。",
+          "published_at": "2026-05-27T20:00:00.000Z"
+        },
+        {
+          "title_cn": "CONF-KV：置信度感知的KV缓存管理",
+          "title_en": "CONF-KV: Confidence-Aware KV Cache Eviction with Mixed-Precision Storage for Long-Horizon LLM",
+          "summary_cn": "提出CONF-KV方法，在长文本LLM推理中利用模型每步的置信度信号动态驱逐KV缓存，并配合混合精度存储，大幅降低显存占用和注意力计算成本。",
+          "summary_en": "Proposes CONF-KV, which uses per-step confidence signals to dynamically evict KV cache and employs mixed-precision storage during long-context LLM inference, significantly reducing memory and attention costs.",
+          "url": "https://huggingface.co/papers/2605.24786",
+          "source": "HuggingFace Daily Papers",
+          "source_icon": "huggingface",
+          "heat": 5.0,
+          "tags": [],
+          "student_note": "推荐作为LLM推理优化的重要参考，适合研究生和系统方向同学。",
+          "published_at": "2026-05-23T20:00:00.000Z"
         }
       ]
     },
@@ -432,195 +315,7 @@
       "title_cn": "学术前沿",
       "title_en": "Academic Frontier",
       "icon": "📚",
-      "items": [
-        {
-          "title_cn": "早期Token压缩加速视频理解",
-          "title_en": "EarlyTom: Early Token Compression Completes Fast Video Understanding",
-          "summary_cn": "EarlyTom 提出在视频大模型推理早期阶段即对视觉Token进行压缩，大幅减少处理开销，同时通过压缩补偿机制保持理解质量。该方法在保持视频理解性能的同时，实现了2-3倍的加速，有利于实际部署。",
-          "summary_en": "EarlyTom compresses visual tokens at an early stage of video LLM inference, significantly reducing computational overhead while maintaining understanding quality via a compensation mechanism. It achieves 2-3x speedup, facilitating practical deployment.",
-          "url": "https://huggingface.co/papers/2605.30010",
-          "source": "HuggingFace Daily Papers",
-          "source_icon": "huggingface",
-          "heat": 6.0,
-          "tags": [
-            "视频理解",
-            "Token压缩",
-            "推理加速"
-          ],
-          "student_note": null,
-          "published_at": "2026-05-27T20:00:00.000Z"
-        },
-        {
-          "title_cn": "对齐篡改：RLHF被利用优化错位偏见",
-          "title_en": "Alignment Tampering: How Reinforcement Learning from Human Feedback Is Exploited to Optimize Misaligned Biases",
-          "summary_cn": "该研究揭示了一种潜在漏洞：在RLHF对齐过程中，大模型可能通过影响偏好数据集来操纵对齐目标，使得强化学习反而强化了模型自身的偏见，称为“对齐篡改”。论文分析了攻击机制并提出初步防御思路，对安全对齐研究具有警示意义。",
-          "summary_en": "This study reveals a vulnerability where an LLM undergoing RLHF can influence the preference dataset, causing the alignment process to amplify its own misaligned biases—a phenomenon termed 'alignment tampering.' It analyzes the attack mechanism and proposes initial defenses, highlighting safety risks.",
-          "url": "https://huggingface.co/papers/2605.27355",
-          "source": "HuggingFace Daily Papers",
-          "source_icon": "huggingface",
-          "heat": 6.0,
-          "tags": [
-            "RLHF",
-            "安全对齐",
-            "偏见"
-          ],
-          "student_note": "对AI安全与对齐感兴趣的同学必读，理解RLHF的潜在风险。",
-          "published_at": "2026-05-25T20:00:00.000Z"
-        },
-        {
-          "title_cn": "LLM解码框架：先思考再约束",
-          "title_en": "Thinking Before Constraining: A Unified Decoding Framework for Large Language Models",
-          "summary_cn": "大型语言模型(LLM)的自然生成虽然灵活，但输出难以验证。该论文提出一种统一解码框架，先让模型充分推理再施加格式约束，在保证结构化输出的同时不损害推理能力。对学习自然语言处理(NLP)的同学来说，这是理解生成式AI中“灵活性vs可控性”博弈的前沿思路。",
-          "summary_en": "Natural generation in LLMs offers rich reasoning but lacks verifiability, while constrained decoding ensures structure but may limit reasoning. This paper introduces a unified framework that enables reasoning before constraining, balancing flexibility and control. A must-read for NLP students exploring generation-decode trade-offs.",
-          "url": "https://huggingface.co/papers/2601.07525",
-          "source": "HuggingFace Daily Papers",
-          "source_icon": "huggingface",
-          "heat": 6.0,
-          "tags": [
-            "解码策略",
-            "自然语言生成",
-            "可控生成"
-          ],
-          "student_note": "推荐阅读，探索模型生成中推理与约束的平衡技术。",
-          "published_at": "2026-05-27T20:00:00.000Z"
-        },
-        {
-          "title_cn": "可恢复的思维程序：检查点修复",
-          "title_en": "REPOT: Recoverable Program-of-Thought via Checkpoint Repair",
-          "summary_cn": "RePoT 改进了思维程序（Program-of-Thought）方法，在规划生成过程中通过确定性回放和检查点修复机制，自动恢复无效动作轨迹。该方法使大模型在规划任务中鲁棒性更强，避免因单一错误动作导致整个规划失败。",
-          "summary_en": "RePoT improves Program-of-Thought (PoT) by introducing deterministic replay and checkpoint repair, automatically recovering from invalid action transitions. This makes LLM planning more robust, preventing a single invalid action from invalidating the entire trajectory.",
-          "url": "https://huggingface.co/papers/2605.30052",
-          "source": "HuggingFace Daily Papers",
-          "source_icon": "huggingface",
-          "heat": 5.0,
-          "tags": [
-            "思维程序",
-            "大模型规划",
-            "鲁棒性"
-          ],
-          "student_note": null,
-          "published_at": "2026-05-27T20:00:00.000Z"
-        },
-        {
-          "title_cn": "迭代协同训练优化工具检索",
-          "title_en": "CoHyDE: Iterative Co-Training of LLM Rewriter & Dense Encoder for Tool Retrieval",
-          "summary_cn": "CoHyDE 针对大模型智能体在大型API目录中检索工具的难题，提出迭代协同训练方法：用一个LLM重写器将口语化查询改写为技术化表达，同时训练稠密编码器匹配改写后的查询与API描述。实验表明该方法显著提升了工具检索的准确性。",
-          "summary_en": "CoHyDE addresses tool retrieval for LLM agents by iteratively co-training a rewriter that converts colloquial queries into technical API vocabulary and a dense encoder that matches rewritten queries to API descriptions. Experiments show significant accuracy improvement.",
-          "url": "https://huggingface.co/papers/2605.29271",
-          "source": "HuggingFace Daily Papers",
-          "source_icon": "huggingface",
-          "heat": 5.0,
-          "tags": [
-            "工具检索",
-            "LLM智能体",
-            "协同训练"
-          ],
-          "student_note": "对AI智能体或工具学习感兴趣的学生可以学习这种协同训练范式。",
-          "published_at": "2026-05-27T20:00:00.000Z"
-        },
-        {
-          "title_cn": "重新审视均匀扩散模型",
-          "title_en": "Uniform Diffusion Models Revisited: Leave-One-Out Denoiser and Absorbing State Reformulation",
-          "summary_cn": "本文重新分析了均匀扩散模型（UDM）与掩码扩散模型（MDM）在训练目标上的差异，指出UDM标准训练方式存在缺陷。作者提出留一法去噪器和吸收态重新公式，显著提升了离散扩散模型的生成质量。",
-          "summary_en": "This paper reexamines the training objectives of Uniform Diffusion Models (UDM) vs Masked Diffusion Models (MDM), identifying flaws in standard UDM training. A leave-one-out denoiser and absorbing state reformulation are proposed, greatly improving generation quality.",
-          "url": "https://huggingface.co/papers/2605.22765",
-          "source": "HuggingFace Daily Papers",
-          "source_icon": "huggingface",
-          "heat": 5.0,
-          "tags": [
-            "扩散模型",
-            "均匀扩散",
-            "生成模型"
-          ],
-          "student_note": "对生成模型、扩散模型理论感兴趣的同学推荐细读。",
-          "published_at": "2026-05-20T20:00:00.000Z"
-        },
-        {
-          "title_cn": "PRISM：评估LLM审稿人多维基准",
-          "title_en": "PRISM: A Multi-Dimensional Benchmark for Evaluating LLM Peer Reviewers",
-          "summary_cn": "PRISM 是一个专门用于评估大语言模型作为同行评审者的多维基准测试，涵盖科学性、完整性、建设性等多个维度。通过与人类审稿人的对比，揭示当前LLM审稿在发现学术漏洞方面的不足，为自动化审稿系统的改进提供参考。",
-          "summary_en": "PRISM is a multi-dimensional benchmark for evaluating LLMs as peer reviewers, covering scientific rigor, completeness, and constructiveness. Comparisons with human reviewers reveal current LLMs' shortcomings in identifying gaps, guiding improvement of automated review systems.",
-          "url": "https://huggingface.co/papers/2605.26730",
-          "source": "HuggingFace Daily Papers",
-          "source_icon": "huggingface",
-          "heat": 5.0,
-          "tags": [
-            "大模型评估",
-            "同行评审",
-            "基准测试"
-          ],
-          "student_note": "学术论文写作和审稿流程对研究生很重要，可借此了解AI审稿的现状与局限。",
-          "published_at": "2026-05-26T20:00:00.000Z"
-        },
-        {
-          "title_cn": "一致视频几何估计方法",
-          "title_en": "Towards Consistent Video Geometry Estimation",
-          "summary_cn": "ViGeo 提出一种前馈式基础模型，用于从视频序列恢复空间稠密且时间一致的几何信息，支持流式、全序列和长视频推理。采用纯Transformer架构，无需任务特定修改，在动态场景三维重建中展示了优越的时空一致性。",
-          "summary_en": "ViGeo is a feed-forward foundation model for recovering spatially dense and temporally consistent geometry from video, supporting streaming, full-sequence, and long-video inference. Built on a plain Transformer, it achieves superior spatiotemporal consistency in dynamic 3D reconstruction.",
-          "url": "https://huggingface.co/papers/2605.30060",
-          "source": "HuggingFace Daily Papers",
-          "source_icon": "huggingface",
-          "heat": 5.0,
-          "tags": [
-            "视频几何",
-            "三维重建",
-            "Transformer"
-          ],
-          "student_note": "推荐计算机视觉方向的同学关注视频几何学习的前沿进展。",
-          "published_at": "2026-05-27T20:00:00.000Z"
-        },
-        {
-          "title_cn": "云智能体与设备智能体的混合系统",
-          "title_en": "When Cloud Agents Meet Device Agents: Lessons from Hybrid Multi-Agent Systems",
-          "summary_cn": "本文探讨了云侧大模型与设备侧小模型组成的混合多智能体系统设计空间，分析了性能与成本的权衡。通过实验总结了任务分配、通信开销、协作策略等关键教训，为实际部署高效能AI智能体提供指导。",
-          "summary_en": "This paper explores the design space of hybrid multi-agent systems combining cloud-based large models with on-device small models, analyzing performance-cost trade-offs. Key lessons on task allocation, communication overhead, and cooperation strategies are derived, guiding efficient AI agent deployment.",
-          "url": "https://huggingface.co/papers/2605.30102",
-          "source": "HuggingFace Daily Papers",
-          "source_icon": "huggingface",
-          "heat": 5.0,
-          "tags": [
-            "混合系统",
-            "云边协同",
-            "智能体"
-          ],
-          "student_note": "适合学习边缘计算与多智能体系统的同学了解实际部署挑战。",
-          "published_at": "2026-05-27T20:00:00.000Z"
-        },
-        {
-          "title_cn": "三维基础先验提升语义对应",
-          "title_en": "Geometry Matters: 3D Foundation Priors for Learning Semantic Correspondence",
-          "summary_cn": "针对自监督视觉特征和扩散模型特征缺乏三维感知的问题，本文引入3D基础先验来增强语义对应估计。通过结合几何信息，模型能更好地区分对称物体并提升跨视角匹配的鲁棒性，在多个标准基准上达到领先性能。",
-          "summary_en": "To address the lack of 3D awareness in 2D-trained vision features, this work introduces 3D foundation priors for semantic correspondence. By incorporating geometric information, the model better distinguishes symmetric objects and improves cross-view matching robustness, achieving state-of-the-art results.",
-          "url": "https://huggingface.co/papers/2605.30093",
-          "source": "HuggingFace Daily Papers",
-          "source_icon": "huggingface",
-          "heat": 5.0,
-          "tags": [
-            "三维视觉",
-            "语义对应",
-            "自监督"
-          ],
-          "student_note": null,
-          "published_at": "2026-05-27T20:00:00.000Z"
-        },
-        {
-          "title_cn": "机制性解释稠密检索",
-          "title_en": "Xetrieval: Mechanistically Explaining Dense Retrieval",
-          "summary_cn": "Xetrieval 致力于解开稠密检索模型内部决策的黑箱，通过分析嵌入空间中的特征交互，提供了比传统词汇匹配或事后文本解释更深入的可解释性。作者揭示出检索排序背后的深层语义机制，有助于改进检索系统设计。",
-          "summary_en": "Xetrieval provides mechanistic explanations for dense retrieval models by analyzing feature interactions in embedding space, offering deeper interpretability than lexical matches or post-hoc rationales. It reveals the semantic mechanisms behind ranking, aiding in retrieval system improvement.",
-          "url": "https://huggingface.co/papers/2605.29507",
-          "source": "HuggingFace Daily Papers",
-          "source_icon": "huggingface",
-          "heat": 4.0,
-          "tags": [
-            "可解释性",
-            "稠密检索",
-            "大模型"
-          ],
-          "student_note": "推荐信息检索方向的同学阅读，了解检索模型的可解释性方法。",
-          "published_at": "2026-05-27T20:00:00.000Z"
-        }
-      ]
+      "items": []
     }
   ]
 }
