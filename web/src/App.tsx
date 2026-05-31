@@ -12,7 +12,8 @@ export default function App() {
 
   const handleItemClick = useCallback((item: NewsItem) => {
     if (item.url) {
-      window.open(item.url, '_blank', 'noopener,noreferrer')
+      // Use location.href for better PWA standalone behavior on Android
+      window.location.href = item.url
     }
   }, [])
 
@@ -28,15 +29,15 @@ export default function App() {
       {loading ? (
         <div className="flex flex-col items-center justify-center py-20 text-gray-500">
           <div className="text-3xl mb-3 animate-pulse">🤖</div>
-          <p className="text-sm">加载中...</p>
+          <p className="text-sm">正在加载今日热点...</p>
         </div>
       ) : error && !data.sections.length ? (
-        <div className="flex flex-col items-center justify-center py-20 text-gray-500">
+        <div className="flex flex-col items-center justify-center py-20 px-4 text-gray-500">
           <div className="text-3xl mb-3">📡</div>
-          <p className="text-sm">{error}</p>
+          <p className="text-sm text-center">{error}</p>
           <button
             onClick={() => window.location.reload()}
-            className="mt-4 text-xs text-[#6366f1]"
+            className="mt-4 text-sm text-[#6366f1] bg-[#6366f1]/10 px-4 py-2 rounded-lg tap-target"
           >
             点击重试
           </button>
@@ -59,7 +60,7 @@ export default function App() {
             />
           ))}
 
-          {filteredSections.length === 0 && (
+          {filteredSections.length === 0 && activeTab !== 'all' && (
             <div className="text-center py-20 text-gray-500 text-sm">
               该板块暂无今日资讯
             </div>

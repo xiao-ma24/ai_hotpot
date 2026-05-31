@@ -62,7 +62,20 @@
       "title_cn": "AI 科技人物",
       "title_en": "AI Key Figures",
       "icon": "👤",
-      "items": []
+      "items": [
+        {
+          "title_cn": "Andrej Karpathy 发布 LLM 从零实现教程",
+          "title_en": "Andrej Karpathy Releases LLM From-Scratch Tutorial",
+          "summary_cn": "Karpathy 发布了一个从零开始实现 GPT 模型的视频教程系列，适合深度学习入门者。",
+          "summary_en": "Karpathy released a video tutorial series on implementing GPT from scratch, great for beginners.",
+          "url": "https://www.youtube.com/@AndrejKarpathy",
+          "source": "Andrej Karpathy",
+          "source_icon": "karpathy",
+          "heat": 8.8,
+          "tags": ["教程", "LLM", "教育"],
+          "student_note": "强烈推荐！跟着 Karpathy 从零实现 LLM"
+        }
+      ]
     },
     {
       "id": "news",
@@ -89,7 +102,20 @@
       "title_cn": "学术前沿",
       "title_en": "Academic Frontier",
       "icon": "📚",
-      "items": []
+      "items": [
+        {
+          "title_cn": "注意力机制新范式：FlashAttention-3 发布",
+          "title_en": "FlashAttention-3: A New Attention Mechanism Paradigm",
+          "summary_cn": "FlashAttention-3 实现了比前代快 2-3 倍的注意力计算，大幅降低大模型推理成本。",
+          "summary_en": "FlashAttention-3 achieves 2-3x faster attention computation, significantly reducing LLM inference costs.",
+          "url": "https://arxiv.org/abs/2407.08608",
+          "source": "ArXiv cs.LG",
+          "source_icon": "arxiv",
+          "heat": 8.5,
+          "tags": ["注意力机制", "推理优化", "论文"],
+          "student_note": "了解 Transformer 核心组件的优化方向"
+        }
+      ]
     }
   ]
 }
