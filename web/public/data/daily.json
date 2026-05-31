@@ -1,0 +1,95 @@
+{
+  "date": "2026-05-31",
+  "generated_at": "2026-05-31T07:00:00+08:00",
+  "headlines": [
+    {
+      "title_cn": "欢迎使用 AI 每日热点",
+      "title_en": "Welcome to AI Daily Hotpot",
+      "summary_cn": "这是开发环境的示例数据。正式数据由 GitHub Actions 每天 7:00 自动生成。",
+      "summary_en": "This is sample data for development. Real data is generated daily at 7:00 AM by GitHub Actions.",
+      "url": "https://github.com",
+      "source": "Dev Sample",
+      "source_icon": "link",
+      "heat": 9.0,
+      "tags": ["示例"],
+      "student_note": null
+    }
+  ],
+  "sections": [
+    {
+      "id": "github",
+      "title_cn": "GitHub AI 热门",
+      "title_en": "GitHub AI Trending",
+      "icon": "🐙",
+      "items": [
+        {
+          "title_cn": "示例：langchain-ai/langgraph — LLM 工作流编排框架",
+          "title_en": "langchain-ai/langgraph: LLM Workflow Orchestration",
+          "summary_cn": "LangGraph 是一个用于构建有状态、多参与者的 LLM 应用框架。支持循环工作流、人机协作和持久化状态管理。",
+          "summary_en": "LangGraph is a framework for building stateful, multi-actor LLM applications with support for cyclic workflows.",
+          "url": "https://github.com/langchain-ai/langgraph",
+          "source": "GitHub Trending",
+          "source_icon": "github",
+          "meta": "⭐ 12.3k · Python · +850 today",
+          "heat": 8.2,
+          "tags": ["开源", "LLM", "Agent"],
+          "student_note": "推荐了解 Agent 工作流设计模式"
+        }
+      ]
+    },
+    {
+      "id": "vendor",
+      "title_cn": "大模型厂商动态",
+      "title_en": "LLM Vendors Updates",
+      "icon": "🧠",
+      "items": [
+        {
+          "title_cn": "DeepSeek 宣布 API 价格下调 50%",
+          "title_en": "DeepSeek Announces 50% API Price Reduction",
+          "summary_cn": "DeepSeek 今日宣布大幅下调 API 价格，进一步降低开发者使用大模型的成本门槛。",
+          "summary_en": "DeepSeek announced significant API price cuts today, further lowering the cost barrier for developers.",
+          "url": "https://api-docs.deepseek.com/news",
+          "source": "DeepSeek",
+          "source_icon": "deepseek",
+          "heat": 9.2,
+          "tags": ["价格调整", "DeepSeek"],
+          "student_note": null
+        }
+      ]
+    },
+    {
+      "id": "people",
+      "title_cn": "AI 科技人物",
+      "title_en": "AI Key Figures",
+      "icon": "👤",
+      "items": []
+    },
+    {
+      "id": "news",
+      "title_cn": "AI 行业新闻",
+      "title_en": "AI Industry News",
+      "icon": "📰",
+      "items": [
+        {
+          "title_cn": "HuggingFace 推出免费 AI 课程",
+          "title_en": "HuggingFace Launches Free AI Course",
+          "summary_cn": "HuggingFace 发布了面向初学者的免费 AI 课程，涵盖 NLP、CV 和强化学习等方向。",
+          "summary_en": "HuggingFace released a free AI course for beginners covering NLP, CV, and RL.",
+          "url": "https://huggingface.co/learn",
+          "source": "HuggingFace",
+          "source_icon": "huggingface",
+          "heat": 7.5,
+          "tags": ["教育", "开源"],
+          "student_note": "强烈推荐！适合系统学习 AI 开发"
+        }
+      ]
+    },
+    {
+      "id": "academic",
+      "title_cn": "学术前沿",
+      "title_en": "Academic Frontier",
+      "icon": "📚",
+      "items": []
+    }
+  ]
+}
