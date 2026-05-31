@@ -53,18 +53,20 @@ def fetch_github_trending() -> list[dict]:
         "User-Agent": "ai-daily-hotpot/1.0",
     }
 
-    # 策略 1: AI 关键词搜索，按 stars 排序
-    try:
-        params = {
-            "q": "ai+machine-learning+llm+deep-learning+stars:>50",
-            "sort": "stars",
-            "order": "desc",
-            "per_page": 30,
-        }
-        resp = requests.get(GITHUB_SEARCH_URL, params=params, headers=headers, timeout=15)
-        if resp.status_code == 403:
-            logger.warning("GitHub API rate limit exceeded (wait for reset)")
-        else:
+    # 策略 1: AI 关键词搜索（OR 语义），按 stars 排序
+    # 分两次搜索覆盖不同关键词，避免 GitHub API 把空格当 AND
+    for query in ["ai+stars:>100", "llm+deep-learning+stars:>50", "machine-learning+stars:>100"]:
+        try:
+            params = {
+                "q": query,
+                "sort": "stars",
+                "order": "desc",
+                "per_page": 15,
+            }
+            resp = requests.get(GITHUB_SEARCH_URL, params=params, headers=headers, timeout=15)
+            if resp.status_code == 403:
+                logger.warning("GitHub API rate limit exceeded")
+                break
             resp.raise_for_status()
             data = resp.json()
             for repo in data.get("items", []):
@@ -73,9 +75,9 @@ def fetch_github_trending() -> list[dict]:
                     continue
                 seen.add(url)
                 items.append(_parse_repo(repo))
-            logger.debug(f"  Keyword search: {len(items)} repos so far")
-    except Exception as e:
-        logger.warning(f"GitHub keyword search failed: {e}")
+        except Exception as e:
+            logger.warning(f"GitHub search failed for '{query}': {e}")
+            continue
 
     # 策略 2: 搜索最近一周创建的高星 AI 项目（关键词匹配）
     try:
