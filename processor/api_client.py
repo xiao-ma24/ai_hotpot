@@ -17,8 +17,15 @@ DEEPSEEK_MODEL = "deepseek-v4-flash"
 
 
 def get_api_key() -> str:
-    """获取 API Key（优先环境变量 DEEPSEEK_API_KEY）。"""
-    return os.environ.get("DEEPSEEK_API_KEY", "sk-18de7c1c17a14a9484ac02c39ca86f3a")
+    """获取 API Key（必须通过环境变量 DEEPSEEK_API_KEY 设置）。"""
+    api_key = os.environ.get("DEEPSEEK_API_KEY", "")
+    if not api_key:
+        raise RuntimeError(
+            "DEEPSEEK_API_KEY 环境变量未设置。\n"
+            "请在终端执行: export DEEPSEEK_API_KEY=sk-xxxx\n"
+            "或在 GitHub Actions 中配置 DEEPSEEK_API_KEY secret。"
+        )
+    return api_key
 
 
 def call_deepseek(
