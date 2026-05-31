@@ -5,15 +5,12 @@
 
 import json
 import logging
-import os
-from openai import OpenAI
 
+from processor.api_client import call_deepseek, extract_json
 from processor.prompts import SYSTEM_PROMPT, HEADLINES_PROMPT
 
 logger = logging.getLogger(__name__)
 
-DEEPSEEK_BASE_URL = "https://api.deepseek.com"
-DEEPSEEK_MODEL = "deepseek-chat"
 HEADLINE_COUNT = 5
 
 
@@ -25,18 +22,10 @@ def select_headlines(items: list[dict], n: int = HEADLINE_COUNT) -> list[dict]:
         n: 头条数量
 
     Returns:
-        list[dict]: 头条条目（带索引）
+        list[dict]: 头条条目
     """
     if not items:
         return []
-
-    api_key = os.environ.get("DEEPSEEK_API_KEY", "")
-    if not api_key:
-        logger.error("DEEPSEEK_API_KEY not set")
-        sorted_items = sorted(items, key=lambda x: x.get("heat", 0), reverse=True)
-        return sorted_items[:n]
-
-    client = OpenAI(api_key=api_key, base_url=DEEPSEEK_BASE_URL)
 
     input_data = []
     for idx, item in enumerate(items):
@@ -56,8 +45,7 @@ def select_headlines(items: list[dict], n: int = HEADLINE_COUNT) -> list[dict]:
     )
 
     try:
-        response = client.chat.completions.create(
-            model=DEEPSEEK_MODEL,
+        content = call_deepseek(
             messages=[
                 {"role": "system", "content": SYSTEM_PROMPT},
                 {"role": "user", "content": prompt},
@@ -66,13 +54,7 @@ def select_headlines(items: list[dict], n: int = HEADLINE_COUNT) -> list[dict]:
             max_tokens=512,
         )
 
-        content = response.choices[0].message.content or ""
-        if "```json" in content:
-            content = content.split("```json")[1].split("```")[0]
-        elif "```" in content:
-            content = content.split("```")[1].split("```")[0]
-
-        result = json.loads(content.strip())
+        result = json.loads(extract_json(content))
         indices = result.get("headlines", [])
 
         headlines = []
@@ -85,5 +67,6 @@ def select_headlines(items: list[dict], n: int = HEADLINE_COUNT) -> list[dict]:
 
     except Exception as e:
         logger.error(f"Headline selection error: {e}")
+        # 兜底：按热度取前 n 条
         sorted_items = sorted(items, key=lambda x: x.get("heat", 0), reverse=True)
         return sorted_items[:n]

@@ -5,31 +5,14 @@
 
 import json
 import logging
-import os
-from openai import OpenAI
 
+from processor.api_client import call_deepseek, extract_json
 from processor.prompts import SYSTEM_PROMPT, BATCH_SUMMARIZE_PROMPT
 
 logger = logging.getLogger(__name__)
 
-# DeepSeek API 配置 (OpenAI 兼容接口)
-DEEPSEEK_BASE_URL = "https://api.deepseek.com"
-DEEPSEEK_MODEL = "deepseek-V4-flash"
-
 # 每批处理条数（控制 token 消耗）
 BATCH_SIZE = 15
-
-_client: OpenAI | None = None
-
-
-def _get_client() -> OpenAI:
-    global _client
-    if _client is None:
-        api_key = os.environ.get("DEEPSEEK_API_KEY", "sk-18de7c1c17a14a9484ac02c39ca86f3a")
-        if not api_key:
-            raise RuntimeError("DEEPSEEK_API_KEY environment variable not set")
-        _client = OpenAI(api_key=api_key, base_url=DEEPSEEK_BASE_URL)
-    return _client
 
 
 def batch_summarize(items: list[dict]) -> list[dict]:
@@ -45,14 +28,13 @@ def batch_summarize(items: list[dict]) -> list[dict]:
     if not items:
         return items
 
-    client = _get_client()
     result = []
 
     for i in range(0, len(items), BATCH_SIZE):
         batch = items[i : i + BATCH_SIZE]
         logger.info(f"Summarizing batch {i // BATCH_SIZE + 1}: {len(batch)} items")
 
-        # 构造输入（只传必要字段给 AI）
+        # 构造输入
         input_data = []
         for idx, item in enumerate(batch):
             input_data.append({
@@ -68,24 +50,14 @@ def batch_summarize(items: list[dict]) -> list[dict]:
         )
 
         try:
-            response = client.chat.completions.create(
-                model=DEEPSEEK_MODEL,
+            content = call_deepseek(
                 messages=[
                     {"role": "system", "content": SYSTEM_PROMPT},
                     {"role": "user", "content": prompt},
                 ],
-                temperature=0.3,
-                max_tokens=4096,
             )
 
-            content = response.choices[0].message.content or ""
-            # 提取 JSON（处理可能的 markdown 包裹）
-            if "```json" in content:
-                content = content.split("```json")[1].split("```")[0]
-            elif "```" in content:
-                content = content.split("```")[1].split("```")[0]
-
-            ai_results = json.loads(content.strip())
+            ai_results = json.loads(extract_json(content))
 
             # 合并回原始数据
             for ai_item in ai_results:
@@ -100,10 +72,9 @@ def batch_summarize(items: list[dict]) -> list[dict]:
             logger.info(f"  Batch summarized: {len(ai_results)} responses")
 
         except json.JSONDecodeError as e:
-            logger.error(f"  JSON parse error in batch: {e}")
-            logger.debug(f"  Raw content: {content[:200]}")
+            logger.error(f"  JSON parse error: {e}")
         except Exception as e:
-            logger.error(f"  DeepSeek API error in batch: {e}")
+            logger.error(f"  DeepSeek API error: {e}")
 
         result.extend(batch)
 
