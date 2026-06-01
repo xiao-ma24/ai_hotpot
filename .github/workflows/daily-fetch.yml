@@ -1,4 +1,4 @@
- name: Daily AI Fetch
+name: Daily AI Fetch
 
   on:
     schedule:
@@ -21,12 +21,12 @@
         - name: Install dependencies
           run: pip install -r requirements.txt
 
-        - name: Fetch & Process
+        - name: Fetch and Process
           env:
             DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
           run: python crawler/fetch_all.py
 
-        - name: Commit & Push
+        - name: Commit and Push
           run: |
             git config user.name "github-actions[bot]"
             git config user.email "github-actions[bot]@users.noreply.github.com"
