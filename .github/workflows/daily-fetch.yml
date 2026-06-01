@@ -1,0 +1,60 @@
+ name: Daily AI Fetch
+
+  on:
+    schedule:
+      - cron: '0 23 * * *'
+    workflow_dispatch:
+
+  jobs:
+    fetch-and-build:
+      runs-on: ubuntu-latest
+      timeout-minutes: 15
+
+      steps:
+        - uses: actions/checkout@v4
+
+        - name: Setup Python
+          uses: actions/setup-python@v5
+          with:
+            python-version: '3.11'
+
+        - name: Install dependencies
+          run: pip install -r requirements.txt
+
+        - name: Fetch all sources
+          env:
+            DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          run: python crawler/fetch_all.py
+
+        - name: Setup Node.js
+          uses: actions/setup-node@v4
+          with:
+            node-version: '20'
+
+        - name: Install frontend deps
+          run: |
+            cd web
+            npm ci
+
+        - name: Build frontend
+          run: |
+            cd web
+            npm run build
+
+        - name: Deploy to Vercel
+          uses: amondnet/vercel-action@v25
+          with:
+            vercel-token: ${{ secrets.VERCEL_TOKEN }}
+            vercel-org-id: ${{ secrets.VERCEL_ORG_ID }}
+            vercel-project-id: ${{ secrets.VERCEL_PROJECT_ID }}
+            vercel-args: '--prod'
+            working-directory: ./web
+
+        - name: Commit daily.json (backup)
+          run: |
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add web/public/data/daily.json
+            git diff --staged --quiet || git commit -m "data: daily update $(date
+  +%Y-%m-%d)"
+            git push || true
