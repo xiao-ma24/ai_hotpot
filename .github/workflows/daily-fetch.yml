@@ -6,7 +6,7 @@
     workflow_dispatch:
 
   jobs:
-    fetch-and-build:
+    fetch:
       runs-on: ubuntu-latest
       timeout-minutes: 15
 
@@ -21,36 +21,12 @@
         - name: Install dependencies
           run: pip install -r requirements.txt
 
-        - name: Fetch all sources
+        - name: Fetch & Process
           env:
             DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
           run: python crawler/fetch_all.py
 
-        - name: Setup Node.js
-          uses: actions/setup-node@v4
-          with:
-            node-version: '20'
-
-        - name: Install frontend deps
-          run: |
-            cd web
-            npm ci
-
-        - name: Build frontend
-          run: |
-            cd web
-            npm run build
-
-        - name: Deploy to Vercel
-          uses: amondnet/vercel-action@v25
-          with:
-            vercel-token: ${{ secrets.VERCEL_TOKEN }}
-            vercel-org-id: ${{ secrets.VERCEL_ORG_ID }}
-            vercel-project-id: ${{ secrets.VERCEL_PROJECT_ID }}
-            vercel-args: '--prod'
-            working-directory: ./web
-
-        - name: Commit daily.json (backup)
+        - name: Commit & Push
           run: |
             git config user.name "github-actions[bot]"
             git config user.email "github-actions[bot]@users.noreply.github.com"
