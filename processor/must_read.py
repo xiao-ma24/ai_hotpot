@@ -13,7 +13,7 @@ from processor.prompts import SYSTEM_PROMPT, MUST_READ_SELECT_PROMPT, MUST_READ_
 
 logger = logging.getLogger(__name__)
 
-MUST_READ_COUNT = 10
+MUST_READ_COUNT = 15
 
 
 def select_and_detail(items: list[dict], n: int = MUST_READ_COUNT) -> list[dict]:
