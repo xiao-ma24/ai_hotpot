@@ -21,6 +21,7 @@ from crawler.filter_rank import filter_and_rank
 from processor.summarize import batch_summarize
 from processor.classify_score import classify_and_score
 from processor.headlines import select_headlines
+from processor.must_read import select_and_detail
 from processor.generate_json import generate_daily_json
 
 logging.basicConfig(
@@ -79,9 +80,14 @@ def main():
     headlines = select_headlines(classified)
     logger.info(f"Headlines: {len(headlines)} selected")
 
-    # Step 6: 生成 JSON
-    logger.info("--- Phase 6: Generate daily.json ---")
-    daily_json = generate_daily_json(classified, headlines)
+    # Step 6: 必读筛选 + 详细摘要
+    logger.info("--- Phase 6: Must-Read Selection ---")
+    must_read = select_and_detail(classified)
+    logger.info(f"Must-read: {len(must_read)} articles with detailed summaries")
+
+    # Step 7: 生成 JSON
+    logger.info("--- Phase 7: Generate daily.json ---")
+    daily_json = generate_daily_json(classified, headlines, must_read)
 
     # Step 7: 写入文件
     output_path = Path(__file__).resolve().parent.parent / "web" / "public" / "data" / "daily.json"

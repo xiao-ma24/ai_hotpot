@@ -4,7 +4,10 @@ import { Header } from './components/Header'
 import { HeadlineCarousel } from './components/HeadlineCarousel'
 import { SectionCard } from './components/SectionCard'
 import { TabBar } from './components/TabBar'
-import type { NewsItem } from './types'
+import { DetailPanel } from './components/DetailPanel'
+import { NewsItem } from './components/NewsItem'
+import type { NewsItem as INewsItem } from './types'
+import { SECTION_COLORS } from './types'
 
 function SkeletonLoader() {
   return (
@@ -29,7 +32,11 @@ export default function App() {
   const [ptrState, setPtrState] = useState<'idle' | 'pulling' | 'refreshing'>('idle')
   const [readUrls, setReadUrls] = useState<Set<string>>(new Set())
   const [showBackTop, setShowBackTop] = useState(false)
+  const [detailItem, setDetailItem] = useState<INewsItem | null>(null)
   const contentRef = useRef<HTMLDivElement>(null)
+
+  // Gather must_read URLs for quick lookup
+  const mustReadUrls = new Set(data.must_read?.map(m => m.url) || [])
 
   // Track scroll position for back-to-top button
   useEffect(() => {
@@ -43,13 +50,16 @@ export default function App() {
     window.scrollTo({ top: 0, behavior: 'smooth' })
   }, [activeTab])
 
-  const handleItemClick = useCallback((item: NewsItem) => {
-    if (item.url) {
-      // Mark as read
-      setReadUrls(prev => new Set(prev).add(item.url))
+  const handleItemClick = useCallback((item: INewsItem) => {
+    if (!item.url) return
+    setReadUrls(prev => new Set(prev).add(item.url))
+    // Must-read items open detail panel instead of jumping out
+    if (mustReadUrls.has(item.url)) {
+      setDetailItem(item)
+    } else {
       window.location.href = item.url
     }
-  }, [])
+  }, [mustReadUrls])
 
   const handleBackToTop = useCallback(() => {
     window.scrollTo({ top: 0, behavior: 'smooth' })
@@ -145,6 +155,28 @@ export default function App() {
             />
           )}
 
+          {/* Must-Read Section */}
+          {activeTab === 'all' && data.must_read && data.must_read.length > 0 && (
+            <div className="px-3 mb-4">
+              <div className="flex items-center gap-2 mb-2.5">
+                <span className="w-1 h-4 rounded-full shrink-0" style={{ backgroundColor: '#f59e0b' }} />
+                <span className="text-base">⭐</span>
+                <h2 className="text-[13px] font-bold text-white">必读精选</h2>
+                <span className="text-[10px] text-gray-600">Must Read</span>
+                <span className="text-[10px] text-gray-700 ml-auto">{data.must_read.length}篇</span>
+              </div>
+              {data.must_read.map((item, i) => (
+                <NewsItem
+                  key={i}
+                  item={item}
+                  onClick={handleItemClick}
+                  isRead={readUrls.has(item.url)}
+                  isMustRead
+                />
+              ))}
+            </div>
+          )}
+
           <div className={activeTab !== 'all' ? 'pt-3' : ''}>
             {filteredSections.map(section => (
               <SectionCard
@@ -183,6 +215,13 @@ export default function App() {
       )}
 
       <TabBar activeTab={activeTab} onTabChange={setActiveTab} />
+
+      {/* Detail Panel for must-read articles */}
+      <DetailPanel
+        item={detailItem}
+        onClose={() => setDetailItem(null)}
+        onOpenOriginal={(url) => { window.location.href = url }}
+      />
     </div>
   )
 }

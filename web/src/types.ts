@@ -11,6 +11,8 @@ export interface NewsItem {
   student_note?: string | null
   meta?: string
   published_at?: string
+  detail_summary?: string
+  key_points?: string[]
 }
 
 export interface Section {
@@ -26,6 +28,7 @@ export interface DailyData {
   generated_at: string
   headlines: NewsItem[]
   sections: Section[]
+  must_read?: NewsItem[]
 }
 
 /** Section color mapping */

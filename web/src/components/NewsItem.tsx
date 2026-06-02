@@ -7,9 +7,10 @@ interface NewsItemProps {
   onClick: (item: INewsItem) => void
   sectionId?: string
   isRead?: boolean
+  isMustRead?: boolean
 }
 
-export function NewsItem({ item, onClick, sectionId, isRead }: NewsItemProps) {
+export function NewsItem({ item, onClick, sectionId, isRead, isMustRead }: NewsItemProps) {
   const borderColor = sectionId ? SECTION_COLORS[sectionId] : undefined
 
   return (
@@ -20,8 +21,11 @@ export function NewsItem({ item, onClick, sectionId, isRead }: NewsItemProps) {
       }`}
       style={borderColor ? { borderLeftColor: borderColor } : undefined}
     >
-      {/* Title row with read check */}
+      {/* Title row with badges */}
       <div className="flex items-start gap-2">
+        {isMustRead && (
+          <span className="shrink-0 text-xs mt-0.5">⭐</span>
+        )}
         <h4 className={`text-[15px] font-semibold leading-[1.7] line-clamp-2 flex-1 ${
           isRead ? 'text-gray-500' : 'text-white'
         }`}>

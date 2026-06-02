@@ -3,7 +3,7 @@
 from datetime import datetime, timezone, timedelta
 
 
-def generate_daily_json(items: list[dict], headlines: list[dict]) -> dict:
+def generate_daily_json(items: list[dict], headlines: list[dict], must_read: list[dict] | None = None) -> dict:
     """将处理完的条目组织成 daily.json 结构。
 
     Args:
@@ -73,11 +73,21 @@ def generate_daily_json(items: list[dict], headlines: list[dict]) -> dict:
     # 构建头条
     headline_items = [_to_output_item(h, is_headline=True) for h in headlines]
 
+    # 构建必读
+    must_read_items = []
+    if must_read:
+        for item in must_read:
+            out = _to_output_item(item)
+            out["detail_summary"] = item.get("detail_summary", "")
+            out["key_points"] = item.get("key_points", [])
+            must_read_items.append(out)
+
     return {
         "date": now_beijing.strftime("%Y-%m-%d"),
         "generated_at": now_beijing.isoformat(),
         "headlines": headline_items,
         "sections": sections,
+        "must_read": must_read_items,
     }
 
 
