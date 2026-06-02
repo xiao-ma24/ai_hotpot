@@ -1,93 +1,95 @@
 {
   "date": "2026-06-02",
-  "generated_at": "2026-06-02T08:56:38.146128+08:00",
+  "generated_at": "2026-06-02T14:13:10.620818+08:00",
   "headlines": [
     {
-      "title_cn": "Alphabet募资800亿布局AI",
+      "title_cn": "Alphabet计划融资800亿美元建AI",
       "title_en": "Alphabet plans to raise $80B to pay for AI buildout",
-      "summary_cn": "Alphabet宣布计划通过股权融资800亿美元，用于扩建AI基础设施和计算能力，以满足企业及消费者对AI解决方案的强劲需求。目前需求已超过供给，此次大规模投资彰显其抢占AI赛道的决心。",
-      "summary_en": "Alphabet announced plans to raise $80 billion through equity to expand AI infrastructure and computing capacity, driven by demand exceeding supply from enterprises and consumers. This massive investment underscores its commitment to leading the AI race.",
+      "summary_cn": "Alphabet（谷歌母公司）宣布计划通过股权融资筹集800亿美元，用于扩建AI基础设施和计算能力，以应对企业和消费者对AI解决方案的强劲需求。",
+      "summary_en": "Alphabet announced an $80 billion equity capital raise to expand its AI infrastructure and compute capacity, responding to strong demand from enterprises and consumers.",
       "url": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
       "source": "TechCrunch AI",
       "source_icon": "techcrunch",
-      "heat": 8.0,
+      "heat": 9.0,
       "tags": [
-        "融资",
         "Alphabet",
-        "AI基础设施"
+        "融资",
+        "AI基础设施",
+        "谷歌"
       ],
-      "student_note": "建议关注大型科技公司的AI资本开支动向，了解行业规模增长的关键驱动因素。",
+      "student_note": null,
       "published_at": "2026-06-01T22:55:09+00:00"
     },
     {
-      "title_cn": "Alphabet股权融资800亿扩AI",
+      "title_cn": "Alphabet宣布800亿美元股权融资",
       "title_en": "Alphabet announces $80B equity capital raise to expand AI infra and compute",
-      "summary_cn": "Alphabet正式宣布通过股权融资800亿美元，用于扩展AI基础设施和计算能力。这是科技史上最大规模的融资之一，表明其全力投入AI领域。",
-      "summary_en": "Alphabet officially announced an $80 billion equity capital raise to expand AI infrastructure and compute. This is one of the largest fundraises in tech history, signaling an all-in bet on AI.",
+      "summary_cn": "Alphabet正式宣布800亿美元股权融资计划，用于扩大AI基础设施和计算能力，以满足日益增长的AI需求。",
+      "summary_en": "Alphabet officially announced an $80 billion equity raise to expand AI infrastructure and compute, meeting growing AI demand.",
       "url": "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx",
+      "source": "Hacker News",
+      "source_icon": "hackernews",
+      "heat": 9.0,
+      "tags": [
+        "Alphabet",
+        "融资",
+        "AI基础设施",
+        "谷歌"
+      ],
+      "student_note": null,
+      "published_at": "2026-06-01T20:55:15+00:00",
+      "meta": "▲ 154 · 💬 141"
+    },
+    {
+      "title_cn": "DeepMind CEO称AI将比工业革命大10倍",
+      "title_en": "DeepMind CEO: 'AI is going to be 10 times bigger than the Indust'",
+      "summary_cn": "Google DeepMind CEO Demis Hassabis在访谈中称AI的影响力将比工业革命大10倍，强调其对经济和社会的变革性作用。",
+      "summary_en": "Google DeepMind CEO Demis Hassabis stated that AI will be 10 times bigger than the Industrial Revolution, highlighting its transformative impact on economy and society.",
+      "url": "https://news.google.com/rss/articles/CBMi4ARBVV95cUxObTM4OERCVjFTSmNURTZWOHVsQ3A2QW93RjRXc0FIUFExVTVzZnNvamwxb01QVmt2cmp4T25xa2lFMXVJYi1CeGltczBjSW9Pd096cnJzNm1LVTlvcHVON1hFck40RktXU3hhQjRFNkNYdjdSRG9DbHpIbHFIU0RTY3h4SlpqSTgwcDNuWUNaS09reFJCcnFxNkFzaDd0allhNXI1SmlpZzNDTkRmb2tHSzFmRk9SNUgtcmdrY2thdVQzd0ZBN2xxNzFxUV9DXzF5MExZVFhFdEZCcnY1T3RfLS1lM3YzN3dfTjNiZ2dveVBYMnVyNThubDk4ZWtzTGNMUDhYN2xxeXU1N3I1YVZ0TUxDWEtZTnlRNEVITG5DRmM5NTZkZzFlSzd3N191RDh0Ny02WWpPYktDYURWcDhnbk55YjZ3UW1YeTNIZkF3TkxfVXRfb2paRHZoRkZzYk82U0JkbFhOMXpzVGxYUGY0b0pnYThoQTBvVC1VemhiNmgyZXRzM19YbWxCV0tMVUFzRlBpcFYyeFpRNVJKVnY0aXZudkhaUC1DTVZrQmhlZVlhWVJpSWdzRGJESlgxUlM1Y2t3ZlBQWXZoTHVYZ1BiUEI4M3BhcTBKUkJkSHVyeEk0UzFrWi1EVEd5MldFMS1tS0VJLVk2c2lmN2RfMUh0MnN5cHgxa1VmSGxGbGg5SWM4RmhjY0tDTHNIMmZGUDJpRXMzY2VtbzRUZjN0RGREV0NPa21uMFg1Z042am15MnVrXzdobTNROHNCcHJiY091TlBnejRiRjhVbzJDZDdXZdIB5gRBVV95cUxQZWZtWmx6UUw1SmEybE9PYUlVT1pUb1VmdnJsbEQzNzkzODZVM0xIbFdmazdpdndDbTgtMF9hN0FET2lmeS1nVEItYU9rSlozSUQtbXl3YU9QN3ltbnNmSWxrREp5TWhEUENVc2FLMVBjUWRjdVEyVTdKaTlHUldoZjhBcVFjbXpoV2p6a1BvMHd2c3Iwc0t2Wlc5Vi04ZGFmMmpOd0J0cncxc0ttS28xVndzTUdTMzcxSzlZNWtWcHJzZTB1ajlUcVhIcDRWeFBwVFNjWElfWFBZMllfckFOeXpkd1NGUGNyZWM4ZkRCOVFjQmZGVVZmb2ZScEYxT1VmRVlhUXhDazJLTzVFVEhJR0xZdENxa0tpTExfZ3JfeGtnc2IzZ2wxMFZhQko2QUxGdEhtOUdwRXFFR0MxQUNlVFp0VjFSLUlIR2RDQTZtR014RXlJSUpKY3dqU3c3YU9aS1lhWW01dG4xMWp6MjNSX1dPUUFPdm1nWktOYnRMcmJwTS1oLWZ3WXZDR0dSeGlPV1l2VElSWGwzbnU1REZKUFViRWlKdGhRLU9kV0p3UTBoR3JWdVBxTHRQdVdDSGI3NWtXWjhfMEpLWjJ3UWVnQUNlZVA5d0NyM0tkRzh3UElNVXJwUWVWMU1qcVU1UllIUFFPNTlCMm5SRTd3bDlCRzRpeGxMWWhmSnpzUjl3RVdxaktYQXV0cXdsYk5jd1dHVmlJMzRMdlkyeVhVS3FTRG90X3dNbTk5YUlZSVpGMG1jcUNfNjQ5cXQ2YjdJTTlwelU0anU4R1dBTldUVHdiaWo2T1lEdw?oc=5",
+      "source": "Demis Hassabis · The Economic Times",
+      "source_icon": "hassabis",
+      "heat": 8.5,
+      "tags": [
+        "DeepMind",
+        "CEO",
+        "AI影响"
+      ],
+      "student_note": null,
+      "published_at": "2026-06-01T23:37:48+00:00"
+    },
+    {
+      "title_cn": "佛州起诉OpenAI与Altman",
+      "title_en": "Florida sues OpenAI and Sam Altman over AI safety",
+      "summary_cn": "佛罗里达州总检察长正式起诉OpenAI及其CEO Sam Altman，指控其“完全漠视对人类生命的风险”，要求对AI技术的安全性负责。该诉讼标志着政府对AI监管的进一步升级。",
+      "summary_en": "Florida's Attorney General has filed a lawsuit against OpenAI and Sam Altman, alleging a 'utter disregard for the risk to human life' and demanding accountability for AI safety. This marks an escalation in government oversight of AI.",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeGdwSWplR3R4SDE0OWVyVm1lcDRNbllQQklGbVJ2ZkhnNkw0ZjNueUhTZmhvRXRiY2RXczhQQV93WkhCdkU5VHBZcVZnQmdZY2J6R0VrOVhZRTJ5dFJrOXBfX3Z5MEUzS3lnbG9CV3UwcTRaaGF6dlhVQU91QTNKTUtOSXllcE9DS0hTQmNWSTlXVDdkd2FNT2lOZUVFMWhGeE1JUWFZVUlUcXM2Rkd2ODVXbnQwTWtTSzE5WmFPZlV2TkQ5NEE?oc=5",
+      "source": "Sam Altman · The Conversation",
+      "source_icon": "altman",
+      "heat": 8.0,
+      "tags": [
+        "诉讼",
+        "OpenAI",
+        "AI监管",
+        "政府"
+      ],
+      "student_note": "关注AI监管动态，理解法律与科技交叉领域的重要性。",
+      "published_at": "2026-06-02T04:44:04+00:00"
+    },
+    {
+      "title_cn": "Anthropic秘密提交IPO申请",
+      "title_en": "Anthropic confidentially submits draft S-1 to the SEC",
+      "summary_cn": "AI公司Anthropic已向美国SEC秘密提交S-1草案，筹备首次公开募股（IPO）。此举标志其正式迈向资本市场，可能成为2026年最受瞩目的科技IPO之一。",
+      "summary_en": "AI company Anthropic has confidentially filed a draft S-1 with the SEC, preparing for an IPO. This move signals its official entry into public markets, potentially one of the most anticipated tech IPOs of 2026.",
+      "url": "https://www.anthropic.com/news/confidential-draft-s1-sec",
       "source": "Hacker News",
       "source_icon": "hackernews",
       "heat": 8.0,
       "tags": [
-        "融资",
-        "Alphabet",
-        "AI基础设施"
-      ],
-      "student_note": null,
-      "published_at": "2026-06-01T20:55:15+00:00",
-      "meta": "▲ 90 · 💬 93"
-    },
-    {
-      "title_cn": "Anthropic提交IPO申请",
-      "title_en": "Anthropic files to go public",
-      "summary_cn": "AI公司Anthropic（Claude模型开发商）已提交IPO申请。作为大语言模型领域的重要玩家，其上市将影响AI行业竞争格局和资本流向。",
-      "summary_en": "Anthropic, a major player in large language models, has filed to go public. The IPO could reshape the competitive landscape of the AI industry.",
-      "url": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
-      "source": "TechCrunch AI",
-      "source_icon": "techcrunch",
-      "heat": 8.0,
-      "tags": [
-        "Anthropic",
         "IPO",
-        "大模型"
+        "Anthropic"
       ],
-      "student_note": "关注AI独角兽上市动态，了解商业模式和投资趋势。",
-      "published_at": "2026-06-01T16:36:55+00:00"
-    },
-    {
-      "title_cn": "Yann LeCun世界模型获形式化证明",
-      "title_en": "Yann LeCun’s World Model Earns a Formal Proof: Benchmark Finds Current Models Brittle",
-      "summary_cn": "Yann LeCun提出的世界模型（World Model）概念获得了形式化证明，同时新的基准测试发现当前主流AI模型在应对分布外场景时表现脆弱。这一成果为构建更鲁棒的AI系统提供了理论基础。",
-      "summary_en": "Yann LeCun's World Model concept has received a formal proof, while a new benchmark finds that current AI models are brittle in out-of-distribution scenarios. This advancement provides a theoretical foundation for building more robust AI systems.",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPekFlSHB6UlZPMlp1STZtY2VuTXJSWTgwLU1ZWXE1UFZVeGdBRWlNbUlOUG11R0dteUJNdktVUm00N1hVQ1B5QUQ2TktJeVlUaWYxcU5sb2RsblFkQVFFcGNDMTBFN3dpQ1dlVWpCcHJ6blFHX0JtalN4YzU4cV92Vkk3SmVWS2M3QzRSRzI4dF9FWDBhZjJ2aktUbHZJeXYtdDVuQWRIa0o0Y1Y5aXZkbFRIaElFa3BDLWxzQkpaNkNQd1R0c0xNbUd2eENUMHFOcGc?oc=5",
-      "source": "Yann LeCun · Tech Times",
-      "source_icon": "lecun",
-      "heat": 8.0,
-      "tags": [
-        "世界模型",
-        "形式化证明",
-        "Yann LeCun"
-      ],
-      "student_note": "推荐AI学生阅读相关论文，理解世界模型的核心思想及其对强化学习和机器人领域的潜在影响。",
-      "published_at": "2026-05-31T16:13:43+00:00"
-    },
-    {
-      "title_cn": "Karpathy加入Anthropic领导预训练",
-      "title_en": "Andrej Karpathy Joins Anthropic to Lead Claude Pre-training Research",
-      "summary_cn": "著名AI研究员、前特斯拉AI总监Andrej Karpathy宣布加入Anthropic，担任Claude预训练研究的负责人。他将直接领导下一代Claude模型的基础预训练工作，有望带来训推技术的重大突破。",
-      "summary_en": "Renowned AI researcher Andrej Karpathy has joined Anthropic to lead Claude pre-training research. He will oversee the foundational pre-training of next-generation Claude models, potentially bringing major breakthroughs in training and inference techniques.",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQLTN6OGNlb01XUXIxb1JMWjhKTzBQT2hXSWQ2WnJOdXFGNmxFbmVINm1YajF5LVpWUEFkTnZKX1N0UDhMclh2ckJMUEhYNkd6MnpLYk1MdmJVNXZXMldqMUNPdGFIc21hUVpIcWxNQ1VnRDVROHo3R2ptYnExMTlvS2p2MUZRX05jN0oyenM2WEJON0tGR2ZkMmlXSXdEcER4SnBCYUl0SnU?oc=5",
-      "source": "Andrej Karpathy · StartupHub.ai",
-      "source_icon": "karpathy",
-      "heat": 8.0,
-      "tags": [
-        "人员变动",
-        "Anthropic",
-        "Karpathy",
-        "预训练"
-      ],
-      "student_note": "强烈推荐AI学生关注Karpathy的研究动向和公开分享，他是学习深度学习和LLM预训练的绝佳资源。",
-      "published_at": "2026-05-31T13:00:00+00:00"
+      "student_note": "关注AI初创公司上市过程，了解S-1文件及IPO对行业的影响。",
+      "published_at": "2026-06-01T16:00:40+00:00",
+      "meta": "▲ 473 · 💬 385"
     }
   ],
   "sections": [
@@ -98,59 +100,39 @@
       "icon": "🐙",
       "items": [
         {
-          "title_cn": "APEX-MEM：AI智能体最强记忆系统",
+          "title_cn": "hernandez42/APEX-MEM",
           "title_en": "hernandez42/APEX-MEM",
-          "summary_cn": "APEX-MEM 是一个开源的AI智能体多维度记忆系统，支持5D记忆、混合检索（BM25+向量+图）、梦境巩固和自愈功能。它可作为流行的 mem0 的即插即用替代品，兼容其API，提供更强的记忆持久性和检索能力。",
-          "summary_en": "APEX-MEM is an open-source multidimensional memory system for AI agents, featuring 5D memory, hybrid retrieval (BM25+vector+graph), dream consolidation, and self-healing. It serves as a drop-in replacement for the popular mem0 with full compatibility adapters.",
+          "summary_cn": "APEX-MEM: The strongest multi-dimensional memory system for AI agents. 5D memory, hybrid retrieval (BM25 + vector + graph), dreaming consolidation, APEX self-healing, MCP-native. Drop-in replacement and superset of OpenClaw's memory subsystem with 100% compatibility adapters for mem0 (49.9K stars), Letta (17K stars) and LangMem.",
+          "summary_en": "APEX-MEM: The strongest multi-dimensional memory system for AI agents. 5D memory, hybrid retrieval (BM25 + vector + graph), dreaming consolidation, APEX self-healing, MCP-native. Drop-in replacement and superset of OpenClaw's memory subsystem with 100% compatibility adapters for mem0 (49.9K stars), Letta (17K stars) and LangMem.",
           "url": "https://github.com/hernandez42/APEX-MEM",
           "source": "GitHub Trending",
           "source_icon": "link",
-          "heat": 7.0,
+          "heat": 6.0,
           "tags": [
-            "开源",
-            "AI智能体",
-            "记忆系统",
-            "RAG"
+            "开源项目",
+            "GitHub趋势"
           ],
-          "student_note": "推荐AI方向学生阅读源代码，学习如何设计增强型记忆系统以提升智能体对话和任务连续性。",
+          "student_note": null,
           "published_at": "2026-06-01T09:30:11Z",
           "meta": "⭐ 2 · Rust"
         },
         {
-          "title_cn": "1-Bit Bonsai：本地4B图像生成",
-          "title_en": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
-          "summary_cn": "一项名为1-Bit Bonsai的新技术实现了在本地设备上运行40亿参数的图像生成模型，通过二值化压缩大幅降低计算和内存需求，推动AI部署到手机等边缘设备。",
-          "summary_en": "1-Bit Bonsai enables 4-billion-parameter image generation models to run on local devices via binary quantization, drastically reducing compute and memory requirements, bringing AI to edge devices like smartphones.",
-          "url": "https://prismml.com/news/bonsai-image-4b",
-          "source": "Hacker News",
-          "source_icon": "hackernews",
-          "heat": 6.5,
-          "tags": [
-            "模型压缩",
-            "图像生成",
-            "边缘部署"
-          ],
-          "student_note": "推荐学习模型压缩与量化技术，对嵌入式AI和移动端部署研究极具参考价值。",
-          "published_at": "2026-05-31T15:04:52+00:00",
-          "meta": "▲ 450 · 💬 193"
-        },
-        {
-          "title_cn": "GitHub被指危害软件生态",
+          "title_cn": "GitHub与对软件的“罪行”",
           "title_en": "GitHub and the crime against software",
-          "summary_cn": "一篇Hacker News热帖批评GitHub对软件行业造成负面影响，可能涉及代码托管垄断、AI训练数据滥用或对开源社区的不良影响。文章引发了对平台侧责任的讨论。",
-          "summary_en": "A trending Hacker News post criticizes GitHub for harming the software ecosystem, potentially over monopoly concerns, AI training data use, or negative impacts on open-source communities. It sparks debate on platform responsibility.",
+          "summary_cn": "一篇批评性文章认为GitHub的某些做法（如垄断、影响开源生态）对软件行业构成了“罪行”，引发对平台责任的讨论。",
+          "summary_en": "A critical article argues that GitHub's practices (e.g., monopolistic tendencies, impact on open source) amount to a 'crime against software', sparking debate on platform responsibility.",
           "url": "https://eblog.fly.dev/githubbad.html",
           "source": "Hacker News",
           "source_icon": "hackernews",
           "heat": 4.0,
           "tags": [
             "GitHub",
-            "开源",
-            "生态"
+            "开源生态",
+            "批评"
           ],
-          "student_note": "建议思考开源平台的角色与伦理问题，对软件工程专业学生有独特启发。",
+          "student_note": null,
           "published_at": "2026-06-01T18:54:55+00:00",
-          "meta": "▲ 193 · 💬 87"
+          "meta": "▲ 209 · 💬 103"
         }
       ]
     },
@@ -161,62 +143,152 @@
       "icon": "🧠",
       "items": [
         {
-          "title_cn": "Alphabet募资800亿布局AI",
+          "title_cn": "Alphabet计划融资800亿美元建AI",
           "title_en": "Alphabet plans to raise $80B to pay for AI buildout",
-          "summary_cn": "Alphabet宣布计划通过股权融资800亿美元，用于扩建AI基础设施和计算能力，以满足企业及消费者对AI解决方案的强劲需求。目前需求已超过供给，此次大规模投资彰显其抢占AI赛道的决心。",
-          "summary_en": "Alphabet announced plans to raise $80 billion through equity to expand AI infrastructure and computing capacity, driven by demand exceeding supply from enterprises and consumers. This massive investment underscores its commitment to leading the AI race.",
+          "summary_cn": "Alphabet（谷歌母公司）宣布计划通过股权融资筹集800亿美元，用于扩建AI基础设施和计算能力，以应对企业和消费者对AI解决方案的强劲需求。",
+          "summary_en": "Alphabet announced an $80 billion equity capital raise to expand its AI infrastructure and compute capacity, responding to strong demand from enterprises and consumers.",
           "url": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
           "source": "TechCrunch AI",
           "source_icon": "techcrunch",
-          "heat": 8.0,
+          "heat": 9.0,
           "tags": [
-            "融资",
             "Alphabet",
-            "AI基础设施"
+            "融资",
+            "AI基础设施",
+            "谷歌"
           ],
-          "student_note": "建议关注大型科技公司的AI资本开支动向，了解行业规模增长的关键驱动因素。",
+          "student_note": null,
           "published_at": "2026-06-01T22:55:09+00:00"
         },
         {
-          "title_cn": "Alphabet股权融资800亿扩AI",
+          "title_cn": "Alphabet宣布800亿美元股权融资",
           "title_en": "Alphabet announces $80B equity capital raise to expand AI infra and compute",
-          "summary_cn": "Alphabet正式宣布通过股权融资800亿美元，用于扩展AI基础设施和计算能力。这是科技史上最大规模的融资之一，表明其全力投入AI领域。",
-          "summary_en": "Alphabet officially announced an $80 billion equity capital raise to expand AI infrastructure and compute. This is one of the largest fundraises in tech history, signaling an all-in bet on AI.",
+          "summary_cn": "Alphabet正式宣布800亿美元股权融资计划，用于扩大AI基础设施和计算能力，以满足日益增长的AI需求。",
+          "summary_en": "Alphabet officially announced an $80 billion equity raise to expand AI infrastructure and compute, meeting growing AI demand.",
           "url": "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx",
+          "source": "Hacker News",
+          "source_icon": "hackernews",
+          "heat": 9.0,
+          "tags": [
+            "Alphabet",
+            "融资",
+            "AI基础设施",
+            "谷歌"
+          ],
+          "student_note": null,
+          "published_at": "2026-06-01T20:55:15+00:00",
+          "meta": "▲ 154 · 💬 141"
+        },
+        {
+          "title_cn": "DeepMind CEO称AI将比工业革命大10倍",
+          "title_en": "DeepMind CEO: 'AI is going to be 10 times bigger than the Indust'",
+          "summary_cn": "Google DeepMind CEO Demis Hassabis在访谈中称AI的影响力将比工业革命大10倍，强调其对经济和社会的变革性作用。",
+          "summary_en": "Google DeepMind CEO Demis Hassabis stated that AI will be 10 times bigger than the Industrial Revolution, highlighting its transformative impact on economy and society.",
+          "url": "https://news.google.com/rss/articles/CBMi4ARBVV95cUxObTM4OERCVjFTSmNURTZWOHVsQ3A2QW93RjRXc0FIUFExVTVzZnNvamwxb01QVmt2cmp4T25xa2lFMXVJYi1CeGltczBjSW9Pd096cnJzNm1LVTlvcHVON1hFck40RktXU3hhQjRFNkNYdjdSRG9DbHpIbHFIU0RTY3h4SlpqSTgwcDNuWUNaS09reFJCcnFxNkFzaDd0allhNXI1SmlpZzNDTkRmb2tHSzFmRk9SNUgtcmdrY2thdVQzd0ZBN2xxNzFxUV9DXzF5MExZVFhFdEZCcnY1T3RfLS1lM3YzN3dfTjNiZ2dveVBYMnVyNThubDk4ZWtzTGNMUDhYN2xxeXU1N3I1YVZ0TUxDWEtZTnlRNEVITG5DRmM5NTZkZzFlSzd3N191RDh0Ny02WWpPYktDYURWcDhnbk55YjZ3UW1YeTNIZkF3TkxfVXRfb2paRHZoRkZzYk82U0JkbFhOMXpzVGxYUGY0b0pnYThoQTBvVC1VemhiNmgyZXRzM19YbWxCV0tMVUFzRlBpcFYyeFpRNVJKVnY0aXZudkhaUC1DTVZrQmhlZVlhWVJpSWdzRGJESlgxUlM1Y2t3ZlBQWXZoTHVYZ1BiUEI4M3BhcTBKUkJkSHVyeEk0UzFrWi1EVEd5MldFMS1tS0VJLVk2c2lmN2RfMUh0MnN5cHgxa1VmSGxGbGg5SWM4RmhjY0tDTHNIMmZGUDJpRXMzY2VtbzRUZjN0RGREV0NPa21uMFg1Z042am15MnVrXzdobTNROHNCcHJiY091TlBnejRiRjhVbzJDZDdXZdIB5gRBVV95cUxQZWZtWmx6UUw1SmEybE9PYUlVT1pUb1VmdnJsbEQzNzkzODZVM0xIbFdmazdpdndDbTgtMF9hN0FET2lmeS1nVEItYU9rSlozSUQtbXl3YU9QN3ltbnNmSWxrREp5TWhEUENVc2FLMVBjUWRjdVEyVTdKaTlHUldoZjhBcVFjbXpoV2p6a1BvMHd2c3Iwc0t2Wlc5Vi04ZGFmMmpOd0J0cncxc0ttS28xVndzTUdTMzcxSzlZNWtWcHJzZTB1ajlUcVhIcDRWeFBwVFNjWElfWFBZMllfckFOeXpkd1NGUGNyZWM4ZkRCOVFjQmZGVVZmb2ZScEYxT1VmRVlhUXhDazJLTzVFVEhJR0xZdENxa0tpTExfZ3JfeGtnc2IzZ2wxMFZhQko2QUxGdEhtOUdwRXFFR0MxQUNlVFp0VjFSLUlIR2RDQTZtR014RXlJSUpKY3dqU3c3YU9aS1lhWW01dG4xMWp6MjNSX1dPUUFPdm1nWktOYnRMcmJwTS1oLWZ3WXZDR0dSeGlPV1l2VElSWGwzbnU1REZKUFViRWlKdGhRLU9kV0p3UTBoR3JWdVBxTHRQdVdDSGI3NWtXWjhfMEpLWjJ3UWVnQUNlZVA5d0NyM0tkRzh3UElNVXJwUWVWMU1qcVU1UllIUFFPNTlCMm5SRTd3bDlCRzRpeGxMWWhmSnpzUjl3RVdxaktYQXV0cXdsYk5jd1dHVmlJMzRMdlkyeVhVS3FTRG90X3dNbTk5YUlZSVpGMG1jcUNfNjQ5cXQ2YjdJTTlwelU0anU4R1dBTldUVHdiaWo2T1lEdw?oc=5",
+          "source": "Demis Hassabis · The Economic Times",
+          "source_icon": "hassabis",
+          "heat": 8.5,
+          "tags": [
+            "DeepMind",
+            "CEO",
+            "AI影响"
+          ],
+          "student_note": null,
+          "published_at": "2026-06-01T23:37:48+00:00"
+        },
+        {
+          "title_cn": "佛州起诉OpenAI与Altman",
+          "title_en": "Florida sues OpenAI and Sam Altman over AI safety",
+          "summary_cn": "佛罗里达州总检察长正式起诉OpenAI及其CEO Sam Altman，指控其“完全漠视对人类生命的风险”，要求对AI技术的安全性负责。该诉讼标志着政府对AI监管的进一步升级。",
+          "summary_en": "Florida's Attorney General has filed a lawsuit against OpenAI and Sam Altman, alleging a 'utter disregard for the risk to human life' and demanding accountability for AI safety. This marks an escalation in government oversight of AI.",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeGdwSWplR3R4SDE0OWVyVm1lcDRNbllQQklGbVJ2ZkhnNkw0ZjNueUhTZmhvRXRiY2RXczhQQV93WkhCdkU5VHBZcVZnQmdZY2J6R0VrOVhZRTJ5dFJrOXBfX3Z5MEUzS3lnbG9CV3UwcTRaaGF6dlhVQU91QTNKTUtOSXllcE9DS0hTQmNWSTlXVDdkd2FNT2lOZUVFMWhGeE1JUWFZVUlUcXM2Rkd2ODVXbnQwTWtTSzE5WmFPZlV2TkQ5NEE?oc=5",
+          "source": "Sam Altman · The Conversation",
+          "source_icon": "altman",
+          "heat": 8.0,
+          "tags": [
+            "诉讼",
+            "OpenAI",
+            "AI监管",
+            "政府"
+          ],
+          "student_note": "关注AI监管动态，理解法律与科技交叉领域的重要性。",
+          "published_at": "2026-06-02T04:44:04+00:00"
+        },
+        {
+          "title_cn": "Anthropic秘密提交IPO申请",
+          "title_en": "Anthropic confidentially submits draft S-1 to the SEC",
+          "summary_cn": "AI公司Anthropic已向美国SEC秘密提交S-1草案，筹备首次公开募股（IPO）。此举标志其正式迈向资本市场，可能成为2026年最受瞩目的科技IPO之一。",
+          "summary_en": "AI company Anthropic has confidentially filed a draft S-1 with the SEC, preparing for an IPO. This move signals its official entry into public markets, potentially one of the most anticipated tech IPOs of 2026.",
+          "url": "https://www.anthropic.com/news/confidential-draft-s1-sec",
           "source": "Hacker News",
           "source_icon": "hackernews",
           "heat": 8.0,
           "tags": [
-            "融资",
-            "Alphabet",
-            "AI基础设施"
+            "IPO",
+            "Anthropic"
           ],
-          "student_note": null,
-          "published_at": "2026-06-01T20:55:15+00:00",
-          "meta": "▲ 90 · 💬 93"
+          "student_note": "关注AI初创公司上市过程，了解S-1文件及IPO对行业的影响。",
+          "published_at": "2026-06-01T16:00:40+00:00",
+          "meta": "▲ 473 · 💬 385"
         },
         {
-          "title_cn": "Anthropic提交IPO申请",
-          "title_en": "Anthropic files to go public",
-          "summary_cn": "AI公司Anthropic（Claude模型开发商）已提交IPO申请。作为大语言模型领域的重要玩家，其上市将影响AI行业竞争格局和资本流向。",
-          "summary_en": "Anthropic, a major player in large language models, has filed to go public. The IPO could reshape the competitive landscape of the AI industry.",
-          "url": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
+          "title_cn": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
+          "title_en": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
+          "summary_cn": "If Nvidia has cracked a way to bring AI agents easily, safely, and usefully to the masses, it could — and should — be big.",
+          "summary_en": "If Nvidia has cracked a way to bring AI agents easily, safely, and usefully to the masses, it could — and should — be big.",
+          "url": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
           "source": "TechCrunch AI",
           "source_icon": "techcrunch",
           "heat": 8.0,
           "tags": [
+            "英伟达",
+            "CPU",
+            "AI PC",
+            "合作伙伴"
+          ],
+          "student_note": null,
+          "published_at": "2026-06-01T21:35:00+00:00"
+        },
+        {
+          "title_cn": "OpenAI frontier models and Codex are now available on AWS",
+          "title_en": "OpenAI frontier models and Codex are now available on AWS",
+          "summary_cn": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already use. Customers can get started with OpenAI on AWS and move faster from evaluation to production.",
+          "summary_en": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already use. Customers can get started with OpenAI on AWS and move faster from evaluation to production.",
+          "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
+          "source": "OpenAI Blog",
+          "source_icon": "openai",
+          "heat": 8.0,
+          "tags": [
+            "模型部署",
+            "AWS",
+            "OpenAI",
+            "Codex"
+          ],
+          "student_note": null,
+          "published_at": "2026-06-01T10:00:00+00:00"
+        },
+        {
+          "title_cn": "Anthropic提交IPO申请",
+          "title_en": "Anthropic files to go public",
+          "summary_cn": "AI公司Anthropic（开发Claude模型）已提交IPO申请。该公司曾被视为大语言模型领域的后来者，如今已获得顶级企业客户，成为AI巨头。",
+          "summary_en": "Anthropic, the AI company behind Claude, has filed for an IPO. Once considered an underdog in the LLM space, it now lands top-tier enterprise customers and is a major AI player.",
+          "url": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
+          "source": "TechCrunch AI",
+          "source_icon": "techcrunch",
+          "heat": 7.5,
+          "tags": [
             "Anthropic",
             "IPO",
-            "大模型"
+            "大模型厂商"
           ],
-          "student_note": "关注AI独角兽上市动态，了解商业模式和投资趋势。",
+          "student_note": "推荐阅读，了解AI独角兽的商业模式和上市路径。",
           "published_at": "2026-06-01T16:36:55+00:00"
         },
         {
-          "title_cn": "佛州起诉OpenAI隐瞒风险",
-          "title_en": "Florida sues OpenAI and CEO Sam Altman, claiming company concealed serious risks of ChatGPT",
-          "summary_cn": "佛罗里达州起诉OpenAI及CEO Sam Altman，指控其隐瞒ChatGPT的严重风险，包括可能导致暴力行为。这是首例州级针对AI产品安全性的重大诉讼。",
-          "summary_en": "Florida sued OpenAI and CEO Sam Altman, alleging the company concealed serious risks of ChatGPT, including potential links to violent incidents. This is the first major state-level lawsuit targeting AI product safety.",
+          "title_cn": "佛罗里达起诉OpenAI及CEO隐瞒风险",
+          "title_en": "Florida sues OpenAI and CEO Sam Altman over concealed ChatGPT risks",
+          "summary_cn": "佛罗里达州起诉OpenAI及其CEO萨姆·奥特曼，指控公司隐瞒ChatGPT的严重风险，涉及其安全性和误导性问题。",
+          "summary_en": "Florida has sued OpenAI and CEO Sam Altman, alleging the company concealed serious risks of ChatGPT, including safety and misleading issues.",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcGlob3lFNDdEa0xBaXlBQWh4U1JBWmVuZy1XTVU0a0xqUUpnWnRlckRMbEVNM3k3S01DVE8teUQxX0lJOWVvQXZMc3pFWmpfNFVVcUNUbDBqNnZpN1kyNHJ6NVBhZHIwMGxNMWtjaWtFTFhuN2V2QkJpSTk5aXBsTl9iT2paUnNSYVNTZURqdlNFMzhWVzZFcw?oc=5",
           "source": "Sam Altman · AP News",
           "source_icon": "altman",
@@ -224,202 +296,117 @@
           "tags": [
             "OpenAI",
             "诉讼",
-            "AI安全"
+            "安全风险",
+            "萨姆·奥特曼"
           ],
-          "student_note": "推荐关注AI监管与法律案例，了解技术企业承担的社会责任边界。",
-          "published_at": "2026-06-01T21:37:00+00:00"
+          "student_note": "推荐关注AI监管动态，了解法律对AI公司的责任要求。",
+          "published_at": "2026-06-01T17:57:40+00:00"
         },
         {
-          "title_cn": "佛州首例起诉OpenAI涉暴力事件",
-          "title_en": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
-          "summary_cn": "佛罗里达州首次以独特方式起诉OpenAI，指控其产品ChatGPT与去年佛罗里达州立大学枪击案等暴力事件有关，未履行安全责任。该案可能成为AI问责的标志性案例。",
-          "summary_en": "Florida filed a first-of-its-kind lawsuit against OpenAI and Sam Altman, alleging ChatGPT's involvement in violent incidents including the Florida State University shooting, and failure to ensure safety. This case could set a precedent for AI accountability.",
-          "url": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
-          "source": "TechCrunch AI",
-          "source_icon": "techcrunch",
-          "heat": 7.5,
-          "tags": [
-            "法律诉讼",
-            "OpenAI",
-            "AI安全"
-          ],
-          "student_note": null,
-          "published_at": "2026-06-01T20:03:40+00:00"
-        },
-        {
-          "title_cn": "佛州起诉OpenAI安全疏忽",
-          "title_en": "Florida sues OpenAI and Sam Altman over alleged safety lapses",
-          "summary_cn": "多个权威媒体报道，佛罗里达州起诉OpenAI及Sam Altman，指控其忽视AI安全风险，导致用户受到伤害。诉讼焦点在于公司是否充分披露了ChatGPT的潜在危害。",
-          "summary_en": "Multiple outlets report that Florida has sued OpenAI and Sam Altman over alleged safety lapses, claiming the company disregarded AI risks and caused user harm. The suit centers on whether risks were adequately disclosed.",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMnl6aTZnS3U5R25vTDExcXNKX18ySTBlM1otaWtQeE52NVctM243a1pmRjFuVEpfTVozZVFhcmpfVU5aQnZLdklXaG92SXlZR2JpU2lOdGdmc1R2SzI3SURCTjRraHN1QUpzYjVka0RTM0ZEUDlvUEE5M2FCdTFQc0Q1SnZRMm51d3c?oc=5",
-          "source": "Sam Altman · NPR",
+          "title_cn": "佛州指控OpenAI技术危险",
+          "title_en": "Florida AG sues OpenAI and Sam Altman over claims the technology is dangerous exploits its users",
+          "summary_cn": "佛罗里达州总检察长在同一案件中进一步指控OpenAI技术不仅危险，而且剥削用户数据，强调需要严格监管AI对用户的潜在伤害。",
+          "summary_en": "The Florida AG's lawsuit also claims OpenAI's technology is dangerous and exploits users, highlighting the need for stricter regulation of AI's potential harm to consumers.",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMnBvaDhBd0pnQUw4NGdwck9VOEVpZ1k2Wm1GOU15Tm9QVmxxN3R4OFRWRHZfeHBXTDRqb1BGV1VUa1czZjE5b01DQkhyNl9JdjJyUmdJUVBqejlxXzBuam9LT2lzbXNuSk1JaXRyeUFTaEk4Sy1RWHc0V0FFbTNMQTNOWnJ6U1lxUVhUdUlqVXZpV0tPTHIwUXN0YzZWbHVMY1dvU2NDNVFyY3c5ek5MMmxLZw?oc=5",
+          "source": "Sam Altman · SiliconANGLE",
           "source_icon": "altman",
-          "heat": 7.5,
+          "heat": 7.0,
           "tags": [
-            "法律诉讼",
+            "诉讼",
             "OpenAI",
-            "安全风险"
+            "数据隐私"
           ],
           "student_note": null,
-          "published_at": "2026-06-01T19:52:02+00:00"
+          "published_at": "2026-06-02T01:59:31+00:00"
         },
         {
-          "title_cn": "佛罗里达州起诉OpenAI五大指控",
-          "title_en": "5 most explosive claims from Florida's lawsuit against OpenAI, Sam Altman",
-          "summary_cn": "佛罗里达州对OpenAI和Sam Altman的诉讼列出了五项爆炸性指控，包括隐瞒ChatGPT风险、误导用户等。该案引自Fox Business报道。",
-          "summary_en": "Florida's lawsuit against OpenAI and Sam Altman highlights five explosive claims, including allegations that the company hid ChatGPT's risks from users and misled the public.",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMHQ1ZU9qbkd2THZ2T0FRUm9nUzlvaVl1ejltaU8wTWptZTViUGVUYzVPZ29oYzFDLUE1QlVTQVY1WEIxYmZFdUIwRWotU29hbHhJZFNKRmJsSHYxS0FVVld6Y1ZFNmd4VC1uLVZJcnZWa0tUTjVGNDFJN3pYbUl6RW1hS0NVcEZKU2pjTUx5QzBHX3BRdHdTLVNhSVlmRWRvQ18yNlcwb095MkgxM0Zv0gG0AUFVX3lxTE9LNzY5Y3lfZGlGYXd5dmwwVUM2OEg2cG9uYWVUZkc0ZmNTSWU5ME1adWtXT3BlV1RMU3R4enl0NGVCRG43Tmxic003TGZpVjJBeUVGZy1iSEp5RndSN0FXamZubGhxYjRVQ0NBR0Q1SkVnWV9oRUswNHE5RDBxMDIzSmRDOHpJMDRvOElFTjZ5NzJIdzJ0WUFXUm1GTWRiTXc1RUE4a0xYMzF5d3pmdTFESExBWQ?oc=5",
-          "source": "Sam Altman · Fox Business",
-          "source_icon": "altman",
-          "heat": 7.5,
+          "title_cn": "Florida sues OpenAI and Sam Altman over AI risks",
+          "title_en": "Florida sues OpenAI and Sam Altman over AI risks",
+          "summary_cn": "<a href=\"https:&#x2F;&#x2F;www.wsj.com&#x2F;tech&#x2F;ai&#x2F;openai-sued-by-floridas-attorney-general-over-ai-harms-8a5113a8?st=Gcpn84&amp;reflink=desktopwebshare_permalink\" rel=\"nofollow\">https:&#x2F;&#x2F;www.wsj.com&#x2F;tech&#x2F;ai&#x2F;openai-sued-by-floridas-attorney...</a><p><a href=\"https:&#x2F;&#x2F;www.nbcnews.com&#x2F;tech&#x2F;tech-news&#x2F;florida-sues-openai-sam-altman-saying-put-profit-safety-rcna347602\" rel=\"nofollow\">https:&#x2F;&#x2F;www.nbcnews.com&#x2F;tech&#x2F;tech-news&",
+          "summary_en": "<a href=\"https:&#x2F;&#x2F;www.wsj.com&#x2F;tech&#x2F;ai&#x2F;openai-sued-by-floridas-attorney-general-over-ai-harms-8a5113a8?st=Gcpn84&amp;reflink=desktopwebshare_permalink\" rel=\"nofollow\">https:&#x2F;&#x2F;www.wsj.com&#x2F;tech&#x2F;ai&#x2F;openai-sued-by-floridas-attorney...</a><p><a href=\"https:&#x2F;&#x2F;www.nbcnews.com&#x2F;tech&#x2F;tech-news&#x2F;florida-sues-openai-sam-altman-saying-put-profit-safety-rcna347602\" rel=\"nofollow\">https:&#x2F;&#x2F;www.nbcnews.com&#x2F;tech&#x2F;tech-news&",
+          "url": "https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215",
+          "source": "Hacker News",
+          "source_icon": "hackernews",
+          "heat": 7.0,
           "tags": [
-            "法律诉讼",
+            "诉讼",
             "OpenAI",
-            "指控"
+            "AI风险",
+            "佛罗里达"
           ],
           "student_note": null,
-          "published_at": "2026-06-01T19:02:00+00:00"
+          "published_at": "2026-06-01T16:02:04+00:00",
+          "meta": "▲ 202 · 💬 168"
         },
         {
-          "title_cn": "佛罗里达州再诉OpenAI隐瞒风险",
-          "title_en": "Florida sues OpenAI and CEO Sam Altman, claiming company hid ChatGPT risks from users",
-          "summary_cn": "佛罗里达州起诉OpenAI及其CEO Sam Altman，指控公司隐瞒ChatGPT对用户的风险，优先考虑利润而非公众安全。这是政府层面针对AI风险的又一法律行动。",
-          "summary_en": "Florida has sued OpenAI and its CEO Sam Altman, alleging the company concealed ChatGPT's risks from users, prioritizing profits over safety.",
+          "title_cn": "佛罗里达再诉OpenAI藏风险",
+          "title_en": "Florida sues OpenAI and CEO Sam Altman over hidden ChatGPT risks",
+          "summary_cn": "佛罗里达州另一起诉讼指控OpenAI和奥特曼向用户隐瞒ChatGPT风险。核心与上述诉讼一致。",
+          "summary_en": "Another Florida lawsuit accuses OpenAI and Altman of hiding ChatGPT risks from users, similar to the previous suit.",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNS2pKbjJiV0xMSjV5dUplTXBsZTA2bzE0VHdJOG04RzJKa0xkTFVtLXdPdi1NSkNVTkRJU0VQU0gwRGtnbHF6WEhjcENjQUo5Q1JOUEtKcXFPZDc5MFdqU3FNR2d5Vk5oTDVqNHZKUXRkYnlCdmE4UTVTYmd5LTlGR2NEc1FLYjhKQk5qbUp6anB6TDFfQXNDeDZicmY3RUwtRGxEMXZGV0o2d2Zuam03Qmc5T1h6NHVIYl9sSw?oc=5",
           "source": "Sam Altman · PBS",
           "source_icon": "altman",
-          "heat": 7.5,
+          "heat": 7.0,
           "tags": [
-            "法律诉讼",
             "OpenAI",
-            "隐瞒风险"
+            "诉讼",
+            "ChatGPT",
+            "佛罗里达"
           ],
           "student_note": null,
           "published_at": "2026-06-01T18:17:30+00:00"
         },
         {
-          "title_cn": "佛罗里达州诉OpenAI造成AI危害",
-          "title_en": "Florida sues OpenAI and Sam Altman over AI risks",
-          "summary_cn": "根据WSJ报道，佛罗里达州总检察长起诉OpenAI因AI造成的危害，指控其违反消费者保护法。这是对AI公司法律责任的又一次重大考验。",
-          "summary_en": "Florida's attorney general has sued OpenAI over AI harms, alleging violations of consumer protection laws. This marks another significant legal action against AI risks at the government level.",
-          "url": "https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215",
-          "source": "Hacker News",
-          "source_icon": "hackernews",
-          "heat": 7.5,
-          "tags": [
-            "OpenAI",
-            "法律诉讼",
-            "AI安全"
-          ],
-          "student_note": null,
-          "published_at": "2026-06-01T16:02:04+00:00",
-          "meta": "▲ 176 · 💬 158"
-        },
-        {
-          "title_cn": "OpenAI模型和Codex登陆AWS",
-          "title_en": "OpenAI frontier models and Codex are now available on AWS",
-          "summary_cn": "OpenAI的前沿模型（如GPT-4等）和代码生成模型Codex现已通过AWS提供。企业可以在熟悉的AWS环境中使用OpenAI能力，利用现有工作流和采购流程，从而加速从评估到生产的过程。",
-          "summary_en": "OpenAI's frontier models and Codex are now generally available on AWS, allowing enterprises to build with OpenAI using their existing AWS environments and controls. This enables faster evaluation to production transitions.",
-          "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
-          "source": "OpenAI Blog",
-          "source_icon": "openai",
-          "heat": 7.5,
-          "tags": [
-            "OpenAI",
-            "AWS",
-            "模型部署",
-            "企业服务"
-          ],
-          "student_note": "推荐AI学生尝试在AWS上使用OpenAI API，了解云端部署和集成流程。",
-          "published_at": "2026-06-01T10:00:00+00:00"
-        },
-        {
-          "title_cn": "Anthropic秘密提交IPO申请",
-          "title_en": "Anthropic confidentially submits draft S-1 to the SEC",
-          "summary_cn": "AI公司Anthropic已秘密向美国SEC提交S-1注册声明草案，筹备首次公开募股（IPO），预计2026年上市。此举反映了AI赛道独角兽的资本化进程加快。",
-          "summary_en": "AI company Anthropic has confidentially submitted a draft S-1 to the SEC, preparing for an IPO expected in 2026. This reflects the accelerating capitalization of AI unicorns.",
-          "url": "https://www.anthropic.com/news/confidential-draft-s1-sec",
-          "source": "Hacker News",
-          "source_icon": "hackernews",
-          "heat": 7.0,
-          "tags": [
-            "Anthropic",
-            "IPO",
-            "融资"
-          ],
-          "student_note": "关注AI初创公司的上市路径，对理解行业估值和商业可持续性有帮助。",
-          "published_at": "2026-06-01T16:00:40+00:00",
-          "meta": "▲ 445 · 💬 355"
-        },
-        {
-          "title_cn": "起诉书称OpenAI“重利轻安全”",
-          "title_en": "Florida sues Open AI, Sam Altman: ‘They have chosen profit over public safety’",
-          "summary_cn": "佛罗里达州在起诉中直指OpenAI“选择利润而非公共安全”，强调ChatGPT风险未被充分披露。此举表明监管机构对AI安全的持续关注。",
-          "summary_en": "Florida's lawsuit accuses OpenAI of choosing profit over public safety, emphasizing that AI risks were not fully disclosed to users.",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVjFKeVFRS0VrWS16dGpFMWwwRldVWkUwQUU5bEVNN1lFYXFzRHo1bzBUdm5iWEJCbHh6WGkyYmJYUnd1VXNseFY3MzVoZ0Y5d0tCQm5VUWxwMXRteWcxaXR3TTdrOXJia2h3Z1k5YlRicGE0a1pOSTZ3NUxDSjYtekVvQVJ3MHRoczh2M2R6aEVpLVXSAZMBQVVfeXFMT0lPVDNvdEhTNmJNN1hBMGU1eEpvNGsyNTl3MHZlWEF4bEJ2SFV0RnVRMFg2a2YxWGVWN1JFdlVRTVZaNHlFUFlXdVJWT0pVOHFLSm5KYVhxWHVyZ3NMNFo1clFfaF8ta3dqQ002S0FnVnR4LXl0cTluNmsyUU1JZlk3X2wwSURzaEF0bG1rRGdxdEJB?oc=5",
-          "source": "Sam Altman · Miami Herald",
+          "title_cn": "OpenAI's Sam Altman says Michigan data center a 'huge bet' on AI",
+          "title_en": "OpenAI's Sam Altman says Michigan data center a 'huge bet' on AI",
+          "summary_cn": "OpenAI's Sam Altman says Michigan data center a 'huge bet' on AI&nbsp;&nbsp;The Detroit News",
+          "summary_en": "OpenAI's Sam Altman says Michigan data center a 'huge bet' on AI&nbsp;&nbsp;The Detroit News",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQSmF3UlpnZVVwQWlkbnFWMXFpZEVjU1pBcGcxdWpYbktLcE9jSzhPWHd4TUhKTjJiNzR2TGVWcVYxYmNRZFNjZDFjVzk2YzYyMVQ5bVRydURwdURBRnMydDNCLXNjeVVla1RrbHBuNzA5ZWtYdHM4Ul9nN2FsYXhHekNQaFpTaVBJUjRhdFdXWGhoX0g0LVFKczFsUzlEd3g4c3FnV0dsbHBaOWRSNzRwYW4tdEdMR0k1bGM5UEVWU2g1Q1BnV2VTdUd0Q3dPaVVnNV9iTnNtUk1lckVKTHN1dkxfMHQ0X0RSNDB1LW1KMmg?oc=5",
+          "source": "Sam Altman · The Detroit News",
           "source_icon": "altman",
-          "heat": 7.0,
-          "tags": [
-            "OpenAI",
-            "法律诉讼",
-            "AI安全"
-          ],
-          "student_note": null,
-          "published_at": "2026-06-01T17:21:09+00:00"
-        },
-        {
-          "title_cn": "OpenAI在密歇根建设大型数据中心",
-          "title_en": "Building the infrastructure for the Intelligence Age in Michigan",
-          "summary_cn": "OpenAI作为Stargate项目的一部分，在密歇根州破土动工建设一个1GW的数据中心项目。该项目旨在扩展AI基础设施以降低访问门槛、创造就业机会并支持当地社区，标志着AI基础设施建设进入新阶段。",
-          "summary_en": "OpenAI has broken ground on a 1GW data center project in Michigan as part of the Stargate initiative, aiming to expand AI infrastructure, create jobs, and support communities. This marks a new phase in large-scale AI infrastructure development.",
-          "url": "https://openai.com/index/stargate-michigan-data-center",
-          "source": "OpenAI Blog",
-          "source_icon": "openai",
-          "heat": 7.0,
+          "heat": 6.5,
           "tags": [
             "OpenAI",
             "数据中心",
-            "基础设施",
-            "Stargate"
+            "Altman",
+            "投资"
           ],
           "student_note": null,
-          "published_at": "2026-06-01T12:00:00+00:00"
+          "published_at": "2026-06-01T21:26:00+00:00"
         },
         {
-          "title_cn": "ChatGPT插件被曝窃取工作表数据",
-          "title_en": "ChatGPT for Google Sheets exfiltrates workbooks",
-          "summary_cn": "有报道称ChatGPT for Google Sheets插件存在数据泄露风险，可能窃取工作表内容。用户应警惕第三方AI工具的权限范围，避免敏感数据泄露。",
-          "summary_en": "Reports indicate that the ChatGPT for Google Sheets extension can exfiltrate workbook data, posing a security risk. Users are advised to be cautious when using third-party AI plugins.",
-          "url": "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration",
-          "source": "Hacker News",
-          "source_icon": "hackernews",
-          "heat": 6.0,
-          "tags": [
-            "数据安全",
-            "ChatGPT",
-            "插件"
-          ],
-          "student_note": "检查自己使用的AI工具权限，注意数据安全。",
-          "published_at": "2026-05-31T20:35:38+00:00",
-          "meta": "▲ 319 · 💬 120"
-        },
-        {
-          "title_cn": "OpenAI发布AI政策立场声明",
+          "title_cn": "Our views on AI policy and political advocacy",
           "title_en": "Our views on AI policy and political advocacy",
-          "summary_cn": "OpenAI发表声明，阐述其在AI政策和政治倡导上的立场：支持透明、审慎的监管和AI安全，并澄清没有任何外部政治团体代表公司发言。",
-          "summary_en": "OpenAI released a statement on its views regarding AI policy and political advocacy, supporting transparency, thoughtful regulation, and AI safety, and noting that no outside political group speaks on its behalf.",
+          "summary_cn": "Our approach to AI policy and political advocacy, transparency, support for thoughtful regulation and AI safety, and that no outside political group speaks on the company’s behalf.",
+          "summary_en": "Our approach to AI policy and political advocacy, transparency, support for thoughtful regulation and AI safety, and that no outside political group speaks on the company’s behalf.",
           "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
           "source": "OpenAI Blog",
           "source_icon": "openai",
           "heat": 6.0,
           "tags": [
+            "AI政策",
             "OpenAI",
-            "政策",
-            "监管"
+            "政治倡导"
           ],
-          "student_note": "可了解AI公司如何平衡商业利益与政策立场。",
+          "student_note": null,
           "published_at": "2026-06-01T17:00:00+00:00"
+        },
+        {
+          "title_cn": "Building the infrastructure for the Intelligence Age in Michigan",
+          "title_en": "Building the infrastructure for the Intelligence Age in Michigan",
+          "summary_cn": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities.",
+          "summary_en": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities.",
+          "url": "https://openai.com/index/stargate-michigan-data-center",
+          "source": "OpenAI Blog",
+          "source_icon": "openai",
+          "heat": 6.0,
+          "tags": [
+            "基础设施建设",
+            "OpenAI",
+            "密歇根"
+          ],
+          "student_note": null,
+          "published_at": "2026-06-01T12:00:00+00:00"
         }
       ]
     },
@@ -430,123 +417,91 @@
       "icon": "👤",
       "items": [
         {
-          "title_cn": "Karpathy加入Anthropic领导预训练",
-          "title_en": "Andrej Karpathy Joins Anthropic to Lead Claude Pre-training Research",
-          "summary_cn": "著名AI研究员、前特斯拉AI总监Andrej Karpathy宣布加入Anthropic，担任Claude预训练研究的负责人。他将直接领导下一代Claude模型的基础预训练工作，有望带来训推技术的重大突破。",
-          "summary_en": "Renowned AI researcher Andrej Karpathy has joined Anthropic to lead Claude pre-training research. He will oversee the foundational pre-training of next-generation Claude models, potentially bringing major breakthroughs in training and inference techniques.",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQLTN6OGNlb01XUXIxb1JMWjhKTzBQT2hXSWQ2WnJOdXFGNmxFbmVINm1YajF5LVpWUEFkTnZKX1N0UDhMclh2ckJMUEhYNkd6MnpLYk1MdmJVNXZXMldqMUNPdGFIc21hUVpIcWxNQ1VnRDVROHo3R2ptYnExMTlvS2p2MUZRX05jN0oyenM2WEJON0tGR2ZkMmlXSXdEcER4SnBCYUl0SnU?oc=5",
-          "source": "Andrej Karpathy · StartupHub.ai",
-          "source_icon": "karpathy",
-          "heat": 8.0,
+          "title_cn": "迈克尔·伯里批英伟达-太空探索芯片交易“假的”",
+          "title_en": "Michael Burry Just Called Nvidia's SpaceX Chip Deal 'Fugazi.' Here's Why It All Seems Wrong",
+          "summary_cn": "知名投资者迈克尔·伯里（《大空头》原型）将英伟达与SpaceX的芯片合作交易称为“假货”，并认为这笔交易在多个层面上不合理。",
+          "summary_en": "Investor Michael Burry (of 'The Big Short' fame) called Nvidia's chip deal with SpaceX 'fugazi' (fake), arguing it seems wrong on several levels.",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUXZ3OGtLVThQb0ZLN3hmQ0M1WWN6eHF4SldSZnlCRWp0NEcwRk9uSUJxOEc4eXAtZUIySlItN1NiN01va05NOUNSbkNsOWVvMmUxRWFFMnluMWpocGpRVEZfeVpPNDRzbHdUV0t1bW1zOWtqTGxYRlhSeFV1dnFYSndGVkRsWks0a3JnQVdvbEdhSEF6ZmE0Ti0tdmxVX2RDMl9WR2szVm1MdDA5SWpTNkZGMHh2aGwzenhJVHdRa0xWTk9JRktZaF93?oc=5",
+          "source": "Elon Musk · 24/7 Wall St.",
+          "source_icon": "musk",
+          "heat": 7.5,
           "tags": [
-            "人员变动",
-            "Anthropic",
-            "Karpathy",
-            "预训练"
+            "迈克尔·伯里",
+            "英伟达",
+            "SpaceX",
+            "投资"
           ],
-          "student_note": "强烈推荐AI学生关注Karpathy的研究动向和公开分享，他是学习深度学习和LLM预训练的绝佳资源。",
-          "published_at": "2026-05-31T13:00:00+00:00"
+          "student_note": null,
+          "published_at": "2026-06-01T15:45:41+00:00"
         },
         {
-          "title_cn": "Altman：公众对AI焦虑合理",
-          "title_en": "Stargate live updates: OpenAI's Altman says 'people are right to be anxious' about AI",
-          "summary_cn": "OpenAI CEO Sam Altman在Stargate项目更新中表示，公众对AI的担忧是合理的，但强调应积极应对而非恐惧。他同时透露了OpenAI在基础设施上的进一步投入。",
-          "summary_en": "OpenAI CEO Sam Altman stated in a Stargate update that public anxiety about AI is justified, but urged proactive engagement rather than fear. He also hinted at further infrastructure investments.",
+          "title_cn": "Altman称对AI焦虑是合理的",
+          "title_en": "Altman says 'people are right to be anxious' about AI",
+          "summary_cn": "OpenAI CEO Sam Altman在Stargate项目直播中承认公众对AI的焦虑是合理的，呼吁加强沟通与安全研究以缓解焦虑。",
+          "summary_en": "During a Stargate live update, OpenAI CEO Sam Altman acknowledged that 'people are right to be anxious' about AI, urging better communication and safety research to ease concerns.",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbTZSRmdHMjZid2JISFVBVGhoZHRHVl9tVHNibVdyQlRkUjY3YjdBbC15bEhJczJXa3pmakp5TWhhVWxaQTRZQk1kc2gyWUY5UWR6am1QSm5WaDMwVmlNV0hSM2d0dFBQUlMxa0lnaTRMUWl1bEl2N0NlS1FLM2lKVNIBhgFBVV95cUxOUFdLdW1NbzlSeG03eTlxTWFqdkVXZXNfZUZiaGpxanF3YXR3Z3JFUnFoZmxteFNnMFVMM0NnN25MNFY3YVlJenhiNW0wUWdvUF9aQ0ZwMkdDX2hOX3VHVHJHWm9fODV1YU9sNEg3d3FiWVNzMzFJVVpoclNreUZwYXBvMTB0dw?oc=5",
           "source": "Sam Altman · CNBC",
           "source_icon": "altman",
-          "heat": 6.0,
+          "heat": 7.0,
           "tags": [
             "Sam Altman",
             "AI焦虑",
+            "安全",
             "OpenAI"
           ],
           "student_note": null,
           "published_at": "2026-06-01T22:39:00+00:00"
         },
         {
-          "title_cn": "投资者质疑英伟达与SpaceX芯片交易",
-          "title_en": "Michael Burry Just Called Nvidia's SpaceX Chip Deal 'Fugazi.' Here's Why It All Seems Wrong",
-          "summary_cn": "知名投资者Michael Burry（电影《大空头》原型）批评英伟达与SpaceX的芯片交易是“假的”，认为其中存在可疑之处。这引发了对AI芯片合作真实性的讨论。",
-          "summary_en": "Investor Michael Burry (of 'The Big Short' fame) called Nvidia's chip deal with SpaceX 'fugazi', questioning its legitimacy. This adds controversy to the AI chip market.",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUXZ3OGtLVThQb0ZLN3hmQ0M1WWN6eHF4SldSZnlCRWp0NEcwRk9uSUJxOEc4eXAtZUIySlItN1NiN01va05NOUNSbkNsOWVvMmUxRWFFMnluMWpocGpRVEZfeVpPNDRzbHdUV0t1bW1zOWtqTGxYRlhSeFV1dnFYSndGVkRsWks0a3JnQVdvbEdhSEF6ZmE0Ti0tdmxVX2RDMl9WR2szVm1MdDA5SWpTNkZGMHh2aGwzenhJVHdRa0xWTk9JRktZaF93?oc=5",
-          "source": "Elon Musk · 24/7 Wall St.",
-          "source_icon": "musk",
-          "heat": 6.0,
-          "tags": [
-            "英伟达",
-            "SpaceX",
-            "投资质疑"
-          ],
-          "student_note": null,
-          "published_at": "2026-06-01T15:45:41+00:00"
-        },
-        {
-          "title_cn": "Claude爆发迫使Anthropic投靠马斯克获400亿",
-          "title_en": "Claude's Boom Just Forced Anthropic Into Musk's Arms For $40B",
-          "summary_cn": "由于Claude模型的快速增长，Anthropic被迫通过价值约400亿美元的交易与Elon Musk联手。这一巨额合作旨在获取更多算力和资源，以满足Claude的爆发式需求，标志着AI竞争格局的剧变。",
-          "summary_en": "The boom of Claude has forced Anthropic into a $40 billion deal with Elon Musk. The multi-billion-dollar collaboration aims to secure compute and resources for Claude's explosive growth, signaling a major shift in the AI competitive landscape.",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Xdkdad0VzUWJINXZJOTlsMXJ6aFZEblhMRVVlUm9laUJRQnhoVTdiVVlGSHlmZkpnRndrNGlFNzM4alBRMW9QV0pyYVpXQ0VoLTB4Z1dkVmUxekxZM1Y2bGthWm1wZ0hXdGlvS1k3NG5fdw?oc=5",
-          "source": "Elon Musk · Yellow.com",
-          "source_icon": "musk",
-          "heat": 6.0,
-          "tags": [
-            "Anthropic",
-            "Elon Musk",
-            "资金",
-            "算力"
-          ],
-          "student_note": null,
-          "published_at": "2026-06-01T08:28:02+00:00"
-        },
-        {
-          "title_cn": "新加坡法院否决xAI文件请求",
-          "title_en": "Singapore court denies xAI’s requests for documents in lawsuit against Apple and OpenAI",
-          "summary_cn": "新加坡法院正式驳回了xAI在起诉苹果和OpenAI案中要求当地企业提供文件的请求，维护了数据保护立场。该裁决强化了跨境取证中的地域限制。",
-          "summary_en": "A Singapore court denied xAI's requests for documents from local companies in its lawsuit against Apple and OpenAI, upholding data protection principles and reinforcing jurisdictional limits on cross-border discovery.",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMHJDRUw3Y0M2N0k0WmozSWpyRHZoNkxTcnhyNnZ5LXRXM0Z1OG9iWTllLWFuN2tQNVY0U3E4bVZQVUp0OHJ6UGdXbFYxMWp4R1Z5TnhzYklVNFBPUnRXMnBuWlhlbTl1bkxBMl9CU015SWsxZmZGRnhzWFVOdmtFV1JldXlIRjNFTVpCYzFFR01CRnlsbnJxUGZWRk5taXNoYWpuQkkyejZ5RWE2djVRUlFZbUMzTHZIeUE?oc=5",
-          "source": "Elon Musk · 9to5Mac",
-          "source_icon": "musk",
-          "heat": 5.5,
-          "tags": [
-            "xAI",
-            "新加坡",
-            "数据主权"
-          ],
-          "student_note": null,
-          "published_at": "2026-06-01T21:18:00+00:00"
-        },
-        {
-          "title_cn": "Anthropic为何需要马斯克",
+          "title_cn": "从Claude到巨像：Anthropic为何需要马斯克",
           "title_en": "From Claude to Colossus: why Anthropic needed Elon Musk",
-          "summary_cn": "文章分析了Anthropic从Claude到Colossus的发展过程中，为何需要与Elon Musk合作。据称，为了获得足够的算力和资金以支持模型扩张，Anthropic寻求Musk的参与，这引发了业界对AI巨头联盟的讨论。",
-          "summary_en": "The article explores why Anthropic needed Elon Musk from Claude to Colossus. It suggests that to secure sufficient compute and funding for model scaling, Anthropic sought Musk's involvement, sparking discussions about AI giant alliances.",
+          "summary_cn": "文章探讨Anthropic与马斯克的关系，可能指Anthropic在开发Claude到更大型模型（Colossus）过程中，需要马斯克的资源或合作。具体细节需阅读原文。",
+          "summary_en": "This article explores why Anthropic needed Elon Musk in its journey from Claude to Colossus, possibly regarding resource access or collaboration for larger AI models.",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMEZXcVczT0dKZGlQU0hVdC1WbFJjdjZrdjBvVUhDRkd4b0pvOVo2aWRqeEM4ZXN3TGgtMF9VeGxJUWdxRkw5b0l2VWZ3WnpOdDJTcFk3azJUZjBaVm45Y1FkZ2RMSkhLdnlENEhIcGo1WWFKclN4WkZHR240a2VPNVpabGNxbElDUm9KbGFrU3VxLUdKVHMwbHVBUHc5WTVfb3c?oc=5",
           "source": "Elon Musk · Al Majalla",
           "source_icon": "musk",
-          "heat": 5.5,
+          "heat": 7.0,
           "tags": [
             "Anthropic",
-            "Elon Musk",
-            "算力",
+            "马斯克",
+            "Claude",
             "合作"
           ],
           "student_note": null,
           "published_at": "2026-06-01T04:37:40+00:00"
         },
         {
-          "title_cn": "新加坡拒绝xAI文件请求",
-          "title_en": "Singapore says ‘nope’ to xAI’s requests for documents from local companies as part of Elon Musk’s lawsuit against Apple and OpenAI",
-          "summary_cn": "新加坡当局拒绝了xAI（马斯克旗下公司）要求当地企业提供文件的请求，这些文件是马斯克起诉苹果和OpenAI案中的一部分。此举体现了数据主权与司法管辖权之间的张力。",
-          "summary_en": "Singapore denied xAI's requests for documents from local companies in connection with Elon Musk's lawsuit against Apple and OpenAI, highlighting tensions between data sovereignty and cross-border litigation.",
+          "title_cn": "Claude爆发，Anthropic以400亿美元投向马斯克",
+          "title_en": "Claude's Boom Just Forced Anthropic Into Musk's Arms For $40B",
+          "summary_cn": "由于Claude模型的爆发式增长，Anthropic被迫以400亿美元估值寻求与马斯克的合作或投资。具体细节需核实。",
+          "summary_en": "The boom of Claude has reportedly forced Anthropic into a relationship with Elon Musk at a $40 billion valuation. Details await confirmation.",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Xdkdad0VzUWJINXZJOTlsMXJ6aFZEblhMRVVlUm9laUJRQnhoVTdiVVlGSHlmZkpnRndrNGlFNzM4alBRMW9QV0pyYVpXQ0VoLTB4Z1dkVmUxekxZM1Y2bGthWm1wZ0hXdGlvS1k3NG5fdw?oc=5",
+          "source": "Elon Musk · Yellow.com",
+          "source_icon": "musk",
+          "heat": 7.0,
+          "tags": [
+            "Claude",
+            "Anthropic",
+            "马斯克",
+            "估值"
+          ],
+          "student_note": null,
+          "published_at": "2026-06-01T14:02:52+00:00"
+        },
+        {
+          "title_cn": "新加坡拒绝xAI调取本地文件",
+          "title_en": "Singapore says 'nope' to xAI’s requests for documents from local companies",
+          "summary_cn": "新加坡政府拒绝埃隆·马斯克的xAI公司要求调取本地公司文件，该请求涉及马斯克起诉苹果和OpenAI的案件，新加坡坚持数据主权。",
+          "summary_en": "Singapore rejected xAI's request to obtain documents from local companies, part of Elon Musk's lawsuit against Apple and OpenAI, asserting data sovereignty.",
           "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZEFqUHEyMWtRd0x2X0I5R0xyQWxKU0pkN19vbFROYUNWbmVsVVNHUFB0bGxtVnBNTmR4TS12R0FQYjAxLWQtdXlqdnVfZkdRY2w2V0FqdHNYS1NqeW1ycHBRODBYVmRNNGt4VldrWXlfU05JeldPQW1EUmlWOUpmUzNfZEcwd2otNWp3TG9JWnJxS0lOZVBHOThxQnh4elpMWl82SUdGbkNSQ2ZUODM4enRWSXBuUXEtN2lQM29GVF9WUVlSVC1raWRqRXMxaXNXcWdBRmxQUzE3N0NjcEV2NzZuSTBibkxhYUxlcmE1bjVNaE50?oc=5",
           "source": "Elon Musk · MacTech.com",
           "source_icon": "musk",
           "heat": 5.0,
           "tags": [
-            "xAI",
             "数据主权",
-            "诉讼"
+            "新加坡",
+            "xAI",
+            "马斯克"
           ],
           "student_note": null,
           "published_at": "2026-06-01T22:12:08+00:00"
@@ -560,217 +515,272 @@
       "icon": "📰",
       "items": [
         {
-          "title_cn": "英伟达用AI Agent PC抢CPU市场",
-          "title_en": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
-          "summary_cn": "英伟达联合微软、戴尔、惠普推出搭载AI Agent的PC，试图撬动价值2000亿美元的CPU市场。如果成功，将让AI代理更安全、易用地进入普通消费者手中。",
-          "summary_en": "Nvidia is partnering with Microsoft, Dell, and HP to launch AI agent PCs, targeting the $200 billion CPU market. If successful, it could bring AI agents safely and usefully to the masses.",
-          "url": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
+          "title_cn": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
+          "title_en": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
+          "summary_cn": "The lawsuit partially revolves around a shooting at Florida State University last year, and ChatGPT's alleged role in the incident.",
+          "summary_en": "The lawsuit partially revolves around a shooting at Florida State University last year, and ChatGPT's alleged role in the incident.",
+          "url": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
           "source": "TechCrunch AI",
           "source_icon": "techcrunch",
           "heat": 7.0,
           "tags": [
-            "英伟达",
-            "AI PC",
-            "CPU市场"
+            "法律诉讼",
+            "OpenAI",
+            "Sam Altman",
+            "安全"
           ],
-          "student_note": "建议学习AI Agent概念及其在边缘设备上的部署，对未来应用开发很有价值。",
-          "published_at": "2026-06-01T21:35:00+00:00"
+          "student_note": null,
+          "published_at": "2026-06-01T20:03:40+00:00"
         },
         {
-          "title_cn": "AI气象初创公司预报超越官方",
+          "title_cn": "股市能否吸纳AI巨头？",
+          "title_en": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
+          "summary_cn": "文章探讨了Anthropic、SpaceX和OpenAI等未上市AI巨头若进入公开市场，股市是否有足够容量消化这些高估值公司，并分析潜在风险与机遇。",
+          "summary_en": "This article examines whether public markets can absorb the massive valuations of private AI giants like Anthropic, SpaceX, and OpenAI, discussing potential risks and opportunities.",
+          "url": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
+          "source": "Hacker News",
+          "source_icon": "hackernews",
+          "heat": 6.0,
+          "tags": [
+            "IPO",
+            "AI巨头",
+            "资本市场"
+          ],
+          "student_note": null,
+          "published_at": "2026-06-01T23:45:46+00:00",
+          "meta": "▲ 233 · 💬 444"
+        },
+        {
+          "title_cn": "AI天气初创预测超政府机构",
           "title_en": "This AI weather startup is out-forecasting government agencies",
-          "summary_cn": "AI气象初创公司WindBorne通过结合模型构建和约400个高空气球实时数据收集，在预报准确性上超过政府机构。其创新在于实时数据驱动迭代。",
-          "summary_en": "AI weather startup WindBorne outperforms government agencies in forecasting by combining model-building with data collection from ~400 balloons in flight. Its advances come from improved real-time data integration.",
+          "summary_cn": "天气AI初创公司WindBorne通过结合模型构建与数据收集，实现了比政府机构更准确的天气预报。该公司目前在全球15个站点发射约400个气球，实时收集传感器数据。",
+          "summary_en": "WindBorne, an AI weather startup, outperforms government agencies in forecasting by combining model-building and data collection. It operates about 400 balloons from 15 global launch sites, gathering real-time sensor readings.",
           "url": "https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/",
           "source": "TechCrunch AI",
           "source_icon": "techcrunch",
-          "heat": 6.5,
+          "heat": 6.0,
           "tags": [
             "AI气象",
             "初创公司",
-            "实时数据"
+            "天气预报"
           ],
-          "student_note": "了解AI+特定领域（如气象）的创新模式，关注数据驱动方法。",
+          "student_note": null,
           "published_at": "2026-06-01T16:00:00+00:00"
         },
         {
-          "title_cn": "DuckDuckGo去AI搜索流量激增",
-          "title_en": "DuckDuckGo makes its 'no-AI' search engine easier to access as its traffic booms",
-          "summary_cn": "DuckDuckGo 进一步简化了其“无AI”搜索引擎的访问方式，该引擎不依赖AI生成答案，强调隐私和传统搜索体验。近期其流量大幅增长，反映出部分用户对主流搜索引擎集成AI功能的担忧或反感。",
-          "summary_en": "DuckDuckGo has made its 'no-AI' search engine even easier to access, a move that coincides with a surge in traffic. The engine offers a traditional, privacy-focused search experience without AI-generated answers, appealing to users wary of AI integration in mainstream search.",
-          "url": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/",
-          "source": "Hacker News",
-          "source_icon": "hackernews",
-          "heat": 6.0,
-          "tags": [
-            "隐私搜索",
-            "无AI",
-            "流量激增"
-          ],
-          "student_note": null,
-          "published_at": "2026-06-01T16:33:59+00:00",
-          "meta": "▲ 279 · 💬 141"
-        },
-        {
-          "title_cn": "环保活动家质疑数据中心透明度",
-          "title_en": "Erin Brockovich takes aim at data center secrecy",
-          "summary_cn": "环保活动家Erin Brockovich将矛头指向数据中心行业的保密行为，要求公开更多关于数据中心能源消耗、水资源使用和环境影响的数据。她认为数据中心的快速增长正带来严重的环境后果，亟需透明度。",
-          "summary_en": "Environmental activist Erin Brockovich is challenging data center secrecy, demanding more transparency about energy consumption, water usage, and environmental impacts. She argues that rapid data center growth has significant environmental consequences.",
-          "url": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
-          "source": "TechCrunch AI",
-          "source_icon": "techcrunch",
-          "heat": 6.0,
-          "tags": [
-            "数据中心",
-            "环境",
-            "透明度",
-            "环保"
-          ],
-          "student_note": null,
-          "published_at": "2026-05-31T21:05:14+00:00"
-        },
-        {
-          "title_cn": "斯坦福CS336发布AI代理指南",
-          "title_en": "AI Agent Guidelines for CS336 at Stanford",
-          "summary_cn": "斯坦福大学CS336课程发布了AI代理使用指南，帮助学生负责任地使用AI工具完成编程与学习任务，涵盖学术诚信、引用规范及有效交互策略。",
-          "summary_en": "Stanford's CS336 course released AI Agent guidelines to help students use AI tools responsibly in programming and learning, covering academic integrity, citation practices, and effective interaction strategies.",
-          "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
-          "source": "Hacker News",
-          "source_icon": "hackernews",
-          "heat": 5.5,
-          "tags": [
-            "AI教育",
-            "学术诚信",
-            "斯坦福"
-          ],
-          "student_note": "强烈推荐大学生阅读，了解如何合规、高效地利用AI辅助学习，避免学术不端风险。",
-          "published_at": "2026-06-01T16:41:49+00:00",
-          "meta": "▲ 311 · 💬 111"
-        },
-        {
-          "title_cn": "YC初创公司释放闲置GPU算力",
-          "title_en": "Launch HN: Expanse (YC P26) – Unlock Wasted GPU Capacity",
-          "summary_cn": "YC孵化的Expanse项目旨在通过优化调度器（如Kubernetes、SLURM）来释放被浪费的GPU计算能力。对于有AI算力需求的学生和团队很有参考价值。",
-          "summary_en": "Expanse, a YC-backed startup, helps unlock wasted GPU capacity by optimizing cluster schedulers like Kubernetes and SLURM. This is valuable for anyone dealing with AI compute resources.",
-          "url": "https://news.ycombinator.com/item?id=48356312",
-          "source": "Hacker News",
-          "source_icon": "hackernews",
-          "heat": 5.5,
-          "tags": [
-            "GPU算力",
-            "YC",
-            "优化"
-          ],
-          "student_note": "如果你在实验室或学校使用GPU集群，可以关注类似工具提高利用率。",
-          "published_at": "2026-06-01T13:05:02+00:00",
-          "meta": "▲ 68 · 💬 20"
-        },
-        {
-          "title_cn": "海盗湾遭突袭20年仍坚挺",
-          "title_en": "The Pirate Bay Remains Resilient, 20 Years After the Raid",
-          "summary_cn": "知名盗版网站海盗湾在20年前遭到执法部门突袭后依然存活并发展，展现了去中心化架构和社区维护的顽强生命力，也反映了版权执法面临的挑战。",
-          "summary_en": "The Pirate Bay remains resilient 20 years after a major police raid, demonstrating the endurance of decentralized architecture and community support, while highlighting challenges in copyright enforcement.",
-          "url": "https://torrentfreak.com/the-pirate-bay-remains-resilient-20-years-after-the-raid/",
-          "source": "Hacker News",
-          "source_icon": "hackernews",
-          "heat": 5.0,
-          "tags": [
-            "版权",
-            "去中心化",
-            "海盗湾"
-          ],
-          "student_note": null,
-          "published_at": "2026-06-01T14:16:41+00:00",
-          "meta": "▲ 495 · 💬 245"
-        },
-        {
-          "title_cn": "SpaceX IPO提示水资源风险",
-          "title_en": "Water access is now a risk factor in SpaceX’s IPO",
-          "summary_cn": "SpaceX在IPO文件中指出，其数据中心冷却需要大量水资源，获取充足且廉价的用水成为风险因素。这反映了AI计算对环境资源（尤其是水）的影响，值得关注。",
-          "summary_en": "SpaceX's IPO filing lists water access as a risk factor, as the company requires significant water resources to cool its data centers. This underscores the environmental impact of AI computing infrastructure.",
+          "title_cn": "水供应成SpaceX IPO风险因素",
+          "title_en": "Water access is now a risk factor in SpaceX's IPO",
+          "summary_cn": "SpaceX在IPO文件中指出，其数据中心冷却需要大量水资源，而获取充足且廉价的水资源是一大挑战。这可能影响其AI和云计算业务的扩张。",
+          "summary_en": "SpaceX's IPO filing reveals that significant water resources are needed to cool its data centers, and access to abundant affordable water poses a challenge. This could impact its AI and cloud computing expansion.",
           "url": "https://techcrunch.com/2026/06/01/water-access-is-now-a-risk-factor-in-spacexs-ipo/",
           "source": "TechCrunch AI",
           "source_icon": "techcrunch",
-          "heat": 5.0,
+          "heat": 5.5,
           "tags": [
+            "SpaceX",
+            "IPO",
             "数据中心",
-            "水资源",
-            "环境"
+            "水资源"
           ],
-          "student_note": "关注AI基础设施的环境成本，可思考可持续发展挑战。",
+          "student_note": "对于关注AI基础设施环境影响的同学，这篇报道值得一看。",
           "published_at": "2026-06-01T18:19:53+00:00"
         },
         {
-          "title_cn": "AI时代原型开发速度变革",
+          "title_cn": "Groq如何筹集更多资金？",
+          "title_en": "How is Groq raising more money?",
+          "summary_cn": "AI芯片公司Groq正在探索新一轮融资，市场关注其高效推理芯片的竞争力和商业化前景。",
+          "summary_en": "AI chip startup Groq is pursuing a new funding round, with the market watching its competitive edge in efficient inference hardware and commercialization path.",
+          "url": "https://www.zach.be/p/how-the-hell-is-groq-raising-more",
+          "source": "Hacker News",
+          "source_icon": "hackernews",
+          "heat": 5.0,
+          "tags": [
+            "芯片",
+            "融资",
+            "Groq"
+          ],
+          "student_note": null,
+          "published_at": "2026-06-02T01:05:29+00:00",
+          "meta": "▲ 75 · 💬 33"
+        },
+        {
+          "title_cn": "DuckDuckGo强化无AI搜索",
+          "title_en": "DuckDuckGo makes its 'no-AI' search engine easier to access as its traffic booms",
+          "summary_cn": "隐私搜索引擎DuckDuckGo因流量激增，进一步优化其“无AI”搜索功能，并使其更易于访问，吸引对AI反感的用户。",
+          "summary_en": "Privacy-focused search engine DuckDuckGo, with booming traffic, has made its 'no-AI' search engine easier to access, appealing to users wary of AI.",
+          "url": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/",
+          "source": "Hacker News",
+          "source_icon": "hackernews",
+          "heat": 5.0,
+          "tags": [
+            "搜索",
+            "隐私",
+            "DuckDuckGo"
+          ],
+          "student_note": "关注隐私与AI的权衡，思考技术伦理差异。",
+          "published_at": "2026-06-01T16:33:59+00:00",
+          "meta": "▲ 293 · 💬 143"
+        },
+        {
+          "title_cn": "The Speed of Prototyping in the Age of AI",
           "title_en": "The Speed of Prototyping in the Age of AI",
-          "summary_cn": "文章探讨了AI（如大语言模型、代码生成工具）如何极大缩短从想法到原型的时间，推动快速迭代。这对产品开发和创业有重要启示。",
-          "summary_en": "This article explores how AI tools accelerate prototyping, drastically reducing the time from idea to prototype. This enables faster iteration and innovation in product development.",
+          "summary_cn": "",
+          "summary_en": "",
           "url": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai",
           "source": "Hacker News",
           "source_icon": "hackernews",
           "heat": 5.0,
           "tags": [
-            "AI开发",
-            "原型",
-            "创业"
+            "原型设计",
+            "AI时代",
+            "开发效率"
           ],
-          "student_note": "推荐阅读，理解AI如何提升个人和团队的开发效率。",
+          "student_note": null,
           "published_at": "2026-05-31T16:37:34+00:00",
-          "meta": "▲ 189 · 💬 94"
+          "meta": "▲ 190 · 💬 94"
         },
         {
-          "title_cn": "探讨AI妄想症争论",
+          "title_cn": "Rubin Tracks Skyscraper-Size Asteroids and Failed Supernovas",
+          "title_en": "Rubin Tracks Skyscraper-Size Asteroids and Failed Supernovas",
+          "summary_cn": "",
+          "summary_en": "",
+          "url": "https://www.quantamagazine.org/rubin-tracks-skyscraper-size-asteroids-failed-supernovas-and-interstellar-visitors-20260515/",
+          "source": "Hacker News",
+          "source_icon": "hackernews",
+          "heat": 5.0,
+          "tags": [
+            "天文学",
+            "望远镜",
+            "科学新闻"
+          ],
+          "student_note": null,
+          "published_at": "2026-06-01T04:08:02+00:00",
+          "meta": "▲ 53 · 💬 19"
+        },
+        {
+          "title_cn": "Policy-based Foveated Imaging and Perception",
+          "title_en": "Policy-based Foveated Imaging and Perception",
+          "summary_cn": "Ultra-high-resolution image sensors offer the potential to capture fine spatial details critical for many visual perception tasks, but acquiring and processing all pixels at full resolution is often infeasible under realistic bandwidth, latency, and power constraints. Existing approaches address this challenge through acquisition strategies such as spatial or temporal downsampling, which irrevocably discard information before task relevance can be assessed. In this work, we introduce a real-time",
+          "summary_en": "Ultra-high-resolution image sensors offer the potential to capture fine spatial details critical for many visual perception tasks, but acquiring and processing all pixels at full resolution is often infeasible under realistic bandwidth, latency, and power constraints. Existing approaches address this challenge through acquisition strategies such as spatial or temporal downsampling, which irrevocably discard information before task relevance can be assessed. In this work, we introduce a real-time",
+          "url": "http://arxiv.org/abs/2606.02565v1",
+          "source": "ArXiv cs.CV",
+          "source_icon": "arxiv",
+          "heat": 5.0,
+          "tags": [
+            "策略学习",
+            "注视点渲染",
+            "计算成像"
+          ],
+          "student_note": null,
+          "published_at": "2026-06-01T17:55:05+00:00",
+          "meta": "Howard Xiao, Jan Ackermann, Boyang Deng"
+        },
+        {
+          "title_cn": "AI精神病：科技CEO的隐患？",
           "title_en": "Making sense of the debate over AI psychosis",
-          "summary_cn": "在TechCrunch的播客节目中，嘉宾们就科技CEO是否特别容易陷入“AI妄想症”展开辩论。“AI妄想症”指对AI能力过度乐观或偏执的倾向，该讨论反映了行业对AI风险与机遇的深层焦虑。",
-          "summary_en": "In a TechCrunch Equity episode, guests debate whether tech CEOs are uniquely prone to 'AI psychosis'—an excessive optimism or paranoia about AI. The discussion reflects deep industry anxieties over AI risks and opportunities.",
+          "summary_cn": "本期讨论科技CEO是否“特别容易患上AI精神病”——指他们对AI能力的过度乐观或不切实际的幻想。该术语描述了AI领袖在宣传时可能出现的认知偏差。",
+          "summary_en": "The latest Equity podcast debates whether tech CEOs are 'uniquely prone to AI psychosis'—a term describing over-optimism or delusions about AI capabilities, leading to potential cognitive biases in their hype.",
           "url": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
           "source": "TechCrunch AI",
           "source_icon": "techcrunch",
           "heat": 5.0,
           "tags": [
-            "AI焦虑",
-            "行业讨论",
-            "TechCrunch播客"
+            "AI精神病",
+            "科技CEO",
+            "认知偏差"
           ],
-          "student_note": null,
+          "student_note": "有助于理解AI行业中的过度炒作现象，推荐听原播客。",
           "published_at": "2026-05-31T15:30:00+00:00"
         },
         {
-          "title_cn": "追踪巨大小行星与失败超新星",
-          "title_en": "Rubin Tracks Skyscraper-Size Asteroids and Failed Supernovas",
-          "summary_cn": "鲁宾天文台（Vera C. Rubin Observatory）正利用其强大的巡天能力，追踪尺寸堪比摩天大楼的小行星以及未能成功爆发的“失败超新星”。这些观测将帮助科学家理解太阳系天体分布和恒星演化过程。",
-          "summary_en": "The Rubin Observatory is using its powerful sky survey capabilities to track skyscraper-sized asteroids and failed supernovas. These observations will help scientists understand the distribution of solar system objects and stellar evolution.",
-          "url": "https://www.quantamagazine.org/rubin-tracks-skyscraper-size-asteroids-failed-supernovas-and-interstellar-visitors-20260515/",
+          "title_cn": "斯坦福CS336的AI智能体指南",
+          "title_en": "AI Agent Guidelines for CS336 at Stanford",
+          "summary_cn": "斯坦福大学为计算机科学课程CS336发布了AI智能体使用指南，规范学生在作业和项目中如何正确使用AI工具以保障学术诚信。",
+          "summary_en": "Stanford University has published AI agent guidelines for its CS336 course, regulating how students may use AI tools in assignments and projects to maintain academic integrity.",
+          "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
           "source": "Hacker News",
           "source_icon": "hackernews",
           "heat": 4.0,
           "tags": [
-            "天文观测",
-            "小行星",
-            "超新星",
-            "鲁宾天文台"
+            "AI使用规范",
+            "斯坦福",
+            "学术诚信"
           ],
-          "student_note": null,
-          "published_at": "2026-06-01T04:08:02+00:00",
-          "meta": "▲ 52 · 💬 19"
+          "student_note": "推荐阅读，了解高校如何制定AI使用规范，对未来学术写作和项目管理有参考价值。",
+          "published_at": "2026-06-01T16:41:49+00:00",
+          "meta": "▲ 375 · 💬 124"
         },
         {
-          "title_cn": "蓝牙名称触发美联航航班返航",
-          "title_en": "United Airlines 767 returns to Newark after Bluetooth name sparks alert",
-          "summary_cn": "美联航一架767客机因某蓝牙设备名称触发安全警报，被迫返回纽瓦克机场。此事件凸显航空业对无线设备的敏感性和潜在安全漏洞，也反映出数字安全与航空安全的交叉。",
-          "summary_en": "A United Airlines 767 returned to Newark after a Bluetooth device name triggered a security alert. The incident highlights the aviation industry's sensitivity to wireless devices and potential security vulnerabilities.",
-          "url": "https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/",
-          "source": "Hacker News",
-          "source_icon": "hackernews",
-          "heat": 3.5,
+          "title_cn": "环保斗士抨击数据中心保密",
+          "title_en": "Erin Brockovich takes aim at data center secrecy",
+          "summary_cn": "知名环保活动家Erin Brockovich开始关注数据中心（含AI数据中心）的透明度和环保问题，批评其缺乏信息公开。",
+          "summary_en": "Environmental activist Erin Brockovich has a new mission: challenging the secrecy surrounding data centers, including AI data centers, over environmental transparency.",
+          "url": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
+          "source": "TechCrunch AI",
+          "source_icon": "techcrunch",
+          "heat": 4.0,
           "tags": [
-            "航空安全",
-            "无线设备",
-            "漏洞"
+            "环保",
+            "数据中心",
+            "透明度"
           ],
           "student_note": null,
-          "published_at": "2026-05-31T12:41:19+00:00",
-          "meta": "▲ 412 · 💬 882"
+          "published_at": "2026-05-31T21:05:14+00:00"
+        },
+        {
+          "title_cn": "Chipotlai Max项目",
+          "title_en": "Chipotlai Max",
+          "summary_cn": "Hacker News出现名为“Chipotlai Max”的条目，具体内容未详述，可能为AI相关项目或产品。",
+          "summary_en": "A Hacker News entry titled 'Chipotlai Max' appeared, with no further details, possibly referring to an AI-related project or product.",
+          "url": "https://github.com/cyberpapiii/chipotlai-max",
+          "source": "Hacker News",
+          "source_icon": "hackernews",
+          "heat": 3.0,
+          "tags": [
+            "项目",
+            "Hacker News",
+            "未明"
+          ],
+          "student_note": null,
+          "published_at": "2026-06-01T23:06:35+00:00",
+          "meta": "▲ 154 · 💬 27"
+        },
+        {
+          "title_cn": "Launch HN: Expanse (YC P26) – Unlock Wasted GPU Capacity",
+          "title_en": "Launch HN: Expanse (YC P26) – Unlock Wasted GPU Capacity",
+          "summary_cn": "Hey HN, we’re Ismaeel, Eren, Yafet and Nikodem. We built Expanse (<a href=\"https:&#x2F;&#x2F;expanse.sh&#x2F;\">https:&#x2F;&#x2F;expanse.sh&#x2F;</a>) to increase the effective capacity of your HPC&#x2F;GPU clusters running schedulers&#x2F;orchestrators like Kubernetes and SLURM. We read the source code, job submission script, and the hardware a workload is about to run on to predict what the job actually needs before the cluster sees it. We also flag failures we think are about to happen and su",
+          "summary_en": "Hey HN, we’re Ismaeel, Eren, Yafet and Nikodem. We built Expanse (<a href=\"https:&#x2F;&#x2F;expanse.sh&#x2F;\">https:&#x2F;&#x2F;expanse.sh&#x2F;</a>) to increase the effective capacity of your HPC&#x2F;GPU clusters running schedulers&#x2F;orchestrators like Kubernetes and SLURM. We read the source code, job submission script, and the hardware a workload is about to run on to predict what the job actually needs before the cluster sees it. We also flag failures we think are about to happen and su",
+          "url": "https://news.ycombinator.com/item?id=48356312",
+          "source": "Hacker News",
+          "source_icon": "hackernews",
+          "heat": 3.0,
+          "tags": [
+            "GPU",
+            "YC",
+            "创业",
+            "算力"
+          ],
+          "student_note": null,
+          "published_at": "2026-06-01T13:05:02+00:00",
+          "meta": "▲ 76 · 💬 23"
+        },
+        {
+          "title_cn": "海盗湾20年后依然坚挺",
+          "title_en": "The Pirate Bay Remains Resilient, 20 Years After the Raid",
+          "summary_cn": "知名文件共享网站海盗湾在执法部门突袭20年后依然运营，展示其在数字版权冲突中的顽强生命力及去中心化网络的挑战。",
+          "summary_en": "The Pirate Bay, the iconic file-sharing site, remains operational 20 years after a major police raid, demonstrating resilience amidst digital copyright battles and decentralized network challenges.",
+          "url": "https://torrentfreak.com/the-pirate-bay-remains-resilient-20-years-after-the-raid/",
+          "source": "Hacker News",
+          "source_icon": "hackernews",
+          "heat": 2.0,
+          "tags": [
+            "文件共享",
+            "网络",
+            "历史"
+          ],
+          "student_note": null,
+          "published_at": "2026-06-01T14:16:41+00:00",
+          "meta": "▲ 541 · 💬 261"
         }
       ]
     },
@@ -781,21 +791,276 @@
       "icon": "📚",
       "items": [
         {
-          "title_cn": "Yann LeCun世界模型获形式化证明",
-          "title_en": "Yann LeCun’s World Model Earns a Formal Proof: Benchmark Finds Current Models Brittle",
-          "summary_cn": "Yann LeCun提出的世界模型（World Model）概念获得了形式化证明，同时新的基准测试发现当前主流AI模型在应对分布外场景时表现脆弱。这一成果为构建更鲁棒的AI系统提供了理论基础。",
-          "summary_en": "Yann LeCun's World Model concept has received a formal proof, while a new benchmark finds that current AI models are brittle in out-of-distribution scenarios. This advancement provides a theoretical foundation for building more robust AI systems.",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPekFlSHB6UlZPMlp1STZtY2VuTXJSWTgwLU1ZWXE1UFZVeGdBRWlNbUlOUG11R0dteUJNdktVUm00N1hVQ1B5QUQ2TktJeVlUaWYxcU5sb2RsblFkQVFFcGNDMTBFN3dpQ1dlVWpCcHJ6blFHX0JtalN4YzU4cV92Vkk3SmVWS2M3QzRSRzI4dF9FWDBhZjJ2aktUbHZJeXYtdDVuQWRIa0o0Y1Y5aXZkbFRIaElFa3BDLWxzQkpaNkNQd1R0c0xNbUd2eENUMHFOcGc?oc=5",
-          "source": "Yann LeCun · Tech Times",
-          "source_icon": "lecun",
-          "heat": 8.0,
+          "title_cn": "Mitigating Perceptual Judgment Bias in Multimodal LLM-as-a-Judge via Perceptual Perturbation and Reward Modeling",
+          "title_en": "Mitigating Perceptual Judgment Bias in Multimodal LLM-as-a-Judge via Perceptual Perturbation and Reward Modeling",
+          "summary_cn": "Recent multimodal large language models have demonstrated strong reasoning ability, yet their reliability as automated evaluators remains limited by a critical weakness: when visual evidence conflicts with textual cues, MLLM judges tend to reward plausible narratives over perceptually correct answers. We identify and systematically analyze this phenomenon, which we term Perceptual Judgment Bias. Through controlled visual perturbations, existing multimodal judges frequently anchor on the response",
+          "summary_en": "Recent multimodal large language models have demonstrated strong reasoning ability, yet their reliability as automated evaluators remains limited by a critical weakness: when visual evidence conflicts with textual cues, MLLM judges tend to reward plausible narratives over perceptually correct answers. We identify and systematically analyze this phenomenon, which we term Perceptual Judgment Bias. Through controlled visual perturbations, existing multimodal judges frequently anchor on the response",
+          "url": "http://arxiv.org/abs/2606.02578v1",
+          "source": "ArXiv cs.AI",
+          "source_icon": "arxiv",
+          "heat": 7.0,
           "tags": [
-            "世界模型",
-            "形式化证明",
-            "Yann LeCun"
+            "多模态",
+            "评估偏见",
+            "奖励建模",
+            "LLM"
           ],
-          "student_note": "推荐AI学生阅读相关论文，理解世界模型的核心思想及其对强化学习和机器人领域的潜在影响。",
-          "published_at": "2026-05-31T16:13:43+00:00"
+          "student_note": null,
+          "published_at": "2026-06-01T17:59:46+00:00",
+          "meta": "Seojeong Park, Jiho Choi, Junyong Kang"
+        },
+        {
+          "title_cn": "Iteris：计算数学的智能体研究循环",
+          "title_en": "Iteris: Agentic Research Loops for Computational Mathematics",
+          "summary_cn": "LLM和智能体系统在数学发现上取得进展，但计算数学中的开放问题关注较少。Iteris设计了一种智能体研究循环，自动探索计算数学问题、提出猜想、验证并迭代，有望加速该领域的突破。",
+          "summary_en": "While LLMs help with math discovery, computational math open problems are less addressed. Iteris creates agentic loops that autonomously explore, conjecture, and verify in computational mathematics.",
+          "url": "http://arxiv.org/abs/2606.02484v1",
+          "source": "ArXiv cs.AI",
+          "source_icon": "arxiv",
+          "heat": 6.5,
+          "tags": [
+            "智能体",
+            "数学发现",
+            "AI4Science"
+          ],
+          "student_note": "适合数学与CS交叉方向学生，了解AI辅助数学研究的自动化范式。",
+          "published_at": "2026-06-01T16:54:31+00:00",
+          "meta": "Leheng Chen, Zihao Liu, Wanyi He"
+        },
+        {
+          "title_cn": "幽灵工具调用：保护推测代理的隐私",
+          "title_en": "Ghost Tool Calls: Issue-Time Privacy for Speculative Agent Tools",
+          "summary_cn": "工具增强型语言代理为了降低延迟，会推测性地提前调用未来可能需要的工具。但这些猜测调用会向外部服务泄露用户意图，即使代理后来放弃该分支。本文提出“幽灵工具调用”概念，在调用时即保护隐私，使外部服务无法辨别真实意图。",
+          "summary_en": "Speculative tool calls in agents leak user intent to external services. Ghost Tool Calls provide issue-time privacy, making speculative calls indistinguishable from real ones to observers.",
+          "url": "http://arxiv.org/abs/2606.02483v1",
+          "source": "ArXiv cs.AI",
+          "source_icon": "arxiv",
+          "heat": 6.5,
+          "tags": [
+            "隐私保护",
+            "工具调用",
+            "智能体"
+          ],
+          "student_note": "关注AI隐私安全的学生可了解这一新型隐私威胁与防护思路。",
+          "published_at": "2026-06-01T16:53:19+00:00",
+          "meta": "Bardia Mohammadi, Lars Klein, Akhil Arora"
+        },
+        {
+          "title_cn": "Not All Errors Are Equal: A Systematic Study of Error Propagation in Large Language Model Inference",
+          "title_en": "Not All Errors Are Equal: A Systematic Study of Error Propagation in Large Language Model Inference",
+          "summary_cn": "Large language models (LLMs) are increasingly integrated into high-performance computing (HPC) workflows, accelerating scientific discovery through diverse perspectives such as code generation and domain-specific decision-making. Yet, how soft errors propagate and affect LLM inference remains largely unexplored. To bridge this gap, we present a comprehensive study on error propagation in LLM inference, enabled by our proposed LLMFI, a configurable and deterministic fault-injection framework. Usi",
+          "summary_en": "Large language models (LLMs) are increasingly integrated into high-performance computing (HPC) workflows, accelerating scientific discovery through diverse perspectives such as code generation and domain-specific decision-making. Yet, how soft errors propagate and affect LLM inference remains largely unexplored. To bridge this gap, we present a comprehensive study on error propagation in LLM inference, enabled by our proposed LLMFI, a configurable and deterministic fault-injection framework. Usi",
+          "url": "http://arxiv.org/abs/2606.02430v1",
+          "source": "ArXiv cs.AI",
+          "source_icon": "arxiv",
+          "heat": 6.5,
+          "tags": [
+            "错误传播",
+            "LLM推理",
+            "系统研究"
+          ],
+          "student_note": null,
+          "published_at": "2026-06-01T16:04:51+00:00",
+          "meta": "Yafan Huang, Sheng Di, Guanpeng Li"
+        },
+        {
+          "title_cn": "LongLive-RAG: A General Retrieval-Augmented Framework for Long Video Generation",
+          "title_en": "LongLive-RAG: A General Retrieval-Augmented Framework for Long Video Generation",
+          "summary_cn": "Autoregressive (AR) video diffusion enables variable-length synthesis, but long-horizon generation often suffers from accumulated errors and identity drift. For efficiency, existing methods commonly adopt sliding-window attention during generation. This creates an irreversible generation trajectory: once the active window accumulates appearance errors, subsequent generations can only condition on this degraded trajectory and drift further away. We address this limitation by formulating long vide",
+          "summary_en": "Autoregressive (AR) video diffusion enables variable-length synthesis, but long-horizon generation often suffers from accumulated errors and identity drift. For efficiency, existing methods commonly adopt sliding-window attention during generation. This creates an irreversible generation trajectory: once the active window accumulates appearance errors, subsequent generations can only condition on this degraded trajectory and drift further away. We address this limitation by formulating long vide",
+          "url": "http://arxiv.org/abs/2606.02553v1",
+          "source": "ArXiv cs.CV",
+          "source_icon": "arxiv",
+          "heat": 6.5,
+          "tags": [
+            "长视频生成",
+            "RAG",
+            "检索增强"
+          ],
+          "student_note": null,
+          "published_at": "2026-06-01T17:50:49+00:00",
+          "meta": "Qixin Hu, Shuai Yang, Wei Huang"
+        },
+        {
+          "title_cn": "AdaCodec: A Predictive Visual Code for Video MLLMs",
+          "title_en": "AdaCodec: A Predictive Visual Code for Video MLLMs",
+          "summary_cn": "Video is temporally redundant: adjacent frames usually share most objects, background, and layout. Yet existing video multimodal large language models (video MLLMs) usually encode each sampled frame as an independent RGB image, causing visual tokens to repeat content already present in earlier frames. This suggests a more direct video interface: send a full reference frame only when the scene cannot be predicted well from prior context, and otherwise transmit a compact description of inter-frame",
+          "summary_en": "Video is temporally redundant: adjacent frames usually share most objects, background, and layout. Yet existing video multimodal large language models (video MLLMs) usually encode each sampled frame as an independent RGB image, causing visual tokens to repeat content already present in earlier frames. This suggests a more direct video interface: send a full reference frame only when the scene cannot be predicted well from prior context, and otherwise transmit a compact description of inter-frame",
+          "url": "http://arxiv.org/abs/2606.02569v1",
+          "source": "ArXiv cs.AI",
+          "source_icon": "arxiv",
+          "heat": 6.0,
+          "tags": [
+            "视觉编码",
+            "视频多模态",
+            "预测编码"
+          ],
+          "student_note": null,
+          "published_at": "2026-06-01T17:56:35+00:00",
+          "meta": "Haowen Hou, Zhen Huang, Zheming Liang"
+        },
+        {
+          "title_cn": "ClinEnv: An Interactive Multi-Stage Long Horizon EHR Environment for Agents",
+          "title_en": "ClinEnv: An Interactive Multi-Stage Long Horizon EHR Environment for Agents",
+          "summary_cn": "Clinical practice is not the selection of an answer from enumerated options: a physician gathers heterogeneous information incrementally and commits to sequential, irreversible decisions under uncertainty. Static benchmarks cannot probe and existing interactive medical benchmarks each compromise on at least one of them. We present ClinEnv, an interactive benchmark that evaluates LLMs as attending physicians over real inpatient admissions under a paradigm we term Longitudinal Inpatient Simulation",
+          "summary_en": "Clinical practice is not the selection of an answer from enumerated options: a physician gathers heterogeneous information incrementally and commits to sequential, irreversible decisions under uncertainty. Static benchmarks cannot probe and existing interactive medical benchmarks each compromise on at least one of them. We present ClinEnv, an interactive benchmark that evaluates LLMs as attending physicians over real inpatient admissions under a paradigm we term Longitudinal Inpatient Simulation",
+          "url": "http://arxiv.org/abs/2606.02568v1",
+          "source": "ArXiv cs.AI",
+          "source_icon": "arxiv",
+          "heat": 6.0,
+          "tags": [
+            "医疗健康",
+            "电子病历",
+            "智能体",
+            "长时程"
+          ],
+          "student_note": null,
+          "published_at": "2026-06-01T17:56:26+00:00",
+          "meta": "Yuxing Lu, Yushuhong Lin, Wenqi Shi"
+        },
+        {
+          "title_cn": "Permissive Safety Through Trusted Inference: Verifiable Belief-Space Neural Safety Filters for Assured Interactive Robotics",
+          "title_en": "Permissive Safety Through Trusted Inference: Verifiable Belief-Space Neural Safety Filters for Assured Interactive Robotics",
+          "summary_cn": "Autonomous robots that interact with people must make safe and efficient decisions under human-induced uncertainty, such as their preferences, goals, competency, and willingness to cooperate. Safety filters are a popular approach for ensuring safety in interactive robotics, since their modular design separates safety from performance, allowing robots to operate safely around people with minimal impact on task efficiency. While traditional safety filters typically operate only in the physical spa",
+          "summary_en": "Autonomous robots that interact with people must make safe and efficient decisions under human-induced uncertainty, such as their preferences, goals, competency, and willingness to cooperate. Safety filters are a popular approach for ensuring safety in interactive robotics, since their modular design separates safety from performance, allowing robots to operate safely around people with minimal impact on task efficiency. While traditional safety filters typically operate only in the physical spa",
+          "url": "http://arxiv.org/abs/2606.02562v1",
+          "source": "ArXiv cs.AI",
+          "source_icon": "arxiv",
+          "heat": 6.0,
+          "tags": [
+            "机器人安全",
+            "神经安全过滤",
+            "可信推理"
+          ],
+          "student_note": null,
+          "published_at": "2026-06-01T17:54:00+00:00",
+          "meta": "Haimin Hu"
+        },
+        {
+          "title_cn": "LLM压缩：从层到子模块的粒度革命",
+          "title_en": "From Layers to Submodules: Rethinking Granularity in Replacement-Based LLM Compression",
+          "summary_cn": "传统LLM压缩方法以完整层为单位进行替换或删除，但这种方式限制了灵活性。该研究提出将压缩粒度细化到子模块级别，通过非连续选择实现更精准的模型瘦身，有望在保持性能的同时大幅降低计算成本。",
+          "summary_en": "Existing LLM compression methods operate at full-layer granularity with contiguous selection. This work argues for finer granularity by replacing or deleting submodules, enabling more flexible and efficient compression.",
+          "url": "http://arxiv.org/abs/2606.02559v1",
+          "source": "ArXiv cs.AI",
+          "source_icon": "arxiv",
+          "heat": 6.0,
+          "tags": [
+            "LLM压缩",
+            "模型优化",
+            "子模块"
+          ],
+          "student_note": "推荐学习：理解子模块压缩思路，有助于掌握模型轻量化前沿。",
+          "published_at": "2026-06-01T17:52:53+00:00",
+          "meta": "Elia Cunegatti, Marcus Vukojevic, Erik Nielsen"
+        },
+        {
+          "title_cn": "SafeSteer：高效安全对齐的局部位策略蒸馏",
+          "title_en": "SafeSteer: Localized On-Policy Distillation for Efficient Safety Alignment",
+          "summary_cn": "LLM安全对齐通常会导致通用能力下降（对齐税）。SafeSteer提出局部位策略蒸馏，仅在需要安全的局部区域进行对齐训练，避免全局数据依赖和辅助奖励模型，在保持安全性的同时显著减少能力损失。",
+          "summary_en": "Safety alignment in LLMs often degrades general capabilities (alignment tax). SafeSteer uses localized on-policy distillation to align only safety-critical regions, reducing tax without needing massive data or reward models.",
+          "url": "http://arxiv.org/abs/2606.02530v1",
+          "source": "ArXiv cs.AI",
+          "source_icon": "arxiv",
+          "heat": 6.0,
+          "tags": [
+            "安全对齐",
+            "知识蒸馏",
+            "LLM"
+          ],
+          "student_note": "推荐AI安全方向学生关注，了解如何缓解对齐税问题。",
+          "published_at": "2026-06-01T17:38:12+00:00",
+          "meta": "Hao Li, Jingkun An, Zijun Song"
+        },
+        {
+          "title_cn": "RASER：多跳问答的高效路由策略",
+          "title_en": "RASER: Recoverability-Aware Selective Escalation Router for Multi-Hop Question Answering",
+          "summary_cn": "多跳问答系统通常对每个问题都进行昂贵检索（如多次LLM调用）。RASER提出可恢复性感知的选择升级路由：先尝试简单直接回答，如果判断无法恢复正确结果，再升级到多跳策略，从而节省大量计算资源。",
+          "summary_en": "Multi-hop QA often uses expensive retrieval on every question. RASER first attempts direct answering and only escalates to multi-hop when recoverability is low, reducing cost significantly.",
+          "url": "http://arxiv.org/abs/2606.02488v1",
+          "source": "ArXiv cs.AI",
+          "source_icon": "arxiv",
+          "heat": 6.0,
+          "tags": [
+            "多跳问答",
+            "路由策略",
+            "效率"
+          ],
+          "student_note": null,
+          "published_at": "2026-06-01T16:59:36+00:00",
+          "meta": "Yuyang Li, Zihe Yan, Tobias Käfer"
+        },
+        {
+          "title_cn": "MCP-Persona：真实个人应用中的LLM代理基准",
+          "title_en": "MCP-Persona: Benchmarking LLM Agents on Real-World Personal Applications via Environment Simulation",
+          "summary_cn": "模型上下文协议（MCP）已成为LLM连接外部工具的标准，现有基准多聚焦通用场景。MCP-Persona通过模拟真实个人应用环境（如邮件、日历、文件管理），评估代理在具体个人任务上的表现，填补了实际应用测试的空白。",
+          "summary_en": "MCP enables LLMs to use external tools, but benchmarks lack real personal apps. MCP-Persona simulates environments like email and calendar to evaluate agents on practical personal tasks.",
+          "url": "http://arxiv.org/abs/2606.02470v1",
+          "source": "ArXiv cs.AI",
+          "source_icon": "arxiv",
+          "heat": 6.0,
+          "tags": [
+            "基准测试",
+            "LLM代理",
+            "MCP"
+          ],
+          "student_note": "适合做Agent应用开发的学生，了解基于MCP的实用评估方法。",
+          "published_at": "2026-06-01T16:44:10+00:00",
+          "meta": "Wenhao Wang, Peizhi Niu, Gongyi Zou"
+        },
+        {
+          "title_cn": "多语言推理中的翻译时机学习",
+          "title_en": "Learning When to Translate for Multilingual Reasoning",
+          "summary_cn": "推理语言模型在多语言推理上存在差距，主要源于非英语输入的理解问题。机器翻译可缓解，但盲目翻译所有输入成本高且可能损失语义。本文提出一个学习何时翻译的决策模型，根据语言和问题复杂度动态选择翻译策略，提升推理准确率。",
+          "summary_en": "Multilingual reasoning gaps stem from understanding failures in non-English inputs. This work learns when to translate inputs, balancing cost and accuracy, improving reasoning performance across languages.",
+          "url": "http://arxiv.org/abs/2606.02465v1",
+          "source": "ArXiv cs.AI",
+          "source_icon": "arxiv",
+          "heat": 6.0,
+          "tags": [
+            "多语言",
+            "推理",
+            "机器翻译"
+          ],
+          "student_note": "多语言NLP方向的同学可关注，了解翻译与推理的动态权衡。",
+          "published_at": "2026-06-01T16:37:18+00:00",
+          "meta": "Deokhyung Kang, Hyounghun Kim, Gary Geunbae Lee"
+        },
+        {
+          "title_cn": "MASER：具身3D空间智能的模态自适应路由",
+          "title_en": "MASER: Modality-Adaptive Specialist Routing for Embodied 3D Spatial Intelligence",
+          "summary_cn": "在3D环境中，具身代理需要综合自然语言、RGB图像、点云、深度图和相机位姿等多模态信息回答空间问题。现有视觉语言模型通常针对单一模态微调。MASER提出模态自适应专家路由，为不同模态选择专门专家模型，协同推理提升空间问答准确率。",
+          "summary_en": "Embodied agents need multiple modalities for 3D spatial QA. MASER routes queries to modality-specific experts, enabling adaptive fusion and outperforming single-modality fine-tuned models.",
+          "url": "http://arxiv.org/abs/2606.02463v1",
+          "source": "ArXiv cs.AI",
+          "source_icon": "arxiv",
+          "heat": 6.0,
+          "tags": [
+            "具身智能",
+            "多模态",
+            "3D空间"
+          ],
+          "student_note": "适合具身AI或3D视觉方向学生，了解多模态融合新思路。",
+          "published_at": "2026-06-01T16:36:21+00:00",
+          "meta": "Hilton Raj, Vishnuram AV"
+        },
+        {
+          "title_cn": "PaSBench-Video: A Streaming Video Benchmark for Proactive Safety Warning",
+          "title_en": "PaSBench-Video: A Streaming Video Benchmark for Proactive Safety Warning",
+          "summary_cn": "Between the first visible sign of danger and the moment an accident occurs, there is often a window where intervention remains possible. Video-capable multimodal large language models (MLLMs) could serve as always-on safety monitors that issue warnings during this window. Yet current benchmarks do not test this ability: they rely on static inputs, ignore timing precision, and omit false-positive measurement on safe scenes. We present PaSBench-Video, a 740-video benchmark with 481 risk and 259 no",
+          "summary_en": "Between the first visible sign of danger and the moment an accident occurs, there is often a window where intervention remains possible. Video-capable multimodal large language models (MLLMs) could serve as always-on safety monitors that issue warnings during this window. Yet current benchmarks do not test this ability: they rely on static inputs, ignore timing precision, and omit false-positive measurement on safe scenes. We present PaSBench-Video, a 740-video benchmark with 481 risk and 259 no",
+          "url": "http://arxiv.org/abs/2606.02443v1",
+          "source": "ArXiv cs.AI",
+          "source_icon": "arxiv",
+          "heat": 6.0,
+          "tags": [
+            "视频安全",
+            "基准测试",
+            "LLM"
+          ],
+          "student_note": null,
+          "published_at": "2026-06-01T16:14:01+00:00",
+          "meta": "Yusong Zhao, Yuejin Xie, Youliang Yuan"
         }
       ]
     }
