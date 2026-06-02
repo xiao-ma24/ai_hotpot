@@ -1,4 +1,4 @@
-import { useState, useCallback } from 'react'
+import { useState, useCallback, useEffect, useRef } from 'react'
 import { useDailyData } from './hooks/useDailyData'
 import { Header } from './components/Header'
 import { HeadlineCarousel } from './components/HeadlineCarousel'
@@ -9,10 +9,8 @@ import type { NewsItem } from './types'
 function SkeletonLoader() {
   return (
     <div className="px-3 pt-4 animate-pulse">
-      {/* Headline skeleton */}
       <div className="skeleton h-3 w-16 rounded mb-3" />
       <div className="skeleton h-32 w-full rounded-[14px] mb-4" />
-      {/* Section skeletons */}
       {[1, 2, 3].map(i => (
         <div key={i} className="mb-4">
           <div className="skeleton h-3 w-24 rounded mb-2" />
@@ -29,11 +27,32 @@ export default function App() {
   const [activeTab, setActiveTab] = useState('all')
   const [ptrY, setPtrY] = useState(0)
   const [ptrState, setPtrState] = useState<'idle' | 'pulling' | 'refreshing'>('idle')
+  const [readUrls, setReadUrls] = useState<Set<string>>(new Set())
+  const [showBackTop, setShowBackTop] = useState(false)
+  const contentRef = useRef<HTMLDivElement>(null)
+
+  // Track scroll position for back-to-top button
+  useEffect(() => {
+    const onScroll = () => setShowBackTop(window.scrollY > 400)
+    window.addEventListener('scroll', onScroll, { passive: true })
+    return () => window.removeEventListener('scroll', onScroll)
+  }, [])
+
+  // Scroll to top when tab changes
+  useEffect(() => {
+    window.scrollTo({ top: 0, behavior: 'smooth' })
+  }, [activeTab])
 
   const handleItemClick = useCallback((item: NewsItem) => {
     if (item.url) {
+      // Mark as read
+      setReadUrls(prev => new Set(prev).add(item.url))
       window.location.href = item.url
     }
+  }, [])
+
+  const handleBackToTop = useCallback(() => {
+    window.scrollTo({ top: 0, behavior: 'smooth' })
   }, [])
 
   const handleRefresh = useCallback(async () => {
@@ -43,7 +62,6 @@ export default function App() {
     setPtrY(0)
   }, [refresh])
 
-  // Touch handlers for pull-to-refresh
   const handleTouchStart = useCallback((e: React.TouchEvent) => {
     if (window.scrollY === 0) {
       setPtrY(e.touches[0].clientY)
@@ -71,7 +89,6 @@ export default function App() {
       ? data.sections
       : data.sections.filter(s => s.id === activeTab)
 
-  // Compute overall stats for TL;DR
   const totalItems = data.sections.reduce((sum, s) => sum + s.items.length, 0)
   const sectionsWithContent = data.sections.filter(s => s.items.length > 0).length
 
@@ -81,6 +98,7 @@ export default function App() {
       onTouchStart={handleTouchStart}
       onTouchMove={handleTouchMove}
       onTouchEnd={handleTouchEnd}
+      ref={contentRef}
     >
       <Header date={data.date} generatedAt={data.generated_at} />
 
@@ -100,14 +118,12 @@ export default function App() {
         </div>
       ) : (
         <>
-          {/* Pull-to-refresh indicator */}
           {ptrState !== 'idle' && (
             <div className={`ptr-indicator ${ptrState}`}>
-              {ptrState === 'refreshing' ? '🔄 更新中...' : '↓ 下拉刷新'}
+              {ptrState === 'refreshing' ? '更新中...' : '下拉刷新'}
             </div>
           )}
 
-          {/* TL;DR Quick Stats Bar */}
           {activeTab === 'all' && totalItems > 0 && (
             <div className="px-3 pt-1 pb-0.5">
               <div className="card px-4 py-2.5 flex items-center justify-between text-[11px]">
@@ -121,15 +137,14 @@ export default function App() {
             </div>
           )}
 
-          {/* Headline Carousel */}
           {activeTab === 'all' && data.headlines.length > 0 && (
             <HeadlineCarousel
               headlines={data.headlines}
               onItemClick={handleItemClick}
+              readUrls={readUrls}
             />
           )}
 
-          {/* Sections */}
           <div className={activeTab !== 'all' ? 'pt-3' : ''}>
             {filteredSections.map(section => (
               <SectionCard
@@ -137,6 +152,7 @@ export default function App() {
                 section={section}
                 onItemClick={handleItemClick}
                 showCount={activeTab === 'all' ? 5 : 15}
+                readUrls={readUrls}
               />
             ))}
           </div>
@@ -149,11 +165,21 @@ export default function App() {
             </div>
           )}
 
-          {/* Footer */}
           <div className="text-center text-[10px] text-gray-700 py-6 px-4">
             AI 每日热点 · 由 DeepSeek 提供智能摘要 · {data.date}
           </div>
         </>
+      )}
+
+      {/* Back to top button */}
+      {showBackTop && (
+        <button
+          onClick={handleBackToTop}
+          className="back-to-top tap-target"
+          aria-label="回到顶部"
+        >
+          ↑
+        </button>
       )}
 
       <TabBar activeTab={activeTab} onTabChange={setActiveTab} />

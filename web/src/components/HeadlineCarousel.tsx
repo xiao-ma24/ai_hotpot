@@ -7,6 +7,7 @@ import { SECTION_COLORS } from '../types'
 interface HeadlineCarouselProps {
   headlines: NewsItem[]
   onItemClick: (item: NewsItem) => void
+  readUrls?: Set<string>
 }
 
 export function HeadlineCarousel({ headlines, onItemClick }: HeadlineCarouselProps) {

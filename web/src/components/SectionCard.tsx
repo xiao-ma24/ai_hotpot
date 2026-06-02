@@ -7,9 +7,10 @@ interface SectionCardProps {
   section: Section
   onItemClick: (item: INewsItem) => void
   showCount?: number
+  readUrls?: Set<string>
 }
 
-export function SectionCard({ section, onItemClick, showCount = 5 }: SectionCardProps) {
+export function SectionCard({ section, onItemClick, showCount = 5, readUrls }: SectionCardProps) {
   const [expanded, setExpanded] = useState(false)
 
   if (!section.items.length) {
@@ -42,7 +43,7 @@ export function SectionCard({ section, onItemClick, showCount = 5 }: SectionCard
       </div>
 
       {visibleItems.map((item, i) => (
-        <NewsItem key={i} item={item} onClick={onItemClick} sectionId={section.id} />
+        <NewsItem key={i} item={item} onClick={onItemClick} sectionId={section.id} isRead={readUrls?.has(item.url)} />
       ))}
 
       {section.items.length > showCount && (
