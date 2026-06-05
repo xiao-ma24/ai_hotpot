@@ -1,94 +1,95 @@
 {
-  "date": "2026-06-05",
-  "generated_at": "2026-06-05T06:17:44.888037+08:00",
+  "date": "2026-06-06",
+  "generated_at": "2026-06-06T06:08:50.147433+08:00",
   "headlines": [
     {
-      "title_cn": "AI高管罕见联合警告生物武器威胁",
-      "title_en": "AI executives make rare collective warning on bioweapons threat",
-      "summary_cn": "多位AI领域高管（包括Demis Hassabis）罕见地联合发声，警告AI技术可能被用于制造生物武器。他们呼吁加强国际合作与监管，防止AI的双重用途风险。",
-      "summary_en": "AI executives including Demis Hassabis issued a rare collective warning about the potential misuse of AI to create bioweapons, urging international cooperation and regulation to mitigate dual-use risks.",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbkJqOFJiZ29UTnctQjNSaHBIT1UxVVVKTlphQnZrT2V0YVV2eHd2N2JwX3R3eFRoZUluazN2TGlFbnpocVR6c1BsNlVoUC1IclNSYk43X0FGSlZVbU52dktxV1JCS0RFd2RrRmU3S1AzcV8zbHVQUzRnMlNyR1Q0Q3VNSUJkcjl0TWxBUjJlbUV2UENZZml6UC1iODNyUjdYYnBIRGM0U3R4dw?oc=5",
-      "source": "Demis Hassabis · Semafor",
-      "source_icon": "hassabis",
+      "title_cn": "Andrej Karpathy加入Anthropic领导研究",
+      "title_en": "Anthropic taps former OpenAI co-founder and Tesla veteran Andrej Karpathy to lead AI research",
+      "summary_cn": "Anthropic聘请前OpenAI联合创始人、特斯拉AI负责人Andrej Karpathy领导AI研究。Karpathy的加盟将极大增强Anthropic在深度学习和自动驾驶领域的技术实力。",
+      "summary_en": "Anthropic has hired Andrej Karpathy, former OpenAI co-founder and Tesla AI director, to lead its AI research. His addition will significantly boost Anthropic's expertise in deep learning and autonomous driving.",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQaDhXcE9oek1aSEhsNWM1NWFtcndVZGRQT2VGQ2V0d1V1SkhDalY5ZlkzcVo1eUVsZW5iVTJLQ1BFZE00Ykd3OWpPa25idGJqTXR4djY2QzJhdXY3c21fY1pZeUh1UjZRbnJhSUlrTkNNdWZGMG83VVp0VlNjWjc3dEduZEF1UzZjUC1fdUNqai11SWF2RG5vTHhCYnV5ekYtZ1VMaHJvRG5tYy1TVHdlbmtPRVdXRkNBckdJcU1XMjliNVNqVkkwVmYwX2I0UXQwLTVhZ1pYWHlIRVE3U2diUHdB?oc=5",
+      "source": "Andrej Karpathy · MSN",
+      "source_icon": "karpathy",
       "heat": 8.0,
       "tags": [
-        "AI安全",
-        "生物武器",
-        "监管"
+        "Andrej Karpathy",
+        "Anthropic",
+        "人事变动"
       ],
-      "student_note": "关注AI安全与伦理的重要案例，对理解技术治理有深远意义。",
-      "published_at": "2026-06-04T12:29:00+00:00"
+      "student_note": "关注顶尖AI人才流向，了解不同AI机构的战略方向。",
+      "published_at": "2026-06-05T16:29:50+00:00"
     },
     {
-      "title_cn": "ChatGPT推出记忆系统改善个性化",
-      "title_en": "Dreaming: Better memory for a more helpful ChatGPT",
-      "summary_cn": "OpenAI为ChatGPT引入新的记忆系统，使其能记住用户偏好，保持对话上下文连贯性。该功能旨在提供更个性化的体验，但同时也引发隐私关注。",
-      "summary_en": "OpenAI launches a new memory system for ChatGPT that remembers user preferences across conversations, enhancing personalization while raising privacy considerations.",
-      "url": "https://openai.com/index/chatgpt-memory-dreaming",
-      "source": "OpenAI Blog",
-      "source_icon": "openai",
+      "title_cn": "前CTO称Altman回归拯救OpenAI",
+      "title_en": "OpenAI Would’ve ‘Imploded’ If Altman Didn’t Return, Ex-CTO Says",
+      "summary_cn": "OpenAI前CTO透露，如果Sam Altman未被重新任命为CEO，公司可能已经解体。这一说法揭示了AI明星公司内部的管理动荡和治理挑战。",
+      "summary_en": "OpenAI's former CTO claims the company would have imploded without Sam Altman's return. It sheds light on internal turmoil and governance issues at the AI giant.",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT09Ub2pJX1Zial8zaWJrYUpPQUJqbEw0RTNuSkJwZHZwZmUwQ0lUU2pQQ1IxRUI4bDI4TnFzUXBlWDR6ekM5cVREeVhNOEEtTzUzQXUyazU5ZXBIQmF3ZjNfcm5VX2xFSGRVSlhJR3ltQzJDakJERFh6bW5ISDhqUUFudEF3dnNvZ0lvRkVsVTA0Tl9RX1JrMS01YVBVWU5RUnJKTFdlZHlIVy03OVRFaA?oc=5",
+      "source": "Sam Altman · Bloomberg.com",
+      "source_icon": "altman",
       "heat": 8.0,
       "tags": [
-        "ChatGPT",
-        "记忆系统",
-        "个性化",
-        "隐私"
+        "OpenAI",
+        "Sam Altman",
+        "管理动荡"
       ],
-      "student_note": "理解AI记忆机制对学习对话系统和隐私设计有帮助。",
-      "published_at": "2026-06-04T09:00:00+00:00"
+      "student_note": "思考AI公司治理与创始人作用，适合管理或创业课程讨论。",
+      "published_at": "2026-06-05T15:18:30+00:00"
     },
     {
-      "title_cn": "Alphabet创纪录AI融资",
-      "title_en": "Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal",
-      "summary_cn": "Alphabet通过创纪录的850亿美元股票发行筹集资金，用于支持谷歌的AI业务。这笔巨额融资表明投资者对AI领域极度看好，市场信心十足。理解资本对AI发展的推动作用。",
-      "summary_en": "Alphabet raised a record $85 billion through stock sale to fund Google's AI business. This massive raise signals strong investor appetite for AI, reflecting market confidence in the sector.",
-      "url": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
-      "source": "TechCrunch AI",
-      "source_icon": "techcrunch",
-      "heat": 8.0,
-      "tags": [
-        "融资",
-        "Alphabet",
-        "AI投资",
-        "市场信心"
-      ],
-      "student_note": "了解AI产业资本的规模与趋势",
-      "published_at": "2026-06-03T19:38:32+00:00"
-    },
-    {
-      "title_cn": "Gemma 4 12B多模态模型",
-      "title_en": "Gemma 4 12B: A unified, encoder-free multimodal model",
-      "summary_cn": "谷歌发布Gemma 4 12B多模态模型，采用无编码器架构，可统一处理图像、文本等输入。该模型强调简化设计，同时保持高性能。",
-      "summary_en": "Google releases Gemma 4 12B, an encoder-free multimodal model that processes images and text in a unified manner. It focuses on simplicity without sacrificing performance.",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
+      "title_cn": "谷歌每月支付SpaceX 9.2亿美元",
+      "title_en": "Google to pay SpaceX $920M a month for compute capacity at xAI data centers",
+      "summary_cn": "谷歌与SpaceX达成协议，每月支付9.2亿美元，租用xAI数据中心的计算能力。这一巨额投资凸显了AI算力需求的爆炸式增长，以及科技巨头在算力基础设施上的军备竞赛。",
+      "summary_en": "Google has agreed to pay SpaceX $920 million per month for compute capacity at xAI data centers. The deal underscores the soaring demand for AI computing power and the arms race among tech giants for infrastructure.",
+      "url": "https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html",
       "source": "Hacker News",
       "source_icon": "hackernews",
       "heat": 7.5,
       "tags": [
-        "模型发布",
         "谷歌",
-        "多模态"
+        "算力租赁",
+        "xAI",
+        "SpaceX"
       ],
-      "student_note": "推荐阅读，了解多模态模型的无编码器架构设计思路。",
-      "published_at": "2026-06-03T16:04:42+00:00",
-      "meta": "▲ 1007 · 💬 379"
+      "student_note": "了解算力市场格局，对AI基础设施赛道感兴趣的同学可深入追踪。",
+      "published_at": "2026-06-05T20:06:36+00:00",
+      "meta": "▲ 59 · 💬 57"
     },
     {
-      "title_cn": "Apple批准首个AI代理Poke上架商务消息",
-      "title_en": "Apple approves Poke as the first AI agent on its Messages for Business platform",
-      "summary_cn": "Poke成为首个获得Apple许可的AI代理，入驻Messages for Business平台。用户可通过简单文本消息与AI交互，完成预订、查询等任务。",
-      "summary_en": "Apple approves Poke as the first AI agent on its Messages for Business platform, enabling users to interact with AI via simple text for tasks like bookings and inquiries.",
-      "url": "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/",
-      "source": "TechCrunch AI",
-      "source_icon": "techcrunch",
+      "title_cn": "特朗普政府与OpenAI商讨政府入股事宜",
+      "title_en": "Trump administration, OpenAI discussing possible government stake in the AI startup",
+      "summary_cn": "据CNBC报道，特朗普政府与OpenAI正在讨论政府可能持有该AI初创公司股份。此举若成真，将显著影响AI产业政策与竞争格局。",
+      "summary_en": "CNBC reports that the Trump administration is in talks with OpenAI about a potential government stake in the AI startup. If realized, it could significantly impact AI industry policy and competition.",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4ybHlVc085QUVIS2ZReHVWMVNPWTRhYmFuWVN1RXZVZUc0ZnZhbUlMT3Rpa1QxdEs3Q0Z6OG1qZ1VZN2N6TmlOMWlVYkVHc0dITjdkMnlTdnB2WmZZSkY4LW5HZHVRcjlKbDBoYVdva2_SAXZBVV95cUxObW91aGd3RmlfdHhHQVNLVUgyN3V6WDlFMkZ5UXdfbmZEQ0NfLW41REc4eTlMMkh1MlFiMW1BdFJmbm5sN1hOTVhwVl9VcXhlZzdVWFJyY1dkVFJQNFI2WXNTOXl1MllWa09KOHkxMkZsOXA4Qy1n?oc=5",
+      "source": "Sam Altman · CNBC",
+      "source_icon": "altman",
       "heat": 7.5,
       "tags": [
-        "Apple",
-        "AI代理",
-        "商务消息"
+        "特朗普",
+        "OpenAI",
+        "政府入股",
+        "AI政策"
       ],
-      "student_note": "关注AI agent在移动生态中的实际落地案例。",
-      "published_at": "2026-06-04T19:20:58+00:00"
+      "student_note": "关注AI领域的政企关系演变，对未来就业与创业环境有参考价值。",
+      "published_at": "2026-06-05T17:58:46+00:00"
+    },
+    {
+      "title_cn": "ChatGPT 新记忆系统增强个性化",
+      "title_en": "Dreaming: Better memory for a more helpful ChatGPT",
+      "summary_cn": "OpenAI 为 ChatGPT 引入新的记忆系统，使其能跨对话记住用户偏好和上下文，从而提供更连贯、更个性化的回应。",
+      "summary_en": "OpenAI introduces a new memory system for ChatGPT that retains user preferences across conversations, enabling more consistent and personalized interactions.",
+      "url": "https://openai.com/index/chatgpt-memory-dreaming",
+      "source": "OpenAI Blog",
+      "source_icon": "openai",
+      "heat": 7.5,
+      "tags": [
+        "ChatGPT",
+        "记忆系统",
+        "个性化",
+        "OpenAI"
+      ],
+      "student_note": "注意隐私与便利的权衡，可思考 LLM 长期记忆的设计思路。",
+      "published_at": "2026-06-04T09:00:00+00:00"
     }
   ],
   "sections": [
@@ -97,7 +98,63 @@
       "title_cn": "GitHub AI 热门",
       "title_en": "GitHub AI Trending",
       "icon": "🐙",
-      "items": []
+      "items": [
+        {
+          "title_cn": "华为发布vLLM KV缓存量化后端KVarN",
+          "title_en": "KVarN: Native vLLM backend for KV-cache quantization by Huawei",
+          "summary_cn": "华为开源了KVarN，一个面向vLLM推理框架的原生后端，通过量化KV缓存来减少显存占用，从而提升大模型推理效率。这对于部署LLM的开发者很实用。",
+          "summary_en": "Huawei open-sources KVarN, a native backend for vLLM that quantizes KV-cache to reduce memory usage and improve inference efficiency. Useful for LLM deployment.",
+          "url": "https://github.com/huawei-csl/KVarN",
+          "source": "Hacker News",
+          "source_icon": "hackernews",
+          "heat": 7.0,
+          "tags": [
+            "华为",
+            "开源",
+            "KV缓存",
+            "推理优化"
+          ],
+          "student_note": "推荐阅读，了解大模型推理优化技术，尤其是KV-cache量化原理。",
+          "published_at": "2026-06-04T15:18:00+00:00",
+          "meta": "▲ 143 · 💬 15"
+        },
+        {
+          "title_cn": "AI代码审查工具Open Code Review发布",
+          "title_en": "Open Code Review – An AI-powered code review CLI tool",
+          "summary_cn": "开源工具Open Code Review利用AI自动审查代码，帮助开发者发现潜在bug和风格问题。它是一个命令行界面（CLI）工具，适合集成到开发流程。",
+          "summary_en": "Open Code Review is an open-source CLI tool that uses AI to automatically review code, helping developers catch bugs and style issues.",
+          "url": "https://github.com/alibaba/open-code-review",
+          "source": "Hacker News",
+          "source_icon": "hackernews",
+          "heat": 6.0,
+          "tags": [
+            "开源工具",
+            "代码审查",
+            "AI编程"
+          ],
+          "student_note": "推荐尝试，将其嵌入个人或团队项目中提升代码质量。",
+          "published_at": "2026-06-05T00:04:29+00:00",
+          "meta": "▲ 254 · 💬 67"
+        },
+        {
+          "title_cn": "Lowfat CLI过滤器节省91.8% token",
+          "title_en": "Show HN: Lowfat – pluggable CLI filter that saved 91.8% of my LLM tokens",
+          "summary_cn": "开源工具Lowfat作为可插拔命令行过滤器，通过去除冗余输出，帮助用户在与LLM交互时节省91.8%的token消耗，大幅降低API费用。",
+          "summary_en": "Lowfat is a pluggable CLI filter that removes redundant output, saving 91.8% of LLM tokens and significantly reducing API costs. A practical tool for heavy LLM users.",
+          "url": "https://github.com/zdk/lowfat",
+          "source": "Hacker News",
+          "source_icon": "hackernews",
+          "heat": 6.0,
+          "tags": [
+            "开源工具",
+            "Token优化",
+            "CLI"
+          ],
+          "student_note": "实用工具，适合频繁调用API做实验的学生，可大幅节省预算。",
+          "published_at": "2026-06-05T09:10:42+00:00",
+          "meta": "▲ 94 · 💬 52"
+        }
+      ]
     },
     {
       "id": "vendor",
@@ -106,271 +163,146 @@
       "icon": "🧠",
       "items": [
         {
-          "title_cn": "ChatGPT推出记忆系统改善个性化",
-          "title_en": "Dreaming: Better memory for a more helpful ChatGPT",
-          "summary_cn": "OpenAI为ChatGPT引入新的记忆系统，使其能记住用户偏好，保持对话上下文连贯性。该功能旨在提供更个性化的体验，但同时也引发隐私关注。",
-          "summary_en": "OpenAI launches a new memory system for ChatGPT that remembers user preferences across conversations, enhancing personalization while raising privacy considerations.",
-          "url": "https://openai.com/index/chatgpt-memory-dreaming",
-          "source": "OpenAI Blog",
-          "source_icon": "openai",
+          "title_cn": "前CTO称Altman回归拯救OpenAI",
+          "title_en": "OpenAI Would’ve ‘Imploded’ If Altman Didn’t Return, Ex-CTO Says",
+          "summary_cn": "OpenAI前CTO透露，如果Sam Altman未被重新任命为CEO，公司可能已经解体。这一说法揭示了AI明星公司内部的管理动荡和治理挑战。",
+          "summary_en": "OpenAI's former CTO claims the company would have imploded without Sam Altman's return. It sheds light on internal turmoil and governance issues at the AI giant.",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT09Ub2pJX1Zial8zaWJrYUpPQUJqbEw0RTNuSkJwZHZwZmUwQ0lUU2pQQ1IxRUI4bDI4TnFzUXBlWDR6ekM5cVREeVhNOEEtTzUzQXUyazU5ZXBIQmF3ZjNfcm5VX2xFSGRVSlhJR3ltQzJDakJERFh6bW5ISDhqUUFudEF3dnNvZ0lvRkVsVTA0Tl9RX1JrMS01YVBVWU5RUnJKTFdlZHlIVy03OVRFaA?oc=5",
+          "source": "Sam Altman · Bloomberg.com",
+          "source_icon": "altman",
           "heat": 8.0,
           "tags": [
-            "ChatGPT",
-            "记忆系统",
-            "个性化",
-            "隐私"
+            "OpenAI",
+            "Sam Altman",
+            "管理动荡"
           ],
-          "student_note": "理解AI记忆机制对学习对话系统和隐私设计有帮助。",
-          "published_at": "2026-06-04T09:00:00+00:00"
+          "student_note": "思考AI公司治理与创始人作用，适合管理或创业课程讨论。",
+          "published_at": "2026-06-05T15:18:30+00:00"
         },
         {
-          "title_cn": "Alphabet创纪录AI融资",
-          "title_en": "Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal",
-          "summary_cn": "Alphabet通过创纪录的850亿美元股票发行筹集资金，用于支持谷歌的AI业务。这笔巨额融资表明投资者对AI领域极度看好，市场信心十足。理解资本对AI发展的推动作用。",
-          "summary_en": "Alphabet raised a record $85 billion through stock sale to fund Google's AI business. This massive raise signals strong investor appetite for AI, reflecting market confidence in the sector.",
-          "url": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
-          "source": "TechCrunch AI",
-          "source_icon": "techcrunch",
-          "heat": 8.0,
-          "tags": [
-            "融资",
-            "Alphabet",
-            "AI投资",
-            "市场信心"
-          ],
-          "student_note": "了解AI产业资本的规模与趋势",
-          "published_at": "2026-06-03T19:38:32+00:00"
-        },
-        {
-          "title_cn": "Gemma 4 12B多模态模型",
-          "title_en": "Gemma 4 12B: A unified, encoder-free multimodal model",
-          "summary_cn": "谷歌发布Gemma 4 12B多模态模型，采用无编码器架构，可统一处理图像、文本等输入。该模型强调简化设计，同时保持高性能。",
-          "summary_en": "Google releases Gemma 4 12B, an encoder-free multimodal model that processes images and text in a unified manner. It focuses on simplicity without sacrificing performance.",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
+          "title_cn": "谷歌每月支付SpaceX 9.2亿美元",
+          "title_en": "Google to pay SpaceX $920M a month for compute capacity at xAI data centers",
+          "summary_cn": "谷歌与SpaceX达成协议，每月支付9.2亿美元，租用xAI数据中心的计算能力。这一巨额投资凸显了AI算力需求的爆炸式增长，以及科技巨头在算力基础设施上的军备竞赛。",
+          "summary_en": "Google has agreed to pay SpaceX $920 million per month for compute capacity at xAI data centers. The deal underscores the soaring demand for AI computing power and the arms race among tech giants for infrastructure.",
+          "url": "https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html",
           "source": "Hacker News",
           "source_icon": "hackernews",
           "heat": 7.5,
           "tags": [
-            "模型发布",
             "谷歌",
-            "多模态"
+            "算力租赁",
+            "xAI",
+            "SpaceX"
           ],
-          "student_note": "推荐阅读，了解多模态模型的无编码器架构设计思路。",
-          "published_at": "2026-06-03T16:04:42+00:00",
-          "meta": "▲ 1007 · 💬 379"
+          "student_note": "了解算力市场格局，对AI基础设施赛道感兴趣的同学可深入追踪。",
+          "published_at": "2026-06-05T20:06:36+00:00",
+          "meta": "▲ 59 · 💬 57"
         },
         {
-          "title_cn": "前沿AI民主治理蓝图",
-          "title_en": "A blueprint for democratic governance of frontier AI",
-          "summary_cn": "OpenAI 公布了一份美国前沿AI治理蓝图，提出建立联邦框架以确保AI的安全性、弹性和国家安全。该文档聚焦于如何通过民主程序和技术标准来指导最强大AI系统的开发与部署。",
-          "summary_en": "OpenAI releases a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security. It emphasizes democratic oversight and technical standards for powerful AI systems.",
-          "url": "https://openai.com/index/frontier-safety-blueprint",
+          "title_cn": "ChatGPT 新记忆系统增强个性化",
+          "title_en": "Dreaming: Better memory for a more helpful ChatGPT",
+          "summary_cn": "OpenAI 为 ChatGPT 引入新的记忆系统，使其能跨对话记住用户偏好和上下文，从而提供更连贯、更个性化的回应。",
+          "summary_en": "OpenAI introduces a new memory system for ChatGPT that retains user preferences across conversations, enabling more consistent and personalized interactions.",
+          "url": "https://openai.com/index/chatgpt-memory-dreaming",
           "source": "OpenAI Blog",
           "source_icon": "openai",
           "heat": 7.5,
           "tags": [
-            "AI治理",
-            "OpenAI",
-            "政策"
+            "ChatGPT",
+            "记忆系统",
+            "个性化",
+            "OpenAI"
           ],
-          "student_note": "对AI政策、科技治理感兴趣的同学推荐阅读，了解AI监管的前沿思路。",
-          "published_at": "2026-06-03T10:00:00+00:00"
+          "student_note": "注意隐私与便利的权衡，可思考 LLM 长期记忆的设计思路。",
+          "published_at": "2026-06-04T09:00:00+00:00"
         },
         {
-          "title_cn": "Anthropic开源AI漏洞挖掘框架",
+          "title_cn": "Anthropic开源AI漏洞发现框架",
           "title_en": "Anthropic's open-source framework for AI-powered vulnerability discovery",
-          "summary_cn": "Anthropic开源了一个基于AI的漏洞发现框架，可自动分析代码库中的安全缺陷。该框架适用于安全审计和渗透测试，降低人工成本。",
-          "summary_en": "Anthropic open-sources an AI-powered framework for automatically discovering vulnerabilities in code, aiding security audits and penetration testing.",
+          "summary_cn": "Anthropic发布了用于AI驱动的漏洞发现的开源框架。该工具利用大模型自动化检测代码安全缺陷，对网络安全研究和开发者有害，值得关注。",
+          "summary_en": "Anthropic has released an open-source framework for AI-powered vulnerability discovery. It uses large models to automate detection of security flaws in code, significant for cybersecurity research and developers.",
           "url": "https://github.com/anthropics/defending-code-reference-harness",
           "source": "Hacker News",
           "source_icon": "hackernews",
           "heat": 7.0,
           "tags": [
+            "Anthropic",
             "开源",
-            "Anthropic",
-            "安全"
+            "漏洞发现",
+            "AI安全"
           ],
-          "student_note": "对安全领域感兴趣的同学可学习框架用法并尝试复现。",
+          "student_note": "对AI安全感兴趣的同学可研究该框架，学习如何将大模型应用于漏洞挖掘。",
           "published_at": "2026-06-04T20:11:20+00:00",
-          "meta": "▲ 135 · 💬 45"
+          "meta": "▲ 514 · 💬 140"
         },
         {
-          "title_cn": "Meta为Facebook创作者推出AI助手",
-          "title_en": "Meta rolls out a new AI creator assistant on Facebook",
-          "summary_cn": "Meta推出Facebook AI创作者助手，可回答“何时发布最佳”、“评论区在说什么”等问题，帮助创作者优化内容策略。",
-          "summary_en": "Meta launches an AI assistant for Facebook creators, offering insights on optimal posting times and comment sentiment to boost engagement.",
-          "url": "https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/",
-          "source": "TechCrunch AI",
-          "source_icon": "techcrunch",
-          "heat": 7.0,
-          "tags": [
-            "Meta",
-            "AI助手",
-            "创作者工具"
-          ],
-          "student_note": "对运营自媒体或创作内容的同学，可尝试使用类似工具提升效率。",
-          "published_at": "2026-06-04T16:32:48+00:00"
-        },
-        {
-          "title_cn": "Anthropic详解Claude产品安全约束机制",
-          "title_en": "The ways we contain Claude across products",
-          "summary_cn": "Anthropic公开了其在多个产品中约束AI系统Claude的方法，包括指令分层、行为监控和输出过滤等。这些措施旨在确保AI行为符合安全规范，防止滥用。",
-          "summary_en": "Anthropic reveals how it contains Claude across its products through layered instructions, behavioral monitoring, and output filtering to enforce safety and prevent misuse.",
-          "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
-          "source": "Hacker News",
-          "source_icon": "hackernews",
-          "heat": 7.0,
-          "tags": [
-            "Anthropic",
-            "AI安全",
-            "Claude",
-            "约束机制"
-          ],
-          "student_note": "推荐阅读，理解AI安全技术中的“约束”概念，对学习AI伦理和部署很有帮助。",
-          "published_at": "2026-06-04T00:27:52+00:00",
-          "meta": "▲ 219 · 💬 94"
-        },
-        {
-          "title_cn": "智能时代的生物防御行动计划",
+          "title_cn": "智能时代的生物防御计划",
           "title_en": "Biodefense in the Intelligence Age",
-          "summary_cn": "OpenAI发布一项AI驱动的生物防御行动计划，旨在利用AI技术增强对生物威胁的检测、预防和响应能力。该计划强调AI在公共卫生安全中的关键作用。",
-          "summary_en": "OpenAI outlines an action plan for AI-powered biological resilience, leveraging AI to improve detection, prevention, and response to biological threats, emphasizing AI's role in public health security.",
+          "summary_cn": "OpenAI 发布一份 AI 驱动的生物韧性行动计划，探讨如何利用 AI 技术提升生物安全防御能力，包括病原体检测、药物研发等。",
+          "summary_en": "OpenAI outlines an action plan for AI-powered biological resilience, covering pathogen detection, drug discovery, and biosafety, emphasizing the role of AI in biodefense.",
           "url": "https://openai.com/index/biodefense-in-the-intelligence-age",
           "source": "OpenAI Blog",
           "source_icon": "openai",
-          "heat": 7.0,
+          "heat": 6.5,
           "tags": [
             "生物防御",
             "AI安全",
             "OpenAI"
           ],
-          "student_note": "对AI+生物交叉领域感兴趣的同学值得一读，了解前沿应用方向。",
+          "student_note": "推荐有志于 AI+生物交叉方向的同学阅读，了解前沿政策与技术结合点。",
           "published_at": "2026-06-04T00:00:00+00:00"
         },
         {
-          "title_cn": "Wasmer用Codex将开发速度提升10-20倍",
-          "title_en": "How Wasmer used Codex to build a Node.js runtime for the edge",
-          "summary_cn": "Wasmer利用OpenAI的Codex（基于GPT-5.5）在几周内构建了边缘计算Node.js运行时，开发速度提升10-20倍。此案例展示了AI辅助编程在生产级项目中的巨大潜力。",
-          "summary_en": "Wasmer used OpenAI's Codex (powered by GPT-5.5) to build a Node.js runtime for the edge, achieving 10-20x development speed and shipping in weeks instead of months. It shows AI's potential in production.",
-          "url": "https://openai.com/index/wasmer",
-          "source": "OpenAI Blog",
-          "source_icon": "openai",
-          "heat": 7.0,
+          "title_cn": "DeepMind公布2026年5月AI进展",
+          "title_en": "The latest AI news we announced in May 2026",
+          "summary_cn": "Google DeepMind汇总了2026年5月在AI领域的重要公告，涵盖模型更新、应用落地等。虽然具体内容未详述，但反映其持续创新力度。",
+          "summary_en": "Google DeepMind summarizes key AI announcements made in May 2026, including model updates and application launches, demonstrating ongoing innovation.",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
+          "source": "Google DeepMind",
+          "source_icon": "deepmind",
+          "heat": 6.0,
           "tags": [
-            "Codex",
-            "AI编程",
-            "效率提升"
+            "DeepMind",
+            "AI进展",
+            "谷歌"
           ],
-          "student_note": "学习如何用AI编码助手加速实际项目开发，是提升自身竞争力的好例子。",
-          "published_at": "2026-06-03T12:00:00+00:00"
+          "student_note": "定期关注DeepMind等机构动态，保持对前沿技术的敏感度。",
+          "published_at": "2026-06-05T14:45:00+00:00"
         },
         {
-          "title_cn": "OpenAI公共政策议程",
-          "title_en": "OpenAI public policy agenda",
-          "summary_cn": "OpenAI 公布了其AI公共政策议程，涵盖安全、青年保护、劳动力转型与全球标准四大领域，旨在确保AI技术造福全社会。该议程体现了企业在AI伦理与法规方面的主动立场。",
-          "summary_en": "OpenAI outlines its public policy agenda including safety, youth protection, workforce transition, and global standards. It represents the company's proactive stance on AI ethics and regulation.",
-          "url": "https://openai.com/index/public-policy-agenda",
+          "title_cn": "谷歌因AI产品需求激增租用SpaceX算力",
+          "title_en": "Google will pay SpaceX $920M per month for compute",
+          "summary_cn": "谷歌代表表示，该交易是由于其新推出AI产品需求超出预期。这从侧面说明AI应用落地带来的算力压力，以及云巨头创新性利用非传统基础设施的趋势。",
+          "summary_en": "A Google representative said the deal stems from unexpected demand for its new AI products. This illustrates the compute pressure from AI deployment and the trend of cloud giants tapping non-traditional infrastructure.",
+          "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
+          "source": "TechCrunch AI",
+          "source_icon": "techcrunch",
+          "heat": 5.5,
+          "tags": [
+            "谷歌",
+            "AI产品需求",
+            "算力租用"
+          ],
+          "student_note": null,
+          "published_at": "2026-06-05T18:57:20+00:00"
+        },
+        {
+          "title_cn": "Endava 用 AI Agent 改造软件交付",
+          "title_en": "How Endava is redesigning software delivery around AI agents",
+          "summary_cn": "Endava 公司利用 AI Agent、ChatGPT Enterprise 和 Codex 加速软件交付，实现工作流自动化。展示了企业级 AI 如何重塑软件开发流程。",
+          "summary_en": "Endava leverages AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery and automate workflows, demonstrating a practical enterprise adoption of AI in software engineering.",
+          "url": "https://openai.com/index/endava-frontiers",
           "source": "OpenAI Blog",
           "source_icon": "openai",
-          "heat": 7.0,
+          "heat": 5.5,
           "tags": [
-            "公共政策",
-            "AI安全",
-            "劳动力转型",
+            "AI Agent",
+            "软件交付",
+            "企业应用",
             "OpenAI"
           ],
-          "student_note": "了解AI行业如何参与政策制定，对科技与社会交叉领域学习有帮助。",
-          "published_at": "2026-06-03T10:00:00+00:00"
-        },
-        {
-          "title_cn": "Lovable与Google Cloud签约",
-          "title_en": "Lovable signs multiyear deal with Google Cloud to up usage 5x, source says",
-          "summary_cn": "AI开发平台Lovable与Google Cloud签署多年扩展协议，将Google Cloud使用量扩大5倍，并扩大对Anthropic Claude模型的访问。这反映了AI初创公司与云厂商深度绑定的趋势。对AI创业和商业模式有参考价值。",
-          "summary_en": "AI development platform Lovable signed a multiyear expanded deal with Google Cloud, increasing its footprint 5x and expanding access to Anthropic Claude. This reflects the trend of deep integration between AI startups and cloud providers.",
-          "url": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
-          "source": "TechCrunch AI",
-          "source_icon": "techcrunch",
-          "heat": 7.0,
-          "tags": [
-            "合作",
-            "Google Cloud",
-            "AI平台",
-            "商业扩展"
-          ],
-          "student_note": "观察AI创业生态的商业案例",
-          "published_at": "2026-06-03T22:56:51+00:00"
-        },
-        {
-          "title_cn": "亚马逊AI生成产品图",
-          "title_en": "Amazon will show AI product images when you search for some reason",
-          "summary_cn": "亚马逊在搜索结果中引入AI生成的产品图片，根据用户查询生成相应视觉内容，以帮助引导购买决策。这是电商领域利用生成式AI提升购物体验的尝试。可关注AI在商业搜索中的落地。",
-          "summary_en": "Amazon will display AI-generated product images in search results, generating visuals that match user queries to guide purchasing decisions. This is an attempt to leverage generative AI in e-commerce search.",
-          "url": "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/",
-          "source": "TechCrunch AI",
-          "source_icon": "techcrunch",
-          "heat": 7.0,
-          "tags": [
-            "电商",
-            "AI生成",
-            "亚马逊",
-            "购物体验"
-          ],
-          "student_note": "电商AI应用的典型案例",
-          "published_at": "2026-06-03T15:50:26+00:00"
-        },
-        {
-          "title_cn": "Meta将WhatsApp AI代理推向全球",
-          "title_en": "Meta’s AI agent for WhatsApp Business is now available globally",
-          "summary_cn": "Meta宣布WhatsApp Business的AI代理正式全球上线，企业可以按token使用量付费来调用该AI与客户交互。这标志着企业级AI客服门槛进一步降低。",
-          "summary_en": "Meta's AI agent for WhatsApp Business is now globally available, charging businesses based on token usage. This lowers the barrier for enterprises to deploy AI-powered customer service at scale.",
-          "url": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/",
-          "source": "TechCrunch AI",
-          "source_icon": "techcrunch",
-          "heat": 7.0,
-          "tags": [
-            "Meta",
-            "WhatsApp",
-            "AI代理",
-            "企业客服"
-          ],
-          "student_note": "了解Token计费模式和AI客服落地方式，对产品经理和创业者有参考价值。",
-          "published_at": "2026-06-03T13:40:00+00:00"
-        },
-        {
-          "title_cn": "Meta效仿特斯拉搭建帐篷数据中心",
-          "title_en": "Meta steals a tactic from Tesla and builds data centers in tents",
-          "summary_cn": "Meta采用临时帐篷结构搭建数据中心，以大幅降低建设成本和时间。这一策略借鉴了特斯拉早期工厂的做法。",
-          "summary_en": "Meta adopts tent structures for data centers, following Tesla's playbook to cut costs and accelerate deployment.",
-          "url": "https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/",
-          "source": "TechCrunch AI",
-          "source_icon": "techcrunch",
-          "heat": 6.0,
-          "tags": [
-            "Meta",
-            "数据中心",
-            "成本优化"
-          ],
-          "student_note": "可关注科技公司如何通过非常规手段降低基础设施成本。",
-          "published_at": "2026-06-04T19:33:09+00:00"
-        },
-        {
-          "title_cn": "华为发布KVarN：vLLM原生KV缓存量化",
-          "title_en": "KVarN: Native vLLM backend for KV-cache quantization by Huawei",
-          "summary_cn": "华为推出KVarN，为vLLM推理引擎提供原生KV缓存量化后端，可大幅降低显存占用并提升推理吞吐量。",
-          "summary_en": "Huawei introduces KVarN, a native vLLM backend for KV-cache quantization, reducing GPU memory usage and improving inference throughput.",
-          "url": "https://github.com/huawei-csl/KVarN",
-          "source": "Hacker News",
-          "source_icon": "hackernews",
-          "heat": 6.0,
-          "tags": [
-            "华为",
-            "KV缓存量化",
-            "vLLM",
-            "推理优化"
-          ],
-          "student_note": "对研究大模型推理优化与显存效率的同学是重要技术资料。",
-          "published_at": "2026-06-04T15:18:00+00:00",
-          "meta": "▲ 100 · 💬 10"
+          "student_note": "推荐阅读，了解 AI 辅助编程在企业中的落地方式，对软件工程方向有参考价值。",
+          "published_at": "2026-06-04T12:00:00+00:00"
         }
       ]
     },
@@ -381,163 +313,92 @@
       "icon": "👤",
       "items": [
         {
-          "title_cn": "AI高管罕见联合警告生物武器威胁",
-          "title_en": "AI executives make rare collective warning on bioweapons threat",
-          "summary_cn": "多位AI领域高管（包括Demis Hassabis）罕见地联合发声，警告AI技术可能被用于制造生物武器。他们呼吁加强国际合作与监管，防止AI的双重用途风险。",
-          "summary_en": "AI executives including Demis Hassabis issued a rare collective warning about the potential misuse of AI to create bioweapons, urging international cooperation and regulation to mitigate dual-use risks.",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbkJqOFJiZ29UTnctQjNSaHBIT1UxVVVKTlphQnZrT2V0YVV2eHd2N2JwX3R3eFRoZUluazN2TGlFbnpocVR6c1BsNlVoUC1IclNSYk43X0FGSlZVbU52dktxV1JCS0RFd2RrRmU3S1AzcV8zbHVQUzRnMlNyR1Q0Q3VNSUJkcjl0TWxBUjJlbUV2UENZZml6UC1iODNyUjdYYnBIRGM0U3R4dw?oc=5",
-          "source": "Demis Hassabis · Semafor",
-          "source_icon": "hassabis",
+          "title_cn": "Andrej Karpathy加入Anthropic领导研究",
+          "title_en": "Anthropic taps former OpenAI co-founder and Tesla veteran Andrej Karpathy to lead AI research",
+          "summary_cn": "Anthropic聘请前OpenAI联合创始人、特斯拉AI负责人Andrej Karpathy领导AI研究。Karpathy的加盟将极大增强Anthropic在深度学习和自动驾驶领域的技术实力。",
+          "summary_en": "Anthropic has hired Andrej Karpathy, former OpenAI co-founder and Tesla AI director, to lead its AI research. His addition will significantly boost Anthropic's expertise in deep learning and autonomous driving.",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQaDhXcE9oek1aSEhsNWM1NWFtcndVZGRQT2VGQ2V0d1V1SkhDalY5ZlkzcVo1eUVsZW5iVTJLQ1BFZE00Ykd3OWpPa25idGJqTXR4djY2QzJhdXY3c21fY1pZeUh1UjZRbnJhSUlrTkNNdWZGMG83VVp0VlNjWjc3dEduZEF1UzZjUC1fdUNqai11SWF2RG5vTHhCYnV5ekYtZ1VMaHJvRG5tYy1TVHdlbmtPRVdXRkNBckdJcU1XMjliNVNqVkkwVmYwX2I0UXQwLTVhZ1pYWHlIRVE3U2diUHdB?oc=5",
+          "source": "Andrej Karpathy · MSN",
+          "source_icon": "karpathy",
           "heat": 8.0,
           "tags": [
-            "AI安全",
-            "生物武器",
-            "监管"
+            "Andrej Karpathy",
+            "Anthropic",
+            "人事变动"
           ],
-          "student_note": "关注AI安全与伦理的重要案例，对理解技术治理有深远意义。",
-          "published_at": "2026-06-04T12:29:00+00:00"
+          "student_note": "关注顶尖AI人才流向，了解不同AI机构的战略方向。",
+          "published_at": "2026-06-05T16:29:50+00:00"
         },
         {
-          "title_cn": "英国议员起诉xAI传播深伪图片",
-          "title_en": "PM backs female MP for suing xAI over bikini photo",
-          "summary_cn": "英国首相支持一位女议员起诉马斯克的xAI公司，原因是xAI的AI模型生成了该议员的虚假比基尼照片。此案涉及AI生成色情深度伪造内容的法律责任。",
-          "summary_en": "The UK Prime Minister has backed a female MP in her lawsuit against Elon Musk's xAI over fake bikini images generated by Grok. This case tests legal accountability for AI-generated deepfake pornography.",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zX1MyWUM5X0V4UXcyV0o5VmN1TlpySWo0djRaQkROZGppbGluVGZwLXJnLS1jMl82MlhnODJFWkQ4VmQtaldNY21NXzFsbGtJMHBNTUd3bUp1QQ?oc=5",
-          "source": "Elon Musk · BBC",
-          "source_icon": "musk",
+          "title_cn": "特朗普政府与OpenAI商讨政府入股事宜",
+          "title_en": "Trump administration, OpenAI discussing possible government stake in the AI startup",
+          "summary_cn": "据CNBC报道，特朗普政府与OpenAI正在讨论政府可能持有该AI初创公司股份。此举若成真，将显著影响AI产业政策与竞争格局。",
+          "summary_en": "CNBC reports that the Trump administration is in talks with OpenAI about a potential government stake in the AI startup. If realized, it could significantly impact AI industry policy and competition.",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4ybHlVc085QUVIS2ZReHVWMVNPWTRhYmFuWVN1RXZVZUc0ZnZhbUlMT3Rpa1QxdEs3Q0Z6OG1qZ1VZN2N6TmlOMWlVYkVHc0dITjdkMnlTdnB2WmZZSkY4LW5HZHVRcjlKbDBoYVdva2_SAXZBVV95cUxObW91aGd3RmlfdHhHQVNLVUgyN3V6WDlFMkZ5UXdfbmZEQ0NfLW41REc4eTlMMkh1MlFiMW1BdFJmbm5sN1hOTVhwVl9VcXhlZzdVWFJyY1dkVFJQNFI2WXNTOXl1MllWa09KOHkxMkZsOXA4Qy1n?oc=5",
+          "source": "Sam Altman · CNBC",
+          "source_icon": "altman",
           "heat": 7.5,
           "tags": [
-            "xAI",
-            "诉讼",
-            "深伪",
-            "英国"
+            "特朗普",
+            "OpenAI",
+            "政府入股",
+            "AI政策"
           ],
-          "student_note": "深度伪造技术引发的法律与伦理争议是AI治理的核心议题，法学和传媒专业学生应重点关注。",
-          "published_at": "2026-06-04T11:13:16+00:00"
+          "student_note": "关注AI领域的政企关系演变，对未来就业与创业环境有参考价值。",
+          "published_at": "2026-06-05T17:58:46+00:00"
         },
         {
-          "title_cn": "xAI在英国遭议员诉讼：虚假色情图片",
-          "title_en": "MP sues Elon Musk’s xAI in UK test case over fake sexual images",
-          "summary_cn": "英国议员正式起诉马斯克的xAI公司，指控其AI模型生成并传播虚假的性化图像。该案被视为英国针对AI生成有害内容的标志性测试案例。",
-          "summary_en": "A UK MP has filed a lawsuit against Elon Musk's xAI over fake sexualized images created by its AI model. This is considered a landmark test case for liability in AI-generated harmful content.",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9KM0N6R3FORmlkMUVXN3NYRlBKZHY2dVFZMnB0bDBiRGpkenVZOUNHRy1seW16UHF2LU5VNExjdzZXQV9DNXhHdmZ0UGJqZy0xSGZsY2p0aUJFOVRONVI1OGJ2OWlTYkw2c0JoeXFJZ0g?oc=5",
-          "source": "Elon Musk · Financial Times",
-          "source_icon": "musk",
-          "heat": 7.5,
-          "tags": [
-            "xAI",
-            "诉讼",
-            "深度伪造",
-            "英国"
-          ],
-          "student_note": null,
-          "published_at": "2026-06-03T16:15:07+00:00"
-        },
-        {
-          "title_cn": "工党议员起诉xAI生成虚假色情图像",
-          "title_en": "Labour MP sues Elon Musk’s xAI company over fake sexualised images",
-          "summary_cn": "工党议员Jess Asato起诉xAI公司，因其AI模型生成并传播了该议员的虚假色情图像。该诉讼强调了AI深度伪造技术对个人名誉的潜在危害。",
-          "summary_en": "Labour MP Jess Asato is suing xAI over deepfake sexualized images generated by its model, highlighting the reputational risks posed by AI deepfakes.",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaTB3aEsxYmVGcHUwSzc4dkJCLTg4Q0JMdVNJQzBtRkU3NURlb3NkQjFFR2c3OXczcW52UUtpQ29xRVZOYS1PMHVFSU15Tm9MbHhwMGV4dGJPLWt0VWRmbFZrNmtwRUhBc0tUUEowVU9Ec3I5WDZoZmQwaUU0VUN3SGJSaHdKSEVmcFpReFNNb18wQm5rX1FKbnFHZEN2LWhwNTEzaHEyRzNjc3NvRTVBQTBlVGRIZw?oc=5",
-          "source": "Elon Musk · The Guardian",
-          "source_icon": "musk",
-          "heat": 7.5,
-          "tags": [
-            "xAI",
-            "诉讼",
-            "虚假色情",
-            "工党议员"
-          ],
-          "student_note": null,
-          "published_at": "2026-06-03T17:48:00+00:00"
-        },
-        {
-          "title_cn": "英议员因深伪比基尼照起诉xAI",
-          "title_en": "Labour MP Jess Asato sues Elon Musk's xAI over deepfake bikini images in landmark UK AI lawsuit",
-          "summary_cn": "工党议员Jess Asato就深度伪造比基尼照片起诉马斯克的xAI公司，这是一起具有里程碑意义的英国AI诉讼案，可能影响AI生成内容的监管规则。",
-          "summary_en": "Labour MP Jess Asato has sued Elon Musk's xAI over deepfake bikini images, marking a landmark UK AI lawsuit that could shape future regulation of AI-generated content.",
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNU0lmcTZmUGljZUUtSktsMnVvbjVjbWpoNzUyY1hUbnAza2M1UF9pQ0huQl9xN0pPdXNMMU1lT1ZDQ3NpTTZ5b3NvNVNEZEliZ0J0RTJBUE1uX1JpZTgxQWhqY3FoRlh1bVJ6M3VDNk1qWFdqc3VtOXdOQmJKay03S3NVcGZpWEhaRzFmcHllZVRQaGNqa0FodTJwNU5TRm50R1h4Q0hncXVoS1Q3eVo3Z1A1Y1RqVzR2MDl6dHRHanJjVjc4X0tlaWRmUUE2NFhMVDNwUHhsZTdQNkk0Q1p2eE0tWDFxTXk2TnZLQTNMUXQxSW1jVHZQbw?oc=5",
-          "source": "Elon Musk · The Times of India",
-          "source_icon": "musk",
-          "heat": 7.5,
-          "tags": [
-            "xAI",
-            "深度伪造",
-            "诉讼",
-            "英国"
-          ],
-          "student_note": null,
-          "published_at": "2026-06-04T08:10:00+00:00"
-        },
-        {
-          "title_cn": "英国议员起诉xAI涉性化Grok图像",
-          "title_en": "British lawmaker sues Musk's xAI over sexualised Grok images",
-          "summary_cn": "英国议员正式起诉马斯克的xAI，指控其AI聊天机器人Grok生成了该议员的性化虚假图像。案件核心在于AI平台应对用户生成的有害内容负责。",
-          "summary_en": "A British lawmaker has sued Elon Musk's xAI over sexualized fake images produced by Grok, arguing that AI platforms should be held liable for harmful user-generated content.",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeVpfay1iV2ljNHh6MFFEQXNBRGhCeGlScTczdGs0RVJFNW1TX0M4cmpKTzNRMjZHdDBGaU83LWp6VGN2OVhlYjc2TWM0bF9KdHdfMWc4azhTNEllU004RjBDWkpzNUNiWU52UmVLWGRjbjBncXlJVEF4NnJvSzVzUmJvOURXNXo5VU1TcXNnSFQ5NUE0eUxkYWt2Rk9ZcnFBVTgxQXF5QUVzYXRCM1hNbG5n?oc=5",
-          "source": "Elon Musk · Reuters",
-          "source_icon": "musk",
-          "heat": 7.5,
-          "tags": [
-            "xAI",
-            "Grok",
-            "诉讼",
-            "AI伦理"
-          ],
-          "student_note": null,
-          "published_at": "2026-06-03T19:00:16+00:00"
-        },
-        {
-          "title_cn": "马斯克AI野心的隐藏成本超多数上市公司",
-          "title_en": "The Hidden Cost of Elon Musk’s AI Ambitions Is Bigger Than Most Public Companies",
-          "summary_cn": "报道分析称，埃隆·马斯克在AI领域（如xAI、特斯拉自动驾驶）的巨大投入，其隐藏成本已超过大多数上市公司的市值。这些成本包括算力、能源、人才竞争等。",
-          "summary_en": "An analysis reveals that the hidden costs of Elon Musk's AI ambitions—spanning xAI, Tesla autonomy, and infrastructure—exceed the market cap of most public companies, covering compute, energy, and talent competition.",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVDMtZU9hSE5zYjBFX0dUMmtzRkJZdjFkWmluNUVfd0locjVZMmdCSXVJQkJlM1ZNRktCLW1Ic214SE54TXhOeDdBZWNiZmtpeU1vYU1XYzZSZXM1TEdnRHlQa1g2TkV5SllQcEg5cTY1VTE2TGFOQlc2TzZjajdKWWhUV1RIZFdaNnM0dXlmWmx1bG9IdnNCb0Z1M3V0T3gxQlM2RUk1N0FDbmkzd3VxTG5BbmxVUzl0a2wwUnQ4LXA?oc=5",
-          "source": "Elon Musk · 24/7 Wall St.",
-          "source_icon": "musk",
-          "heat": 6.5,
-          "tags": [
-            "Elon Musk",
-            "AI投资",
-            "成本分析"
-          ],
-          "student_note": null,
-          "published_at": "2026-06-04T12:44:33+00:00"
-        },
-        {
-          "title_cn": "马斯克扩建AI工厂被控污染黑人社区",
-          "title_en": "Elon Musk Expands AI Plant Accused of Polluting Black Areas",
-          "summary_cn": "特斯拉CEO马斯克扩大AI工厂规模，但被指控选址毗邻黑人聚居区并造成环境污染，引发可持续发展与社会公平争议。",
-          "summary_en": "Elon Musk's expansion of an AI plant faces accusations of polluting predominantly Black neighborhoods, raising concerns about environmental justice.",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOM1JsLXVGZGg1d1NpREROS2FjUzYwQm9xS3JJVjhTblZTcVBUT0VZQ1R1QWNKSVNuVlpCWWQ5RnZaOGtyU1dtU0kzQzBqblRfUmdya280eFQyY1NSZFJaVzhNdkxDZGY1aXhZajRQWkNPNXE0ZHZBazJNMmZxeU9qdUY0UmRIRlJu?oc=5",
-          "source": "Elon Musk · The San Diego Voice & Viewpoint",
+          "title_cn": "SpaceX或面临崩溃风险",
+          "title_en": "It’s Possible That SpaceX Could Collapse Spectacularly",
+          "summary_cn": "文章分析称，SpaceX因过度扩张、技术挑战和马斯克分心管理，可能面临财务危机甚至崩溃。对于关注航天和商业的学生，这是一个理解企业风险的案例。",
+          "summary_en": "An analysis suggests SpaceX could face financial collapse due to overexpansion, technical challenges, and Musk's divided attention. It's a cautionary tale about corporate risk.",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAxdDczLS1CclQ1TW01WjhLUlpUQlZoT0puWW1lMkduOC0yN2JpTmRhY1BmcXVTdHJVMGp1M1lqV3lmYkFxbHMyV0JrRVhtZVowY2Z3ak5GdFNzREZENl92dy1WNzdnNjlnbGJIaFVwUlMyYWc?oc=5",
+          "source": "Elon Musk · Futurism",
           "source_icon": "musk",
           "heat": 6.0,
           "tags": [
-            "马斯克",
-            "AI工厂",
-            "环境污染"
+            "SpaceX",
+            "财务风险",
+            "马斯克"
           ],
-          "student_note": "关注AI产业发展中的伦理与社会责任议题。",
-          "published_at": "2026-06-04T18:49:00+00:00"
+          "student_note": null,
+          "published_at": "2026-06-05T15:50:00+00:00"
         },
         {
-          "title_cn": "xAI暂停招聘Grok“AI导师”",
-          "title_en": "Elon Musk’s xAI Reportedly Pauses Hiring For Grok ‘AI Tutors’ — What’s Going On Behind The Scenes?",
-          "summary_cn": "据传xAI暂停了为Grok招募“AI导师”的岗位，该岗位原计划设计AI教育功能。暂停原因不明，可能反映公司战略调整或内部资源重新分配。",
-          "summary_en": "xAI has reportedly paused hiring for 'AI Tutors' for Grok, a role intended to develop AI education features. The reason remains unclear, possibly indicating a strategic pivot or resource reallocation.",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQOHRkZkJuZEJFQjVMQnRnb1VsdFdVMmJWWkduNzVEbjNkY3JuTFpiVFdNU0UtZ19IbjhlaHlkbWRfR3hyT1ZxdlhZeFZVdV9hUzBQQjFWcXhxY3lQWWJHaHFCNzVaUU1USFZMTUFzRzdxcElBTWIwSUhOMDE2NVp3Y1Y1TDNFaDJRODBpSklZSENNbzQ2aklGc0poMzNDTERjWDVfcmN2aFdRU2J1d25Ed3dMUkxwS0NiSV9Oa2xkYnhaZ3czMllIQ2pya18yTXRkMUR3NkNKOGRxTzRoelE?oc=5",
-          "source": "Elon Musk · Stocktwits",
+          "title_cn": "谷歌每月支付SpaceX 9.2亿美元（重复消息）",
+          "title_en": "Google to pay SpaceX $920 million a month for compute capacity at xAI data centers",
+          "summary_cn": "据CNBC报道，谷歌与SpaceX达成罕见合作，每月支付9.2亿美元获取xAI数据中心的算力。这一协议反映了AI公司对专用算力资源的迫切需求。",
+          "summary_en": "According to CNBC, Google has struck a rare deal with SpaceX to pay $920 million monthly for compute capacity at xAI data centers. The agreement highlights the urgent demand for dedicated AI compute resources.",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbTlsMnZmeWxoUk0yWmhKcGs0eVhkc1d1c1JVRm9qUWFMQWVuTy1YcmFyVDBGTDhkOGwyRlBhNWFJWTVBTHNOOUlsSVFzVlB3bXFjZWZYaEhWblQwSU5yc00wU241V3BoVFEtTndGcURrVXc2eFBLMlFuZkdUSzdkUEpZNXctWHVvUjZTczUzRE4tNHA3eUgtVVN4NVZKWnZUd2NKRNIBqgFBVV95cUxNRGdVeDExV2J4SUxteXpvQVJqMWl2NmstN3lpR3dqaHU1djhwNkozR0pyZG5wZlhiRU9zSVdod0xyZWYwbEljVEpMOXdIelJzZFV3SVV3UHBvOUZzS3VKWGlLV3RIemFaZTFMOEh2ZlBDNW9fLXVlWXZSVU5RTGkxcHZzc1VSWU05SWdkMGtrZWR0aFJwb3FfZEs5bl9SQjJYWUJOTGVqU05iZw?oc=5",
+          "source": "Elon Musk · CNBC",
           "source_icon": "musk",
-          "heat": 4.0,
+          "heat": 5.0,
+          "tags": [
+            "谷歌",
+            "SpaceX",
+            "xAI",
+            "算力租赁"
+          ],
+          "student_note": null,
+          "published_at": "2026-06-05T19:20:48+00:00"
+        },
+        {
+          "title_cn": "xAI遭指控，AI疫苗或救数百万人",
+          "title_en": "New claims against Elon Musk’s xAI, AI-designed vaccines could save millions of lives",
+          "summary_cn": "xAI面临新的法律指控，与此同时，AI设计的疫苗在临床试验中表现优异，有望大幅提高效果并拯救数百万生命。这展示了AI在医疗领域的前沿应用。",
+          "summary_en": "xAI faces new legal claims while AI-designed vaccines show promise to save millions of lives. The report highlights AI's transformative role in healthcare.",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUVJMcFhxR2pHYWYzNVBpaDFVbU92amJpWTJpQ1hUS1NyZ0VIbjBBYWszOHdDM2RDaXJMbVhxUno3X1h0a1dSMWFpNU9Gc183ZlRucWhqeEF6ZS1pR0pCVFFlY3hJNV84Y1hXMEVrSVJ3eVFKUFBJYnVianY4T09Vem5GLXBjT0s0eUt2QkpYVndJZDg1bFptRUZVNFhxZExZbjJlOWZZSVZMR0dfZW5pd0p3WWZneFVMWTRiU2pLZw?oc=5",
+          "source": "Elon Musk · ShinyShiny",
+          "source_icon": "musk",
+          "heat": 5.0,
           "tags": [
             "xAI",
-            "Grok",
-            "暂停招聘",
-            "AI导师"
+            "法律指控",
+            "AI疫苗",
+            "医疗AI"
           ],
-          "student_note": "关注AI教育产品动态，对教育技术方向的同学有参考意义。",
-          "published_at": "2026-06-03T03:16:23+00:00"
+          "student_note": "推荐阅读，了解AI在疫苗研发中的具体技术路径和应用前景。",
+          "published_at": "2026-06-05T15:26:43+00:00"
         }
       ]
     },
@@ -548,273 +409,271 @@
       "icon": "📰",
       "items": [
         {
-          "title_cn": "Apple批准首个AI代理Poke上架商务消息",
-          "title_en": "Apple approves Poke as the first AI agent on its Messages for Business platform",
-          "summary_cn": "Poke成为首个获得Apple许可的AI代理，入驻Messages for Business平台。用户可通过简单文本消息与AI交互，完成预订、查询等任务。",
-          "summary_en": "Apple approves Poke as the first AI agent on its Messages for Business platform, enabling users to interact with AI via simple text for tasks like bookings and inquiries.",
-          "url": "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/",
+          "title_cn": "AI token成本失控，行业紧急应对",
+          "title_en": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
+          "summary_cn": "随着AI模型调用量激增，token（模型处理的最小文本单元）成本成为企业巨大负担，行业正从“快速扩张”转向“成本管控”。创业公司和开发者需重新审视AI部署的经济性。",
+          "summary_en": "Soaring token usage is driving up AI costs, forcing the industry to shift from 'go fast' to control spending. Developers and startups must reconsider the economics of AI deployment.",
+          "url": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
           "source": "TechCrunch AI",
           "source_icon": "techcrunch",
-          "heat": 7.5,
-          "tags": [
-            "Apple",
-            "AI代理",
-            "商务消息"
-          ],
-          "student_note": "关注AI agent在移动生态中的实际落地案例。",
-          "published_at": "2026-06-04T19:20:58+00:00"
-        },
-        {
-          "title_cn": "英国监管允许出版商退出AI搜索",
-          "title_en": "Publishers will be able to opt out of AI Search, thanks to new regulation",
-          "summary_cn": "英国监管机构要求谷歌提供新工具，让网站出版商能够选择不被生成式AI搜索功能抓取。该选项将在英国测试后全球推广，意味着内容版权与AI训练之间的平衡正在被法律重塑。",
-          "summary_en": "UK regulators are mandating that Google offer a tool for publishers to opt out of generative AI search features, starting with a UK test before a global rollout. This represents a significant regulatory step in balancing content rights and AI training.",
-          "url": "https://techcrunch.com/2026/06/03/publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation/",
-          "source": "TechCrunch AI",
-          "source_icon": "techcrunch",
-          "heat": 7.5,
-          "tags": [
-            "监管",
-            "谷歌",
-            "版权",
-            "AI搜索"
-          ],
-          "student_note": "理解AI与版权法规的动态，对法律、传媒方向的学生尤其重要。",
-          "published_at": "2026-06-03T14:58:33+00:00"
-        },
-        {
-          "title_cn": "特德·姜：人工智能没有意识",
-          "title_en": "Artificial intelligence is not conscious – Ted Chiang",
-          "summary_cn": "著名科幻作家特德·姜发表文章，坚称当前人工智能并不具备意识，其行为只是统计模式匹配，引发关于AI本质的广泛讨论。",
-          "summary_en": "Renowned sci-fi author Ted Chiang argues that today's AI lacks consciousness, merely performing statistical pattern matching, sparking debate on AI nature.",
-          "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
-          "source": "Hacker News",
-          "source_icon": "hackernews",
           "heat": 7.0,
           "tags": [
-            "AI意识",
-            "特德·姜",
-            "观点"
+            "token成本",
+            "成本管控",
+            "AI部署"
           ],
-          "student_note": "推荐阅读原文，深入思考意识与智能的区别。",
-          "published_at": "2026-06-03T17:51:37+00:00",
-          "meta": "▲ 722 · 💬 1238"
+          "student_note": "理解token概念及成本模型，对使用API的学生尤其重要。",
+          "published_at": "2026-06-05T14:49:12+00:00"
         },
         {
-          "title_cn": "伯克利CS课程：AI使用致挂科率飙升",
+          "title_cn": "AirTrunk在印度投300亿美元建AI数据中心",
+          "title_en": "AirTrunk commits $30B to build 5GW of AI data centers in India",
+          "summary_cn": "澳大利亚数据中心运营商AirTrunk宣布在印度建设5吉瓦容量的AI数据中心，投资额达300亿美元。这表明全球AI基础设施竞赛正在加速，印度成为重要战场。",
+          "summary_en": "AirTrunk commits $30 billion to build 5GW of AI data centers in India, highlighting the global race for AI infrastructure and India's strategic role.",
+          "url": "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/",
+          "source": "TechCrunch AI",
+          "source_icon": "techcrunch",
+          "heat": 7.0,
+          "tags": [
+            "数据中心",
+            "投资",
+            "基础设施",
+            "印度"
+          ],
+          "student_note": "了解AI底层基础设施的投资趋势，对云计算和网络方向的学生有价值。",
+          "published_at": "2026-06-05T13:03:10+00:00"
+        },
+        {
+          "title_cn": "伯克利CS学生因使用AI导致挂科激增",
           "title_en": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
-          "summary_cn": "伯克利大学计算机系数据显示，学生过度依赖AI导致基础数学能力下降，挂科率显著上升。教师警告AI工具不应替代基础学习。",
-          "summary_en": "UC Berkeley CS classes report rising failure rates and declining math skills as students over-rely on AI tools, prompting warnings against substituting foundational learning.",
+          "summary_cn": "加州大学伯克利分校计算机科学课程中，学生使用AI工具后不及格率飙升，同时数学能力下降。这警示过度依赖AI可能削弱核心学科基础，教育界需平衡工具使用与学习效果。",
+          "summary_en": "At UC Berkeley, CS courses saw a surge in failing grades and declining math skills associated with heavy AI usage. This warns that over-reliance on AI can erode foundational knowledge, prompting a need to balance tool use and learning outcomes.",
           "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
           "source": "Hacker News",
           "source_icon": "hackernews",
-          "heat": 7.0,
+          "heat": 6.0,
           "tags": [
-            "教育",
-            "AI依赖",
-            "挂科"
+            "AI教育",
+            "学生",
+            "学术能力",
+            "过度依赖"
           ],
-          "student_note": "警示：切勿用AI替代数学和编程基础训练。",
+          "student_note": "提醒自己不要因AI而疏于基本功训练，打好数学和编程基础。",
           "published_at": "2026-06-04T00:18:02+00:00",
-          "meta": "▲ 707 · 💬 669"
+          "meta": "▲ 807 · 💬 772"
         },
         {
-          "title_cn": "AI监控创企Coralogix获2亿美元",
-          "title_en": "Coralogix raises $200M on bet that someone needs to watch the AI agents",
-          "summary_cn": "基础设施监控公司Coralogix融资2亿美元，押注AI代理大规模部署后需要专门工具来监测其行为、排查故障并提供运营数据。这预示了一个新的AI基础设施细分赛道。",
-          "summary_en": "Coralogix raised $200M, betting that as AI agents go into production, demand will surge for monitoring and troubleshooting tools. This highlights a growing infrastructure niche around AI observability.",
-          "url": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/",
-          "source": "TechCrunch AI",
-          "source_icon": "techcrunch",
-          "heat": 7.0,
-          "tags": [
-            "融资",
-            "AI监控",
-            "基础设施",
-            "Coralogix"
-          ],
-          "student_note": "AI运维（AIOps）是热门就业方向，关注此类工具对计算机专业同学有益。",
-          "published_at": "2026-06-03T13:02:51+00:00"
-        },
-        {
-          "title_cn": "AI自我改进：迈向递归提升",
+          "title_cn": "AI自我改进的进展报告",
           "title_en": "When AI Builds Itself: Our progress toward recursive self-improvement",
-          "summary_cn": "文章探讨AI系统通过递归自我改进（即自修改代码或架构）的最新进展，分析当前技术瓶颈与潜在风险。",
-          "summary_en": "An analysis of recent progress in AI recursive self-improvement, where systems modify their own code or architecture, along with current limitations and risks.",
+          "summary_cn": "一篇关于AI递归式自我改进的进展文章，探讨了AI自主编写和改进代码的可能性。这是通向强人工智能的关键步骤，目前仍面临巨大挑战。",
+          "summary_en": "An article on progress toward AI recursive self-improvement, exploring the possibility of AI autonomously writing and improving its own code. This is a key step toward AGI, though challenges remain.",
           "url": "https://www.anthropic.com/institute/recursive-self-improvement",
           "source": "Hacker News",
           "source_icon": "hackernews",
           "heat": 6.0,
           "tags": [
             "自我改进",
-            "递归提升",
-            "AI安全"
+            "AI进展",
+            "强人工智能"
           ],
-          "student_note": "推荐阅读，理解递归自我改进的概念及其对AGI的影响。",
+          "student_note": "理解递归自我改进的概念，对AI前沿研究有重要意义。",
           "published_at": "2026-06-04T16:20:17+00:00",
-          "meta": "▲ 209 · 💬 259"
+          "meta": "▲ 501 · 💬 671"
         },
         {
-          "title_cn": "Uber设定AI工具月限额1500美元",
-          "title_en": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
-          "summary_cn": "Uber将Claude Code等AI工具的使用成本上限设为每月1500美元，以此控制预算。该阈值成为业界评估AI工具定价的参考信号。",
-          "summary_en": "Uber caps usage of AI tools like Claude Code at $1,500/month per developer, setting a benchmark for enterprise AI tool pricing.",
-          "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
+          "title_cn": "Claude是否让rsync漏洞增多？",
+          "title_en": "Did Claude increase bugs in rsync?",
+          "summary_cn": "开发者质疑使用Claude辅助编码后，rsync项目中出现更多bug，引发对AI生成代码质量的担忧。这提醒我们AI工具可能引入隐蔽错误，需谨慎审查。",
+          "summary_en": "Developers question whether AI coding tool Claude has increased bugs in rsync. The discussion highlights the need for careful validation of AI-generated code.",
+          "url": "https://alexispurslane.github.io/rsync-analysis/",
           "source": "Hacker News",
           "source_icon": "hackernews",
           "heat": 6.0,
           "tags": [
-            "Uber",
-            "成本控制",
-            "AI工具"
+            "Claude",
+            "AI代码质量",
+            "rsync",
+            "漏洞"
           ],
-          "student_note": "了解企业如何管理AI工具成本，对规划个人学习资源有启发。",
-          "published_at": "2026-06-03T12:25:14+00:00",
-          "meta": "▲ 602 · 💬 737"
+          "student_note": "学习使用AI编码工具时应养成人工复审的习惯，避免盲目信任。",
+          "published_at": "2026-06-05T12:43:33+00:00",
+          "meta": "▲ 207 · 💬 210"
         },
         {
-          "title_cn": "WWDC 2026：Siri大改与苹果AI升级",
-          "title_en": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
-          "summary_cn": "2026年WWDC即将到来，预测苹果将大幅升级Siri并推出Apple Intelligence新功能，可能引入更强大的端侧AI能力。",
-          "summary_en": "WWDC 2026 expected to bring a major Siri revamp and Apple Intelligence updates, potentially enhancing on-device AI capabilities.",
-          "url": "https://techcrunch.com/2026/06/04/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
-          "source": "TechCrunch AI",
-          "source_icon": "techcrunch",
-          "heat": 6.0,
-          "tags": [
-            "苹果",
-            "Siri",
-            "WWDC",
-            "AI升级"
-          ],
-          "student_note": "关注苹果AI生态动向，对移动开发与体验设计有参考价值。",
-          "published_at": "2026-06-04T16:31:12+00:00"
-        },
-        {
-          "title_cn": "Boxes.dev：云端AI代理开发环境",
-          "title_en": "Show HN: Boxes.dev: ditch localhost; run Claude Code and Codex in the cloud",
-          "summary_cn": "Boxes.dev 是一个专为AI编码代理（如Claude Code和Codex）设计的云端开发环境，每个代理拥有独立的云计算机。它由前Gem团队打造，旨在消除本地环境的限制。",
-          "summary_en": "Boxes.dev is a cloud-native agentic development environment that gives each AI coding agent (like Claude Code and Codex) its own cloud computer, built by ex-Gem engineers to replace localhost development.",
-          "url": "https://boxes.dev",
+          "title_cn": "韩国论坛强制AI审核所有图片",
+          "title_en": "South Korean forums will need to scan every images with AI censorship tools",
+          "summary_cn": "韩国新法规要求在线论坛对所有上传图片进行AI内容审核，引发隐私和言论自由争议。这体现了AI在内容治理中的广泛渗透，也带来伦理挑战。",
+          "summary_en": "New regulations in South Korea mandate AI censorship tools to scan every image on forums, raising privacy and free speech concerns. It's a key example of AI governance.",
+          "url": "https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341",
           "source": "Hacker News",
           "source_icon": "hackernews",
           "heat": 6.0,
           "tags": [
-            "AI代理",
-            "开发环境",
-            "Boxes.dev",
-            "云端"
+            "AI监管",
+            "内容审核",
+            "隐私"
           ],
-          "student_note": "推荐体验，了解AI代理开发工具的最新趋势，对提升编码效率有直接帮助。",
-          "published_at": "2026-06-04T14:38:35+00:00",
-          "meta": "▲ 78 · 💬 56"
+          "student_note": "关注AI监管政策的全球动态，思考技术与社会价值的平衡。",
+          "published_at": "2026-06-04T23:45:56+00:00",
+          "meta": "▲ 202 · 💬 128"
         },
         {
-          "title_cn": "Hello Robot 发布第四代家庭机器人",
-          "title_en": "Is Silicon Valley ready to put robots in people’s homes? Hello Robot is.",
-          "summary_cn": "加州初创公司Hello Robot发布了第四代家庭辅助机器人Stretch，该机器人专为协助日常家务设计。这标志着家用机器人技术向实用化迈出重要一步，可能改变未来家庭生活方式。",
-          "summary_en": "California startup Hello Robot released the fourth-generation of its home assistance robot, Stretch, designed to help with everyday tasks. This marks a significant step towards practical home robotics.",
-          "url": "https://techcrunch.com/2026/06/04/is-silicon-valley-ready-to-put-robots-in-peoples-homes-hello-robot-is/",
-          "source": "TechCrunch AI",
-          "source_icon": "techcrunch",
+          "title_cn": "你何时被 GenAI 震撼到？",
+          "title_en": "Ask HN: What was your \"oh shit\" moment with GenAI?",
+          "summary_cn": "Hacker News 上的讨论帖，用户分享从最初对 DALL-E、ChatGPT 等生成式 AI 不屑一顾，到后来被其能力彻底震撼的经历。反映了 GenAI 从“玩具”到“工具”的认知转变。",
+          "summary_en": "A Hacker News discussion where users share their moments of realization about the power of generative AI, from initial skepticism to being genuinely impressed. It highlights the paradigm shift in perception of GenAI.",
+          "url": "https://news.ycombinator.com/item?id=48406174",
+          "source": "Hacker News",
+          "source_icon": "hackernews",
           "heat": 6.0,
           "tags": [
-            "家庭机器人",
-            "Hello Robot",
-            "机器人"
+            "GenAI",
+            "社区讨论",
+            "认知转变"
           ],
-          "student_note": "关注机器人技术进展，特别是人机交互和自主导航方向，对机器人学爱好者有参考价值。",
-          "published_at": "2026-06-04T15:05:00+00:00"
+          "student_note": "推荐阅读，了解技术演进中认知迭代的典型案例，有助于培养对新技术的前瞻性判断。",
+          "published_at": "2026-06-04T23:42:20+00:00",
+          "meta": "▲ 66 · 💬 213"
         },
         {
-          "title_cn": "苹果App Store累计交易额达1.4万亿美元",
-          "title_en": "Apple touts $1.4 trillion in App Store billings and sales, 90% without a commission",
-          "summary_cn": "苹果宣布App Store累计交易额达1.4万亿美元，其中90%的销售未缴纳佣金。数字商品销售额为1490亿美元。这一数据反映了应用经济规模，但也引发对平台垄断的讨论。",
-          "summary_en": "Apple reports $1.4 trillion in total App Store billings and sales, with 90% of sales not subject to commission. Digital goods contributed $149 billion. The data highlights the app economy's scale but also monopoly concerns.",
-          "url": "https://techcrunch.com/2026/06/04/apple-touts-1-4-trillion-in-app-store-billings-and-sales-90-without-a-commission/",
+          "title_cn": "2026年“社交科技”成创业新热点",
+          "title_en": "The ‘together tech’ wave might be the most intriguing startup bet of 2026",
+          "summary_cn": "在AI融资热潮之外，一些创业者转向“together tech”，即通过线下真人社交体验（如Board）让人们重新聚在一起。这被看作2026年最有趣的投资方向之一。",
+          "summary_en": "Beyond the AI fundraising frenzy, some founders are betting on 'together tech'—startups that facilitate in-person social experiences like Board. It's a refreshing counter-trend.",
+          "url": "https://techcrunch.com/podcast/the-together-tech-wave-might-be-the-most-intriguing-startup-bet-of-2026/",
           "source": "TechCrunch AI",
           "source_icon": "techcrunch",
-          "heat": 6.0,
+          "heat": 5.5,
           "tags": [
-            "App Store",
-            "应用经济",
-            "平台垄断"
+            "创业趋势",
+            "社交科技",
+            "投资"
           ],
-          "student_note": "对应用经济或开发者生态感兴趣的同学可关注佣金政策变化对创业的影响。",
-          "published_at": "2026-06-04T14:05:58+00:00"
+          "student_note": "关注创业赛道的多样性，思考技术如何服务于真实社交需求。",
+          "published_at": "2026-06-05T14:00:00+00:00"
         },
         {
-          "title_cn": "StrictlyVC LA聚焦国防AI与融资",
-          "title_en": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
-          "summary_cn": "StrictlyVC洛杉矶会议将于6月18日举行，汇聚投资人、创始人和技术领袖，探讨国防科技、人工智能与风险投资的最新趋势。",
-          "summary_en": "StrictlyVC Los Angeles on June 18 will bring together investors and founders to discuss defense tech, AI, and fundraising trends.",
-          "url": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
+          "title_cn": "新创公司逆势而上：让你放下手机",
+          "title_en": "The most interesting startups right now want to get you off your phone",
+          "summary_cn": "在AI融资热潮中，一批创业公司反其道而行之，聚焦于线下社交和实体体验，比如Board公司通过面对面游戏把人聚在一起。这反映了数字戒断与反向创新的趋势。",
+          "summary_en": "Amid the AI fundraising frenzy, some startups are building in the opposite direction, focusing on offline social interactions and physical experiences. For example, Board gathers people through in-person games. This signals a trend of digital detox and counter-innovation.",
+          "url": "https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/",
           "source": "TechCrunch AI",
           "source_icon": "techcrunch",
           "heat": 5.0,
           "tags": [
-            "会议",
-            "国防AI",
-            "融资"
+            "线下社交",
+            "反向创新",
+            "创业公司"
+          ],
+          "student_note": "思考AI之外的技术与社会交叉领域，拓宽创业视野。",
+          "published_at": "2026-06-05T17:17:06+00:00"
+        },
+        {
+          "title_cn": "程序员愿为AI写文档，不愿为人",
+          "title_en": "Programmers will document for Claude, but not for each other",
+          "summary_cn": "观察发现，开发者更愿意为Claude等AI工具编写详细注释和文档，却懒得为人类同事做同样的事。这反映了AI对开发文化的影响，也引发对团队协作的思考。",
+          "summary_en": "Developers are more willing to write detailed documentation for AI tools like Claude than for human colleagues, reflecting a shift in development culture driven by AI.",
+          "url": "https://blog.plover.com/2026/03/09/#documentation-wins-2",
+          "source": "Hacker News",
+          "source_icon": "hackernews",
+          "heat": 5.0,
+          "tags": [
+            "开发者文化",
+            "AI协作",
+            "文档"
+          ],
+          "student_note": "反思：良好的文档习惯对团队协作长期有益，不应只服务于AI。",
+          "published_at": "2026-06-05T12:30:17+00:00",
+          "meta": "▲ 162 · 💬 145"
+        },
+        {
+          "title_cn": "Hacker News讨论AI开发技术栈",
+          "title_en": "Ask HN: What is your (AI) dev tech stack / workflow?",
+          "summary_cn": "Hacker News上发起讨论：大家用什么样的AI开发工具链和工作流。参与者分享从新手到专业人士的现代工具选择，对开发者学习路线有参考价值。",
+          "summary_en": "A discussion on Hacker News asks developers about their AI dev tech stack and workflow. Participants share modern tool choices from beginners to pros, offering a valuable reference for learning paths.",
+          "url": "https://news.ycombinator.com/item?id=48413629",
+          "source": "Hacker News",
+          "source_icon": "hackernews",
+          "heat": 4.0,
+          "tags": [
+            "AI开发",
+            "技术栈",
+            "开发者社区"
+          ],
+          "student_note": "阅读该讨论可了解主流AI开发工具，帮助构建个人技术栈。",
+          "published_at": "2026-06-05T15:13:54+00:00",
+          "meta": "▲ 106 · 💬 88"
+        },
+        {
+          "title_cn": "微调LLM写出1995年风格的文档",
+          "title_en": "Fine-tuning an LLM to write docs like it's 1995",
+          "summary_cn": "通过微调让大语言模型模仿90年代的文档风格，既是一次趣味实验，也展示了如何控制LLM的输出风格（语气、格式）。对学习微调技术有启发。",
+          "summary_en": "A project fine-tunes an LLM to write documentation in a 1995 style, demonstrating how to control tone and format through fine-tuning. It's both fun and educational.",
+          "url": "https://passo.uno/fine-tuning-docs-llm/",
+          "source": "Hacker News",
+          "source_icon": "hackernews",
+          "heat": 4.0,
+          "tags": [
+            "微调",
+            "LLM",
+            "文本生成"
+          ],
+          "student_note": "想动手实践微调的话，这个问题设置简单有趣，适合入门。",
+          "published_at": "2026-06-05T05:46:06+00:00",
+          "meta": "▲ 172 · 💬 64"
+        },
+        {
+          "title_cn": "Hacker News探讨AI内容",
+          "title_en": "Hacker News, Sans AI",
+          "summary_cn": "Hacker News上出现一篇名为“Sans AI”的讨论，可能是关于减少或屏蔽AI相关内容的倡议。该话题反映了技术社区对AI信息过载的反思与调节尝试。",
+          "summary_en": "A discussion titled 'Hacker News, Sans AI' emerges, likely advocating for reducing or filtering AI-related content. It reflects the tech community's reflection on AI information overload.",
+          "url": "https://elijahpotter.dev/articles/hacker-news-sans-AI",
+          "source": "Hacker News",
+          "source_icon": "hackernews",
+          "heat": 3.5,
+          "tags": [
+            "AI内容管理",
+            "社区讨论"
+          ],
+          "student_note": "关注技术社区对AI话题的态度变化，有助于理解舆论风向。",
+          "published_at": "2026-06-05T20:38:40+00:00",
+          "meta": "▲ 61 · 💬 36"
+        },
+        {
+          "title_cn": "CERN 高级存储管理器 Castor",
+          "title_en": "Castor: CERN Advanced STORage Manager",
+          "summary_cn": "欧洲核子研究中心（CERN）开发的大型存储管理系统，用于管理海量科研数据。虽然本身不是 AI 工具，但为 AI 训练提供了数据基础设施支持。",
+          "summary_en": "A storage management system developed at CERN for handling massive scientific data. While not directly an AI tool, it provides critical data infrastructure for AI workloads in high-energy physics.",
+          "url": "https://castor.web.cern.ch/content/home.html",
+          "source": "Hacker News",
+          "source_icon": "hackernews",
+          "heat": 3.0,
+          "tags": [
+            "CERN",
+            "数据存储",
+            "科研基础设施"
           ],
           "student_note": null,
-          "published_at": "2026-06-04T21:30:00+00:00"
+          "published_at": "2026-06-04T19:52:02+00:00",
+          "meta": "▲ 64 · 💬 31"
         },
         {
-          "title_cn": "AI短缺推高DDR5内存价格至375美元",
-          "title_en": "32GB of DDR5 now costs $375 – AI shortage continues to squeeze PC building",
-          "summary_cn": "由于AI服务器需求大量消耗内存芯片产能，32GB DDR5内存条价格已涨至375美元，DIY PC成本显著增加。",
-          "summary_en": "The price of 32GB DDR5 RAM hits $375 as AI chip demand drains supply, raising costs for PC builders.",
-          "url": "https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building",
-          "source": "Hacker News",
-          "source_icon": "hackernews",
-          "heat": 5.0,
+          "title_cn": "Startup Battlefield申请即将截止",
+          "title_en": "Startup Battlefield 200 applications officially close in 3 days",
+          "summary_cn": "TechCrunch Disrupt 2026旗下创业大赛“Startup Battlefield 200”申请截止于6月8日。获胜者将有机会在旧金山Moscone West展示项目，是创业团队获得曝光和投资的绝佳机会。",
+          "summary_en": "Applications for TechCrunch Disrupt 2026's Startup Battlefield 200 close on June 8, offering winners a chance to pitch at San Francisco. It's a prime opportunity for startups to gain exposure and funding.",
+          "url": "https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/",
+          "source": "TechCrunch AI",
+          "source_icon": "techcrunch",
+          "heat": 2.5,
           "tags": [
-            "AI供应",
-            "DDR5",
-            "内存涨价",
-            "硬件"
+            "创业大赛",
+            "TechCrunch",
+            "Startup Battlefield"
           ],
-          "student_note": "硬件涨价趋势提示学习云计算资源管理的重要性。",
-          "published_at": "2026-06-03T12:43:43+00:00",
-          "meta": "▲ 416 · 💬 380"
-        },
-        {
-          "title_cn": "花1500美元测试LLM能否自动黑客",
-          "title_en": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
-          "summary_cn": "一位开发者故意构建带漏洞的应用程序，并花费1500美元调用多种LLM尝试自动利用漏洞，测试AI的黑客能力。结果揭示了当前LLM在自动化漏洞利用上的局限。",
-          "summary_en": "A developer built a vulnerable app and spent $1,500 testing various LLMs to automatically exploit the flaws, revealing current limitations of AI in autonomous hacking.",
-          "url": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/",
-          "source": "Hacker News",
-          "source_icon": "hackernews",
-          "heat": 5.0,
-          "tags": [
-            "LLM",
-            "安全测试",
-            "漏洞利用",
-            "AI能力"
-          ],
-          "student_note": "对AI安全感兴趣的读者可关注实验细节与结论。",
-          "published_at": "2026-06-04T00:56:32+00:00",
-          "meta": "▲ 376 · 💬 201"
-        },
-        {
-          "title_cn": "Gooey：Zig语言的GPU加速UI框架",
-          "title_en": "Gooey: A GPU-accelerated UI framework for Zig",
-          "summary_cn": "Gooey 是一个为Zig语言设计的GPU加速UI框架，利用图形处理器实现流畅界面渲染。该框架适合追求高性能和低延迟的GUI应用开发。",
-          "summary_en": "Gooey is a GPU-accelerated UI framework for the Zig programming language, leveraging graphics hardware for smooth rendering. It targets high-performance GUI applications.",
-          "url": "https://github.com/duanebester/gooey",
-          "source": "Hacker News",
-          "source_icon": "hackernews",
-          "heat": 5.0,
-          "tags": [
-            "Zig",
-            "GPU加速",
-            "UI框架"
-          ],
-          "student_note": "对底层系统编程和GPU计算感兴趣的同学可以了解，Zig语言也在快速发展中。",
-          "published_at": "2026-06-03T17:12:27+00:00",
-          "meta": "▲ 195 · 💬 83"
+          "student_note": "有创业想法的同学可关注此类竞赛，积累实战经验。",
+          "published_at": "2026-06-05T20:00:00+00:00"
         }
       ]
     },
@@ -825,657 +684,655 @@
       "icon": "📚",
       "items": [
         {
-          "title_cn": "知识基准KINA",
-          "title_en": "Knowledge Index of Noah's Ark",
-          "summary_cn": "现有LLM知识基准存在诸多问题：按模型规模设计导致学科代表性不足、标注采用“平薪”制鼓励懒政、排名不稳定。该研究提出KINA，包含来自261个学科的899道题目，经过严格质量审核和动态测试，提供更可靠的知识评估。",
-          "summary_en": "Existing knowledge benchmarks for LLMs suffer from scaling-driven designs, lazy annotation, and unstable rankings. This paper introduces KINA, an 899-item benchmark across 261 fields, with rigorous quality control and dynamic testing for more reliable knowledge evaluation.",
-          "url": "http://arxiv.org/abs/2606.05104v1",
+          "title_cn": "Transformer本质简洁性获顶会认可",
+          "title_en": "Transformers Are Inherently Succinct",
+          "summary_cn": "一篇题为“Transformers Are Inherently Succinct”的论文被ICLR 2026接收为杰出论文（仅三篇之一）。该研究从理论上证明了Transformer架构具有内在简洁性，对理解模型表达力有重要意义。",
+          "summary_en": "The paper 'Transformers Are Inherently Succinct' was accepted as one of three outstanding papers at ICLR 2026. It theoretically proves that Transformer architectures are inherently succinct, offering insights into model expressiveness.",
+          "url": "https://openreview.net/pdf?id=Yxz92UuPLQ",
+          "source": "Hacker News",
+          "source_icon": "hackernews",
+          "heat": 7.0,
+          "tags": [
+            "Transformer",
+            "ICLR",
+            "杰出论文",
+            "理论简洁性"
+          ],
+          "student_note": "推荐阅读，了解Transformer架构的最新理论优化方向。",
+          "published_at": "2026-06-05T18:50:26+00:00",
+          "meta": "▲ 52 · 💬 19"
+        },
+        {
+          "title_cn": "MLEvolve：自进化机器学习发现",
+          "title_en": "MLEvolve: A Self-Evolving Framework for Automated Machine Learning Algorithm Discovery",
+          "summary_cn": "提出基于 LLM Agent 的自动机器学习算法发现框架，通过分支隔离、记忆搜索和代码复用等机制，实现长期持续的自进化，解决现有 MLE Agent 的信息孤立问题。",
+          "summary_en": "MLEvolve is a self-evolving framework using LLM agents for automated machine learning algorithm discovery, featuring inter-branch communication, memory-based search, and code reuse for sustained long-term evolution.",
+          "url": "http://arxiv.org/abs/2606.06473v1",
           "source": "ArXiv cs.AI",
           "source_icon": "arxiv",
           "heat": 7.0,
           "tags": [
-            "知识评估",
-            "基准测试",
-            "LLM",
-            "ArXiv"
+            "自动机器学习",
+            "LLM Agent",
+            "自进化"
           ],
-          "student_note": "对LLM评估、基准测试方法论感兴趣的同学可以深入研究。",
-          "published_at": "2026-06-03T17:06:49+00:00",
-          "meta": "Sheng Jin, Minghao Liu, Yunze Xiao"
+          "student_note": "推荐给自动化机器学习和 AI 科学发现方向的同学，了解自进化 Agent 的设计。",
+          "published_at": "2026-06-04T17:55:59+00:00",
+          "meta": "Shangheng Du, Xiangchao Yan, Jinxin Shi"
         },
         {
-          "title_cn": "自反射API：结构化反馈助AI恢复",
-          "title_en": "Self-Reflective APIs: Structure Beats Verbosity for AI Agent Recovery",
-          "summary_cn": "当AI调用API遇到验证错误时，仅告知错误原因不足，还需告诉下一步操作。自反射API在验证失败时返回机器可读的恢复建议（如recovery_feedback.suggestions[]），使Agent能自动修复请求，无需人工干预。",
-          "summary_en": "When an AI agent's API call fails validation, it needs actionable recovery suggestions. Self-Reflective APIs return structured, machine-readable recovery feedback, enabling agents to automatically repair requests and retry efficiently.",
-          "url": "http://arxiv.org/abs/2606.05037v1",
+          "title_cn": "RiskFlow: Fast and Faithful Safety-Critical Traffic Scenario Generation",
+          "title_en": "RiskFlow: Fast and Faithful Safety-Critical Traffic Scenario Generation",
+          "summary_cn": "Safety-critical traffic scenario generation is essential for evaluating autonomous driving systems under rare but high-risk interactions. Existing diffusion-based methods offer strong controllability in closed-loop generation, but their iterative denoising process is computationally expensive and may accumulate sampling and guidance errors over long rollouts, causing unrealistic motion artifacts such as jitter, abnormal acceleration, and off-road behavior. To address these issues, we propose Ris",
+          "summary_en": "Safety-critical traffic scenario generation is essential for evaluating autonomous driving systems under rare but high-risk interactions. Existing diffusion-based methods offer strong controllability in closed-loop generation, but their iterative denoising process is computationally expensive and may accumulate sampling and guidance errors over long rollouts, causing unrealistic motion artifacts such as jitter, abnormal acceleration, and off-road behavior. To address these issues, we propose Ris",
+          "url": "http://arxiv.org/abs/2606.06423v1",
           "source": "ArXiv cs.AI",
           "source_icon": "arxiv",
           "heat": 7.0,
           "tags": [
-            "API",
-            "错误恢复",
-            "智能体",
-            "ArXiv"
+            "自动驾驶",
+            "安全场景生成",
+            "风险评估"
           ],
-          "student_note": "学习API设计时，可参考此方案增加结构化错误反馈，提升系统鲁棒性。",
-          "published_at": "2026-06-03T16:02:11+00:00",
-          "meta": "Arquimedes Canedo, Grama Chethan"
+          "student_note": null,
+          "published_at": "2026-06-04T17:28:42+00:00",
+          "meta": "Qi Lan, Yining Tang, Yu Shen"
         },
         {
-          "title_cn": "语言模型的算术教学法",
-          "title_en": "Arithmetic Pedagogy for Language Models",
-          "summary_cn": "借鉴人类数学教学方法，该研究探索用印尼GASING教学法（从左到右逐步计算）训练语言模型进行算术推理。该方法将复杂计算分解为简单步骤，显著提升模型的算术能力。",
-          "summary_en": "This paper adapts the Indonesian GASING pedagogy (left-to-right procedural arithmetic) to train language models for arithmetic reasoning. By decomposing complex calculations into simple steps, it significantly improves the model's arithmetic performance.",
-          "url": "http://arxiv.org/abs/2606.05106v1",
+          "title_cn": "两步生成中锁定运动先验提升物理一致性",
+          "title_en": "Physics in 2-Steps: Locking Motion Priors Before Visual Refinement Erases Them",
+          "summary_cn": "研究发现图像到视频扩散模型中，仅用2步生成（无后续视觉细化）反而比50步生成的视频具有更好的物理一致性。原因是后续细化步骤会破坏初始的运动先验。该发现对设计物理合理的视频生成流程有重要启示。",
+          "summary_en": "A surprising finding shows that 2-step generation in image-to-video diffusion models yields better physical consistency than 50-step outputs, because later refinement steps erase the motion priors captured early. This insight guides designing more physically plausible video generation pipelines.",
+          "url": "http://arxiv.org/abs/2606.06361v1",
+          "source": "ArXiv cs.CV",
+          "source_icon": "arxiv",
+          "heat": 7.0,
+          "tags": [
+            "视频生成",
+            "扩散模型",
+            "运动先验"
+          ],
+          "student_note": "对视频生成质量提升感兴趣的同学可关注，思考如何平衡生成步数与物理真实性。",
+          "published_at": "2026-06-04T16:30:39+00:00",
+          "meta": "Woojung Han, Seil Kang, Youngjun Jun"
+        },
+        {
+          "title_cn": "StoryVideoQA：大规模视频问答数据集",
+          "title_en": "StoryVideoQA: Scaling Deep Video Understanding with a Large-Scale, Multi-Genre and Auto-Generated Dataset",
+          "summary_cn": "StoryVideoQA是一个大规模、多类型、自动生成的视频问答数据集，旨在推动深度视频理解，要求模型回答涉及复杂故事情节的问题（如因果关系、角色动机）。现有模型在此任务上表现不佳，凸显了长时上下文推理的挑战。",
+          "summary_en": "StoryVideoQA is a large-scale, multi-genre, auto-generated dataset for deep video understanding, requiring models to answer questions about complex storylines (e.g., causality, character motives). Current models underperform, highlighting the challenge of long-range contextual reasoning.",
+          "url": "http://arxiv.org/abs/2606.06338v1",
+          "source": "ArXiv cs.CV",
+          "source_icon": "arxiv",
+          "heat": 7.0,
+          "tags": [
+            "视频问答",
+            "数据集",
+            "故事理解"
+          ],
+          "student_note": "视频问答领域的新基准，适合研究长时视频理解的同学参考。",
+          "published_at": "2026-06-04T16:12:43+00:00",
+          "meta": "Zhengqian Wu, Zhixian Liu, Aodong Chen"
+        },
+        {
+          "title_cn": "RhymeFlow：无训练视频生成加速",
+          "title_en": "RhymeFlow: Training-Free Acceleration for Video Generation with Asynchronous Denoising Flow Scheduling",
+          "summary_cn": "RhymeFlow针对基于Diffusion Transformer的视频生成模型，提出异步去噪流调度策略，无需重新训练即可加速推理。通过合理安排不同时间步的去噪任务，减少了3D注意力计算的冗余，显著降低延迟和计算成本。",
+          "summary_en": "RhymeFlow introduces an asynchronous denoising flow scheduling strategy for Diffusion Transformer-based video generation, accelerating inference without retraining. By scheduling denoising tasks across timesteps, it reduces redundant 3D attention computation, cutting latency and cost.",
+          "url": "http://arxiv.org/abs/2606.06309v1",
+          "source": "ArXiv cs.CV",
+          "source_icon": "arxiv",
+          "heat": 7.0,
+          "tags": [
+            "视频生成",
+            "加速",
+            "Diffusion Transformer"
+          ],
+          "student_note": "了解如何通过调度策略优化扩散模型推理速度，适合生成模型调优研究者。",
+          "published_at": "2026-06-04T15:49:37+00:00",
+          "meta": "Chensheng Dai, Shengjun Zhang, Yifan Li"
+        },
+        {
+          "title_cn": "人形机器人全身控制新方法 HANDOFF",
+          "title_en": "HANDOFF: Humanoid Agentic Task-Space Whole-Body Control via Distilled Complementary Teachers",
+          "summary_cn": "提出 HANDOFF 框架，通过蒸馏互补教师模型，使人形机器人能从高层任务语义直接解算出全身运动控制信号，无需稠密运动参考。",
+          "summary_en": "A novel framework, HANDOFF, uses distilled complementary teachers for whole-body control of humanoid robots, enabling direct mapping from task semantics to motor commands without dense kinematic references.",
+          "url": "http://arxiv.org/abs/2606.06493v1",
           "source": "ArXiv cs.AI",
           "source_icon": "arxiv",
           "heat": 6.5,
           "tags": [
-            "算术推理",
-            "教学法",
-            "语言模型",
-            "ArXiv"
+            "人形机器人",
+            "全身控制",
+            "强化学习",
+            "蒸馏"
           ],
-          "student_note": "对AI教育、推理机制或教学法迁移感兴趣的同学推荐阅读。",
-          "published_at": "2026-06-03T17:09:25+00:00",
-          "meta": "Andhika Bernard Lumbantobing, Hokky Situngkir"
+          "student_note": "适合机器人学方向的同学阅读，了解任务空间控制与教师蒸馏的最新进展。",
+          "published_at": "2026-06-04T17:59:50+00:00",
+          "meta": "Lizhi Yang, Junheng Li, Nehar Poddar"
         },
         {
-          "title_cn": "无监督视频全景分割",
-          "title_en": "Scene-Centric Unsupervised Video Panoptic Segmentation",
-          "summary_cn": "该研究首次提出无监督视频全景分割任务，无需任何人工标注即可同时检测、分割和跟踪视频中的所有物体。方法依托场景中心视角，克服了传统无监督方法只关注静态场景或单一物体的局限。适合对无监督视频理解感兴趣的同学入门。",
-          "summary_en": "This work introduces unsupervised video panoptic segmentation for the first time, jointly detecting, segmenting, and tracking all objects without any human annotations. It leverages a scene-centric view, overcoming the limitations of prior methods that focus on static scenes or single objects.",
-          "url": "http://arxiv.org/abs/2606.04925v1",
+          "title_cn": "TempoVLA：速度可控的机器人操作模型",
+          "title_en": "TempoVLA: Learning Speed-Controllable Vision-Language-Action Policies",
+          "summary_cn": "现有视觉-语言-动作模型（VLA）只能以单一固定速度执行操作，而 TempoVLA 使机器人能根据任务阶段自动选择高速或低速，兼顾效率与安全性。",
+          "summary_en": "Existing VLAs operate at a fixed speed, but TempoVLA learns speed-controllable policies, allowing robots to execute fast transit motions and slow precise contact motions based on task context.",
+          "url": "http://arxiv.org/abs/2606.06491v1",
+          "source": "ArXiv cs.AI",
+          "source_icon": "arxiv",
+          "heat": 6.5,
+          "tags": [
+            "机器人",
+            "VLA",
+            "速度控制",
+            "操作"
+          ],
+          "student_note": "对机器人操作和模仿学习感兴趣的同学可关注，了解速度可控策略的设计。",
+          "published_at": "2026-06-04T17:59:40+00:00",
+          "meta": "Dong Jing, Jingchen Nie, Tianqi Zhang"
+        },
+        {
+          "title_cn": "想象推理：世界模拟器驱动的智能体视觉空间推理",
+          "title_en": "Thinking with Imagination: Agentic Visual Spatial Reasoning with World Simulators",
+          "summary_cn": "视觉语言模型在空间推理上局限于观察到的图像，难以推断未观察的布局和跨视图一致性。本文提出结合世界模拟器进行想象推理，使智能体能够在多视图中进行空间推理和运动规划，大幅提升3D空间理解能力。",
+          "summary_en": "VLMs struggle with spatial reasoning beyond observed views. This paper uses world simulators to enable agentic imagination, allowing models to infer unobserved layouts, maintain cross-view consistency, and plan movements. It advances embodied AI by combining vision, language, and physical simulation.",
+          "url": "http://arxiv.org/abs/2606.06476v1",
           "source": "ArXiv cs.CV",
           "source_icon": "arxiv",
           "heat": 6.5,
           "tags": [
-            "无监督学习",
-            "视频分割",
-            "全景分割"
+            "世界模拟器",
+            "空间推理",
+            "视觉语言模型",
+            "智能体"
           ],
-          "student_note": "无监督视觉方向的前沿探索，值得关注",
-          "published_at": "2026-06-03T14:19:55+00:00",
-          "meta": "Christoph Reich, Oliver Hahn, Nikita Araslanov"
+          "student_note": "具身AI和机器人方向的同学推荐阅读，了解视觉空间推理与模拟器结合的前沿。",
+          "published_at": "2026-06-04T17:56:36+00:00",
+          "meta": "Chenming Zhu, Jingli Lin, Yilin Long"
         },
         {
-          "title_cn": "基于丰富反馈的强化学习",
-          "title_en": "Reinforcement Learning from Rich Feedback with Distributional DAgger",
-          "summary_cn": "当前的强化学习从可验证奖励（RLVR）方法仅用单个比特（正确/错误）来奖励模型，忽略了过程中的丰富反馈。该研究提出 Distributional DAgger，利用更细致的反馈信号（如部分评分、中间步骤评估）来训练推理模型，提升学习效率。",
-          "summary_en": "Current RL from verifiable rewards (RLVR) only uses a single bit (correct/incorrect) per response. This work proposes Distributional DAgger to leverage richer feedback (e.g., partial scores, intermediate evaluations) for training reasoning models, improving learning efficiency.",
-          "url": "http://arxiv.org/abs/2606.05152v1",
+          "title_cn": "Code2LoRA：代码模型自适应演化",
+          "title_en": "Code2LoRA: Hypernetwork-Generated Adapters for Code Language Models under Software Evolution",
+          "summary_cn": "针对代码语言模型在软件演化过程中需要频繁适配的问题，提出用超网络动态生成 LoRA 适配器，避免昂贵的大规模微调，提高仓库级上下文融合效率。",
+          "summary_en": "Code2LoRA uses a hypernetwork to generate LoRA adapters for code language models, enabling efficient adaptation to evolving software repositories without costly per-repo fine-tuning.",
+          "url": "http://arxiv.org/abs/2606.06492v1",
           "source": "ArXiv cs.AI",
           "source_icon": "arxiv",
           "heat": 6.0,
           "tags": [
+            "代码模型",
+            "LoRA",
+            "软件演化",
+            "微调"
+          ],
+          "student_note": "推荐阅读，了解代码大模型低秩适配与仓库级上下文的优化方案。",
+          "published_at": "2026-06-04T17:59:46+00:00",
+          "meta": "Liliana Hotsko, Yinxi Li, Yuntian Deng"
+        },
+        {
+          "title_cn": "无循环预训练循环网络",
+          "title_en": "Pretraining Recurrent Networks without Recurrence",
+          "summary_cn": "提出一种新的循环神经网络预训练方法，通过前馈式预训练避免 BPTT 的序贯限制和梯度问题，同时保持推理时的递归结构，提升长序列建模效率。",
+          "summary_en": "A novel pretraining method for RNNs that avoids sequential BPTT by using a non-recurrent objective during pretraining, enabling parallelization and mitigating vanishing/exploding gradients while preserving recurrence at inference.",
+          "url": "http://arxiv.org/abs/2606.06479v1",
+          "source": "ArXiv cs.AI",
+          "source_icon": "arxiv",
+          "heat": 6.0,
+          "tags": [
+            "循环神经网络",
+            "预训练",
+            "长序列建模"
+          ],
+          "student_note": "适合序列建模方向的同学，学习如何突破 BPTT 的并行瓶颈与长期依赖困难。",
+          "published_at": "2026-06-04T17:57:33+00:00",
+          "meta": "Akarsh Kumar, Phillip Isola"
+        },
+        {
+          "title_cn": "RREDCoT：推理模型分段奖励再分配",
+          "title_en": "RREDCoT: Segment-Level Reward Redistribution for Reasoning Models",
+          "summary_cn": "针对推理语言模型（如 CoT）的强化学习微调，提出分段奖励再分配机制，替代 GRPO 等全局奖励，更精细地引导模型生成合理推理链。",
+          "summary_en": "RREDCoT proposes segment-level reward redistribution for RL fine-tuning of reasoning language models, offering finer-grained credit assignment than global reward methods like GRPO, improving chain-of-thought quality.",
+          "url": "http://arxiv.org/abs/2606.06475v1",
+          "source": "ArXiv cs.AI",
+          "source_icon": "arxiv",
+          "heat": 6.0,
+          "tags": [
+            "推理模型",
             "强化学习",
-            "反馈机制",
-            "推理模型"
+            "奖励设计"
           ],
-          "student_note": "强化学习方向的前沿工作，推荐给对RLVR和推理模型优化感兴趣的同学。",
-          "published_at": "2026-06-03T17:54:04+00:00",
-          "meta": "Rishabh Agrawal, Jacob Fein-Ashley, Paria Rashidinejad"
+          "student_note": "关注推理模型和强化学习的同学可阅读，了解奖励塑造的新思路。",
+          "published_at": "2026-06-04T17:56:31+00:00",
+          "meta": "Mykyta Ielanskyi, Kajetan Schweighofer, Lukas Aichberger"
         },
         {
-          "title_cn": "几何感知多视图非刚性编辑",
-          "title_en": "GeM-NR: Geometry-Aware Multi-View Editing for Nonrigid Scene Changes",
-          "summary_cn": "现有大部分多视图图像编辑方法仅支持刚体或外观变化，而该论文提出 GeM-NR，利用未编辑场景的几何信息，实现对非刚性（如变形、弯曲）场景变化的一致编辑，向通用3D内容定制迈进了一步。",
-          "summary_en": "Most multi-view editing methods only handle rigid or appearance changes. This paper introduces GeM-NR, which uses geometry of the unedited scene to enable consistent nonrigid edits (e.g., deformation), advancing toward general 3D content customization.",
-          "url": "http://arxiv.org/abs/2606.05142v1",
+          "title_cn": "扩散语言模型的自增强检索",
+          "title_en": "Self-Augmenting Retrieval for Diffusion Language Models",
+          "summary_cn": "离散扩散语言模型在迭代去噪过程中会丢弃不确定的 token，本文利用这些丢弃的 token 作为检索来源，增强生成质量，实现无需外部语料的自增强。",
+          "summary_en": "Discrete diffusion language models discard uncertain tokens at each step; this work repurposes those tokens as retrieval sources to augment generation, achieving self-augmentation without external corpora.",
+          "url": "http://arxiv.org/abs/2606.06474v1",
           "source": "ArXiv cs.AI",
           "source_icon": "arxiv",
           "heat": 6.0,
           "tags": [
-            "多视图编辑",
-            "非刚性",
-            "3D"
+            "扩散模型",
+            "检索增强",
+            "自增强"
           ],
-          "student_note": "对3D视觉、生成模型或计算机图形学感兴趣的同学推荐阅读。",
-          "published_at": "2026-06-03T17:49:48+00:00",
-          "meta": "Josef Bengtson, Yaroslava Lochman, Fredrik Kahl"
+          "student_note": "适合对扩散模型和检索增强生成感兴趣的同学，了解模型自增强的创新思路。",
+          "published_at": "2026-06-04T17:56:27+00:00",
+          "meta": "Paul Jünger, Justin Lovelace, Linxi Zhao"
         },
         {
-          "title_cn": "在线音频交互大模型",
-          "title_en": "Audio Interaction Model",
-          "summary_cn": "当前大型音频语言模型（LALM）多为离线模型，而流式音频模型只能处理单一任务（如语音识别或语音聊天）。该论文提出统一框架，构建一个永远在线的、能同时处理感知-决策-行动的在线LALM。",
-          "summary_en": "Current Large Audio Language Models (LALMs) are offline, and streaming audio models handle only single tasks. This paper proposes a unified framework for an always-on online LALM that jointly handles perception, decision, and action.",
-          "url": "http://arxiv.org/abs/2606.05121v1",
+          "title_cn": "PC Layer：多项式权重预条件改善 LLM 训练",
+          "title_en": "PC Layer: Polynomial Weight Preconditioning for Improving LLM Pre-Training",
+          "summary_cn": "提出多项式预条件层（PC Layer），通过低阶多项式重新参数化权重矩阵，稳定其奇异值分布，从而改善大语言模型预训练的收敛速度和稳定性。训练后可将该层吸收。",
+          "summary_en": "A polynomial preconditioning layer (PC Layer) is introduced to reparametrize weight matrices, stabilizing their singular value spectrum and improving convergence of LLM pretraining. The layer can be absorbed after training.",
+          "url": "http://arxiv.org/abs/2606.06470v1",
           "source": "ArXiv cs.AI",
           "source_icon": "arxiv",
           "heat": 6.0,
           "tags": [
-            "音频大模型",
-            "在线交互",
-            "统一框架"
+            "大语言模型",
+            "训练优化",
+            "预条件"
           ],
-          "student_note": "语音AI方向的突破性工作，推荐给对多模态和实时交互感兴趣的同学。",
-          "published_at": "2026-06-03T17:26:11+00:00",
-          "meta": "Zhifei Xie, Zihang Liu, Ze An"
+          "student_note": "推荐大模型训练优化方向的同学阅读，了解权重预条件这项实用的训练技巧。",
+          "published_at": "2026-06-04T17:55:11+00:00",
+          "meta": "Senmiao Wang, Tiantian Fang, Haoran Zhang"
         },
         {
-          "title_cn": "无标签适配视觉基础模型",
-          "title_en": "Who Needs Labels? Adapting Vision Foundation Models With the Metadata You Already Have",
-          "summary_cn": "将通用的视觉基础模型适配到科学领域时，标签稀缺且微调可能损害模型泛化能力。该研究提出一种无标签方法，仅利用已有元数据（如拍摄条件、实验参数）来适配模型，保持其鲁棒性。",
-          "summary_en": "Adapting vision foundation models to scientific domains is hindered by label scarcity and potential loss of generality. This work proposes a label-free approach that uses existing metadata (e.g., acquisition conditions) to adapt models while preserving robustness.",
-          "url": "http://arxiv.org/abs/2606.05107v1",
+          "title_cn": "You Only Index Once: Cross-Layer Sparse Attention with Shared Routing",
+          "title_en": "You Only Index Once: Cross-Layer Sparse Attention with Shared Routing",
+          "summary_cn": "Long-context inference in modern LLMs is increasingly constrained by decoding efficiency, especially in reasoning-heavy settings where models generate long intermediate chains of thought. Existing sparse attention methods often face a practical efficiency-quality trade-off. Structured block sparse methods typically provide stronger acceleration but incur noticeable quality loss, while token sparse methods are usually more accurate yet deliver limited end-to-end speedup because top-k routing over",
+          "summary_en": "Long-context inference in modern LLMs is increasingly constrained by decoding efficiency, especially in reasoning-heavy settings where models generate long intermediate chains of thought. Existing sparse attention methods often face a practical efficiency-quality trade-off. Structured block sparse methods typically provide stronger acceleration but incur noticeable quality loss, while token sparse methods are usually more accurate yet deliver limited end-to-end speedup because top-k routing over",
+          "url": "http://arxiv.org/abs/2606.06467v1",
           "source": "ArXiv cs.AI",
           "source_icon": "arxiv",
           "heat": 6.0,
           "tags": [
-            "无标签学习",
-            "视觉基础模型",
-            "科学适配",
-            "ArXiv"
+            "注意力机制",
+            "稀疏注意力",
+            "模型效率"
           ],
-          "student_note": "对少样本学习、科学图像分析或迁移学习感兴趣的同学值得一看。",
-          "published_at": "2026-06-03T17:10:11+00:00",
-          "meta": "Elouan Gardès, Seung Eun Yi, Kartik Ahuja"
-        },
-        {
-          "title_cn": "AutoLab：评估模型长期研究能力",
-          "title_en": "AutoLab: Can Frontier Models Solve Long-Horizon Auto Research and Engineering Tasks?",
-          "summary_cn": "科研和工程本质上是长期的迭代过程。现有基准主要评估模型的单轮或短时间响应能力，而AutoLab提出了一个专门评估前沿模型在长时间跨度的自动研究和工程任务表现的新基准。该工作对测试AI在真实科研场景中的持续学习与改进能力具有重要参考价值。",
-          "summary_en": "Scientific progress is a long-horizon iterative process, yet existing benchmarks only evaluate short-term responses. AutoLab introduces a benchmark to assess frontier models on long-horizon auto research and engineering tasks, providing insights into AI's ability to iteratively refine artifacts over time.",
-          "url": "http://arxiv.org/abs/2606.05080v1",
-          "source": "ArXiv cs.AI",
-          "source_icon": "arxiv",
-          "heat": 6.0,
-          "tags": [
-            "长期评估",
-            "科研能力",
-            "基准",
-            "ArXiv"
-          ],
-          "student_note": "推荐阅读，了解AI在长期科研任务中的评估方法，对从事AI科研的同学有启发。",
-          "published_at": "2026-06-03T16:36:54+00:00",
-          "meta": "Zhangchen Xu, Junda Chen, Yue Huang"
-        },
-        {
-          "title_cn": "Strabo：声明式智能体交互协议",
-          "title_en": "Strabo: Declarative Specification and Implementation of Agentic Interaction Protocols",
-          "summary_cn": "多智能体系统近年来在声明式交互协议方面取得重大进展。Strabo将这些学术成果与工业界的Agentic AI实践相结合，基于统一通信协议（UCP）构建了声明式交互协议，有助于规范智能体间的协作。",
-          "summary_en": "Strabo bridges academic advances in declarative interaction protocols with industry efforts on agentic AI. It builds on the Unified Communication Protocol (UCP) to specify and implement agent interactions, enhancing interoperability and standardisation.",
-          "url": "http://arxiv.org/abs/2606.05043v1",
-          "source": "ArXiv cs.AI",
-          "source_icon": "arxiv",
-          "heat": 6.0,
-          "tags": [
-            "多智能体",
-            "交互协议",
-            "声明式",
-            "ArXiv"
-          ],
-          "student_note": "对于研究多智能体系统或参与相关项目的大学生，了解声明式协议有助于设计鲁棒的Agent系统。",
-          "published_at": "2026-06-03T16:05:25+00:00",
-          "meta": "Samuel H. Christie, Amit K. Chopra, Munindar P. Singh"
-        },
-        {
-          "title_cn": "重新定义AI文本检测的评估标准",
-          "title_en": "'Your AI Text is not Mine': Redefining and Evaluating AI-generated Text Detection under Realistic Assumptions",
-          "summary_cn": "当前AI生成文本检测的研究缺乏统一的危害定义和评估标准。该论文呼吁在更现实的假设下重新定义检测任务，并提出了新的评估框架，以应对不同场景下的滥用风险。",
-          "summary_en": "Current AI-generated text detection suffers from inconsistent definitions of harm and evaluation criteria. This work advocates for redefining detection under realistic assumptions and proposes a new evaluation framework to address misuse in diverse scenarios.",
-          "url": "http://arxiv.org/abs/2606.04906v1",
-          "source": "ArXiv cs.AI",
-          "source_icon": "arxiv",
-          "heat": 6.0,
-          "tags": [
-            "AI文本检测",
-            "评估框架",
-            "学术论文"
-          ],
-          "student_note": "适合关注AI伦理和安全方向的同学阅读，有助于理解检测领域的核心争议与前沿思考。",
-          "published_at": "2026-06-03T14:05:14+00:00",
-          "meta": "Nils Dycke, Marina Sakharova, Nico Daheim"
-        },
-        {
-          "title_cn": "基于人类本体的可审计安全LLM代理",
-          "title_en": "Provably Auditable and Safe LLM Agents from Human-Authored Ontologies",
-          "summary_cn": "论文提出Agentic Redux架构，利用人类编写的本体（ontology）和类型lambda演算，从数学上保证LLM代理的执行正确性和可线性审计。该架构适用于需要高安全性的复杂决策领域。",
-          "summary_en": "The paper introduces Agentic Redux, an architecture that uses human-authored ontologies and typed lambda calculus to mathematically guarantee correctness and linear auditability of LLM agents. It is suitable for high-stakes decision-making domains.",
-          "url": "http://arxiv.org/abs/2606.04903v1",
-          "source": "ArXiv cs.AI",
-          "source_icon": "arxiv",
-          "heat": 6.0,
-          "tags": [
-            "LLM代理",
-            "安全",
-            "形式化验证",
-            "本体"
-          ],
-          "student_note": "对AI安全和形式化验证感兴趣的同学值得一读，展示了如何用理论工具约束大模型行为。",
-          "published_at": "2026-06-03T14:01:33+00:00",
-          "meta": "Aaron Sterling"
-        },
-        {
-          "title_cn": "高斯泼溅中解耦外观与几何",
-          "title_en": "Geometry Gaussians: Decoupling Appearance and Geometry in Gaussian Splatting",
-          "summary_cn": "3D高斯泼溅（3DGS）在新视角合成上表现出色，但提取精确几何信息时往往牺牲渲染质量。该研究提出解耦外观和几何的方法，在不降低图像质量的同时获得准确的表面几何。",
-          "summary_en": "3D Gaussian Splatting excels at novel view synthesis but struggles with accurate geometry extraction without degrading rendering quality. This work decouples appearance and geometry to obtain precise surface geometry while maintaining high visual fidelity.",
-          "url": "http://arxiv.org/abs/2606.05124v1",
-          "source": "ArXiv cs.CV",
-          "source_icon": "arxiv",
-          "heat": 6.0,
-          "tags": [
-            "3D高斯泼溅",
-            "新视角合成",
-            "几何重建"
-          ],
-          "student_note": "对3D重建和神经渲染感兴趣的同学可以关注，这是3DGS领域的重要改进方向。",
-          "published_at": "2026-06-03T17:29:36+00:00",
-          "meta": "Hongyu Zhou, Zorah Lähner"
-        },
-        {
-          "title_cn": "更少高斯算子，更优3D重建",
-          "title_en": "ZipSplat: Fewer Gaussians, Better Splats",
-          "summary_cn": "前馈式3D高斯泼溅方法通常为每个像素预测一个高斯，导致表示预算与场景复杂度脱节。ZipSplat根据场景复杂度自适应分配高斯数量，在减少高斯的同时提升重建质量。",
-          "summary_en": "Feed-forward 3D Gaussian splatting typically predicts one Gaussian per pixel, wasting resources on simple regions. ZipSplat adaptively allocates Gaussians based on scene complexity, achieving better quality with fewer Gaussians.",
-          "url": "http://arxiv.org/abs/2606.05102v1",
-          "source": "ArXiv cs.CV",
-          "source_icon": "arxiv",
-          "heat": 6.0,
-          "tags": [
-            "3D高斯泼溅",
-            "高效重建",
-            "自适应分配"
-          ],
-          "student_note": "推荐阅读，了解如何优化3D重建的计算效率，对资源受限应用很有启发。",
-          "published_at": "2026-06-03T17:04:30+00:00",
-          "meta": "Alexander Veicht, Sunghwan Hong, Dániel Baráth"
-        },
-        {
-          "title_cn": "强化学习食物视觉模型",
-          "title_en": "Food-R1: A Unified Multi-Task Food Vision-Language Model with Reinforcement Learning",
-          "summary_cn": "Food-R1 提出用强化学习替代传统监督微调，提升食物视觉语言模型在有限标注下的推理与泛化能力。核心思路是将多任务学习与 RL 结合，解决了营养标注数据稀缺的问题。对想了解 CV+RL 交叉应用的同学是不错的案例。",
-          "summary_en": "Food-R1 introduces reinforcement learning to replace traditional supervised fine-tuning for food vision-language models, improving reasoning and generalization under limited annotations. It combines multi-task learning with RL to address the scarcity of nutritional data.",
-          "url": "http://arxiv.org/abs/2606.04986v1",
-          "source": "ArXiv cs.CV",
-          "source_icon": "arxiv",
-          "heat": 6.0,
-          "tags": [
-            "强化学习",
-            "食物识别",
-            "视觉语言模型"
-          ],
-          "student_note": "推荐阅读，了解强化学习与视觉语言模型的结合方式",
-          "published_at": "2026-06-03T15:07:12+00:00",
-          "meta": "Yu Zhu, Yongkang Li, Wenjie Zhu"
+          "student_note": null,
+          "published_at": "2026-06-04T17:54:04+00:00",
+          "meta": "Yutao Sun, Yanqi Zhang, Li Dong"
         }
       ]
     }
   ],
   "must_read": [
     {
-      "title_cn": "Gemma 4 12B多模态模型",
-      "title_en": "Gemma 4 12B: A unified, encoder-free multimodal model",
-      "summary_cn": "谷歌发布Gemma 4 12B多模态模型，采用无编码器架构，可统一处理图像、文本等输入。该模型强调简化设计，同时保持高性能。",
-      "summary_en": "Google releases Gemma 4 12B, an encoder-free multimodal model that processes images and text in a unified manner. It focuses on simplicity without sacrificing performance.",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
+      "title_cn": "Hacker News探讨AI内容",
+      "title_en": "Hacker News, Sans AI",
+      "summary_cn": "Hacker News上出现一篇名为“Sans AI”的讨论，可能是关于减少或屏蔽AI相关内容的倡议。该话题反映了技术社区对AI信息过载的反思与调节尝试。",
+      "summary_en": "A discussion titled 'Hacker News, Sans AI' emerges, likely advocating for reducing or filtering AI-related content. It reflects the tech community's reflection on AI information overload.",
+      "url": "https://elijahpotter.dev/articles/hacker-news-sans-AI",
+      "source": "Hacker News",
+      "source_icon": "hackernews",
+      "heat": 3.5,
+      "tags": [
+        "AI内容管理",
+        "社区讨论"
+      ],
+      "student_note": "关注技术社区对AI话题的态度变化，有助于理解舆论风向。",
+      "published_at": "2026-06-05T20:38:40+00:00",
+      "meta": "▲ 61 · 💬 36",
+      "detail_summary": "Hacker News 近日出现标题为“Sans AI”的讨论帖，内容指向减少或屏蔽 AI 生成内容的倡议。这并非技术议题，而是社区对 AI 内容泛滥的反思：随着 GPT、Claude 等工具普及，平台充斥着流水线式 AI 文章、评论和代码，淹没了真实人类的思考和讨论。“Sans AI”运动呼吁用户在发布时自觉标识或屏蔽 AI 内容，以保护论坛的原始讨论质量。对大学生而言，这提醒我们要警惕对 AI 的盲目依赖，学会区分机器生成与人类智慧，在学术写作和日常交流中保持原创性。该话题热度虽不高（3.5），但背后折射的“AI 疲劳”是值得深思的社会现象。",
+      "key_points": [
+        "HN 出现“Sans AI”讨论",
+        "社区反思 AI 信息过载",
+        "呼吁屏蔽 AI 生成内容",
+        "提醒大学生保持原创思考"
+      ]
+    },
+    {
+      "title_cn": "谷歌每月支付SpaceX 9.2亿美元",
+      "title_en": "Google to pay SpaceX $920M a month for compute capacity at xAI data centers",
+      "summary_cn": "谷歌与SpaceX达成协议，每月支付9.2亿美元，租用xAI数据中心的计算能力。这一巨额投资凸显了AI算力需求的爆炸式增长，以及科技巨头在算力基础设施上的军备竞赛。",
+      "summary_en": "Google has agreed to pay SpaceX $920 million per month for compute capacity at xAI data centers. The deal underscores the soaring demand for AI computing power and the arms race among tech giants for infrastructure.",
+      "url": "https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html",
       "source": "Hacker News",
       "source_icon": "hackernews",
       "heat": 7.5,
       "tags": [
-        "模型发布",
         "谷歌",
-        "多模态"
+        "算力租赁",
+        "xAI",
+        "SpaceX"
       ],
-      "student_note": "推荐阅读，了解多模态模型的无编码器架构设计思路。",
-      "published_at": "2026-06-03T16:04:42+00:00",
-      "meta": "▲ 1007 · 💬 379",
-      "detail_summary": "谷歌近日发布了Gemma 4 12B多模态模型，采用创新的无编码器架构，能够统一处理图像、文本等多种输入类型。这一设计简化了模型结构，同时保持了高性能水平。对于大学生而言，该模型为多模态AI研究提供了更轻量化的基准，适合在资源受限的环境中进行实验和部署，特别是计算机视觉与自然语言处理交叉领域的项目。其开源特性也降低了学习和研究门槛，学生可基于此探索多模态融合的简化路径。",
+      "student_note": "了解算力市场格局，对AI基础设施赛道感兴趣的同学可深入追踪。",
+      "published_at": "2026-06-05T20:06:36+00:00",
+      "meta": "▲ 59 · 💬 57",
+      "detail_summary": "据 Hacker News 爆料，谷歌与 SpaceX 达成一项惊人的算力租赁协议：每月向 SpaceX 支付 9.2 亿美元，租用其 xAI 数据中心的计算能力。这一数字远超常规云计算合同，凸显了 AI 巨头对算力基础设施的疯狂投入。谷歌因 Gemini 系列及搜索增强等 AI 产品需求暴涨，传统云平台已无法满足，转而寻求 SpaceX 在太空或偏远区域的超大规模数据中心。这笔交易不仅刷新了算力租赁的金额上限，更预示着科技巨头在算力军备竞赛中开始采用“非常规”合作模式。对于学习 AI 的同学来说，这是一个信号：算力正在成为决定 AI 能力天花板的核心稀缺资源，理解分布式计算、数据中心架构等知识将更具价值。",
       "key_points": [
-        "谷歌发布Gemma 4 12B",
-        "无编码器多模态架构",
-        "简化设计保持高性能",
-        "适合学生实验部署"
+        "谷歌月付 9.2 亿美元租算力",
+        "SpaceX xAI 数据中心成新宠",
+        "算力军备竞赛升级",
+        "非传统基础设施合作模式"
       ]
     },
     {
-      "title_cn": "Anthropic开源AI漏洞挖掘框架",
+      "title_cn": "伯克利CS学生因使用AI导致挂科激增",
+      "title_en": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
+      "summary_cn": "加州大学伯克利分校计算机科学课程中，学生使用AI工具后不及格率飙升，同时数学能力下降。这警示过度依赖AI可能削弱核心学科基础，教育界需平衡工具使用与学习效果。",
+      "summary_en": "At UC Berkeley, CS courses saw a surge in failing grades and declining math skills associated with heavy AI usage. This warns that over-reliance on AI can erode foundational knowledge, prompting a need to balance tool use and learning outcomes.",
+      "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
+      "source": "Hacker News",
+      "source_icon": "hackernews",
+      "heat": 6.0,
+      "tags": [
+        "AI教育",
+        "学生",
+        "学术能力",
+        "过度依赖"
+      ],
+      "student_note": "提醒自己不要因AI而疏于基本功训练，打好数学和编程基础。",
+      "published_at": "2026-06-04T00:18:02+00:00",
+      "meta": "▲ 807 · 💬 772",
+      "detail_summary": "加州大学伯克利分校的计算机科学课程近期出现令人担忧的现象：学生使用 AI 辅助学习后，不及格率急剧上升，同时数学和编程基础能力明显下降。教授们发现，学生过度依赖 ChatGPT 等工具完成作业和项目，导致核心知识点掌握不牢，考试时无法独立解题。这一案例在全美教育界引起震动，多家高校开始重新评估 AI 工具在教学中的使用边界。对于国内大学生而言，伯克利的教训是直接警示：AI 可以提升效率，但绝不能替代主动思考和学习过程。建议将 AI 定位为“辅助教练”而非“作业代笔”，在写代码、做实验时先尝试自己解决，再参考 AI 给出的答案进行对比反思。否则，短期高分可能换来长期能力缺陷。",
+      "key_points": [
+        "伯克利 CS 学生挂科率飙升",
+        "过度依赖 AI 导致基础能力滑坡",
+        "教育界反思 AI 使用边界",
+        "学生应避免“代笔式”使用 AI"
+      ]
+    },
+    {
+      "title_cn": "Startup Battlefield申请即将截止",
+      "title_en": "Startup Battlefield 200 applications officially close in 3 days",
+      "summary_cn": "TechCrunch Disrupt 2026旗下创业大赛“Startup Battlefield 200”申请截止于6月8日。获胜者将有机会在旧金山Moscone West展示项目，是创业团队获得曝光和投资的绝佳机会。",
+      "summary_en": "Applications for TechCrunch Disrupt 2026's Startup Battlefield 200 close on June 8, offering winners a chance to pitch at San Francisco. It's a prime opportunity for startups to gain exposure and funding.",
+      "url": "https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/",
+      "source": "TechCrunch AI",
+      "source_icon": "techcrunch",
+      "heat": 2.5,
+      "tags": [
+        "创业大赛",
+        "TechCrunch",
+        "Startup Battlefield"
+      ],
+      "student_note": "有创业想法的同学可关注此类竞赛，积累实战经验。",
+      "published_at": "2026-06-05T20:00:00+00:00",
+      "detail_summary": "TechCrunch Disrupt 2026 大会旗下的创业大赛“Startup Battlefield 200”申请截止日期为 6 月 8 日，距离现在仅剩数天。该大赛是硅谷最具影响力的早期创业展示平台之一，获胜者将获得在旧金山 Moscone West 向顶级投资人和媒体路演的机会。过去获奖项目包括 Dropbox、Fitbit 等明星公司。对于有创业想法的大学生团队，这是一个低门槛高曝光的绝佳机会，尤其适合 AI、硬科技、企业服务等方向。申请材料通常包括项目简介、团队背景和产品 demo。即使没有成熟产品，清晰的商业计划和原型也能打动人。提醒同学们注意截止时间，并利用 AI 工具辅助撰写商业计划书和 pitch deck。",
+      "key_points": [
+        "Startup Battlefield 200 申请截止 6 月 8 日",
+        "硅谷顶级创业大赛",
+        "优胜者可亮相 Moscone West",
+        "大学生创业团队应抓紧申请"
+      ]
+    },
+    {
+      "title_cn": "Transformer本质简洁性获顶会认可",
+      "title_en": "Transformers Are Inherently Succinct",
+      "summary_cn": "一篇题为“Transformers Are Inherently Succinct”的论文被ICLR 2026接收为杰出论文（仅三篇之一）。该研究从理论上证明了Transformer架构具有内在简洁性，对理解模型表达力有重要意义。",
+      "summary_en": "The paper 'Transformers Are Inherently Succinct' was accepted as one of three outstanding papers at ICLR 2026. It theoretically proves that Transformer architectures are inherently succinct, offering insights into model expressiveness.",
+      "url": "https://openreview.net/pdf?id=Yxz92UuPLQ",
+      "source": "Hacker News",
+      "source_icon": "hackernews",
+      "heat": 7.0,
+      "tags": [
+        "Transformer",
+        "ICLR",
+        "杰出论文",
+        "理论简洁性"
+      ],
+      "student_note": "推荐阅读，了解Transformer架构的最新理论优化方向。",
+      "published_at": "2026-06-05T18:50:26+00:00",
+      "meta": "▲ 52 · 💬 19",
+      "detail_summary": "一篇题为“Transformers Are Inherently Succinct”的论文被 ICLR 2026 接收为杰出论文（仅三篇）。该研究从理论上证明了 Transformer 架构具有内在简洁性，即相比其他序列模型（如 RNN、LSTM），Transformer 能以更少的参数表示更复杂的函数。这一结论解释了为什么 Transformer 在众多任务中表现卓越，并为未来更高效的模型设计提供了理论基石。对 AI 专业学生而言，这篇论文是理解现代深度学习核心架构的必读材料，尤其适合作为深入研读的经典理论文献。建议阅读时结合原论文的证明思路，思考如何将这种简洁性原理应用到自己的研究或项目中。该消息在 Hacker News 获得 7.0 热度，说明社区对该理论突破的高度认可。",
+      "key_points": [
+        "Transformer 内在简洁性理论",
+        "ICLR 2026 杰出论文",
+        "解释 Transformer 高效原因",
+        "推荐 AI 学生精读原论文"
+      ]
+    },
+    {
+      "title_cn": "谷歌每月支付SpaceX 9.2亿美元（重复消息）",
+      "title_en": "Google to pay SpaceX $920 million a month for compute capacity at xAI data centers",
+      "summary_cn": "据CNBC报道，谷歌与SpaceX达成罕见合作，每月支付9.2亿美元获取xAI数据中心的算力。这一协议反映了AI公司对专用算力资源的迫切需求。",
+      "summary_en": "According to CNBC, Google has struck a rare deal with SpaceX to pay $920 million monthly for compute capacity at xAI data centers. The agreement highlights the urgent demand for dedicated AI compute resources.",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbTlsMnZmeWxoUk0yWmhKcGs0eVhkc1d1c1JVRm9qUWFMQWVuTy1YcmFyVDBGTDhkOGwyRlBhNWFJWTVBTHNOOUlsSVFzVlB3bXFjZWZYaEhWblQwSU5yc00wU241V3BoVFEtTndGcURrVXc2eFBLMlFuZkdUSzdkUEpZNXctWHVvUjZTczUzRE4tNHA3eUgtVVN4NVZKWnZUd2NKRNIBqgFBVV95cUxNRGdVeDExV2J4SUxteXpvQVJqMWl2NmstN3lpR3dqaHU1djhwNkozR0pyZG5wZlhiRU9zSVdod0xyZWYwbEljVEpMOXdIelJzZFV3SVV3UHBvOUZzS3VKWGlLV3RIemFaZTFMOEh2ZlBDNW9fLXVlWXZSVU5RTGkxcHZzc1VSWU05SWdkMGtrZWR0aFJwb3FfZEs5bl9SQjJYWUJOTGVqU05iZw?oc=5",
+      "source": "Elon Musk · CNBC",
+      "source_icon": "musk",
+      "heat": 5.0,
+      "tags": [
+        "谷歌",
+        "SpaceX",
+        "xAI",
+        "算力租赁"
+      ],
+      "student_note": null,
+      "published_at": "2026-06-05T19:20:48+00:00",
+      "detail_summary": "CNBC 援引消息人士报道，谷歌与 SpaceX 达成了一项非常规合作：每月支付 9.2 亿美元，以获得 xAI 数据中心的算力使用权。该协议期限未公布，但金额之大令业界震惊。此次合作的特点在于 SpaceX 拥有在偏远地区或太空部署数据中心的能力，能提供极低延迟和独立电力供应，这对 AI 训练和推理至关重要。尽管此前已有类似传言，CNBC 的确认让这则消息更具可信度。对于关注 AI 基础设施的学生，这不仅是行业大事件，也启示我们思考“算力地理经济学”：未来算力可能不再局限于传统云厂商，而是由航天、能源等跨界玩家共同提供。",
+      "key_points": [
+        "CNBC 确认谷歌每月付 9.2 亿美元",
+        "租用 xAI 算力用于 AI 产品",
+        "SpaceX 数据中心优势独特",
+        "算力布局呈现跨界融合趋势"
+      ]
+    },
+    {
+      "title_cn": "谷歌因AI产品需求激增租用SpaceX算力",
+      "title_en": "Google will pay SpaceX $920M per month for compute",
+      "summary_cn": "谷歌代表表示，该交易是由于其新推出AI产品需求超出预期。这从侧面说明AI应用落地带来的算力压力，以及云巨头创新性利用非传统基础设施的趋势。",
+      "summary_en": "A Google representative said the deal stems from unexpected demand for its new AI products. This illustrates the compute pressure from AI deployment and the trend of cloud giants tapping non-traditional infrastructure.",
+      "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
+      "source": "TechCrunch AI",
+      "source_icon": "techcrunch",
+      "heat": 5.5,
+      "tags": [
+        "谷歌",
+        "AI产品需求",
+        "算力租用"
+      ],
+      "student_note": null,
+      "published_at": "2026-06-05T18:57:20+00:00",
+      "detail_summary": "针对谷歌租用 SpaceX 算力的消息，谷歌官方代表回应称，这一交易源于其新推出的 AI 产品需求远超预期，导致自身云资源不足。这些新产品包括 Gemini 升级版、搜索智能助手等，用户量激增迫使谷歌寻找外部算力补充。选择 SpaceX 并非唯一选项，但 SpaceX 在能源自给和地理灵活性方面的优势吸引了谷歌。这一声明侧面印证了 AI 应用落地带来的算力压力有多么巨大——即使是谷歌这样的云巨头也不得不向外求援。对大学生而言，这提示我们 AI 领域真正的瓶颈不仅是算法创新，更是基础设施的承载能力。因此，学习分布式系统、硬件加速（GPU/NPU）以及绿色计算都是值得投入的方向。",
+      "key_points": [
+        "谷歌新 AI 产品需求超预期",
+        "自建算力不足才租用 SpaceX",
+        "AI 应用落地带来算力危机",
+        "基础设施能力决定 AI 上限"
+      ]
+    },
+    {
+      "title_cn": "宇航员因修复漏气暂时避难后返回ISS",
+      "title_en": "Astronauts told to return to ISS after sheltering over air leak repairs",
+      "summary_cn": "由于国际空间站（ISS）进行空气泄漏修复，宇航员曾短暂避难。修复完成后，宇航员被指示返回空间站。该事件涉及太空安全操作，与AI无直接关联。",
+      "summary_en": "Astronauts were told to shelter during repairs for an air leak on the ISS, and later returned after the fix. The incident concerns space safety operations and is not directly AI-related.",
+      "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
+      "source": "Hacker News",
+      "source_icon": "hackernews",
+      "heat": 1.5,
+      "tags": [
+        "国际空间站",
+        "太空安全"
+      ],
+      "student_note": null,
+      "published_at": "2026-06-05T15:00:31+00:00",
+      "meta": "▲ 317 · 💬 204",
+      "detail_summary": "国际空间站（ISS）近日发生一起空气泄漏事件，宇航员被迫短暂撤离至俄罗斯联盟号飞船避难。技术人员快速定位并修复了漏气点，修复完成后宇航员被指令安全返回空间站。整个过程未造成人员伤亡，空间站运行恢复正常。该新闻与 AI 无关，但反映了太空领域的安全操作规范。对于大学生，可将其视为工程风险管理案例：在极端环境下，冗余设计和快速应急响应至关重要。虽然内容不直接涉及 AI，但太空探索中越来越多应用 AI 进行故障预测，感兴趣的读者可以延伸思考 AI 在 ISS 维护中的潜在角色。",
+      "key_points": [
+        "ISS 发生空气泄漏",
+        "宇航员短暂转移避难",
+        "漏点修复后安全返回",
+        "太空紧急处置的工程启示"
+      ]
+    },
+    {
+      "title_cn": "特朗普政府与OpenAI商讨政府入股事宜",
+      "title_en": "Trump administration, OpenAI discussing possible government stake in the AI startup",
+      "summary_cn": "据CNBC报道，特朗普政府与OpenAI正在讨论政府可能持有该AI初创公司股份。此举若成真，将显著影响AI产业政策与竞争格局。",
+      "summary_en": "CNBC reports that the Trump administration is in talks with OpenAI about a potential government stake in the AI startup. If realized, it could significantly impact AI industry policy and competition.",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4ybHlVc085QUVIS2ZReHVWMVNPWTRhYmFuWVN1RXZVZUc0ZnZhbUlMT3Rpa1QxdEs3Q0Z6OG1qZ1VZN2N6TmlOMWlVYkVHc0dITjdkMnlTdnB2WmZZSkY4LW5HZHVRcjlKbDBoYVdva2_SAXZBVV95cUxObW91aGd3RmlfdHhHQVNLVUgyN3V6WDlFMkZ5UXdfbmZEQ0NfLW41REc4eTlMMkh1MlFiMW1BdFJmbm5sN1hOTVhwVl9VcXhlZzdVWFJyY1dkVFJQNFI2WXNTOXl1MllWa09KOHkxMkZsOXA4Qy1n?oc=5",
+      "source": "Sam Altman · CNBC",
+      "source_icon": "altman",
+      "heat": 7.5,
+      "tags": [
+        "特朗普",
+        "OpenAI",
+        "政府入股",
+        "AI政策"
+      ],
+      "student_note": "关注AI领域的政企关系演变，对未来就业与创业环境有参考价值。",
+      "published_at": "2026-06-05T17:58:46+00:00",
+      "detail_summary": "据 CNBC 独家报道，特朗普政府正与 OpenAI 就政府可能持有该公司股份进行初步讨论。若实现，这将是美国政府首次直接持有 AI 初创公司的股权，将深刻影响 AI 产业的监管、资助和国家安全格局。讨论的背景是美国希望确保 AI 领先地位并防范技术滥用，同时 OpenAI 也在寻求更稳定的政府关系以获取政策支持。该消息在 Hacker News 热度高达 7.5，引发激烈辩论：支持者认为可以加强技术主权，反对者担忧政府干预会扼杀创新。对于大学生，这则新闻是观察 AI 政策与商业博弈的绝佳案例。建议关注后续发展，思考政府角色在技术发展中的边界。",
+      "key_points": [
+        "特朗普政府与 OpenAI 讨论入股",
+        "美国政府首次持有 AI 公司股权？",
+        "政策与商业深度交织",
+        "影响 AI 监管与创新方向"
+      ]
+    },
+    {
+      "title_cn": "Conventional Commits引发争议",
+      "title_en": "Conventional Commits encourages focus on the wrong things",
+      "summary_cn": "一篇技术文章批评Conventional Commits规范（一种约定式提交信息规范）引导开发者关注形式而非本质。该讨论涉及软件开发最佳实践，与AI无直接关系。",
+      "summary_en": "A tech article criticizes Conventional Commits (a commit message convention) for focusing on form over substance. The discussion pertains to software development best practices, not directly AI.",
+      "url": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
+      "source": "Hacker News",
+      "source_icon": "hackernews",
+      "heat": 2.0,
+      "tags": [
+        "Conventional Commits",
+        "代码规范",
+        "技术争论"
+      ],
+      "student_note": null,
+      "published_at": "2026-06-05T15:39:38+00:00",
+      "meta": "▲ 221 · 💬 174",
+      "detail_summary": "一篇技术批判文章指出，Conventional Commits（约定式提交信息规范）正在引导开发者过分关注格式而非实质代码质量。该规范要求提交信息遵循特定前缀（如 feat、fix、chore），初衷是提升工程可读性，但争论者认为这演变成了“形式主义”——开发者花时间调整消息格式，却忽略了提交内容的实质性改进。尽管这与 AI 无直接关联，但反映了技术社区对“最佳实践”的反思。对计算机专业学生而言，这是一个学习批判性思维的机会：任何流行的工具或规范都应基于实际效率评估，而非盲目跟风。在团队协作中，灵活运用而非机械执行才是关键。",
+      "key_points": [
+        "Conventional Commits 引发争议",
+        "批评其导致形式主义",
+        "忽视代码本质改进",
+        "提醒学生工具应服务于效率"
+      ]
+    },
+    {
+      "title_cn": "新创公司逆势而上：让你放下手机",
+      "title_en": "The most interesting startups right now want to get you off your phone",
+      "summary_cn": "在AI融资热潮中，一批创业公司反其道而行之，聚焦于线下社交和实体体验，比如Board公司通过面对面游戏把人聚在一起。这反映了数字戒断与反向创新的趋势。",
+      "summary_en": "Amid the AI fundraising frenzy, some startups are building in the opposite direction, focusing on offline social interactions and physical experiences. For example, Board gathers people through in-person games. This signals a trend of digital detox and counter-innovation.",
+      "url": "https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/",
+      "source": "TechCrunch AI",
+      "source_icon": "techcrunch",
+      "heat": 5.0,
+      "tags": [
+        "线下社交",
+        "反向创新",
+        "创业公司"
+      ],
+      "student_note": "思考AI之外的技术与社会交叉领域，拓宽创业视野。",
+      "published_at": "2026-06-05T17:17:06+00:00",
+      "detail_summary": "在 AI 融资狂潮中，一批创业公司选择“逆潮流而行”，专注于线下社交和实体体验。例如，Board 公司设计了一套面对面桌游，旨在将人们从手机屏幕拉回现实聚会。其他类似项目包括无数字概念的咖啡馆、手工工作坊等。这种“反向创新”体现了部分用户对数字过载的厌倦，以及真实社交的不可替代性。尽管市场热度（5.0）不算顶尖，但反映了消费者心理的微妙转向。对于大学生，这不仅是创业选题的灵感来源——AI 领域之外仍有大量机会满足人类底层需求；同时提醒我们平衡数字生活与真实世界，避免成为“AI 原教旨主义者”。",
+      "key_points": [
+        "创业公司逆 AI 潮流做线下体验",
+        "Board 公司用桌游替代手机社交",
+        "“反向创新”满足真实社交需求",
+        "启发大学生思考非 AI 创业方向"
+      ]
+    },
+    {
+      "title_cn": "Anthropic开源AI漏洞发现框架",
       "title_en": "Anthropic's open-source framework for AI-powered vulnerability discovery",
-      "summary_cn": "Anthropic开源了一个基于AI的漏洞发现框架，可自动分析代码库中的安全缺陷。该框架适用于安全审计和渗透测试，降低人工成本。",
-      "summary_en": "Anthropic open-sources an AI-powered framework for automatically discovering vulnerabilities in code, aiding security audits and penetration testing.",
+      "summary_cn": "Anthropic发布了用于AI驱动的漏洞发现的开源框架。该工具利用大模型自动化检测代码安全缺陷，对网络安全研究和开发者有害，值得关注。",
+      "summary_en": "Anthropic has released an open-source framework for AI-powered vulnerability discovery. It uses large models to automate detection of security flaws in code, significant for cybersecurity research and developers.",
       "url": "https://github.com/anthropics/defending-code-reference-harness",
       "source": "Hacker News",
       "source_icon": "hackernews",
       "heat": 7.0,
       "tags": [
-        "开源",
         "Anthropic",
-        "安全"
+        "开源",
+        "漏洞发现",
+        "AI安全"
       ],
-      "student_note": "对安全领域感兴趣的同学可学习框架用法并尝试复现。",
+      "student_note": "对AI安全感兴趣的同学可研究该框架，学习如何将大模型应用于漏洞挖掘。",
       "published_at": "2026-06-04T20:11:20+00:00",
-      "meta": "▲ 135 · 💬 45",
-      "detail_summary": "Anthropic开源了一款基于AI的漏洞挖掘框架，能够自动分析代码库中的安全缺陷，适用于安全审计和渗透测试场景。该框架通过AI模型识别潜在漏洞，显著降低人工检测成本。对于学习网络安全的大学生，这是一个绝佳的实战工具：可以拿来分析自己的项目代码，理解常见漏洞模式，同时学习如何利用AI辅助安全审查。开源特性使得学生能深入底层机制，结合课程知识进行二次开发。",
+      "meta": "▲ 514 · 💬 140",
+      "detail_summary": "Anthropic 公司正式开源了一个 AI 驱动的漏洞发现框架，该框架利用大语言模型自动化检测代码中的安全缺陷。相比传统静态分析工具，该框架能理解代码语义，发现逻辑漏洞和业务逻辑缺陷，大幅提升安全审计效率。这是 Anthropic 在 AI 安全领域的重要贡献，也是对 OpenAI 等竞品的直接挑战。对于网络安全方向的学生，这是一个极佳的学习和实践工具：你可以在其基础上定制自己的安全扫描器，或研究如何绕过 AI 检测。同时，该框架的发布也意味着“AI 对抗 AI”的攻防时代正式到来，值得密切关注。Hacker News 热度 7.0 反映出社区的高度兴趣。",
       "key_points": [
-        "Anthropic开源AI漏洞框架",
-        "自动分析代码安全缺陷",
-        "降低人工安全审计成本",
-        "适合学生安全实战学习"
+        "Anthropic 开源 AI 漏洞发现框架",
+        "用大模型自动检测代码缺陷",
+        "提升安全审计效率",
+        "安全方向学生可用作实践工具箱"
       ]
     },
     {
-      "title_cn": "StrictlyVC LA聚焦国防AI与融资",
-      "title_en": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
-      "summary_cn": "StrictlyVC洛杉矶会议将于6月18日举行，汇聚投资人、创始人和技术领袖，探讨国防科技、人工智能与风险投资的最新趋势。",
-      "summary_en": "StrictlyVC Los Angeles on June 18 will bring together investors and founders to discuss defense tech, AI, and fundraising trends.",
-      "url": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
-      "source": "TechCrunch AI",
-      "source_icon": "techcrunch",
-      "heat": 5.0,
-      "tags": [
-        "会议",
-        "国防AI",
-        "融资"
-      ],
-      "student_note": null,
-      "published_at": "2026-06-04T21:30:00+00:00",
-      "detail_summary": "StrictlyVC洛杉矶会议将于6月18日举行，聚焦国防科技、人工智能与风险投资的最新趋势。会议汇集投资人、创始人及技术领袖，讨论如何将AI应用于国防领域以及创业融资策略。对于关注AI商业化与国防科技的大学生，这是一个了解行业风向的机会：参会可获取前沿投资动态，接触潜在实习或就业资源；即使无法到场，后续报道也值得研读，以把握AI在硬科技领域的落地逻辑。",
-      "key_points": [
-        "StrictlyVC LA 6月18日",
-        "聚焦国防AI与融资",
-        "汇聚投资人技术领袖",
-        "学生学习行业趋势"
-      ]
-    },
-    {
-      "title_cn": "Meta效仿特斯拉搭建帐篷数据中心",
-      "title_en": "Meta steals a tactic from Tesla and builds data centers in tents",
-      "summary_cn": "Meta采用临时帐篷结构搭建数据中心，以大幅降低建设成本和时间。这一策略借鉴了特斯拉早期工厂的做法。",
-      "summary_en": "Meta adopts tent structures for data centers, following Tesla's playbook to cut costs and accelerate deployment.",
-      "url": "https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/",
-      "source": "TechCrunch AI",
-      "source_icon": "techcrunch",
-      "heat": 6.0,
-      "tags": [
-        "Meta",
-        "数据中心",
-        "成本优化"
-      ],
-      "student_note": "可关注科技公司如何通过非常规手段降低基础设施成本。",
-      "published_at": "2026-06-04T19:33:09+00:00",
-      "detail_summary": "Meta效仿特斯拉早期做法，采用临时帐篷结构搭建数据中心，以大幅降低建设成本和时间。这种快速部署策略旨在满足AI训练对算力的急迫需求，同时避免长期基建的高投入。对计算机专业学生，这体现了工程灵活性在AI基础设施中的重要性：数据中心设计不再固守传统模式，低成本方案可能成为未来趋势。学生在学习系统设计时可借鉴这种成本意识。",
-      "key_points": [
-        "Meta帐篷数据中心",
-        "效仿特斯拉降低成本",
-        "快速部署满足AI算力",
-        "工程灵活性启示"
-      ]
-    },
-    {
-      "title_cn": "特德·姜：人工智能没有意识",
-      "title_en": "Artificial intelligence is not conscious – Ted Chiang",
-      "summary_cn": "著名科幻作家特德·姜发表文章，坚称当前人工智能并不具备意识，其行为只是统计模式匹配，引发关于AI本质的广泛讨论。",
-      "summary_en": "Renowned sci-fi author Ted Chiang argues that today's AI lacks consciousness, merely performing statistical pattern matching, sparking debate on AI nature.",
-      "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
-      "source": "Hacker News",
-      "source_icon": "hackernews",
-      "heat": 7.0,
-      "tags": [
-        "AI意识",
-        "特德·姜",
-        "观点"
-      ],
-      "student_note": "推荐阅读原文，深入思考意识与智能的区别。",
-      "published_at": "2026-06-03T17:51:37+00:00",
-      "meta": "▲ 722 · 💬 1238",
-      "detail_summary": "著名科幻作家特德·姜（Ted Chiang）发表文章坚称当前人工智能不具备意识，其行为只是统计模式匹配。该观点引发关于AI本质的广泛讨论，尤其在大模型涌现能力备受关注的背景下。对于大学生，特德·姜的论述有助于理性认识AI：不要被“智能”表象迷惑，理解统计学习的局限性。阅读他的观点可以培养批判性思维，在论文写作或辩论中引用权威视角。",
-      "key_points": [
-        "特德·姜称AI无意识",
-        "当前AI=统计模式匹配",
-        "引发AI本质讨论",
-        "帮助学生理性看待AI"
-      ]
-    },
-    {
-      "title_cn": "Apple批准首个AI代理Poke上架商务消息",
-      "title_en": "Apple approves Poke as the first AI agent on its Messages for Business platform",
-      "summary_cn": "Poke成为首个获得Apple许可的AI代理，入驻Messages for Business平台。用户可通过简单文本消息与AI交互，完成预订、查询等任务。",
-      "summary_en": "Apple approves Poke as the first AI agent on its Messages for Business platform, enabling users to interact with AI via simple text for tasks like bookings and inquiries.",
-      "url": "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/",
-      "source": "TechCrunch AI",
-      "source_icon": "techcrunch",
-      "heat": 7.5,
-      "tags": [
-        "Apple",
-        "AI代理",
-        "商务消息"
-      ],
-      "student_note": "关注AI agent在移动生态中的实际落地案例。",
-      "published_at": "2026-06-04T19:20:58+00:00",
-      "detail_summary": "Poke成为首个获得Apple许可的AI代理，入驻Messages for Business平台。用户可通过简单文本消息与AI交互，完成预订、查询等商务任务。这标志着苹果正式开放通讯平台给第三方AI代理，为电商、客服等领域带来新入口。对于学习移动开发或AI应用的学生，这是重要的产品案例：可研究如何设计轻量级对话界面，理解Apple商务消息生态的接口限制，未来可能产生许多实习或创业机会。",
-      "key_points": [
-        "Apple批准首个AI代理Poke",
-        "入驻商务消息平台",
-        "文本交互完成商户任务",
-        "开发学生研究对话设计"
-      ]
-    },
-    {
-      "title_cn": "伯克利CS课程：AI使用致挂科率飙升",
-      "title_en": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
-      "summary_cn": "伯克利大学计算机系数据显示，学生过度依赖AI导致基础数学能力下降，挂科率显著上升。教师警告AI工具不应替代基础学习。",
-      "summary_en": "UC Berkeley CS classes report rising failure rates and declining math skills as students over-rely on AI tools, prompting warnings against substituting foundational learning.",
-      "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
-      "source": "Hacker News",
-      "source_icon": "hackernews",
-      "heat": 7.0,
-      "tags": [
-        "教育",
-        "AI依赖",
-        "挂科"
-      ],
-      "student_note": "警示：切勿用AI替代数学和编程基础训练。",
-      "published_at": "2026-06-04T00:18:02+00:00",
-      "meta": "▲ 707 · 💬 669",
-      "detail_summary": "伯克利大学计算机系数据显示，学生过度依赖AI导致基础数学能力下降，挂科率显著上升。教师警告AI工具不应替代基础学习，而应作为辅助。这一现象对大学生极具警示意义：使用AI写代码或解题时，必须同步巩固数学和逻辑基础，否则将影响长期能力。建议学生在学习初期手工推导，只将AI用于查缺补漏或验证思路，避免形成依赖。",
-      "key_points": [
-        "伯克利挂科率因AI上升",
-        "过度依赖致基础下降",
-        "警示学生勿替代学习",
-        "AI应辅助而非替代"
-      ]
-    },
-    {
-      "title_cn": "马斯克扩建AI工厂被控污染黑人社区",
-      "title_en": "Elon Musk Expands AI Plant Accused of Polluting Black Areas",
-      "summary_cn": "特斯拉CEO马斯克扩大AI工厂规模，但被指控选址毗邻黑人聚居区并造成环境污染，引发可持续发展与社会公平争议。",
-      "summary_en": "Elon Musk's expansion of an AI plant faces accusations of polluting predominantly Black neighborhoods, raising concerns about environmental justice.",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOM1JsLXVGZGg1d1NpREROS2FjUzYwQm9xS3JJVjhTblZTcVBUT0VZQ1R1QWNKSVNuVlpCWWQ5RnZaOGtyU1dtU0kzQzBqblRfUmdya280eFQyY1NSZFJaVzhNdkxDZGY1aXhZajRQWkNPNXE0ZHZBazJNMmZxeU9qdUY0UmRIRlJu?oc=5",
-      "source": "Elon Musk · The San Diego Voice & Viewpoint",
-      "source_icon": "musk",
-      "heat": 6.0,
-      "tags": [
-        "马斯克",
-        "AI工厂",
-        "环境污染"
-      ],
-      "student_note": "关注AI产业发展中的伦理与社会责任议题。",
-      "published_at": "2026-06-04T18:49:00+00:00",
-      "detail_summary": "特斯拉CEO马斯克扩大AI工厂规模，但被指控选址毗邻黑人聚居区并造成环境污染，引发可持续发展与社会公平争议。该事件凸显AI产业发展中的环境正义问题。对于关心ESG与社会责任的大学生，这是一个反思AI系统外部性的案例：技术选址应兼顾公平，否则可能加剧社区矛盾。相关讨论可融入论文或项目报告，培养伦理意识。",
-      "key_points": [
-        "马斯克扩建AI工厂",
-        "被控污染黑人社区",
-        "引发环境公平争议",
-        "学生思考AI伦理"
-      ]
-    },
-    {
-      "title_cn": "AI自我改进：迈向递归提升",
+      "title_cn": "AI自我改进的进展报告",
       "title_en": "When AI Builds Itself: Our progress toward recursive self-improvement",
-      "summary_cn": "文章探讨AI系统通过递归自我改进（即自修改代码或架构）的最新进展，分析当前技术瓶颈与潜在风险。",
-      "summary_en": "An analysis of recent progress in AI recursive self-improvement, where systems modify their own code or architecture, along with current limitations and risks.",
+      "summary_cn": "一篇关于AI递归式自我改进的进展文章，探讨了AI自主编写和改进代码的可能性。这是通向强人工智能的关键步骤，目前仍面临巨大挑战。",
+      "summary_en": "An article on progress toward AI recursive self-improvement, exploring the possibility of AI autonomously writing and improving its own code. This is a key step toward AGI, though challenges remain.",
       "url": "https://www.anthropic.com/institute/recursive-self-improvement",
       "source": "Hacker News",
       "source_icon": "hackernews",
       "heat": 6.0,
       "tags": [
         "自我改进",
-        "递归提升",
-        "AI安全"
+        "AI进展",
+        "强人工智能"
       ],
-      "student_note": "推荐阅读，理解递归自我改进的概念及其对AGI的影响。",
+      "student_note": "理解递归自我改进的概念，对AI前沿研究有重要意义。",
       "published_at": "2026-06-04T16:20:17+00:00",
-      "meta": "▲ 209 · 💬 259",
-      "detail_summary": "新文章探讨AI系统通过递归自我改进（即自修改代码或架构）的最新进展，分析当前技术瓶颈与潜在风险。递归提升被认为是通向通用人工智能的关键路径之一，但目前仍面临稳定性、安全性和验证难题。对AI专业学生，了解递归改进的原理和挑战有助于把握前沿研究方向：可关注自改进领域的新论文，并在课程项目中尝试简单实现，但需注意可控性。",
+      "meta": "▲ 501 · 💬 671",
+      "detail_summary": "一篇关于 AI 递归式自我改进（Recursive Self-Improvement）的进展报告在 Hacker News 引发讨论。文章探讨了 AI 系统能否自主编写、调试并优化自身代码，形成“自我进化”闭环。这是通向通用人工智能（AGI）的关键一步，但目前仍面临模型稳定性、评估指标和安全性等巨大挑战。一些研究人员尝试让 AI 生成改进自身架构的代码，但结果往往不可控。该话题热度（6.0）反映了社区的持续关注。对 AI 专业学生而言，这既是前沿研究方向，也是值得谨慎对待的伦理议题——理解自我改进的极限和风险，比盲目追求进步更重要。建议阅读相关论文如“Self-Improving AI: A Survey”作为入门。",
       "key_points": [
-        "AI递归自我改进进展",
-        "自修改代码与架构",
-        "面临稳定性安全挑战",
-        "学生研究方向参考"
+        "AI 递归自我改进进展报告",
+        "自主编写优化代码仍困难",
+        "AGI 关键但风险巨大",
+        "学生应关注伦理与可控性"
       ]
     },
     {
-      "title_cn": "Uber设定AI工具月限额1500美元",
-      "title_en": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
-      "summary_cn": "Uber将Claude Code等AI工具的使用成本上限设为每月1500美元，以此控制预算。该阈值成为业界评估AI工具定价的参考信号。",
-      "summary_en": "Uber caps usage of AI tools like Claude Code at $1,500/month per developer, setting a benchmark for enterprise AI tool pricing.",
-      "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
+      "title_cn": "Andrej Karpathy加入Anthropic领导研究",
+      "title_en": "Anthropic taps former OpenAI co-founder and Tesla veteran Andrej Karpathy to lead AI research",
+      "summary_cn": "Anthropic聘请前OpenAI联合创始人、特斯拉AI负责人Andrej Karpathy领导AI研究。Karpathy的加盟将极大增强Anthropic在深度学习和自动驾驶领域的技术实力。",
+      "summary_en": "Anthropic has hired Andrej Karpathy, former OpenAI co-founder and Tesla AI director, to lead its AI research. His addition will significantly boost Anthropic's expertise in deep learning and autonomous driving.",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQaDhXcE9oek1aSEhsNWM1NWFtcndVZGRQT2VGQ2V0d1V1SkhDalY5ZlkzcVo1eUVsZW5iVTJLQ1BFZE00Ykd3OWpPa25idGJqTXR4djY2QzJhdXY3c21fY1pZeUh1UjZRbnJhSUlrTkNNdWZGMG83VVp0VlNjWjc3dEduZEF1UzZjUC1fdUNqai11SWF2RG5vTHhCYnV5ekYtZ1VMaHJvRG5tYy1TVHdlbmtPRVdXRkNBckdJcU1XMjliNVNqVkkwVmYwX2I0UXQwLTVhZ1pYWHlIRVE3U2diUHdB?oc=5",
+      "source": "Andrej Karpathy · MSN",
+      "source_icon": "karpathy",
+      "heat": 8.0,
+      "tags": [
+        "Andrej Karpathy",
+        "Anthropic",
+        "人事变动"
+      ],
+      "student_note": "关注顶尖AI人才流向，了解不同AI机构的战略方向。",
+      "published_at": "2026-06-05T16:29:50+00:00",
+      "detail_summary": "Anthropic 宣布聘请传奇 AI 科学家 Andrej Karpathy 加入公司并领导研究团队。Karpathy 是 OpenAI 联合创始人之一，曾在特斯拉领导 Autopilot AI 团队，也是斯坦福 CS231n 课程讲师，在深度学习、计算机视觉和自动驾驶领域拥有极高声望。他的加入将极大增强 Anthropic 在基础研究和安全对齐方面的实力。Karpathy 本人也在社交媒体上确认了此消息，并表示期待在 Anthropic 推动下一代 AI 模型研发。该消息热度高达 8.0，是本周最重磅的人事变动。对于大学生，Karpathy 的职业生涯非常值得学习：他始终保持对技术的纯粹热情，并坚持通过公开课、博客分享知识。建议同学们关注他的 GitHub 和 YouTube 频道，直接学习第一手研究经验。",
+      "key_points": [
+        "Andrej Karpathy 加入 Anthropic",
+        "前 OpenAI 联合创始人、特斯拉 AI 负责人",
+        "将领导基础研究，增强安全对齐",
+        "大学生可学习其开源分享精神"
+      ]
+    },
+    {
+      "title_cn": "Hacker News讨论AI开发技术栈",
+      "title_en": "Ask HN: What is your (AI) dev tech stack / workflow?",
+      "summary_cn": "Hacker News上发起讨论：大家用什么样的AI开发工具链和工作流。参与者分享从新手到专业人士的现代工具选择，对开发者学习路线有参考价值。",
+      "summary_en": "A discussion on Hacker News asks developers about their AI dev tech stack and workflow. Participants share modern tool choices from beginners to pros, offering a valuable reference for learning paths.",
+      "url": "https://news.ycombinator.com/item?id=48413629",
       "source": "Hacker News",
       "source_icon": "hackernews",
-      "heat": 6.0,
+      "heat": 4.0,
       "tags": [
-        "Uber",
-        "成本控制",
-        "AI工具"
+        "AI开发",
+        "技术栈",
+        "开发者社区"
       ],
-      "student_note": "了解企业如何管理AI工具成本，对规划个人学习资源有启发。",
-      "published_at": "2026-06-03T12:25:14+00:00",
-      "meta": "▲ 602 · 💬 737",
-      "detail_summary": "Uber将Claude Code等AI工具的使用成本上限设为每月1500美元，以此控制预算。该阈值成为业界评估AI工具定价的参考信号，反映了企业对AI工具投入的实际承受范围。对于大学生，了解企业成本控制有助于理解AI产品定价模式；在求职面试中可以提及此案例，展示对AI商业化的认知。同时也可预估个人使用AI服务时的成本底线。",
+      "student_note": "阅读该讨论可了解主流AI开发工具，帮助构建个人技术栈。",
+      "published_at": "2026-06-05T15:13:54+00:00",
+      "meta": "▲ 106 · 💬 88",
+      "detail_summary": "Hacker News 上发起了一场讨论：“大家在用什么样的 AI 开发工具链和工作流？”参与者从初学者到资深工程师各抒己见，分享了自己日常使用的大模型、代码助手（如 Copilot、Cursor）、向量数据库、代理框架（如 LangChain）以及部署平台（如 Hugging Face、Replicate）。讨论中出现了多种典型配置：小白使用 ChatGPT + 拖拽式平台；进阶者用 Claude + 本地向量检索 + 微调 API；专家则搭建多 Agent 协作系统。这场讨论是了解当前 AI 生态的绝佳窗口，对大学生尤其珍贵——可以据此制定自己的学习路线。建议先掌握 Python + PyTorch，然后尝试 Copilot 辅助编码，再逐步深入 RAG、Agent 等模式。",
       "key_points": [
-        "Uber设定AI工具月限额1500刀",
-        "控制预算参考业界",
-        "反映AI工具定价承受力",
-        "学生理解商业化成本"
-      ]
-    },
-    {
-      "title_cn": "Meta为Facebook创作者推出AI助手",
-      "title_en": "Meta rolls out a new AI creator assistant on Facebook",
-      "summary_cn": "Meta推出Facebook AI创作者助手，可回答“何时发布最佳”、“评论区在说什么”等问题，帮助创作者优化内容策略。",
-      "summary_en": "Meta launches an AI assistant for Facebook creators, offering insights on optimal posting times and comment sentiment to boost engagement.",
-      "url": "https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/",
-      "source": "TechCrunch AI",
-      "source_icon": "techcrunch",
-      "heat": 7.0,
-      "tags": [
-        "Meta",
-        "AI助手",
-        "创作者工具"
-      ],
-      "student_note": "对运营自媒体或创作内容的同学，可尝试使用类似工具提升效率。",
-      "published_at": "2026-06-04T16:32:48+00:00",
-      "detail_summary": "Meta为Facebook创作者推出AI助手，可回答“何时发布最佳”、“评论区在说什么”等问题，帮助优化内容策略。该工具旨在提升创作者效率，通过分析数据提供个性化建议。对于运营社交媒体或从事内容创作的大学生，该助手可节省分析时间，聚焦内容本身。学习其背后的推荐逻辑，也能增进对AI在社交平台中应用的理解。",
-      "key_points": [
-        "Meta发布Facebook AI助手",
-        "回答发布时机评论分析",
-        "帮助创作者优化策略",
-        "学生可提升运营效率"
-      ]
-    },
-    {
-      "title_cn": "WWDC 2026：Siri大改与苹果AI升级",
-      "title_en": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
-      "summary_cn": "2026年WWDC即将到来，预测苹果将大幅升级Siri并推出Apple Intelligence新功能，可能引入更强大的端侧AI能力。",
-      "summary_en": "WWDC 2026 expected to bring a major Siri revamp and Apple Intelligence updates, potentially enhancing on-device AI capabilities.",
-      "url": "https://techcrunch.com/2026/06/04/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
-      "source": "TechCrunch AI",
-      "source_icon": "techcrunch",
-      "heat": 6.0,
-      "tags": [
-        "苹果",
-        "Siri",
-        "WWDC",
-        "AI升级"
-      ],
-      "student_note": "关注苹果AI生态动向，对移动开发与体验设计有参考价值。",
-      "published_at": "2026-06-04T16:31:12+00:00",
-      "detail_summary": "2026年WWDC即将到来，业内预测苹果将大幅升级Siri并推出Apple Intelligence新功能，可能引入更强大的端侧AI能力。苹果在AI领域的布局一直相对保守，本次升级或标志其全面发力。对于iOS开发学生，应提前关注新API和框架变化，以抓住AI集成机会。此外，端侧AI技术的发展意味隐私与效率的平衡，值得深入研究。",
-      "key_points": [
-        "WWDC 2026预测",
-        "Siri大改与苹果AI升级",
-        "端侧AI能力增强",
-        "iOS开发者关注变化"
-      ]
-    },
-    {
-      "title_cn": "AI短缺推高DDR5内存价格至375美元",
-      "title_en": "32GB of DDR5 now costs $375 – AI shortage continues to squeeze PC building",
-      "summary_cn": "由于AI服务器需求大量消耗内存芯片产能，32GB DDR5内存条价格已涨至375美元，DIY PC成本显著增加。",
-      "summary_en": "The price of 32GB DDR5 RAM hits $375 as AI chip demand drains supply, raising costs for PC builders.",
-      "url": "https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building",
-      "source": "Hacker News",
-      "source_icon": "hackernews",
-      "heat": 5.0,
-      "tags": [
-        "AI供应",
-        "DDR5",
-        "内存涨价",
-        "硬件"
-      ],
-      "student_note": "硬件涨价趋势提示学习云计算资源管理的重要性。",
-      "published_at": "2026-06-03T12:43:43+00:00",
-      "meta": "▲ 416 · 💬 380",
-      "detail_summary": "由于AI服务器需求大量消耗内存芯片产能，32GB DDR5内存条价格已涨至375美元，DIY PC成本显著增加。这一供应紧张现象直接影响了普通消费者的装机预算。对于大学生，尤其是计算机硬件爱好者和AI研究者，需要注意：购买内存时需提前规划预算；同时理解AI产业对硬件供应链的连带影响，有助于在系统设计时考虑成本约束。",
-      "key_points": [
-        "AI推高DDR5内存至375刀",
-        "服务器消耗芯片产能",
-        "DIY装机成本增加",
-        "学生注意硬件预算"
-      ]
-    },
-    {
-      "title_cn": "华为发布KVarN：vLLM原生KV缓存量化",
-      "title_en": "KVarN: Native vLLM backend for KV-cache quantization by Huawei",
-      "summary_cn": "华为推出KVarN，为vLLM推理引擎提供原生KV缓存量化后端，可大幅降低显存占用并提升推理吞吐量。",
-      "summary_en": "Huawei introduces KVarN, a native vLLM backend for KV-cache quantization, reducing GPU memory usage and improving inference throughput.",
-      "url": "https://github.com/huawei-csl/KVarN",
-      "source": "Hacker News",
-      "source_icon": "hackernews",
-      "heat": 6.0,
-      "tags": [
-        "华为",
-        "KV缓存量化",
-        "vLLM",
-        "推理优化"
-      ],
-      "student_note": "对研究大模型推理优化与显存效率的同学是重要技术资料。",
-      "published_at": "2026-06-04T15:18:00+00:00",
-      "meta": "▲ 100 · 💬 10",
-      "detail_summary": "华为推出KVarN，为vLLM推理引擎提供原生KV缓存量化后端，可大幅降低显存占用并提升推理吞吐量。这一技术创新直接优化了LLM推理效率，尤其适用于大规模部署场景。对于学习大模型推理优化的学生，KVarN提供了工程实践参考：可尝试在个人项目中集成，对比量化前后的性能差异，深入理解KV缓存机制。",
-      "key_points": [
-        "华为发布KVarN量化后端",
-        "降低vLLM显存占用",
-        "提升推理吞吐量",
-        "学生优化大模型实践"
-      ]
-    },
-    {
-      "title_cn": "花1500美元测试LLM能否自动黑客",
-      "title_en": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
-      "summary_cn": "一位开发者故意构建带漏洞的应用程序，并花费1500美元调用多种LLM尝试自动利用漏洞，测试AI的黑客能力。结果揭示了当前LLM在自动化漏洞利用上的局限。",
-      "summary_en": "A developer built a vulnerable app and spent $1,500 testing various LLMs to automatically exploit the flaws, revealing current limitations of AI in autonomous hacking.",
-      "url": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/",
-      "source": "Hacker News",
-      "source_icon": "hackernews",
-      "heat": 5.0,
-      "tags": [
-        "LLM",
-        "安全测试",
-        "漏洞利用",
-        "AI能力"
-      ],
-      "student_note": "对AI安全感兴趣的读者可关注实验细节与结论。",
-      "published_at": "2026-06-04T00:56:32+00:00",
-      "meta": "▲ 376 · 💬 201",
-      "detail_summary": "一位开发者故意构建带漏洞的应用程序，并花费1500美元调用多种LLM尝试自动利用漏洞，测试AI的黑客能力。结果揭示了当前LLM在自动化漏洞利用上的局限：模型无法自主完成复杂攻击链，多依赖提示引导。对于网络安全学生，该实验既展示AI安全测试的潜力，也强调人工分析的必要性。适合作为学习渗透测试的案例，理解LLM的边界。",
-      "key_points": [
-        "测试LLM自动黑客能力",
-        "花费1500美元尝试",
-        "揭示当前自动利用局限",
-        "学生理解AI安全边界"
+        "HN 讨论 AI 开发技术栈",
+        "从新手到专家的工具分享",
+        "Copilot、LangChain 等常用",
+        "大学生可参考制定学习路径"
       ]
     }
   ]
