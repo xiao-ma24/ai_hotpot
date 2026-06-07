@@ -1,95 +1,95 @@
 {
-  "date": "2026-06-07",
-  "generated_at": "2026-06-07T05:43:55.771946+08:00",
+  "date": "2026-06-08",
+  "generated_at": "2026-06-08T05:49:29.850650+08:00",
   "headlines": [
     {
-      "title_cn": "SpaceX与谷歌达成300亿美元AI计算协议",
-      "title_en": "SpaceX Has $30 Billion Deal to Provide Google With A.I. Computing Power",
-      "summary_cn": "据《纽约时报》报道，SpaceX与谷歌签署价值300亿美元协议，为期约2.7年（按每月9.2亿美元折算）。谷歌将利用xAI数据中心的算力支持其AI服务。",
-      "summary_en": "The New York Times reports that SpaceX has a $30 billion deal to provide Google with AI computing power, equivalent to roughly 2.7 years at $920 million per month. Google will use xAI data centers to power its AI services.",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9LWjBkRzhPZVpGSEtDaWZQcHl2VmVHX1FnMkwwYllKOURzbWtwbDZlSlBtbjJCMENtSWEtNXdNdHU2TWdjbmZxWmt2a0o0SVA4Nlh3RGlVNVhWcGgwTWoyM2wyZ3VUVnRPZDI0YThBbG53cnVBMDc1dQ?oc=5",
-      "source": "Elon Musk · The New York Times",
-      "source_icon": "musk",
+      "title_cn": "Ilya的SSI：320亿美元押注后缩放时代",
+      "title_en": "Ilya Sutskever's SSI: The $32B Bet on a Post-Scaling Future",
+      "summary_cn": "前OpenAI联合创始人Ilya Sutskever创立SSI（安全超级智能），获320亿美元投资，旨在探索后缩放定律（post-scaling）的AI发展路径。这代表AI研究可能从单纯扩大模型规模转向新方向。",
+      "summary_en": "Ilya Sutskever's new venture, SSI, has raised $32 billion to explore AI beyond scaling laws, aiming for safe superintelligence. This signals a potential shift in AI research focus.",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSGVTbmp1TExwZlhSb0VoMGR1UGJld0U2dVplcWFYaGxsbnU3UENwX0NHSFpZZ1ZMUWsxUEdBYVE0LW5MTUlScnpROE5URGFuWTNMREFYZzlLUDYxZkNPMkhodFlweUxNV1dBVWc0TTc3SjlmVjZZb1JVVUstcWc5ZzQ2MUxfc2NES1NLYUY4V0tncW0zY0pmVmVIX0x2RF8yNTVnOTRib0h6QQ?oc=5",
+      "source": "Ilya Sutskever · StartupHub.ai",
+      "source_icon": "sutskever",
       "heat": 9.0,
       "tags": [
-        "SpaceX",
-        "谷歌",
-        "AI算力",
-        "合作协议"
+        "SSI",
+        "Ilya Sutskever",
+        "后缩放时代",
+        "投资"
       ],
-      "student_note": null,
-      "published_at": "2026-06-06T00:44:15+00:00"
+      "student_note": "强烈推荐！了解Ilya对AI未来的看法，对理解AI前沿趋势非常重要。",
+      "published_at": "2026-06-06T07:00:00+00:00"
     },
     {
-      "title_cn": "谷歌月付9.2亿美元租用xAI算力",
-      "title_en": "Google will pay SpaceX $920M per month for compute",
-      "summary_cn": "谷歌与SpaceX（xAI的数据中心）达成协议，每月支付9.2亿美元获取计算能力，以应对AI产品需求激增。这一巨额交易反映了硅谷对算力的疯狂争夺，也暴露了AI基础设施的高昂成本。",
-      "summary_en": "Google has agreed to pay SpaceX $920 million per month for compute capacity at xAI data centers, driven by surging demand for its AI products. The deal highlights the intense race for AI infrastructure and the enormous costs involved.",
-      "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
-      "source": "TechCrunch AI",
-      "source_icon": "techcrunch",
+      "title_cn": "‘Chat Is Dead’: OpenAI Reportedly Planning Radical Changes to ChatGPT",
+      "title_en": "‘Chat Is Dead’: OpenAI Reportedly Planning Radical Changes to ChatGPT",
+      "summary_cn": "‘Chat Is Dead’: OpenAI Reportedly Planning Radical Changes to ChatGPT&nbsp;&nbsp;Gizmodo",
+      "summary_en": "‘Chat Is Dead’: OpenAI Reportedly Planning Radical Changes to ChatGPT&nbsp;&nbsp;Gizmodo",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVi1nX1VJcnZjT0lZS05SSkxUeHZjY0FYLVpqU0NVQ2RWRjh5RTRnM1ZRandocjZFeWtCOG12VW9kRUE0RjhXaWJqRER0NkxpQVlRZEhHcHlPWkZSNlpaclFvVmhyczF1dm42Ykd3R01ETFRNZzlLdnFIaEJoZ3hnblJEc0U2ZEZqT0l2TnpDR0NydFJycFJiNzRLMXVrZw?oc=5",
+      "source": "Sam Altman · Gizmodo",
+      "source_icon": "altman",
       "heat": 8.5,
       "tags": [
-        "算力租赁",
-        "谷歌",
-        "xAI",
-        "数据中心"
-      ],
-      "student_note": "对理解AI算力市场格局有帮助，推荐关注云服务与数据中心商业逻辑。",
-      "published_at": "2026-06-05T18:57:20+00:00"
-    },
-    {
-      "title_cn": "谷歌月付9.2亿美元租用xAI数据中心算力",
-      "title_en": "Google to pay SpaceX $920 million a month for compute capacity at xAI data centers",
-      "summary_cn": "据CNBC报道，谷歌将每月向SpaceX支付9.2亿美元，以获得xAI数据中心的计算能力。这笔巨额交易凸显了AI算力供应链的垂直整合趋势。",
-      "summary_en": "According to CNBC, Google will pay SpaceX $920 million per month for compute capacity at xAI data centers. The deal highlights the vertical integration trend in AI compute supply chains.",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbTlsMnZmeWxoUk0yWmhKcGs0eVhkc1d1c1JVRm9qUWFMQWVuTy1YcmFyVDBGTDhkOGwyRlBhNWFJWTVBTHNOOUlsSVFzVlB3bXFjZWZYaEhWblQwSU5yc00wU241V3BoVFEtTndGcURrVXc2eFBLMlFuZkdUSzdkUEpZNXctWHVvUjZTczUzRE4tNHA3eUgtVVN4NVZKWnZUd2NKRNIBqgFBVV95cUxNRGdVeDExV2J4SUxteXpvQVJqMWl2NmstN3lpR3dqaHU1djhwNkozR0pyZG5wZlhiRU9zSVdod0xyZWYwbEljVEpMOXdIelJzZFV3SVV3UHBvOUZzS3VKWGlLV3RIemFaZTFMOEh2ZlBDNW9fLXVlWXZSVU5RTGkxcHZzc1VSWU05SWdkMGtrZWR0aFJwb3FfZEs5bl9SQjJYWUJOTGVqU05iZw?oc=5",
-      "source": "Elon Musk · CNBC",
-      "source_icon": "musk",
-      "heat": 8.5,
-      "tags": [
-        "算力租赁",
-        "谷歌",
-        "xAI",
-        "CNBC"
+        "OpenAI",
+        "ChatGPT",
+        "产品变革"
       ],
       "student_note": null,
-      "published_at": "2026-06-05T19:20:48+00:00"
+      "published_at": "2026-06-07T18:16:19+00:00"
     },
     {
-      "title_cn": "Transformer本质简洁性获顶会认可",
-      "title_en": "Transformers are inherently succinct",
-      "summary_cn": "一篇被ICLR 2026接收的杰出论文证明Transformer架构本质上具有简洁性，即在表达某些函数时其参数规模可大幅压缩。该工作为理解Transformer的理论能力提供新视角。",
-      "summary_en": "A paper accepted at ICLR 2026 as one of three outstanding papers shows that Transformers are inherently succinct, meaning their parameter size can be significantly compressed for certain functions. This provides a new perspective on the theoretical capability of Transformers.",
-      "url": "https://openreview.net/pdf?id=Yxz92UuPLQ",
+      "title_cn": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
+      "title_en": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
+      "summary_cn": "",
+      "summary_en": "",
+      "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
       "source": "Hacker News",
       "source_icon": "hackernews",
       "heat": 8.0,
       "tags": [
-        "Transformer",
-        "理论",
-        "ICLR"
+        "Meta",
+        "安全漏洞",
+        "AI滥用",
+        "Instagram"
       ],
-      "student_note": "强烈推荐阅读该论文，有助于理解Transformer的数学本质和优化方向。",
-      "published_at": "2026-06-05T18:50:26+00:00",
-      "meta": "▲ 137 · 💬 40"
+      "student_note": null,
+      "published_at": "2026-06-06T18:35:27+00:00",
+      "meta": "▲ 681 · 💬 247"
     },
     {
-      "title_cn": "Anthropic呼吁放缓AI研发：递归自我改进风险",
-      "title_en": "Recursive self-improvement: Why Anthropic wants AI development slowed",
-      "summary_cn": "Anthropic（Anthropic公司）发表观点，主张应放缓AI开发速度，原因在于递归自我改进（AI自我迭代优化）可能带来失控风险。该言论在业界引发关于AI安全的讨论。",
-      "summary_en": "Anthropic argues for slowing down AI development due to the risks of recursive self-improvement, where AI iteratively optimizes itself potentially leading to loss of control. This view has sparked discussions on AI safety in the industry.",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNVJnWmlvNGxHZWVtLTRzOFNNd3JOQ3paN1B3MlhnWHJEb1NJUFB4TGV5Y1BFRk5SSi1pV2djUHdGVkxmN21SN0tBRXhyOHAwSHVIY2prV3dydmNPNU5LTjNWbWl4Q0hoXzVUSlZNQ1JXR1JhVkgycHRPaEF5UnZOclU2ZWNQeGVaOGZneGgxdXBmU2EyejAwV1ozWU93czA3UkhKbzF3Z3lyNGFvbWR1cXRERXlyS241UFUtYXAwNE9LNzA?oc=5",
-      "source": "Yann LeCun · TradingView",
+      "title_cn": "特朗普、桑德斯与Altman共议AI公有化",
+      "title_en": "Donald Trump, Bernie Sanders and Sam Altman are all talking about public ownership in AI",
+      "summary_cn": "美国政界人物特朗普、桑德斯以及OpenAI CEO Altman都在讨论AI公共所有权概念，表明AI成果分配问题正成为跨政治光谱的共识议题。对学习AI伦理和公共政策的学生是重要素材。",
+      "summary_en": "Donald Trump, Bernie Sanders, and Sam Altman are all advocating some form of public ownership in AI, reflecting a growing consensus on equitable distribution of AI benefits. This is a key topic for AI ethics and policy.",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQak1pb1pkVTR1VGhJSXZKMjU1d0gwYVU3NnlsRFJvQnNOdXJhTDFjQzVCbFBkbWJPRGV3d0N5RFUybHJ0c0s1NGdkMl9rNE1yMmVrX3VBRmV6VUNvRzdOOHZ3VTVMSU1Pc2JaYlhhQTROYjlGVnllbGNDWWdwMVUzbWo4YlVLSkQ5WUl2eWFjOXlqTUFwenBTMkZoM2Z6RElubWF2YUdZblNZalVVX3Zfbw?oc=5",
+      "source": "Sam Altman · AP News",
+      "source_icon": "altman",
+      "heat": 8.0,
+      "tags": [
+        "AI公有化",
+        "政策",
+        "跨党派"
+      ],
+      "student_note": "推荐阅读，帮助理解AI的社会影响和治理方向，适合用于论文或课堂讨论。",
+      "published_at": "2026-06-06T04:02:00+00:00"
+    },
+    {
+      "title_cn": "杨立昆世界模型赌注：10.3亿美元反对大语言模型",
+      "title_en": "Yann LeCun World Models Bet: AMI Labs Stakes $1.03 Billion Against Large Language Models",
+      "summary_cn": "AI先驱Yann LeCun倡导的“世界模型”路线获得AMI Labs 10.3亿美元投资，押注该范式将超越当前主流的大语言模型（LLM）。这为质疑“规模至上”的学生提供了另一种技术路径参考。",
+      "summary_en": "AMI Labs has invested $1.03 billion in Yann LeCun's 'World Models' approach, betting against the dominance of large language models. This challenges the current scaling paradigm and explores alternative AI architectures.",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObHpWVE9TUXZYaHdQTXhoX1B0NUsxT29hNl9EVldtdEM2Vm9ENzE2NDlHTl9xa3JBdGZFUXNVNzB6TnU2WkYyUG00a0lDRXhQbjRrV3ljXy1tNjBwdmFWdU10ZG5lWWZsTjBLUTRPcEUwY0ZGaklsRkphaE9XQlJIc1dvdDJ0QWtTVTlONll6ZzdzUmlzZTNCbnplNVFKUU1BY0YyRkRza21IV0tQYzNlYnUtX1B6V08tbENsX2VGSDJDNU9VSFhNVUNmQzBYVUpLUkFCZFdVNA?oc=5",
+      "source": "Yann LeCun · Tech Times",
       "source_icon": "lecun",
       "heat": 8.0,
       "tags": [
-        "AI安全",
-        "Anthropic",
-        "递归自我改进"
+        "世界模型",
+        "Yann LeCun",
+        "投资",
+        "大语言模型"
       ],
-      "student_note": "关注AI安全与伦理辩论，理解递归自我改进的概念对AI研究者至关重要。",
-      "published_at": "2026-06-06T12:00:00+00:00"
+      "student_note": "强烈推荐！了解世界模型与LLM的对比，对研究AI前沿非常有帮助。",
+      "published_at": "2026-06-07T01:49:45+00:00"
     }
   ],
   "sections": [
@@ -100,59 +100,22 @@
       "icon": "🐙",
       "items": [
         {
-          "title_cn": "Lowfat：节省91.8% LLM令牌的过滤工具",
-          "title_en": "Show HN: Lowfat – pluggable CLI filter that saved 91.8% of my LLM tokens",
-          "summary_cn": "Lowfat 是一款可插拔的命令行过滤工具，通过压缩冗长输出节省大语言模型的令牌消耗，最高可达91.8%。支持插件系统，可集成到shell或Agent Hook中使用。",
-          "summary_en": "Lowfat is a pluggable CLI filter that reduces LLM token consumption by compressing verbose output, achieving up to 91.8% savings. It supports a plugin system and can be integrated as a shell wrapper or agent hook.",
-          "url": "https://github.com/zdk/lowfat",
+          "title_cn": "Silurus/ooxml: Pixel-faithful Office documents, rendered in the browser",
+          "title_en": "Silurus/ooxml: Pixel-faithful Office documents, rendered in the browser",
+          "summary_cn": "",
+          "summary_en": "",
+          "url": "https://github.com/yukiyokotani/office-open-xml-viewer",
           "source": "Hacker News",
           "source_icon": "hackernews",
-          "heat": 7.0,
+          "heat": 6.0,
           "tags": [
-            "令牌压缩",
-            "效率工具",
-            "开源"
+            "开源项目",
+            "Office文档",
+            "浏览器渲染"
           ],
-          "student_note": "对使用LLM API的学生实用，可显著降低调用成本，值得尝试。",
-          "published_at": "2026-06-05T09:10:42+00:00",
-          "meta": "▲ 144 · 💬 73"
-        },
-        {
-          "title_cn": "开源AI代码审查CLI工具",
-          "title_en": "Open Code Review – An AI-powered code review CLI tool",
-          "summary_cn": "Open Code Review 是一款基于AI的命令行代码审查工具，可自动分析代码质量、发现潜在问题。它开源免费，适合开发者在本地或CI流程中使用。",
-          "summary_en": "Open Code Review is an AI-powered CLI tool that automatically analyzes code quality and detects potential issues. It is open source and free, suitable for local or CI pipeline usage.",
-          "url": "https://github.com/alibaba/open-code-review",
-          "source": "Hacker News",
-          "source_icon": "hackernews",
-          "heat": 6.5,
-          "tags": [
-            "开源",
-            "代码审查",
-            "AI工具"
-          ],
-          "student_note": "计算机专业学生可尝试使用此工具提升代码审查效率，学习AI在软件开发中的应用。",
-          "published_at": "2026-06-05T00:04:29+00:00",
-          "meta": "▲ 272 · 💬 68"
-        },
-        {
-          "title_cn": "GitHub Stars可视化工具",
-          "title_en": "poferraz/github-stars-visualizer",
-          "summary_cn": "一款在浏览器中运行的怀旧Win95/98风格桌面应用，可将你的GitHub Stars以交互式力导向图形式可视化。它支持客户端AI映射、8位音效和CRT滤镜，完全无服务器且保护隐私。",
-          "summary_en": "A nostalgic 90s OS-styled web app that visualizes your GitHub Stars as an interactive force-directed graph. It features client-side AI mapping, 8-bit sound effects, and a CRT shader—fully serverless and private.",
-          "url": "https://github.com/poferraz/github-stars-visualizer",
-          "source": "GitHub Trending",
-          "source_icon": "link",
-          "heat": 5.0,
-          "tags": [
-            "GitHub",
-            "可视化",
-            "开源工具",
-            "怀旧风格"
-          ],
-          "student_note": "推荐研究其力导向图实现和前端可视化技巧，可用于个人项目展示。",
-          "published_at": "2026-06-06T21:27:15Z",
-          "meta": "⭐ 1 · JavaScript"
+          "student_note": null,
+          "published_at": "2026-06-07T17:22:28+00:00",
+          "meta": "▲ 88 · 💬 30"
         }
       ]
     },
@@ -163,216 +126,162 @@
       "icon": "🧠",
       "items": [
         {
-          "title_cn": "谷歌月付9.2亿美元租用xAI算力",
-          "title_en": "Google will pay SpaceX $920M per month for compute",
-          "summary_cn": "谷歌与SpaceX（xAI的数据中心）达成协议，每月支付9.2亿美元获取计算能力，以应对AI产品需求激增。这一巨额交易反映了硅谷对算力的疯狂争夺，也暴露了AI基础设施的高昂成本。",
-          "summary_en": "Google has agreed to pay SpaceX $920 million per month for compute capacity at xAI data centers, driven by surging demand for its AI products. The deal highlights the intense race for AI infrastructure and the enormous costs involved.",
-          "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
-          "source": "TechCrunch AI",
-          "source_icon": "techcrunch",
+          "title_cn": "‘Chat Is Dead’: OpenAI Reportedly Planning Radical Changes to ChatGPT",
+          "title_en": "‘Chat Is Dead’: OpenAI Reportedly Planning Radical Changes to ChatGPT",
+          "summary_cn": "‘Chat Is Dead’: OpenAI Reportedly Planning Radical Changes to ChatGPT&nbsp;&nbsp;Gizmodo",
+          "summary_en": "‘Chat Is Dead’: OpenAI Reportedly Planning Radical Changes to ChatGPT&nbsp;&nbsp;Gizmodo",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVi1nX1VJcnZjT0lZS05SSkxUeHZjY0FYLVpqU0NVQ2RWRjh5RTRnM1ZRandocjZFeWtCOG12VW9kRUE0RjhXaWJqRER0NkxpQVlRZEhHcHlPWkZSNlpaclFvVmhyczF1dm42Ykd3R01ETFRNZzlLdnFIaEJoZ3hnblJEc0U2ZEZqT0l2TnpDR0NydFJycFJiNzRLMXVrZw?oc=5",
+          "source": "Sam Altman · Gizmodo",
+          "source_icon": "altman",
           "heat": 8.5,
           "tags": [
-            "算力租赁",
-            "谷歌",
-            "xAI",
-            "数据中心"
-          ],
-          "student_note": "对理解AI算力市场格局有帮助，推荐关注云服务与数据中心商业逻辑。",
-          "published_at": "2026-06-05T18:57:20+00:00"
-        },
-        {
-          "title_cn": "谷歌月付9.2亿美元租用xAI数据中心算力",
-          "title_en": "Google to pay SpaceX $920 million a month for compute capacity at xAI data centers",
-          "summary_cn": "据CNBC报道，谷歌将每月向SpaceX支付9.2亿美元，以获得xAI数据中心的计算能力。这笔巨额交易凸显了AI算力供应链的垂直整合趋势。",
-          "summary_en": "According to CNBC, Google will pay SpaceX $920 million per month for compute capacity at xAI data centers. The deal highlights the vertical integration trend in AI compute supply chains.",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbTlsMnZmeWxoUk0yWmhKcGs0eVhkc1d1c1JVRm9qUWFMQWVuTy1YcmFyVDBGTDhkOGwyRlBhNWFJWTVBTHNOOUlsSVFzVlB3bXFjZWZYaEhWblQwSU5yc00wU241V3BoVFEtTndGcURrVXc2eFBLMlFuZkdUSzdkUEpZNXctWHVvUjZTczUzRE4tNHA3eUgtVVN4NVZKWnZUd2NKRNIBqgFBVV95cUxNRGdVeDExV2J4SUxteXpvQVJqMWl2NmstN3lpR3dqaHU1djhwNkozR0pyZG5wZlhiRU9zSVdod0xyZWYwbEljVEpMOXdIelJzZFV3SVV3UHBvOUZzS3VKWGlLV3RIemFaZTFMOEh2ZlBDNW9fLXVlWXZSVU5RTGkxcHZzc1VSWU05SWdkMGtrZWR0aFJwb3FfZEs5bl9SQjJYWUJOTGVqU05iZw?oc=5",
-          "source": "Elon Musk · CNBC",
-          "source_icon": "musk",
-          "heat": 8.5,
-          "tags": [
-            "算力租赁",
-            "谷歌",
-            "xAI",
-            "CNBC"
+            "OpenAI",
+            "ChatGPT",
+            "产品变革"
           ],
           "student_note": null,
-          "published_at": "2026-06-05T19:20:48+00:00"
+          "published_at": "2026-06-07T18:16:19+00:00"
         },
         {
-          "title_cn": "Anthropic呼吁放缓AI研发：递归自我改进风险",
-          "title_en": "Recursive self-improvement: Why Anthropic wants AI development slowed",
-          "summary_cn": "Anthropic（Anthropic公司）发表观点，主张应放缓AI开发速度，原因在于递归自我改进（AI自我迭代优化）可能带来失控风险。该言论在业界引发关于AI安全的讨论。",
-          "summary_en": "Anthropic argues for slowing down AI development due to the risks of recursive self-improvement, where AI iteratively optimizes itself potentially leading to loss of control. This view has sparked discussions on AI safety in the industry.",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNVJnWmlvNGxHZWVtLTRzOFNNd3JOQ3paN1B3MlhnWHJEb1NJUFB4TGV5Y1BFRk5SSi1pV2djUHdGVkxmN21SN0tBRXhyOHAwSHVIY2prV3dydmNPNU5LTjNWbWl4Q0hoXzVUSlZNQ1JXR1JhVkgycHRPaEF5UnZOclU2ZWNQeGVaOGZneGgxdXBmU2EyejAwV1ozWU93czA3UkhKbzF3Z3lyNGFvbWR1cXRERXlyS241UFUtYXAwNE9LNzA?oc=5",
-          "source": "Yann LeCun · TradingView",
+          "title_cn": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
+          "title_en": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
+          "summary_cn": "",
+          "summary_en": "",
+          "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
+          "source": "Hacker News",
+          "source_icon": "hackernews",
+          "heat": 8.0,
+          "tags": [
+            "Meta",
+            "安全漏洞",
+            "AI滥用",
+            "Instagram"
+          ],
+          "student_note": null,
+          "published_at": "2026-06-06T18:35:27+00:00",
+          "meta": "▲ 681 · 💬 247"
+        },
+        {
+          "title_cn": "杨立昆世界模型赌注：10.3亿美元反对大语言模型",
+          "title_en": "Yann LeCun World Models Bet: AMI Labs Stakes $1.03 Billion Against Large Language Models",
+          "summary_cn": "AI先驱Yann LeCun倡导的“世界模型”路线获得AMI Labs 10.3亿美元投资，押注该范式将超越当前主流的大语言模型（LLM）。这为质疑“规模至上”的学生提供了另一种技术路径参考。",
+          "summary_en": "AMI Labs has invested $1.03 billion in Yann LeCun's 'World Models' approach, betting against the dominance of large language models. This challenges the current scaling paradigm and explores alternative AI architectures.",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObHpWVE9TUXZYaHdQTXhoX1B0NUsxT29hNl9EVldtdEM2Vm9ENzE2NDlHTl9xa3JBdGZFUXNVNzB6TnU2WkYyUG00a0lDRXhQbjRrV3ljXy1tNjBwdmFWdU10ZG5lWWZsTjBLUTRPcEUwY0ZGaklsRkphaE9XQlJIc1dvdDJ0QWtTVTlONll6ZzdzUmlzZTNCbnplNVFKUU1BY0YyRkRza21IV0tQYzNlYnUtX1B6V08tbENsX2VGSDJDNU9VSFhNVUNmQzBYVUpLUkFCZFdVNA?oc=5",
+          "source": "Yann LeCun · Tech Times",
           "source_icon": "lecun",
           "heat": 8.0,
           "tags": [
-            "AI安全",
-            "Anthropic",
-            "递归自我改进"
+            "世界模型",
+            "Yann LeCun",
+            "投资",
+            "大语言模型"
           ],
-          "student_note": "关注AI安全与伦理辩论，理解递归自我改进的概念对AI研究者至关重要。",
-          "published_at": "2026-06-06T12:00:00+00:00"
+          "student_note": "强烈推荐！了解世界模型与LLM的对比，对研究AI前沿非常有帮助。",
+          "published_at": "2026-06-07T01:49:45+00:00"
         },
         {
-          "title_cn": "AI巨头警告生物武器风险",
-          "title_en": "AI CEOs from OpenAI, Anthropic, and Microsoft set aside their rivalry to warn Congress AI is making it too easy to design and create bioweapons",
-          "summary_cn": "OpenAI、Anthropic和微软的CEO们放下竞争，联合警告国会：AI技术大幅降低了设计和制造生物武器的门槛。他们指出，AI的普及可能导致恶意分子轻易获取生物武器设计能力，带来严重安全风险。对大学生而言，这突显了AI安全与伦理研究的重要性。",
-          "summary_en": "CEOs from OpenAI, Anthropic, and Microsoft jointly warned Congress that AI is making it significantly easier to design and create bioweapons. They emphasized that the accessibility of AI tools could lower barriers for malicious actors, posing serious security risks. This underscores the growing need for AI safety and governance measures.",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNDdLYTJTa05SMzlRTFlZR0hJdldabVl0Wm5teU0yd3ZGWTRJVVlWQm1SUm1yWjVsQVhnSFFTUENMZUU4YlZOeXlGV19weUdRdkprdkdpZnJzRnZaQVJQNmtCaXFsNl9hNkVlaUx6NHNQVEhQX01jWHY3b3dVZjlFcXhjeXR0MmlESS1NcU5rZTlqM1JYVDFPYw?oc=5",
-          "source": "Sam Altman · Fortune",
-          "source_icon": "altman",
-          "heat": 8.0,
-          "tags": [
-            "生物安全",
-            "AI伦理",
-            "OpenAI",
-            "Anthropic"
-          ],
-          "student_note": "建议关注AI安全与生物信息学交叉领域，思考技术伦理与监管平衡。",
-          "published_at": "2026-06-05T08:14:00+00:00"
-        },
-        {
-          "title_cn": "OpenAI推出锁定模式防提示注入",
+          "title_cn": "OpenAI推出锁定模式防注入",
           "title_en": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
-          "summary_cn": "OpenAI发布Lockdown Mode（锁定模式），旨在降低提示注入攻击导致敏感数据泄露的风险。但该模式无法完全免疫，仍需谨慎使用。",
-          "summary_en": "OpenAI introduces Lockdown Mode to mitigate prompt injection attacks that could leak sensitive data. While it reduces risks, the mode is not a complete fix, and caution remains necessary.",
+          "summary_cn": "OpenAI推出了“锁定模式”（Lockdown Mode），旨在减少提示注入攻击导致敏感数据泄露的风险。该模式限制ChatGPT在特定场景下的行为，但不能完全防御所有攻击。对于学习AI安全的学生，理解此类攻击与防御机制是重要课题。",
+          "summary_en": "OpenAI has introduced Lockdown Mode to reduce the risk of sensitive data leakage from prompt injection attacks. While it mitigates some threats, it is not a complete solution. This development highlights ongoing challenges in AI security.",
           "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
           "source": "TechCrunch AI",
           "source_icon": "techcrunch",
           "heat": 7.0,
           "tags": [
             "OpenAI",
-            "锁定模式",
             "提示注入",
             "安全"
           ],
-          "student_note": "建议学习提示注入原理及其防御策略，这对使用LLM的安全性至关重要。",
+          "student_note": "推荐关注，提示注入是AI安全领域的热点，学习防御机制对网络安全方向有价值。",
           "published_at": "2026-06-06T20:32:24+00:00"
-        },
-        {
-          "title_cn": "Meta确认数千Ins账号因AI聊天机器人被黑",
-          "title_en": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
-          "summary_cn": "Meta官方确认，攻击者利用其AI聊天机器人漏洞入侵了数千个Instagram账户。该事件暴露出AI系统可能成为新的攻击向量。",
-          "summary_en": "Meta confirms thousands of Instagram accounts were compromised via exploits of its AI chatbot. This incident highlights how AI systems can become attack vectors.",
-          "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
-          "source": "Hacker News",
-          "source_icon": "hackernews",
-          "heat": 7.0,
-          "tags": [
-            "Meta",
-            "Instagram",
-            "AI聊天机器人",
-            "安全漏洞"
-          ],
-          "student_note": "关注AI系统安全，学习如何设计防御机制避免被滥用。",
-          "published_at": "2026-06-06T18:35:27+00:00",
-          "meta": "▲ 190 · 💬 71"
         },
         {
           "title_cn": "特朗普政府或入股OpenAI",
           "title_en": "The Trump administration might take an equity stake in OpenAI",
-          "summary_cn": "美国总统特朗普暗示正在讨论一种让美国人民从AI成功中受益的安排，可能通过政府持有OpenAI股权来分享利润。",
-          "summary_en": "President Trump hints at deals that could give the U.S. government an equity stake in OpenAI, aiming to let the American people benefit from AI's success.",
+          "summary_cn": "美国总统特朗普表示正在讨论让美国公众从AI成功中受益，可能通过持有OpenAI股权的方式实现。这标志着政府与AI企业可能形成更深层的利益绑定，对理解AI产业生态有启发。",
+          "summary_en": "President Trump announced discussions about potential deals where the American public could benefit from AI's success, possibly through an equity stake in OpenAI. This signals a new model of public-private partnership.",
           "url": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
           "source": "TechCrunch AI",
           "source_icon": "techcrunch",
           "heat": 7.0,
           "tags": [
+            "特朗普",
             "OpenAI",
-            "政府投资",
-            "AI政策"
+            "政府投资"
           ],
-          "student_note": "关注AI公司与政府的关系演变，思考公共资金与私人创新的平衡。",
+          "student_note": null,
           "published_at": "2026-06-06T16:17:21+00:00"
         },
         {
-          "title_cn": "Meta一再推迟新AI模型发布",
-          "title_en": "Meta Keeps Delaying the Release of Its New AI Model to Developers",
-          "summary_cn": "据报道，Meta多次推迟向开发者发布其新一代AI模型，原因可能涉及内部测试问题、监管审查或竞争策略调整。此举引发开发者社区不满。",
-          "summary_en": "Reports indicate Meta has repeatedly delayed releasing its new AI model to developers, possibly due to internal testing issues, regulatory scrutiny, or strategic adjustments. The delays have frustrated the developer community.",
-          "url": "https://www.wsj.com/tech/ai/meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers-f8569c8c",
-          "source": "Hacker News",
-          "source_icon": "hackernews",
-          "heat": 7.0,
-          "tags": [
-            "Meta",
-            "模型发布",
-            "延迟"
-          ],
-          "student_note": null,
-          "published_at": "2026-06-06T12:15:59+00:00",
-          "meta": "▲ 58 · 💬 21"
-        },
-        {
-          "title_cn": "OpenAI前CTO称Altman回归避免内爆",
-          "title_en": "OpenAI Would’ve ‘Imploded’ If Altman Didn’t Return, Ex-CTO Says",
-          "summary_cn": "OpenAI前首席技术官表示，如果Sam Altman在2023年11月的董事会动荡中未能回归，公司可能会'内爆'。这揭示了AI初创公司在高速发展下面临的治理挑战和领导力危机。",
-          "summary_en": "OpenAI's former CTO stated that the company would have 'imploded' if Sam Altman had not returned after the November 2023 board turmoil. This incident highlights the governance and leadership challenges faced by rapidly growing AI startups.",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT09Ub2pJX1Zial8zaWJrYUpPQUJqbEw0RTNuSkJwZHZwZmUwQ0lUU2pQQ1IxRUI4bDI4TnFzUXBlWDR6ekM5cVREeVhNOEEtTzUzQXUyazU5ZXBIQmF3ZjNfcm5VX2xFSGRVSlhJR3ltQzJDakJERFh6bW5ISDhqUUFudEF3dnNvZ0lvRkVsVTA0Tl9RX1JrMS01YVBVWU5RUnJKTFdlZHlIVy03OVRFaA?oc=5",
-          "source": "Sam Altman · Bloomberg.com",
-          "source_icon": "altman",
-          "heat": 7.0,
-          "tags": [
-            "OpenAI",
-            "Sam Altman",
-            "公司治理",
-            "董事会动荡"
-          ],
-          "student_note": "对技术管理和创业感兴趣的同学，可以从此案例学习团队稳定与战略决策的重要性。",
-          "published_at": "2026-06-05T15:18:30+00:00"
-        },
-        {
-          "title_cn": "Anthropic总裁IPO前回应AI收益质疑",
-          "title_en": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
-          "summary_cn": "Anthropic总裁Daniela Amodei淡化外界对AI投资回报的质疑。该公司年化收入已从2025年底的90亿美元飙升至2026年5月的470亿美元，但IPO面临考验。",
-          "summary_en": "Anthropic's president Daniela Amodei downplays skepticism about AI returns ahead of the company's IPO. Annualized revenue surged to $47 billion in May, up from roughly $9 billion at end of 2025, though the IPO will test the trajectory.",
-          "url": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
+          "title_cn": "OpenAI is still working on that ‘super app’",
+          "title_en": "OpenAI is still working on that ‘super app’",
+          "summary_cn": "\"Chat is dead\" — at least, according to a senior OpenAI employee.",
+          "summary_en": "\"Chat is dead\" — at least, according to a senior OpenAI employee.",
+          "url": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
           "source": "TechCrunch AI",
           "source_icon": "techcrunch",
           "heat": 6.5,
           "tags": [
-            "Anthropic",
-            "IPO",
-            "收入增长"
+            "OpenAI",
+            "超级应用",
+            "产品规划"
           ],
-          "student_note": "关注AI独角兽的财务模型，对理解科技公司估值有帮助。",
-          "published_at": "2026-06-04T22:43:26+00:00"
+          "student_note": null,
+          "published_at": "2026-06-07T16:23:22+00:00"
         },
         {
-          "title_cn": "Claude是否导致rsync出现更多Bug？",
-          "title_en": "Did Claude increase bugs in rsync?",
-          "summary_cn": "Hacker News社区讨论AI辅助编程工具Claude是否在rsync项目中引入了更多缺陷。这引发了对AI代码生成质量的担忧。",
-          "summary_en": "The HN community debates whether Claude, an AI coding assistant, has increased the number of bugs in the rsync project. It raises concerns about code quality when using AI tools.",
-          "url": "https://alexispurslane.github.io/rsync-analysis/",
+          "title_cn": "I design with Claude more than Figma now",
+          "title_en": "I design with Claude more than Figma now",
+          "summary_cn": "",
+          "summary_en": "",
+          "url": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
           "source": "Hacker News",
           "source_icon": "hackernews",
-          "heat": 5.5,
+          "heat": 6.0,
           "tags": [
-            "AI编程",
             "Claude",
-            "代码质量"
+            "AI设计",
+            "Anthropic"
           ],
-          "student_note": "使用AI辅助编程时注意审查生成代码，了解常见陷阱。",
-          "published_at": "2026-06-05T12:43:33+00:00",
-          "meta": "▲ 493 · 💬 512"
+          "student_note": null,
+          "published_at": "2026-06-07T05:04:24+00:00",
+          "meta": "▲ 224 · 💬 207"
         },
         {
-          "title_cn": "DeepMind公布2026年5月AI进展",
-          "title_en": "The latest AI news we announced in May 2026",
-          "summary_cn": "Google DeepMind总结了2026年5月发布的AI新闻，包括模型更新、研究突破和产品应用。具体内容需查看原文，但展示了该机构的最新动态。",
-          "summary_en": "Google DeepMind recaps its AI news from May 2026, including model updates, research breakthroughs, and product applications. Details are in the original post, showcasing the lab's latest progress.",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
-          "source": "Google DeepMind",
-          "source_icon": "deepmind",
-          "heat": 5.0,
+          "title_cn": "Notion restores access to Anthropic after service disruption",
+          "title_en": "Notion restores access to Anthropic after service disruption",
+          "summary_cn": "Notion's head of product said he was \"astonished\" at “the amount of people RT-ing this.\"",
+          "summary_en": "Notion's head of product said he was \"astonished\" at “the amount of people RT-ing this.\"",
+          "url": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
+          "source": "TechCrunch AI",
+          "source_icon": "techcrunch",
+          "heat": 4.0,
           "tags": [
-            "DeepMind",
-            "进展汇总"
+            "Notion",
+            "Anthropic",
+            "服务中断"
           ],
-          "student_note": "建议阅读原文，了解前沿AI研究动态，把握行业趋势。",
-          "published_at": "2026-06-05T14:45:00+00:00"
+          "student_note": null,
+          "published_at": "2026-06-07T17:56:22+00:00"
+        },
+        {
+          "title_cn": "Anthropic, please ship an official Claude Desktop for Linux",
+          "title_en": "Anthropic, please ship an official Claude Desktop for Linux",
+          "summary_cn": "",
+          "summary_en": "",
+          "url": "https://github.com/anthropics/claude-code/issues/65697",
+          "source": "Hacker News",
+          "source_icon": "hackernews",
+          "heat": 3.0,
+          "tags": [
+            "Anthropic",
+            "Claude Desktop",
+            "Linux"
+          ],
+          "student_note": null,
+          "published_at": "2026-06-07T13:06:52+00:00",
+          "meta": "▲ 396 · 💬 227"
         }
       ]
     },
@@ -383,180 +292,91 @@
       "icon": "👤",
       "items": [
         {
-          "title_cn": "SpaceX与谷歌达成300亿美元AI计算协议",
-          "title_en": "SpaceX Has $30 Billion Deal to Provide Google With A.I. Computing Power",
-          "summary_cn": "据《纽约时报》报道，SpaceX与谷歌签署价值300亿美元协议，为期约2.7年（按每月9.2亿美元折算）。谷歌将利用xAI数据中心的算力支持其AI服务。",
-          "summary_en": "The New York Times reports that SpaceX has a $30 billion deal to provide Google with AI computing power, equivalent to roughly 2.7 years at $920 million per month. Google will use xAI data centers to power its AI services.",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9LWjBkRzhPZVpGSEtDaWZQcHl2VmVHX1FnMkwwYllKOURzbWtwbDZlSlBtbjJCMENtSWEtNXdNdHU2TWdjbmZxWmt2a0o0SVA4Nlh3RGlVNVhWcGgwTWoyM2wyZ3VUVnRPZDI0YThBbG53cnVBMDc1dQ?oc=5",
-          "source": "Elon Musk · The New York Times",
-          "source_icon": "musk",
-          "heat": 9.0,
-          "tags": [
-            "SpaceX",
-            "谷歌",
-            "AI算力",
-            "合作协议"
-          ],
-          "student_note": null,
-          "published_at": "2026-06-06T00:44:15+00:00"
-        },
-        {
-          "title_cn": "谷歌每月9.2亿美元租用xAI数据中心",
-          "title_en": "Google Will Pay SpaceX $920 Million A Month To Use xAI's Data Centers",
-          "summary_cn": "Engadget报道确认，谷歌每月向SpaceX支付9.2亿美元以获得xAI数据中心的算力。该交易是AI算力军备竞赛的标志性事件。",
-          "summary_en": "As reported by Engadget, Google will pay SpaceX $920 million per month to use xAI's data centers. The deal exemplifies the AI compute arms race.",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbWFpU0dteGVhREF2NmtUVDNIbVhGelFFVGVxbXFSZ1kzUXRuNWI0ZGVMNjZTUTJYSzdGaHRONG1sZEpySWhKM0dPWXFkMjVocXkxaTVRODF4akgwTjYwR1BFX0JJXzhBQndZcWdhQlhNOHQzYWFaTGtxWGM5TzktZw?oc=5",
-          "source": "Elon Musk · Engadget",
-          "source_icon": "musk",
-          "heat": 8.0,
-          "tags": [
-            "谷歌",
-            "xAI",
-            "算力租用",
-            "数据中心"
-          ],
-          "student_note": null,
-          "published_at": "2026-06-06T09:57:52+00:00"
-        },
-        {
-          "title_cn": "Ilya Sutskever创立SSI，押注后扩展时代",
+          "title_cn": "Ilya的SSI：320亿美元押注后缩放时代",
           "title_en": "Ilya Sutskever's SSI: The $32B Bet on a Post-Scaling Future",
-          "summary_cn": "OpenAI联合创始人Ilya Sutskever创立了Safe Superintelligence Inc.（SSI），估值320亿美元。公司专注于超越当前大模型规模扩展（scaling laws）范式的安全超级智能研究，探索在数据算力增长放缓后的AI发展新路径。",
-          "summary_en": "Ilya Sutskever, co-founder of OpenAI, launched Safe Superintelligence Inc. (SSI) with a $32 billion valuation. The company focuses on post-scaling AI research, aiming to achieve safe superintelligence beyond the current paradigm of scaling up models with more data and compute.",
+          "summary_cn": "前OpenAI联合创始人Ilya Sutskever创立SSI（安全超级智能），获320亿美元投资，旨在探索后缩放定律（post-scaling）的AI发展路径。这代表AI研究可能从单纯扩大模型规模转向新方向。",
+          "summary_en": "Ilya Sutskever's new venture, SSI, has raised $32 billion to explore AI beyond scaling laws, aiming for safe superintelligence. This signals a potential shift in AI research focus.",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSGVTbmp1TExwZlhSb0VoMGR1UGJld0U2dVplcWFYaGxsbnU3UENwX0NHSFpZZ1ZMUWsxUEdBYVE0LW5MTUlScnpROE5URGFuWTNMREFYZzlLUDYxZkNPMkhodFlweUxNV1dBVWc0TTc3SjlmVjZZb1JVVUstcWc5ZzQ2MUxfc2NES1NLYUY4V0tncW0zY0pmVmVIX0x2RF8yNTVnOTRib0h6QQ?oc=5",
           "source": "Ilya Sutskever · StartupHub.ai",
           "source_icon": "sutskever",
-          "heat": 8.0,
+          "heat": 9.0,
           "tags": [
-            "Ilya Sutskever",
             "SSI",
-            "安全超级智能",
-            "后扩展时代"
+            "Ilya Sutskever",
+            "后缩放时代",
+            "投资"
           ],
-          "student_note": "推荐阅读，了解AI研究的前沿方向——'后缩放定律'，这对理解下一代AI架构非常重要。",
+          "student_note": "强烈推荐！了解Ilya对AI未来的看法，对理解AI前沿趋势非常重要。",
           "published_at": "2026-06-06T07:00:00+00:00"
         },
         {
-          "title_cn": "xAI被曝数月经Claude数据训练编程模型",
-          "title_en": "Elon Musk's xAI reportedly trained its coding models on Claude outputs for months before getting cut off",
-          "summary_cn": "报道称，马斯克的xAI在数月内使用Anthropic的Claude模型输出来训练自己的编程模型，直到被切断访问。这涉及AI训练数据的合规与版权问题。",
-          "summary_en": "Reports claim that Elon Musk's xAI trained its coding models on outputs from Anthropic's Claude for months before being cut off. The incident raises questions about data usage compliance and copyright in AI training.",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUkQxdmpMTndNU2UxaWxBd0hid3VoN3gyUTdLdnY2NTBSTVhvbUhDY19XU1B0OEZWaGhDdEk4VFJuVndMNjNQRGRHZGtMQXB1OGR2TGp3NnpEQ2dON0xwN1QxVVZablRDN0tjUFdKeVdZeTVHWVRMaUVrR1A1dHVQamhTZXcydlc1Q3ZEYjNXdHNsTDlkbGtHaHE5c0pIZWRNeHBZdks3WnJpZU5JcExhTUdrWXczY0MtcU1VTXRyUkU0XzdiYVdz?oc=5",
-          "source": "Elon Musk · the-decoder.com",
-          "source_icon": "musk",
-          "heat": 7.5,
-          "tags": [
-            "xAI",
-            "Claude",
-            "数据合规",
-            "模型训练"
-          ],
-          "student_note": "了解AI训练数据伦理，对计算机伦理课程有参考价值。",
-          "published_at": "2026-06-06T11:27:43+00:00"
-        },
-        {
-          "title_cn": "特朗普政府与OpenAI讨论持股可能性",
-          "title_en": "Trump administration, OpenAI discussing possible government stake in the AI startup",
-          "summary_cn": "据CNBC报道，特朗普政府正与OpenAI讨论政府入股该AI初创公司的可能性。此举可能影响AI产业的国家控制与竞争格局。",
-          "summary_en": "CNBC reports that the Trump administration is discussing the possibility of taking a financial stake in OpenAI. This could reshape government involvement and competition in the AI industry.",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4ybHlVc085QUVIS2ZReHVWMVNPWTRhYmFuWVN1RXZVZUc0ZnZhbUlMT3Rpa1QxdEs3Q0Z6OG1qZ1VZN2N6TmlOMWlVYkVHc0dITjdkMnlTdnB2WmZZSkY4LW5HZHVRcjlKbDBoYVdva2_SAXZBVV95cUxObW91aGd3RmlfdHhHQVNLVUgyN3V6WDlFMkZ5UXdfbmZEQ0NfLW41REc4eTlMMkh1MlFiMW1BdFJmbm5sN1hOTVhwVl9VcXhlZzdVWFJyY1dkVFJQNFI2WXNTOXl1MllWa09KOHkxMkZsOXA4Qy1n?oc=5",
-          "source": "Sam Altman · CNBC",
+          "title_cn": "特朗普、桑德斯与Altman共议AI公有化",
+          "title_en": "Donald Trump, Bernie Sanders and Sam Altman are all talking about public ownership in AI",
+          "summary_cn": "美国政界人物特朗普、桑德斯以及OpenAI CEO Altman都在讨论AI公共所有权概念，表明AI成果分配问题正成为跨政治光谱的共识议题。对学习AI伦理和公共政策的学生是重要素材。",
+          "summary_en": "Donald Trump, Bernie Sanders, and Sam Altman are all advocating some form of public ownership in AI, reflecting a growing consensus on equitable distribution of AI benefits. This is a key topic for AI ethics and policy.",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQak1pb1pkVTR1VGhJSXZKMjU1d0gwYVU3NnlsRFJvQnNOdXJhTDFjQzVCbFBkbWJPRGV3d0N5RFUybHJ0c0s1NGdkMl9rNE1yMmVrX3VBRmV6VUNvRzdOOHZ3VTVMSU1Pc2JaYlhhQTROYjlGVnllbGNDWWdwMVUzbWo4YlVLSkQ5WUl2eWFjOXlqTUFwenBTMkZoM2Z6RElubWF2YUdZblNZalVVX3Zfbw?oc=5",
+          "source": "Sam Altman · AP News",
           "source_icon": "altman",
-          "heat": 7.5,
+          "heat": 8.0,
           "tags": [
-            "OpenAI",
-            "特朗普政府",
-            "政府持股",
-            "AI政策"
+            "AI公有化",
+            "政策",
+            "跨党派"
           ],
-          "student_note": "关注政府与科技企业关系，适合政策研究或国际关系方向。",
-          "published_at": "2026-06-05T17:58:46+00:00"
+          "student_note": "推荐阅读，帮助理解AI的社会影响和治理方向，适合用于论文或课堂讨论。",
+          "published_at": "2026-06-06T04:02:00+00:00"
         },
         {
-          "title_cn": "美国官员讨论对AI行业持股",
-          "title_en": "U.S. Officials Discuss Taking Financial Stakes in AI Industry",
-          "summary_cn": "据《华尔街日报》报道，美国官员正在讨论政府直接持有AI公司股份的可能性，作为确保技术优势和控制风险的手段。这标志着政策思路的重大转变。",
-          "summary_en": "The Wall Street Journal reports that U.S. officials are discussing taking financial stakes in AI companies as a way to secure technological advantage and manage risks. This marks a potential policy shift.",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUDE3MXQ5bzhlRF9pUjNBT3BXR2lXTkFaZG9fZFhtU19jd0h3cFhWckpWR0s5WmxhdkhMN1pTMWw0WUUtdEdwUmJvbER4a2h1N2hEdHhPTU1Yb0ZYX3c2NkNodF8xaVhRRndzZlo4VmNma1lLVk1HZVdzODBiQ1pFLTh5Y1ZzczRKeFJjcmh2U3V6MHpjR1VuNzUwNjREdw?oc=5",
-          "source": "Sam Altman · WSJ",
+          "title_cn": "Sam Altman Heads To Washington As OpenAI Stakes Out Its AI Policy Stance",
+          "title_en": "Sam Altman Heads To Washington As OpenAI Stakes Out Its AI Policy Stance",
+          "summary_cn": "Sam Altman Heads To Washington As OpenAI Stakes Out Its AI Policy Stance&nbsp;&nbsp;Yahoo",
+          "summary_en": "Sam Altman Heads To Washington As OpenAI Stakes Out Its AI Policy Stance&nbsp;&nbsp;Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNU1NLZnRNdmRoTnBLUzBjY2dUajg2dExPSkU2d1NhbVd2bFctOEpwclhCeFlaSl9sSXRKd3ZQOTJwRXNaaURGYXZ5QXJLeFhSVGNudXRIZDdiX0M1UnRDRTVfUFpTWWNENjhmaFVUMEFmdjhrODJyeFk4ZzNOd3VQUS14T0VlV3IxU205ejMtRWc3X19fMkxHYkV3?oc=5",
+          "source": "Sam Altman · Yahoo",
           "source_icon": "altman",
           "heat": 7.0,
           "tags": [
-            "美国政府",
-            "AI行业",
-            "政策转向"
+            "Sam Altman",
+            "AI政策",
+            "OpenAI"
           ],
           "student_note": null,
-          "published_at": "2026-06-05T03:18:00+00:00"
+          "published_at": "2026-06-07T13:31:52+00:00"
         },
         {
-          "title_cn": "白宫AI顾问Sriram Krishnan离职",
-          "title_en": "Sriram Krishnan is leaving his role as White House AI advisor",
-          "summary_cn": "白宫AI高级政策顾问Sriram Krishnan离职，据称他将创立一个新机构，继续影响特朗普政府的人工智能政策走向。",
-          "summary_en": "Sriram Krishnan departs as White House AI advisor and plans to launch a new institution to continue shaping Trump's AI policy. His exit reflects the fluid dynamics of AI governance.",
-          "url": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
-          "source": "TechCrunch AI",
-          "source_icon": "techcrunch",
-          "heat": 5.0,
+          "title_cn": "Ilya讨论AI双重性：变革潜力与风险",
+          "title_en": "[deep Research] Ilya Sutskever Discusses AI's Dual Nature: Transformative Potential And As (qLgpMdImxo)",
+          "summary_cn": "Ilya Sutskever深入探讨了AI的双重性：既具有巨大变革潜力，也伴随显著风险。他对后缩放时代的安全问题表达了深刻见解，适合学习AI安全与伦理的学生深入了解。",
+          "summary_en": "Ilya Sutskever elaborates on AI's dual nature—its transformative potential and associated risks—offering insights into safety in a post-scaling era. Essential reading for AI safety enthusiasts.",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5XNWpjS0RXaS0wQ0tYSEQ2S2d3aVMwMC05bVZDWHcxNGcwbU1BZVFvR3BxOXpTWjJXck9aLTFYVUdNbEMwVnpvdm56QlRhWjM0M3BwT291dlF5YTBIeVI0VzluZXhzSzNCY2c5VTdaOUNaQnhKdUE?oc=5",
+          "source": "Ilya Sutskever · Fathom Journal",
+          "source_icon": "sutskever",
+          "heat": 7.0,
           "tags": [
-            "白宫",
-            "AI顾问",
-            "离职",
-            "政策影响"
+            "AI安全",
+            "AI伦理",
+            "Ilya Sutskever",
+            "后缩放"
           ],
-          "student_note": "了解美国AI政策制定过程及关键人物，对分析国际AI政策趋势有益。",
-          "published_at": "2026-06-06T17:42:15+00:00"
+          "student_note": "推荐阅读，了解顶级研究者对AI风险的看法。",
+          "published_at": "2026-06-06T23:43:06+00:00"
         },
         {
-          "title_cn": "Airbnb CEO计划设立AI实验室",
-          "title_en": "Airbnb’s Brian Chesky plans to launch a new AI lab",
-          "summary_cn": "Airbnb CEO Brian Chesky宣布计划成立新的AI实验室，此前他曾表示未与大型语言模型（LLM）合作，因为现有产品还不够成熟。此举标志Airbnb加速自主AI布局。",
-          "summary_en": "Airbnb CEO Brian Chesky plans to establish a new AI lab, after previously stating that existing LLM partnerships weren't ready. The move signals Airbnb's push to develop its own AI capabilities.",
-          "url": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
-          "source": "TechCrunch AI",
-          "source_icon": "techcrunch",
-          "heat": 4.5,
+          "title_cn": "Opinion | Human intelligence will win out over artificial intelligence",
+          "title_en": "Opinion | Human intelligence will win out over artificial intelligence",
+          "summary_cn": "Opinion | Human intelligence will win out over artificial intelligence&nbsp;&nbsp;The Washington Post",
+          "summary_en": "Opinion | Human intelligence will win out over artificial intelligence&nbsp;&nbsp;The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNREJsN2RmaFVCN1VFNU14WVpnTnhHOGE5WUp1aWNJdU5aQzZXREh2NHczM285cGNZVnlOSXlFRHNsX2otMWFtaDBDQ1FFVmZIbUZQT1VHQkNIYWhvM2RhUllncVBienFUeklWcU9vbGZzZnc3VEdKQl9tXzhVSXhsc2hvUVBrOU1rQ0cwWXFJU0d0ZEltT3lkVkVjZw?oc=5",
+          "source": "Yann LeCun · The Washington Post",
+          "source_icon": "lecun",
+          "heat": 6.5,
           "tags": [
-            "Airbnb",
-            "AI实验室",
-            "Brian Chesky"
+            "Yann LeCun",
+            "人物观点",
+            "AI辩论"
           ],
-          "student_note": "可了解大企业如何自建AI研发能力。",
-          "published_at": "2026-06-04T22:29:50+00:00"
-        },
-        {
-          "title_cn": "xAI面临新诉讼，继国会议员后又有原告",
-          "title_en": "New claimants seek to sue Elon Musk’s xAI after Labour MP’s test case",
-          "summary_cn": "继英国工党议员提起测试案件后，新的索赔人寻求起诉马斯克的xAI。诉讼背景可能与AI数据使用或劳工权益相关，具体细节待披露。",
-          "summary_en": "After a Labour MP filed a test case, new claimants are seeking to sue Elon Musk's xAI. The lawsuits likely involve AI data usage or labor issues, but further details are pending.",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRmFfR2doTU9EY05KYXdsYUJCc0EwLUNRWnRyVTFURDJwZW9tcGpvNV94WkdJaHdrUy1Yc2tBT1hvSjctYUJTaHZLN2w0amRkTzJUUEk0WVVacmIyUUFSZFExT05TTl9ZeTNtWmdfaVNRc2hEZzBLcld5X0RwMXlpNlVmc3dmbno4aC1iMFlsc253QlVwNjVsYlE5WUhwUQ?oc=5",
-          "source": "Elon Musk · The Guardian",
-          "source_icon": "musk",
-          "heat": 3.5,
-          "tags": [
-            "xAI",
-            "诉讼",
-            "法律纠纷"
-          ],
-          "student_note": "关注AI法律风险案例，适合法学或科技政策方向学生。",
-          "published_at": "2026-06-05T06:00:00+00:00"
-        },
-        {
-          "title_cn": "Mira Murati谨慎回归公众视野",
-          "title_en": "Mira Murati steps back into the spotlight, carefully",
-          "summary_cn": "前OpenAI首席技术官Mira Murati在沉寂后重新现身，但保持谨慎。在当前竞争激烈的AI市场，保持低调的边际收益递减，企业需要适时发声以维持存在感。",
-          "summary_en": "Former OpenAI CTO Mira Murati is cautiously re-emerging into the spotlight. In a competitive AI landscape, staying silent has diminishing returns; companies must make noise to remind the market of their presence.",
-          "url": "https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/",
-          "source": "TechCrunch AI",
-          "source_icon": "techcrunch",
-          "heat": 3.0,
-          "tags": [
-            "Mira Murati",
-            "OpenAI",
-            "回归"
-          ],
-          "student_note": "职业规划参考：技术领袖在转型期的公关策略。",
-          "published_at": "2026-06-05T05:06:37+00:00"
+          "student_note": null,
+          "published_at": "2026-06-07T18:15:00+00:00"
         }
       ]
     },
@@ -567,271 +387,109 @@
       "icon": "📰",
       "items": [
         {
-          "title_cn": "美众院草案拟禁止各州AI立法",
-          "title_en": "US House lawmakers release draft bill to prohibit state AI rules",
-          "summary_cn": "美国众议院议员发布了一份草案法案，旨在禁止各州自行制定AI监管法规，以统一全国标准。该草案显示了联邦层面在AI治理上的主导意图，目前处于征求意见阶段。",
-          "summary_en": "US House lawmakers have released a draft bill that would prohibit individual states from enacting their own AI regulations, aiming for a unified national standard. The proposal reflects a push for federal dominance in AI governance and is currently open for comment.",
-          "url": "https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04/",
-          "source": "Hacker News",
-          "source_icon": "hackernews",
-          "heat": 7.5,
+          "title_cn": "Is this the dawn of the Tokenpocalypse?",
+          "title_en": "Is this the dawn of the Tokenpocalypse?",
+          "summary_cn": "We're likely to see more price increases as the big AI companies plan to go public.",
+          "summary_en": "We're likely to see more price increases as the big AI companies plan to go public.",
+          "url": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
+          "source": "TechCrunch AI",
+          "source_icon": "techcrunch",
+          "heat": 6.5,
           "tags": [
-            "AI监管",
-            "美国立法",
-            "政策"
+            "行业分析",
+            "Token",
+            "AI成本"
           ],
-          "student_note": "关注AI政策动态，了解联邦与州级监管博弈对未来AI产业的影响。",
-          "published_at": "2026-06-06T13:40:22+00:00",
-          "meta": "▲ 98 · 💬 67"
+          "student_note": null,
+          "published_at": "2026-06-07T20:26:13+00:00"
         },
         {
-          "title_cn": "WWDC 2026前瞻：Siri大改与苹果AI更新",
-          "title_en": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
-          "summary_cn": "苹果全球开发者大会（WWDC）2026即将到来，预计将发布Siri的重大改版以及Apple Intelligence系列AI功能更新。这是苹果追赶AI浪潮的关键一步。",
-          "summary_en": "Apple’s WWDC 2026 is approaching, with expected major overhauls to Siri and new Apple Intelligence features. This marks a key step in Apple’s AI strategy.",
+          "title_cn": "LLMs are eroding my software engineering career and I don't know what to do",
+          "title_en": "LLMs are eroding my software engineering career and I don't know what to do",
+          "summary_cn": "",
+          "summary_en": "",
+          "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
+          "source": "Hacker News",
+          "source_icon": "hackernews",
+          "heat": 6.0,
+          "tags": [
+            "开发者生态",
+            "职业影响",
+            "LLM讨论"
+          ],
+          "student_note": null,
+          "published_at": "2026-06-07T12:49:29+00:00",
+          "meta": "▲ 719 · 💬 679"
+        },
+        {
+          "title_cn": "WWDC 2026：Siri大改与苹果AI更新",
+          "title_en": "What to expect from WWDC 2026: Siri's highly anticipated revamp and Apple Intelligence updates",
+          "summary_cn": "苹果WWDC 2026临近，预计Siri将迎来重大改版，并结合苹果AI（Apple Intelligence）功能全面升级。这对关注终端智能语音助手发展的学生是重要信号。",
+          "summary_en": "Apple's WWDC 2026 is approaching, with expectations of a major Siri overhaul and updates to Apple Intelligence features. This signals Apple's push in on-device AI and conversational interfaces.",
           "url": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
           "source": "TechCrunch AI",
           "source_icon": "techcrunch",
-          "heat": 7.0,
+          "heat": 6.0,
           "tags": [
             "苹果",
-            "WWDC",
             "Siri",
-            "AI更新"
+            "WWDC"
           ],
-          "student_note": "关注苹果AI生态动向，可作为研究端侧AI与隐私保护结合的案例。",
+          "student_note": null,
           "published_at": "2026-06-06T18:13:36+00:00"
         },
         {
-          "title_cn": "澳大利亚公司投300亿美元在印建AI数据中心",
-          "title_en": "AirTrunk commits $30B to build 5GW of AI data centers in India",
-          "summary_cn": "澳大利亚数据中心运营商AirTrunk宣布在印度投资300亿美元，建设5吉瓦（GW）规模的AI数据中心，以满足亚太地区对算力的爆发式需求。这是全球AI基础设施竞赛的又一里程碑。",
-          "summary_en": "Australian data center operator AirTrunk plans to invest $30 billion to build 5GW of AI data center capacity in India, responding to surging demand in the Asia-Pacific region. The move underscores the global race for AI infrastructure.",
-          "url": "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/",
-          "source": "TechCrunch AI",
-          "source_icon": "techcrunch",
-          "heat": 7.0,
-          "tags": [
-            "AI数据中心",
-            "印度",
-            "投资300亿"
-          ],
-          "student_note": "可以结合云计算课程，了解数据中心选址及规模经济。",
-          "published_at": "2026-06-05T13:03:10+00:00"
-        },
-        {
-          "title_cn": "标普500拒纳SpaceX与AI公司",
-          "title_en": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
-          "summary_cn": "标普500指数运营商拒绝将SpaceX、OpenAI和Anthropic纳入指数，可能出于对它们高估值或治理问题的考量。这一举措引发对指数成分股选择标准的讨论。",
-          "summary_en": "The S&P 500 index operator has declined to include SpaceX, OpenAI, and Anthropic, likely due to concerns over high valuations or governance. This move sparks debate about index inclusion criteria.",
-          "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
-          "source": "Hacker News",
-          "source_icon": "hackernews",
-          "heat": 6.0,
-          "tags": [
-            "标普500",
-            "AI公司",
-            "指数成分",
-            "估值争议"
-          ],
-          "student_note": "可思考指数成分股选择背后的商业与政治因素，对理解资本市场有帮助。",
-          "published_at": "2026-06-06T04:38:36+00:00",
-          "meta": "▲ 1278 · 💬 438"
-        },
-        {
-          "title_cn": "美两党在AI公共所有权上罕见一致",
-          "title_en": "On public ownership in AI, Trump and Bernie Sanders find common ground",
-          "summary_cn": "特朗普与伯尼·桑德斯在AI公共所有权议题上立场趋同，主张让美国人民从AI发展中获益。这一跨党派共识反映了AI治理的政治重要性。",
-          "summary_en": "Donald Trump and Bernie Sanders unexpectedly agree on public ownership of AI assets, emphasizing that the American people should benefit from AI success. This bipartisan convergence highlights the political weight of AI governance.",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUjhaM3Z1QjNfRFI1YlJTWFR4VUJnVGZJajdrWEVCaHVsaFlkNUlPempaZHFYSEJFdnRYMXpXQVp2el9zR0R3cWdtM0VGOGNVdWJEeUVXWDZ0cmNpM1VtYWJ0Y1FWaFRqT1RTM2Z3UnJGdFJsUFU1UHIyTHM3ckZrNHZPSm9kZGY3a0JCY2VNVmx0MDdseVhwVGdNRjZHdUMtT1NxNGRPeC13eEIxdWc?oc=5",
-          "source": "Sam Altman · Los Angeles Times",
-          "source_icon": "altman",
-          "heat": 6.0,
-          "tags": [
-            "AI政策",
-            "公共所有权",
-            "两党共识",
-            "治理"
-          ],
-          "student_note": "关注AI政策辩论，了解不同政治光谱对技术所有权的主张。",
-          "published_at": "2026-06-06T21:00:57+00:00"
-        },
-        {
-          "title_cn": "英格兰威尔士警方被责令停用AI于法庭陈述",
-          "title_en": "Police in England and Wales told to halt AI use in court statements",
-          "summary_cn": "法院命令英格兰和威尔士的警察停止在法庭陈述中使用AI生成内容，理由可能涉及准确性和可解释性问题。这凸显了AI在法律场景中的伦理挑战。",
-          "summary_en": "Police forces in England and Wales have been instructed to cease using AI in court statements, likely over accuracy and explainability concerns. This underscores ethical challenges of AI in legal contexts.",
-          "url": "https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241",
-          "source": "Hacker News",
-          "source_icon": "hackernews",
-          "heat": 6.0,
-          "tags": [
-            "AI伦理",
-            "法律",
-            "警方",
-            "法庭"
-          ],
-          "student_note": "思考AI在法律文书中的使用边界与责任归属，对法律和技术交叉领域感兴趣的同学可深入。",
-          "published_at": "2026-06-06T15:35:49+00:00",
-          "meta": "▲ 131 · 💬 44"
-        },
-        {
-          "title_cn": "为何HN社区对AI普遍持反对态度？",
-          "title_en": "Ask HN: Why is the HN crowd so anti-AI?",
-          "summary_cn": "有用户提问为何Hacker News社群对AI技术普遍持批评态度，并列举了关于AI产生坏代码、引入bug等常见抱怨。这反映了技术社区对AI炒作和实际问题的警惕。",
-          "summary_en": "A user asks why the HN crowd is generally anti-AI, citing frequent complaints about AI producing bad code, introducing bugs, etc. This reflects the community's skepticism and concerns over AI's real-world impact.",
-          "url": "https://news.ycombinator.com/item?id=48420827",
-          "source": "Hacker News",
-          "source_icon": "hackernews",
-          "heat": 6.0,
-          "tags": [
-            "AI社区",
-            "技术讨论",
-            "Hacker News"
-          ],
-          "student_note": "理解不同技术社群对AI的态度，有助于形成更全面的技术判断力。",
-          "published_at": "2026-06-06T02:31:51+00:00",
-          "meta": "▲ 317 · 💬 551"
-        },
-        {
-          "title_cn": "韩国论坛将强制AI扫描所有图片",
-          "title_en": "South Korean forums will need to scan every images with AI censorship tools",
-          "summary_cn": "韩国要求所有论坛必须使用AI审查工具扫描上传的每一张图片，以过滤违规内容。此举引发了对隐私和言论自由的担忧，但也反映了AI在内容审核中的广泛部署。",
-          "summary_en": "South Korea now mandates that all forums must use AI tools to scan every uploaded image for violating content. This raises privacy and free speech concerns while demonstrating the growing role of AI in content moderation.",
-          "url": "https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341",
-          "source": "Hacker News",
-          "source_icon": "hackernews",
-          "heat": 6.0,
-          "tags": [
-            "内容审核",
-            "AI监管",
-            "隐私"
-          ],
-          "student_note": null,
-          "published_at": "2026-06-04T23:45:56+00:00",
-          "meta": "▲ 260 · 💬 145"
-        },
-        {
-          "title_cn": "智能电视成AI数据抓取节点",
-          "title_en": "The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy",
-          "summary_cn": "文章指出智能电视正被用于AI数据抓取，收集用户观看行为、语音指令等信息，服务于广告或模型训练。这引发了对隐私和数据所有权的讨论。",
-          "summary_en": "The article points out that smart TVs are being used for AI data scraping, collecting viewing behavior, voice commands, and more for advertising or model training, sparking discussions on privacy and data ownership.",
-          "url": "https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/",
-          "source": "Hacker News",
-          "source_icon": "hackernews",
-          "heat": 6.0,
-          "tags": [
-            "隐私",
-            "数据抓取",
-            "AI"
-          ],
-          "student_note": "关注物联网设备的数据隐私问题，作为用户应了解如何保护个人信息。",
-          "published_at": "2026-06-06T09:17:49+00:00",
-          "meta": "▲ 187 · 💬 82"
-        },
-        {
-          "title_cn": "AI成本失控：行业转向“算力节制”",
-          "title_en": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
-          "summary_cn": "AI行业从“拼命堆token”转向“设置护栏”控制成本。随着大模型推理开销激增，企业开始重新审视资源效率，寻求平衡性能与支出的方案。",
-          "summary_en": "The AI industry is shifting from maximizing token usage to implementing cost guardrails. As model inference costs skyrocket, companies are scrambling to control runaway expenses while maintaining performance.",
-          "url": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
-          "source": "TechCrunch AI",
-          "source_icon": "techcrunch",
-          "heat": 5.5,
-          "tags": [
-            "AI成本",
-            "推理效率",
-            "算力控制"
-          ],
-          "student_note": "学习大模型部署时需理解token成本，推荐阅读以掌握工程优化思路。",
-          "published_at": "2026-06-05T14:49:12+00:00"
-        },
-        {
-          "title_cn": "微调LLM写出1995年风格文档",
-          "title_en": "Fine-tuning an LLM to write docs like it's 1995",
-          "summary_cn": "作者通过微调大语言模型，使其生成具有1995年技术文档风格（如繁冗、术语密集、无现代UI提示）的文本。该实验展示了LLM风格迁移能力，也反思了文档写作的历史演变。",
-          "summary_en": "The author fine-tunes an LLM to produce text in the style of 1995 technical documentation—verbose, jargon-heavy, and lacking modern UI cues. This experiment showcases LLM style transfer capabilities and reflects on the evolution of documentation.",
-          "url": "https://passo.uno/fine-tuning-docs-llm/",
+          "title_cn": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
+          "title_en": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
+          "summary_cn": "Hey HN!<p>Lathe is an experiment in using LLMs to teach me something new, instead of doing the work for me. It generates a hands-on, source-backed tutorial for any technical topic you want to learn. Then you work through it yourself by reading and typing the code by hand (<i>gasp</i>) in a local UI built for exactly that.<p>It&#x27;s a Go CLI plus LLM agent skills (Claude Code &#x2F; Cursor &#x2F; Codex). You prompt something like &quot;&#x2F;lathe build a 3D slicer in Erlang&quot;, run `lathe s",
+          "summary_en": "Hey HN!<p>Lathe is an experiment in using LLMs to teach me something new, instead of doing the work for me. It generates a hands-on, source-backed tutorial for any technical topic you want to learn. Then you work through it yourself by reading and typing the code by hand (<i>gasp</i>) in a local UI built for exactly that.<p>It&#x27;s a Go CLI plus LLM agent skills (Claude Code &#x2F; Cursor &#x2F; Codex). You prompt something like &quot;&#x2F;lathe build a 3D slicer in Erlang&quot;, run `lathe s",
+          "url": "https://github.com/devenjarvis/lathe",
           "source": "Hacker News",
           "source_icon": "hackernews",
           "heat": 5.0,
           "tags": [
             "LLM",
-            "风格迁移",
-            "实验"
+            "学习工具",
+            "知识获取"
           ],
-          "student_note": "有趣的应用实例，可思考如何利用微调实现特定领域或时代的语言风格。",
-          "published_at": "2026-06-05T05:46:06+00:00",
-          "meta": "▲ 189 · 💬 66"
+          "student_note": null,
+          "published_at": "2026-06-07T11:16:46+00:00",
+          "meta": "▲ 200 · 💬 41"
         },
         {
-          "title_cn": "HN社区那些被GenAI惊到的瞬间",
-          "title_en": "Ask HN: What was your \"oh shit\" moment with GenAI?",
-          "summary_cn": "Hacker News上的讨论帖收集用户在使用生成式AI（如ChatGPT、DALL-E）时从怀疑到震惊的瞬间经历，反映了AI能力跃升带来的心理冲击。",
-          "summary_en": "An HN discussion thread collects users' 'oh shit' moments with generative AI, capturing the shift from skepticism to astonishment as models exceeded expectations.",
-          "url": "https://news.ycombinator.com/item?id=48406174",
+          "title_cn": "AI顾问Krishnan离职白宫",
+          "title_en": "Sriram Krishnan is leaving his role as White House AI advisor",
+          "summary_cn": "白宫AI政策顾问Sriram Krishnan即将离职，据悉他将成立新机构继续影响特朗普政府的AI政策。这一变动反映了美国AI政策制定层面的动态。",
+          "summary_en": "Sriram Krishnan is stepping down as White House AI advisor and reportedly plans to start a new institution to shape Trump's AI policy. This reflects the evolving landscape of AI governance.",
+          "url": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
+          "source": "TechCrunch AI",
+          "source_icon": "techcrunch",
+          "heat": 5.0,
+          "tags": [
+            "白宫",
+            "AI政策",
+            "人事变动"
+          ],
+          "student_note": null,
+          "published_at": "2026-06-06T17:42:15+00:00"
+        },
+        {
+          "title_cn": "Public Domain Image Archive",
+          "title_en": "Public Domain Image Archive",
+          "summary_cn": "",
+          "summary_en": "",
+          "url": "https://pdimagearchive.org/",
           "source": "Hacker News",
           "source_icon": "hackernews",
           "heat": 4.0,
           "tags": [
-            "Hacker News",
-            "GenAI",
-            "社区讨论",
-            "心理冲击"
+            "公共领域",
+            "图像档案",
+            "数据集"
           ],
-          "student_note": "阅读这些亲身经历有助于理解AI能力的实际表现与局限，避免盲目乐观或悲观。",
-          "published_at": "2026-06-04T23:42:20+00:00",
-          "meta": "▲ 512 · 💬 900"
-        },
-        {
-          "title_cn": "TechCrunch创业大赛申请即将截止",
-          "title_en": "Startup Battlefield 200 applications officially close in 3 days",
-          "summary_cn": "TechCrunch Disrupt 2026的Startup Battlefield 200创业竞赛申请将于6月8日截止。该竞赛为初创公司提供展示机会，优胜者可获投资和曝光。",
-          "summary_en": "Applications for TechCrunch Disrupt 2026's Startup Battlefield 200 close on June 8. The competition offers startups a chance to showcase their products and compete for investment and exposure.",
-          "url": "https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/",
-          "source": "TechCrunch AI",
-          "source_icon": "techcrunch",
-          "heat": 4.0,
-          "tags": [
-            "创业大赛",
-            "TechCrunch"
-          ],
-          "student_note": "有创业想法的大学生可关注此类竞赛，积累实战经验。",
-          "published_at": "2026-06-05T20:00:00+00:00"
-        },
-        {
-          "title_cn": "“聚集技术”或成2026年创业新热点",
-          "title_en": "The ‘together tech’ wave might be the most intriguing startup bet of 2026",
-          "summary_cn": "与AI融资热潮相反，一批创业者押注“聚集技术”——通过线下游戏和社交体验让人们相聚。Mirror创始人新项目Board已获得融资，预示2026年可能兴起反数字化的创业浪潮。",
-          "summary_en": "Contrary to the AI funding boom, a wave of 'together tech' startups is emerging, focusing on in-person gatherings and social experiences. Board, founded by Mirror's Brynn Putnam, has secured funding, signaling a potential trend for 2026.",
-          "url": "https://techcrunch.com/podcast/the-together-tech-wave-might-be-the-most-intriguing-startup-bet-of-2026/",
-          "source": "TechCrunch AI",
-          "source_icon": "techcrunch",
-          "heat": 4.0,
-          "tags": [
-            "聚集技术",
-            "线下体验",
-            "创业趋势"
-          ],
-          "student_note": "对创业有兴趣的同学可关注社交与科技交叉领域。",
-          "published_at": "2026-06-05T14:00:00+00:00"
-        },
-        {
-          "title_cn": "反手机创业潮：线下社交受追捧",
-          "title_en": "The most interesting startups right now want to get you off your phone",
-          "summary_cn": "在AI融资狂潮中，部分创业者反其道而行之，创办专注线下互动与社交体验的公司，如Mirror创始人Brynn Putnam的新项目Board。这类“反手机”创业试图让人们放下屏幕，回归真实接触。",
-          "summary_en": "Amid the AI fundraising frenzy, some founders are building startups that encourage in-person connection. For example, Mirror founder Brynn Putnam raised money for Board, a company centered on offline games and social experiences.",
-          "url": "https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/",
-          "source": "TechCrunch AI",
-          "source_icon": "techcrunch",
-          "heat": 3.5,
-          "tags": [
-            "反数字化",
-            "创业",
-            "线下社交"
-          ],
-          "student_note": "适合思考创业方向的同学，关注科技与人文的平衡趋势。",
-          "published_at": "2026-06-05T17:17:06+00:00"
+          "student_note": null,
+          "published_at": "2026-06-07T00:22:51+00:00",
+          "meta": "▲ 234 · 💬 32"
         }
       ]
     },
@@ -842,423 +500,398 @@
       "icon": "📚",
       "items": [
         {
-          "title_cn": "Transformer本质简洁性获顶会认可",
-          "title_en": "Transformers are inherently succinct",
-          "summary_cn": "一篇被ICLR 2026接收的杰出论文证明Transformer架构本质上具有简洁性，即在表达某些函数时其参数规模可大幅压缩。该工作为理解Transformer的理论能力提供新视角。",
-          "summary_en": "A paper accepted at ICLR 2026 as one of three outstanding papers shows that Transformers are inherently succinct, meaning their parameter size can be significantly compressed for certain functions. This provides a new perspective on the theoretical capability of Transformers.",
-          "url": "https://openreview.net/pdf?id=Yxz92UuPLQ",
-          "source": "Hacker News",
-          "source_icon": "hackernews",
-          "heat": 8.0,
-          "tags": [
-            "Transformer",
-            "理论",
-            "ICLR"
-          ],
-          "student_note": "强烈推荐阅读该论文，有助于理解Transformer的数学本质和优化方向。",
-          "published_at": "2026-06-05T18:50:26+00:00",
-          "meta": "▲ 137 · 💬 40"
-        },
-        {
-          "title_cn": "Transformer QKV变体系统研究",
-          "title_en": "Do transformers need three projections? Systematic study of QKV variants",
-          "summary_cn": "该研究系统探索了Transformer注意力机制中QKV三个投影是否都必要，实验了多种变体。结果表明简化投影结构可能仍保持性能，为模型轻量化提供新思路。",
-          "summary_en": "This paper systematically investigates whether all three QKV projections in Transformer attention are necessary, testing multiple variants. Results suggest that simplified projection structures may maintain performance, offering insights for model lightweighting.",
-          "url": "https://arxiv.org/abs/2606.04032",
-          "source": "Hacker News",
-          "source_icon": "hackernews",
-          "heat": 7.5,
-          "tags": [
-            "Transformer",
-            "注意力机制",
-            "模型轻量化"
-          ],
-          "student_note": "推荐阅读，了解Transformer架构的最新优化方向，对深度学习研究有启发。",
-          "published_at": "2026-06-04T23:11:56+00:00",
-          "meta": "▲ 218 · 💬 46"
-        },
-        {
-          "title_cn": "首个形式化验证的多边形相交算法",
-          "title_en": "Show HN: Formally verified polygon intersection – Opus 4.8 oneshots, prev failed",
-          "summary_cn": "作者展示了首个经过形式化验证的多边形相交算法实现，并提到使用AI agent（Opus 4.8）辅助完成。该工具在几何计算和AI辅助验证方面有示范意义。",
-          "summary_en": "The author presents the first formally verified implementation of a polygon intersection algorithm, noting the use of AI agent (Opus 4.8) in the process. This tool demonstrates advances in geometric computation and AI-assisted verification.",
-          "url": "https://github.com/schildep/verified-polygon-intersection",
+          "title_cn": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
+          "title_en": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
+          "summary_cn": "",
+          "summary_en": "",
+          "url": "https://arxiv.org/abs/2601.14470",
           "source": "Hacker News",
           "source_icon": "hackernews",
           "heat": 6.0,
           "tags": [
-            "形式化验证",
-            "几何算法",
-            "AI辅助"
+            "tokenomics",
+            "智能体",
+            "软件工程"
           ],
-          "student_note": "形式化验证与AI结合是前沿方向，适合对可靠软件和AI应用感兴趣的学生。",
-          "published_at": "2026-06-04T22:06:18+00:00",
-          "meta": "▲ 81 · 💬 17"
+          "student_note": null,
+          "published_at": "2026-06-07T01:37:11+00:00",
+          "meta": "▲ 163 · 💬 66"
+        },
+        {
+          "title_cn": "Trees to Flows and Back: Unifying Decision Trees and Diffusion Models",
+          "title_en": "Trees to Flows and Back: Unifying Decision Trees and Diffusion Models",
+          "summary_cn": "",
+          "summary_en": "",
+          "url": "https://arxiv.org/abs/2605.00414",
+          "source": "Hacker News",
+          "source_icon": "hackernews",
+          "heat": 6.0,
+          "tags": [
+            "决策树",
+            "扩散模型",
+            "统一框架"
+          ],
+          "student_note": null,
+          "published_at": "2026-06-06T12:59:59+00:00",
+          "meta": "▲ 52 · 💬 11"
         }
       ]
     }
   ],
   "must_read": [
     {
-      "title_cn": "标普500拒纳SpaceX与AI公司",
-      "title_en": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
-      "summary_cn": "标普500指数运营商拒绝将SpaceX、OpenAI和Anthropic纳入指数，可能出于对它们高估值或治理问题的考量。这一举措引发对指数成分股选择标准的讨论。",
-      "summary_en": "The S&P 500 index operator has declined to include SpaceX, OpenAI, and Anthropic, likely due to concerns over high valuations or governance. This move sparks debate about index inclusion criteria.",
-      "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+      "title_cn": "Is this the dawn of the Tokenpocalypse?",
+      "title_en": "Is this the dawn of the Tokenpocalypse?",
+      "summary_cn": "We're likely to see more price increases as the big AI companies plan to go public.",
+      "summary_en": "We're likely to see more price increases as the big AI companies plan to go public.",
+      "url": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
+      "source": "TechCrunch AI",
+      "source_icon": "techcrunch",
+      "heat": 6.5,
+      "tags": [
+        "行业分析",
+        "Token",
+        "AI成本"
+      ],
+      "student_note": null,
+      "published_at": "2026-06-07T20:26:13+00:00",
+      "detail_summary": "TechCrunch AI 发布分析文章《Is this the dawn of the Tokenpocalypse?》，探讨 AI 服务中 token 消耗激增可能引发的成本危机。随着大语言模型 API 调用量爆发，开发者与用户需为每次交互支付越来越高的 token 费用，文章警告这种 'token 末日' 可能抑制 AI 应用普及。对于大学生而言，理解 token 计价机制有助于合理规划 AI 工具使用成本，尤其是在初创项目或学术研究中，避免因超额 token 消耗导致预算超支。",
+      "key_points": [
+        "Token消耗暴涨",
+        "AI使用成本上升",
+        "创业者需关注计费"
+      ]
+    },
+    {
+      "title_cn": "LLMs are eroding my software engineering career and I don't know what to do",
+      "title_en": "LLMs are eroding my software engineering career and I don't know what to do",
+      "summary_cn": "",
+      "summary_en": "",
+      "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
       "source": "Hacker News",
       "source_icon": "hackernews",
       "heat": 6.0,
       "tags": [
-        "标普500",
-        "AI公司",
-        "指数成分",
-        "估值争议"
+        "开发者生态",
+        "职业影响",
+        "LLM讨论"
       ],
-      "student_note": "可思考指数成分股选择背后的商业与政治因素，对理解资本市场有帮助。",
-      "published_at": "2026-06-06T04:38:36+00:00",
-      "meta": "▲ 1278 · 💬 438",
-      "detail_summary": "标普500指数运营商近期拒绝将SpaceX、OpenAI和Anthropic等明星科技公司纳入其成分股，这一决定引发市场热议。据分析，拒绝原因可能涉及这些公司过高的市场估值、治理结构争议（如OpenAI的非营利架构与营利转型矛盾）以及流动性不足等因素。标普500指数的选择标准长期以市值、盈利能力和流动性为核心，但此次拒绝对话反映出高增长但未上市的AI公司与传统指数门槛之间的错位。对大学生而言，这一事件揭示了AI企业估值泡沫风险以及指数投资组合的保守特性，提醒我们在关注技术前沿的同时，需理性看待资本市场的筛选机制。",
+      "student_note": null,
+      "published_at": "2026-06-07T12:49:29+00:00",
+      "meta": "▲ 719 · 💬 679",
+      "detail_summary": "Hacker News 上一位软件工程师发帖称大语言模型正在侵蚀其职业生涯，感到迷茫。文章引发广泛共鸣，讨论 LLM 对初级开发岗位、代码维护和问题解决能力的冲击。核心观点：AI 自动化编程降低了部分传统技能的价值，但同时也要求工程师转向更高层次的架构与创造性工作。对于计算机专业学生，这是一次职业警示：应尽早学习如何与 AI 协作，而非被动替代，提升系统设计、伦理判断等不可替代的能力。",
       "key_points": [
-        "标普500拒纳SpaceX、OpenAI等",
-        "估值与治理结构成争议点",
-        "反映传统指数对AI公司的审慎态度"
+        "LLM威胁初级岗位",
+        "亟需转型高价值技能",
+        "与AI协作是关键"
       ]
     },
     {
-      "title_cn": "GitHub Stars可视化工具",
-      "title_en": "poferraz/github-stars-visualizer",
-      "summary_cn": "一款在浏览器中运行的怀旧Win95/98风格桌面应用，可将你的GitHub Stars以交互式力导向图形式可视化。它支持客户端AI映射、8位音效和CRT滤镜，完全无服务器且保护隐私。",
-      "summary_en": "A nostalgic 90s OS-styled web app that visualizes your GitHub Stars as an interactive force-directed graph. It features client-side AI mapping, 8-bit sound effects, and a CRT shader—fully serverless and private.",
-      "url": "https://github.com/poferraz/github-stars-visualizer",
-      "source": "GitHub Trending",
-      "source_icon": "link",
-      "heat": 5.0,
+      "title_cn": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
+      "title_en": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
+      "summary_cn": "",
+      "summary_en": "",
+      "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
+      "source": "Hacker News",
+      "source_icon": "hackernews",
+      "heat": 8.0,
       "tags": [
-        "GitHub",
-        "可视化",
-        "开源工具",
-        "怀旧风格"
+        "Meta",
+        "安全漏洞",
+        "AI滥用",
+        "Instagram"
       ],
-      "student_note": "推荐研究其力导向图实现和前端可视化技巧，可用于个人项目展示。",
-      "published_at": "2026-06-06T21:27:15Z",
-      "meta": "⭐ 1 · JavaScript",
-      "detail_summary": "一款名为“GitHub Stars 可视化工具”的开源项目近日在GitHub Trending上走红。它采用怀旧Windows 95/98桌面风格，在浏览器中运行，能将用户的GitHub收藏（Stars）以力导向图形式交互式展示。该工具完全客户端运行，无服务器依赖，保护用户隐私，并集成了客户端AI标签映射、8位音效和CRT滤镜等趣味功能。对于大学生技术爱好者而言，这是一次代码与设计融合的绝佳实践：一方面可以借鉴其浏览器端图形渲染技巧，另一方面其怀旧UI设计也为用户界面创新提供了思路。同时，作为开源项目，学习和扩展它有助于理解前端可视化、力导向布局算法以及AI客户端推理的轻量化应用。",
+      "student_note": null,
+      "published_at": "2026-06-06T18:35:27+00:00",
+      "meta": "▲ 681 · 💬 247",
+      "detail_summary": "Meta 证实数千个 Instagram 账户因攻击者滥用其 AI 聊天机器人而遭黑客入侵。攻击者利用 AI 助手的社交工程漏洞，诱骗用户授权恶意操作，导致账户被劫持。这是 AI 滥用引发的重大安全事件，Meta 已修补漏洞并建议用户启用双因素认证。对于大学生，此事件提醒：即便 AI 助手看似智能，也要警惕其被操纵的风险，切勿向 AI 暴露敏感信息或执行不明指令。",
       "key_points": [
-        "Win95/98风格交互可视化",
-        "完全客户端运行，隐私友好",
-        "集成AI标签映射和趣味音效"
+        "AI聊天机器人被滥用",
+        "数千Instagram账户失窃",
+        "社交工程新手段"
       ]
     },
     {
-      "title_cn": "美两党在AI公共所有权上罕见一致",
-      "title_en": "On public ownership in AI, Trump and Bernie Sanders find common ground",
-      "summary_cn": "特朗普与伯尼·桑德斯在AI公共所有权议题上立场趋同，主张让美国人民从AI发展中获益。这一跨党派共识反映了AI治理的政治重要性。",
-      "summary_en": "Donald Trump and Bernie Sanders unexpectedly agree on public ownership of AI assets, emphasizing that the American people should benefit from AI success. This bipartisan convergence highlights the political weight of AI governance.",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUjhaM3Z1QjNfRFI1YlJTWFR4VUJnVGZJajdrWEVCaHVsaFlkNUlPempaZHFYSEJFdnRYMXpXQVp2el9zR0R3cWdtM0VGOGNVdWJEeUVXWDZ0cmNpM1VtYWJ0Y1FWaFRqT1RTM2Z3UnJGdFJsUFU1UHIyTHM3ckZrNHZPSm9kZGY3a0JCY2VNVmx0MDdseVhwVGdNRjZHdUMtT1NxNGRPeC13eEIxdWc?oc=5",
-      "source": "Sam Altman · Los Angeles Times",
+      "title_cn": "‘Chat Is Dead’: OpenAI Reportedly Planning Radical Changes to ChatGPT",
+      "title_en": "‘Chat Is Dead’: OpenAI Reportedly Planning Radical Changes to ChatGPT",
+      "summary_cn": "‘Chat Is Dead’: OpenAI Reportedly Planning Radical Changes to ChatGPT&nbsp;&nbsp;Gizmodo",
+      "summary_en": "‘Chat Is Dead’: OpenAI Reportedly Planning Radical Changes to ChatGPT&nbsp;&nbsp;Gizmodo",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVi1nX1VJcnZjT0lZS05SSkxUeHZjY0FYLVpqU0NVQ2RWRjh5RTRnM1ZRandocjZFeWtCOG12VW9kRUE0RjhXaWJqRER0NkxpQVlRZEhHcHlPWkZSNlpaclFvVmhyczF1dm42Ykd3R01ETFRNZzlLdnFIaEJoZ3hnblJEc0U2ZEZqT0l2TnpDR0NydFJycFJiNzRLMXVrZw?oc=5",
+      "source": "Sam Altman · Gizmodo",
       "source_icon": "altman",
+      "heat": 8.5,
+      "tags": [
+        "OpenAI",
+        "ChatGPT",
+        "产品变革"
+      ],
+      "student_note": null,
+      "published_at": "2026-06-07T18:16:19+00:00",
+      "detail_summary": "Gizmodo 援引消息称 OpenAI 正计划对 ChatGPT 进行重大变革，可能放弃纯聊天界面，转向更智能的 '超级应用' 形态。CEO Sam Altman 暗示聊天模式已到尽头，未来 ChatGPT 将整合文件处理、代码执行、多模态交互等全栈功能。对于大学生，这预示着 AI 工具将不再只是对话机器人，而会成为一站式学习助理，值得持续关注动态以抢占使用先机。",
+      "key_points": [
+        "ChatGPT大改版",
+        "聊天模式被淘汰",
+        "超级应用方向"
+      ]
+    },
+    {
+      "title_cn": "Silurus/ooxml: Pixel-faithful Office documents, rendered in the browser",
+      "title_en": "Silurus/ooxml: Pixel-faithful Office documents, rendered in the browser",
+      "summary_cn": "",
+      "summary_en": "",
+      "url": "https://github.com/yukiyokotani/office-open-xml-viewer",
+      "source": "Hacker News",
+      "source_icon": "hackernews",
       "heat": 6.0,
       "tags": [
-        "AI政策",
-        "公共所有权",
-        "两党共识",
-        "治理"
+        "开源项目",
+        "Office文档",
+        "浏览器渲染"
       ],
-      "student_note": "关注AI政策辩论，了解不同政治光谱对技术所有权的主张。",
-      "published_at": "2026-06-06T21:00:57+00:00",
-      "detail_summary": "在AI治理领域出现罕见跨党派共识：前总统特朗普与独立参议员伯尼·桑德斯均表态支持AI的公共所有权，即让美国人民从AI技术发展中直接获益。特朗普暗示可能通过政府持股OpenAI等方式实现，桑德斯则坚持公共资源应服务于全民。这一立场趋同打破了美国AI政策中民主、共和两党的传统分歧，意味着未来AI治理可能更强调公共利益分配而非单纯鼓励私营垄断。对大学生而言，理解这一共识有助于把握AI政策走向——尤其是在数据主权、算法公平和收益共享等议题上，跨党派共识往往能推动实质性立法。同时，这也是公共政策课程中难得一见的分析案例。",
+      "student_note": null,
+      "published_at": "2026-06-07T17:22:28+00:00",
+      "meta": "▲ 88 · 💬 30",
+      "detail_summary": "开源项目 Silurus/ooxml 实现浏览器内像素级精确渲染 Office 文档（如 .docx, .pptx）。该项目利用底层 XML 解析和 Canvas 技术，无需安装 Office 软件即可在线编辑和预览，且保持排版一致性。对于大学生，该工具可替代传统 Office 套件，在跨设备协作、网页端作业提交等场景中极大提升便利性，尤其适合配置不高或需快速分享的场景。",
       "key_points": [
-        "两党罕见支持AI公共所有权",
-        "特朗普与桑德斯立场趋同",
-        "强调公共利益分配与治理协同"
+        "浏览器渲染Office文档",
+        "像素级保真",
+        "开源免费"
       ]
     },
     {
-      "title_cn": "五角大楼提以方间谍威胁至最高级",
-      "title_en": "Pentagon raised threat of Israeli spying on U.S. to highest level, sources say",
-      "summary_cn": "消息人士称，美国五角大楼将对以色列间谍活动的威胁等级提升至最高。该事件虽非直接AI相关，但反映了国家间信息安全与间谍威胁的升级。",
-      "summary_en": "Sources report that the Pentagon has raised the threat level of Israeli espionage against the U.S. to the highest tier. While not directly AI-related, it underscores escalating cybersecurity and intelligence tensions.",
-      "url": "https://www.nbcnews.com/politics/national-security/pentagon-raised-threat-israeli-spying-us-highest-level-sources-say-rcna348565",
+      "title_cn": "Opinion | Human intelligence will win out over artificial intelligence",
+      "title_en": "Opinion | Human intelligence will win out over artificial intelligence",
+      "summary_cn": "Opinion | Human intelligence will win out over artificial intelligence&nbsp;&nbsp;The Washington Post",
+      "summary_en": "Opinion | Human intelligence will win out over artificial intelligence&nbsp;&nbsp;The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNREJsN2RmaFVCN1VFNU14WVpnTnhHOGE5WUp1aWNJdU5aQzZXREh2NHczM285cGNZVnlOSXlFRHNsX2otMWFtaDBDQ1FFVmZIbUZQT1VHQkNIYWhvM2RhUllncVBienFUeklWcU9vbGZzZnc3VEdKQl9tXzhVSXhsc2hvUVBrOU1rQ0cwWXFJU0d0ZEltT3lkVkVjZw?oc=5",
+      "source": "Yann LeCun · The Washington Post",
+      "source_icon": "lecun",
+      "heat": 6.5,
+      "tags": [
+        "Yann LeCun",
+        "人物观点",
+        "AI辩论"
+      ],
+      "student_note": null,
+      "published_at": "2026-06-07T18:15:00+00:00",
+      "detail_summary": "Yann LeCun 在《华盛顿邮报》发表观点文章，坚信人类智能最终将战胜人工智能。他认为当前 AI 仍缺乏常识、推理能力与真实理解，人类独有的创造力、情感和社会直觉是机器难以复制的。LeCun 警告不应过度神化 AI，反对将决策权完全交给机器。对于大学生，此文提供了难得的冷静视角：不必焦虑被替代，而是强化对人类智能核心优势的培养。",
+      "key_points": [
+        "人类智能有优势",
+        "AI缺乏常识",
+        "保持批判性思考"
+      ]
+    },
+    {
+      "title_cn": "Notion restores access to Anthropic after service disruption",
+      "title_en": "Notion restores access to Anthropic after service disruption",
+      "summary_cn": "Notion's head of product said he was \"astonished\" at “the amount of people RT-ing this.\"",
+      "summary_en": "Notion's head of product said he was \"astonished\" at “the amount of people RT-ing this.\"",
+      "url": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
+      "source": "TechCrunch AI",
+      "source_icon": "techcrunch",
+      "heat": 4.0,
+      "tags": [
+        "Notion",
+        "Anthropic",
+        "服务中断"
+      ],
+      "student_note": null,
+      "published_at": "2026-06-07T17:56:22+00:00",
+      "detail_summary": "记事本工具 Notion 在经历短暂服务中断后，已恢复对 AI 公司 Anthropic 的 API 访问支持。中断期间用户无法在 Notion 中使用 Claude 集成功能，影响部分协作工作流。Notion 未披露具体中断原因，但表示已修复。对于依赖 Notion+AI 做笔记或写作的大学生，此事提示应留意服务依赖风险，可本地备份关键内容。",
+      "key_points": [
+        "Notion中断对Anthropic访问",
+        "服务已恢复",
+        "注意依赖风险"
+      ]
+    },
+    {
+      "title_cn": "Anthropic, please ship an official Claude Desktop for Linux",
+      "title_en": "Anthropic, please ship an official Claude Desktop for Linux",
+      "summary_cn": "",
+      "summary_en": "",
+      "url": "https://github.com/anthropics/claude-code/issues/65697",
       "source": "Hacker News",
       "source_icon": "hackernews",
       "heat": 3.0,
       "tags": [
-        "信息安全",
-        "间谍威胁",
-        "五角大楼"
+        "Anthropic",
+        "Claude Desktop",
+        "Linux"
       ],
       "student_note": null,
-      "published_at": "2026-06-06T18:21:06+00:00",
-      "meta": "▲ 258 · 💬 168",
-      "detail_summary": "据美媒消息，五角大楼因一起涉及以色列间谍活动的安全事件，将针对以色列的间谍威胁等级提升至最高级别。该事件本身与AI无直接关系，但反映出国家间信息安全对抗的升级，特别是关键基础设施与军事技术领域。五角大楼此举可能涉及网络攻击、数据窃取或高级持续性威胁（APT）。对于大学生，尤其是学习计算机、网络安全或国际关系的同学，这一事件警示我们：在数字时代，间谍活动与技术漏洞紧密相连，AI系统也可能成为新型攻击目标。未来的国家安全人才需同时精通技术防线与地缘政治格局。",
+      "published_at": "2026-06-07T13:06:52+00:00",
+      "meta": "▲ 396 · 💬 227",
+      "detail_summary": "多位 Linux 用户在 Hacker News 上联名呼吁 Anthropic 发布官方的 Claude Desktop Linux 版本。目前 Claude 桌面应用仅支持 macOS 和 Windows，Linux 用户只能通过网页或第三方方案使用，体验受限。对于使用 Linux 系统（如 Ubuntu）进行开发的大学生，原生桌面应用将提供更稳定的交互和后台运行能力，期待官方回应。",
       "key_points": [
-        "五角大楼提升以方间谍威胁等级",
-        "反映信息安全对抗升级",
-        "技术安全与地缘政治交织"
+        "呼吁Claude Linux版",
+        "官方仍未支持",
+        "开发者呼声高"
       ]
     },
     {
-      "title_cn": "OpenAI推出锁定模式防提示注入",
-      "title_en": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
-      "summary_cn": "OpenAI发布Lockdown Mode（锁定模式），旨在降低提示注入攻击导致敏感数据泄露的风险。但该模式无法完全免疫，仍需谨慎使用。",
-      "summary_en": "OpenAI introduces Lockdown Mode to mitigate prompt injection attacks that could leak sensitive data. While it reduces risks, the mode is not a complete fix, and caution remains necessary.",
-      "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+      "title_cn": "OpenAI is still working on that ‘super app’",
+      "title_en": "OpenAI is still working on that ‘super app’",
+      "summary_cn": "\"Chat is dead\" — at least, according to a senior OpenAI employee.",
+      "summary_en": "\"Chat is dead\" — at least, according to a senior OpenAI employee.",
+      "url": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
       "source": "TechCrunch AI",
       "source_icon": "techcrunch",
-      "heat": 7.0,
+      "heat": 6.5,
       "tags": [
         "OpenAI",
-        "锁定模式",
-        "提示注入",
-        "安全"
+        "超级应用",
+        "产品规划"
       ],
-      "student_note": "建议学习提示注入原理及其防御策略，这对使用LLM的安全性至关重要。",
-      "published_at": "2026-06-06T20:32:24+00:00",
-      "detail_summary": "OpenAI正式推出“锁定模式”（Lockdown Mode），这是一项旨在降低提示注入（Prompt Injection）攻击风险的新安全功能。提示注入攻击利用AI模型对用户输入的信任，让模型泄露敏感数据或执行恶意指令。Lockdown Mode通过严格限制模型对系统指令、工具调用和外部数据源的访问权限来减少攻击面，但OpenAI也坦言该模式并非绝对免疫，仍需用户保持警惕。对于大学生开发者，尤其是正在用API构建AI应用的同学，这一功能提醒我们：安全设计应贯穿开发全流程，不能完全依赖平台保护；同时，这也可作为AI安全课程中关于提示工程与威胁缓解的鲜活案例。",
+      "student_note": null,
+      "published_at": "2026-06-07T16:23:22+00:00",
+      "detail_summary": "TechCrunch 报道 OpenAI 仍在推进 '超级应用' 计划，意图将多种功能（如聊天、搜索、代码生成、图像识别等）整合到单一平台中。这与 Sam Altman 一贯的愿景一致，旨在构建一个能替代大量独立工具的智能化生态系统。对于大学生，这意味着未来可能只需一个 AI 应用就能满足笔记、编程、资料查询等需求，大幅降低工具切换成本。",
       "key_points": [
-        "OpenAI推出锁定模式防提示注入",
-        "限制敏感数据泄露风险",
-        "仍需谨慎使用，非绝对免疫"
+        "OpenAI开发超级应用",
+        "多功能聚合",
+        "可能替代众多工具"
       ]
     },
     {
-      "title_cn": "Meta确认数千Ins账号因AI聊天机器人被黑",
-      "title_en": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
-      "summary_cn": "Meta官方确认，攻击者利用其AI聊天机器人漏洞入侵了数千个Instagram账户。该事件暴露出AI系统可能成为新的攻击向量。",
-      "summary_en": "Meta confirms thousands of Instagram accounts were compromised via exploits of its AI chatbot. This incident highlights how AI systems can become attack vectors.",
-      "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
-      "source": "Hacker News",
-      "source_icon": "hackernews",
-      "heat": 7.0,
-      "tags": [
-        "Meta",
-        "Instagram",
-        "AI聊天机器人",
-        "安全漏洞"
-      ],
-      "student_note": "关注AI系统安全，学习如何设计防御机制避免被滥用。",
-      "published_at": "2026-06-06T18:35:27+00:00",
-      "meta": "▲ 190 · 💬 71",
-      "detail_summary": "Meta官方确认，攻击者利用其AI聊天机器人的安全漏洞，入侵了数千个Instagram账户。漏洞具体技术细节未完全公开，但Meta表示已修复并加强审计。该事件凸显AI系统作为新兴攻击向量的严重性——聊天机器人在交互过程中可能暴露底层接口或权限漏洞，从而被用于账户劫持。对大学生而言，尤其是社交媒体和AI技术重度使用者，应警惕账户多因素认证（2FA）的启用，避免在AI对话中透露敏感信息。同时，该案例值得信息安全学习者深入研究：AI接口安全评估、权限最小化原则及异常行为检测机制。",
-      "key_points": [
-        "Meta AI聊天机器人漏洞致数千账号被黑",
-        "AI系统成为新型攻击向量",
-        "用户需加强账户安全防护"
-      ]
-    },
-    {
-      "title_cn": "WWDC 2026前瞻：Siri大改与苹果AI更新",
-      "title_en": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
-      "summary_cn": "苹果全球开发者大会（WWDC）2026即将到来，预计将发布Siri的重大改版以及Apple Intelligence系列AI功能更新。这是苹果追赶AI浪潮的关键一步。",
-      "summary_en": "Apple’s WWDC 2026 is approaching, with expected major overhauls to Siri and new Apple Intelligence features. This marks a key step in Apple’s AI strategy.",
-      "url": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
-      "source": "TechCrunch AI",
-      "source_icon": "techcrunch",
-      "heat": 7.0,
-      "tags": [
-        "苹果",
-        "WWDC",
-        "Siri",
-        "AI更新"
-      ],
-      "student_note": "关注苹果AI生态动向，可作为研究端侧AI与隐私保护结合的案例。",
-      "published_at": "2026-06-06T18:13:36+00:00",
-      "detail_summary": "苹果年度全球开发者大会（WWDC）2026即将举行，外界普遍预期即将迎来Siri的重大改版以及Apple Intelligence系列AI功能的全面更新。苹果在AI领域的步伐相对保守，但WWDC 2026被视作其追赶ChatGPT、Gemini等竞争对手的关键转折点。可能的更新包括：更自然的上下文对话、底层大语言模型集成、跨应用AI助手（如邮件、日历、相册智能联动）以及隐私保护方面的创新。对大学生而言，这一事件不仅关乎苹果设备使用体验的升级，更预示着AI教育、工作效率工具的范式转变。开发者应关注苹果新API，学生可预习Swift与Core ML等框架，提前为AI时代的全栈能力储备。",
-      "key_points": [
-        "WWDC 2026前瞻Siri重大改版",
-        "苹果AI更新加速追赶浪潮",
-        "或重塑教育和工作效率工具"
-      ]
-    },
-    {
-      "title_cn": "白宫AI顾问Sriram Krishnan离职",
-      "title_en": "Sriram Krishnan is leaving his role as White House AI advisor",
-      "summary_cn": "白宫AI高级政策顾问Sriram Krishnan离职，据称他将创立一个新机构，继续影响特朗普政府的人工智能政策走向。",
-      "summary_en": "Sriram Krishnan departs as White House AI advisor and plans to launch a new institution to continue shaping Trump's AI policy. His exit reflects the fluid dynamics of AI governance.",
-      "url": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
-      "source": "TechCrunch AI",
-      "source_icon": "techcrunch",
-      "heat": 5.0,
-      "tags": [
-        "白宫",
-        "AI顾问",
-        "离职",
-        "政策影响"
-      ],
-      "student_note": "了解美国AI政策制定过程及关键人物，对分析国际AI政策趋势有益。",
-      "published_at": "2026-06-06T17:42:15+00:00",
-      "detail_summary": "白宫人工智能高级政策顾问Sriram Krishnan正式离职，据知情人士透露，他计划创立一个新机构以继续影响特朗普政府的人工智能政策方向。Krishnan在任期间参与起草多项AI行政令和监管指导方针，其离职可能正值政府AI政策调整期——从单纯鼓励创新转向更加注重安全、公平和公共所有权。新机构的创立或许将扮演“思想库+游说桥梁”的角色，联结学术界、产业界和政界。对于关注AI治理的大学生，这是一个追踪政策人物轨迹的窗口：顶尖人才如何通过政府-学术-创业“旋转门”持续塑造行业发展。同时，也为有志于公共政策的学生提供职业路径参考。",
-      "key_points": [
-        "白宫AI顾问Sriram Krishnan离职",
-        "计划创立新机构继续影响政策",
-        "反映美国AI治理人才流动趋势"
-      ]
-    },
-    {
-      "title_cn": "英格兰威尔士警方被责令停用AI于法庭陈述",
-      "title_en": "Police in England and Wales told to halt AI use in court statements",
-      "summary_cn": "法院命令英格兰和威尔士的警察停止在法庭陈述中使用AI生成内容，理由可能涉及准确性和可解释性问题。这凸显了AI在法律场景中的伦理挑战。",
-      "summary_en": "Police forces in England and Wales have been instructed to cease using AI in court statements, likely over accuracy and explainability concerns. This underscores ethical challenges of AI in legal contexts.",
-      "url": "https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241",
-      "source": "Hacker News",
-      "source_icon": "hackernews",
-      "heat": 6.0,
-      "tags": [
-        "AI伦理",
-        "法律",
-        "警方",
-        "法庭"
-      ],
-      "student_note": "思考AI在法律文书中的使用边界与责任归属，对法律和技术交叉领域感兴趣的同学可深入。",
-      "published_at": "2026-06-06T15:35:49+00:00",
-      "meta": "▲ 131 · 💬 44",
-      "detail_summary": "英格兰和威尔士的法院发布命令，要求警察部门立即停止在法庭陈述中使用由人工智能生成的内容。理由很可能涉及AI生成证据的准确性、可解释性和算法偏见问题——例如AI生成的视频、文本或分析报告可能因底层模型缺陷而误导陪审团或违反程序正义。这一禁令深刻反映了AI应用在法律领域面临的伦理困境：尽管AI能提高警务和司法效率，但可解释性不足和黑箱特性与法律要求的“真相发现”原则相悖。对法学或计算机交叉专业的大学生，该案例极具启发性：AI系统设计需内嵌公平性、透明性和问责机制，否则可能面临法律层面的集体抵制。",
-      "key_points": [
-        "英法院禁止警方在法庭使用AI内容",
-        "准确性与可解释性是核心争议",
-        "突显AI法律伦理挑战"
-      ]
-    },
-    {
-      "title_cn": "HN社区那些被GenAI惊到的瞬间",
-      "title_en": "Ask HN: What was your \"oh shit\" moment with GenAI?",
-      "summary_cn": "Hacker News上的讨论帖收集用户在使用生成式AI（如ChatGPT、DALL-E）时从怀疑到震惊的瞬间经历，反映了AI能力跃升带来的心理冲击。",
-      "summary_en": "An HN discussion thread collects users' 'oh shit' moments with generative AI, capturing the shift from skepticism to astonishment as models exceeded expectations.",
-      "url": "https://news.ycombinator.com/item?id=48406174",
+      "title_cn": "Public Domain Image Archive",
+      "title_en": "Public Domain Image Archive",
+      "summary_cn": "",
+      "summary_en": "",
+      "url": "https://pdimagearchive.org/",
       "source": "Hacker News",
       "source_icon": "hackernews",
       "heat": 4.0,
       "tags": [
-        "Hacker News",
-        "GenAI",
-        "社区讨论",
-        "心理冲击"
-      ],
-      "student_note": "阅读这些亲身经历有助于理解AI能力的实际表现与局限，避免盲目乐观或悲观。",
-      "published_at": "2026-06-04T23:42:20+00:00",
-      "meta": "▲ 512 · 💬 900",
-      "detail_summary": "Hacker News上掀起讨论帖，收集用户对生成式AI（GenAI）从怀疑到惊讶的真实经历。许多用户分享自己最初认为AI只是花哨玩具，但在尝试ChatGPT、DALL-E等工具完成代码编写、艺术创作甚至复杂推理后彻底改观。这种“被打脸”体验反映了AI能力跃升带来的心理冲击，也揭示了技术乐观派与保守派之间的认知鸿沟。对于大学生而言，这一讨论有助于建立对AI能力的理性认知：既不过度捧杀，也不全盘否定；同时提醒我们保持开放心态，定期用实际测试检验技术进展，而非仅凭早期印象做判断。",
-      "key_points": [
-        "社区热议从怀疑到震惊的经历",
-        "反映GenAI能力跃升的心理冲击",
-        "鼓励理性认知和实际测试"
-      ]
-    },
-    {
-      "title_cn": "Claude是否导致rsync出现更多Bug？",
-      "title_en": "Did Claude increase bugs in rsync?",
-      "summary_cn": "Hacker News社区讨论AI辅助编程工具Claude是否在rsync项目中引入了更多缺陷。这引发了对AI代码生成质量的担忧。",
-      "summary_en": "The HN community debates whether Claude, an AI coding assistant, has increased the number of bugs in the rsync project. It raises concerns about code quality when using AI tools.",
-      "url": "https://alexispurslane.github.io/rsync-analysis/",
-      "source": "Hacker News",
-      "source_icon": "hackernews",
-      "heat": 5.5,
-      "tags": [
-        "AI编程",
-        "Claude",
-        "代码质量"
-      ],
-      "student_note": "使用AI辅助编程时注意审查生成代码，了解常见陷阱。",
-      "published_at": "2026-06-05T12:43:33+00:00",
-      "meta": "▲ 493 · 💬 512",
-      "detail_summary": "Hacker News社区出现争议性讨论：流行的文件同步工具rsync是否因使用Anthropic的AI编程助手Claude而引入了更多Bug？用户通过提交记录对比发现，部分提交版本中出现了非传统操作模式或边界漏洞，怀疑是由AI生成的代码审查不充分导致。尽管缺乏直接证据，该讨论凸显了AI辅助编程的本质风险——大模型可能生成语法正确但存在逻辑错误、甚至安全后门的代码。对于计算机专业大学生，尤其是参与开源项目或课程作业使用AI编程工具的同学，这是一个重要警示：AI生成代码必须人工审查与测试，不能盲目信任。同时，该项目也是研究AI代码质量评测的优质数据源。",
-      "key_points": [
-        "怀疑Claude导致rsync引入更多Bug",
-        "反映AI代码生成质量隐忧",
-        "提醒开发者必须人工审查AI生成代码"
-      ]
-    },
-    {
-      "title_cn": "特朗普政府或入股OpenAI",
-      "title_en": "The Trump administration might take an equity stake in OpenAI",
-      "summary_cn": "美国总统特朗普暗示正在讨论一种让美国人民从AI成功中受益的安排，可能通过政府持有OpenAI股权来分享利润。",
-      "summary_en": "President Trump hints at deals that could give the U.S. government an equity stake in OpenAI, aiming to let the American people benefit from AI's success.",
-      "url": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
-      "source": "TechCrunch AI",
-      "source_icon": "techcrunch",
-      "heat": 7.0,
-      "tags": [
-        "OpenAI",
-        "政府投资",
-        "AI政策"
-      ],
-      "student_note": "关注AI公司与政府的关系演变，思考公共资金与私人创新的平衡。",
-      "published_at": "2026-06-06T16:17:21+00:00",
-      "detail_summary": "美国总统特朗普在公开场合暗示正在讨论相关安排，可能让美国政府以入股形式持有OpenAI部分股权，从而确保美国人民能从AI商业成功中直接获益。这与此前两党共识（第2条）一脉相承，也呼应了桑德斯等人的公共所有权主张。目前OpenAI估值超过数千亿美元，政府入股将开创美国联邦政府直接投资AI初创企业的先例，可能改变AI行业的竞争格局，引发关于国家安全、技术主权和混合所有制的激烈辩论。对于大学生而言，这一提案预示着未来AI创业公司可能面临更多政府参与，理解公私合营模式、科技政策与市场经济的互动变得愈发重要，也是创业法、公共管理等课程的前沿案例。",
-      "key_points": [
-        "特朗普暗示政府可能入股OpenAI",
-        "旨在让公众分享AI成功红利",
-        "或引发AI行业治理与所有制变革"
-      ]
-    },
-    {
-      "title_cn": "宇航员因漏气修复后获准返回国际空间站",
-      "title_en": "Astronauts told to return to ISS after sheltering over air leak repairs",
-      "summary_cn": "国际空间站上的宇航员因处理空气泄漏问题而临时避难，修复完成后已获准返回主舱段。该事件与AI无关。",
-      "summary_en": "Astronauts on the ISS took shelter while repairs were made to an air leak; after successful repairs, they were cleared to return. This is not directly AI-related.",
-      "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
-      "source": "Hacker News",
-      "source_icon": "hackernews",
-      "heat": 1.0,
-      "tags": [
-        "非AI",
-        "太空"
+        "公共领域",
+        "图像档案",
+        "数据集"
       ],
       "student_note": null,
-      "published_at": "2026-06-05T15:00:31+00:00",
-      "meta": "▲ 416 · 💬 260",
-      "detail_summary": "国际空间站（ISS）近日发生空气泄漏事件，宇航员一度转移至交替避难舱以策安全。经过人工紧急修复，漏气点被有效封堵，宇航员已获准返回主舱段恢复常态工作。该事件并非AI相关，但展示了太空环境中快速应急响应的重要性。对于航天、机械或系统工程方向的大学生，此类案例是学习故障诊断与应急处置的经典素材；同时，也提醒我们在依赖先进AI系统的时代，基础物理知识和人工干预能力永远不可或缺。",
+      "published_at": "2026-06-07T00:22:51+00:00",
+      "meta": "▲ 234 · 💬 32",
+      "detail_summary": "Hacker News 上展示了一个公共领域图像档案网站，收录了大量版权已过期的历史照片、插图与艺术作品，可免费下载使用。该档案对于学术研究、设计素材、课程展示等具有很高价值，尤其适合需要引用历史图像的人文社科或艺术专业学生。同时，该站点提供高清扫描版，拓宽了创作资源库。",
       "key_points": [
-        "空间站漏气，宇航员临时避难",
-        "人工修复后获准返回主舱",
-        "展示太空应急响应与人工干预重要性"
+        "海量公共领域图片",
+        "免费商用",
+        "学术设计好素材"
       ]
     },
     {
-      "title_cn": "约定式提交可能引导错误焦点",
-      "title_en": "Conventional Commits encourages focus on the wrong things",
-      "summary_cn": "有观点认为约定式提交（Conventional Commits）规范虽然统一了提交信息格式，但可能导致开发者过度关注格式而忽视代码本身的质量和意义。",
-      "summary_en": "A perspective argues that Conventional Commits, while standardizing commit messages, can distract developers from focusing on code quality and meaningful contributions.",
-      "url": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
-      "source": "Hacker News",
-      "source_icon": "hackernews",
-      "heat": 1.0,
-      "tags": [
-        "非AI",
-        "软件开发"
-      ],
-      "student_note": "反思开发流程中规范与实质的平衡，培养批判性思维。",
-      "published_at": "2026-06-05T15:39:38+00:00",
-      "meta": "▲ 350 · 💬 255",
-      "detail_summary": "技术社区再次反思约定式提交（Conventional Commits）规范，有观点认为这种强制性的提交信息格式虽然统一了版本库日志，却可能导致开发者过度关注格式合规（如type、scope、breaking change标记）而忽视了代码本身的质量、设计合理性与注释完整性。该讨论调门不高，但在开源贡献者中引发共鸣。对于软件工程专业的大学生，这一争议提醒我们：敏捷开发的方法论应以提升代码可维护性为目标，而非本末倒置。在团队协作中，应平衡约束与创造力，将精力聚焦于代码重构、文档编写和测试用例等真正价值创造环节。",
-      "key_points": [
-        "约定式提交或导致过度关注格式",
-        "提醒开发者勿本末倒置",
-        "平衡规范与代码质量是关键"
-      ]
-    },
-    {
-      "title_cn": "为何HN社区对AI普遍持反对态度？",
-      "title_en": "Ask HN: Why is the HN crowd so anti-AI?",
-      "summary_cn": "有用户提问为何Hacker News社群对AI技术普遍持批评态度，并列举了关于AI产生坏代码、引入bug等常见抱怨。这反映了技术社区对AI炒作和实际问题的警惕。",
-      "summary_en": "A user asks why the HN crowd is generally anti-AI, citing frequent complaints about AI producing bad code, introducing bugs, etc. This reflects the community's skepticism and concerns over AI's real-world impact.",
-      "url": "https://news.ycombinator.com/item?id=48420827",
+      "title_cn": "I design with Claude more than Figma now",
+      "title_en": "I design with Claude more than Figma now",
+      "summary_cn": "",
+      "summary_en": "",
+      "url": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
       "source": "Hacker News",
       "source_icon": "hackernews",
       "heat": 6.0,
       "tags": [
-        "AI社区",
-        "技术讨论",
-        "Hacker News"
+        "Claude",
+        "AI设计",
+        "Anthropic"
       ],
-      "student_note": "理解不同技术社群对AI的态度，有助于形成更全面的技术判断力。",
-      "published_at": "2026-06-06T02:31:51+00:00",
-      "meta": "▲ 317 · 💬 551",
-      "detail_summary": "一位用户发帖质问：“为何Hacker News社区对AI普遍持反对态度？”帖子列举了社区中常见的AI抱怨：AI产生糟糕代码、引入Bug、助长抄袭、冲击开发者工作，以及过度炒作等。评论区观点各异，但整体反映出技术精英圈层对AI泡沫的警惕和对本质问题的反思。对大学生而言，这一现象具有双重启示：一方面，学会从工程实践出发批判性地看待AI hype，不盲从资本和媒体叙事；另一方面，也提示AI创业者或研究者要重视产品落地质量，避免因低质量输出消耗用户信任。这不仅是AI讨论，更是技术文化与社会责任的课程。",
+      "student_note": null,
+      "published_at": "2026-06-07T05:04:24+00:00",
+      "meta": "▲ 224 · 💬 207",
+      "detail_summary": "一位设计师在 Hacker News 分享经验：现在他使用 Anthropic 的 Claude 进行 UI/UX 设计的时间已超过传统工具 Figma。Claude 不仅能根据文本描述生成布局草稿，还能快速迭代和导出代码。这反映了 AI 正在颠覆设计流程：从像素操作转向对话式生成。对于设计专业学生，建议主动尝试 Claude 等 AI 工具辅助创作，提高效率并拓宽创意边界。",
       "key_points": [
-        "HN社区对AI普遍持批评态度",
-        "常见抱怨包括劣质代码、过度炒作",
-        "反映技术圈对AI风险的理性警惕"
+        "Claude替代Figma",
+        "AI对话式设计",
+        "效率大幅提升"
+      ]
+    },
+    {
+      "title_cn": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
+      "title_en": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
+      "summary_cn": "Hey HN!<p>Lathe is an experiment in using LLMs to teach me something new, instead of doing the work for me. It generates a hands-on, source-backed tutorial for any technical topic you want to learn. Then you work through it yourself by reading and typing the code by hand (<i>gasp</i>) in a local UI built for exactly that.<p>It&#x27;s a Go CLI plus LLM agent skills (Claude Code &#x2F; Cursor &#x2F; Codex). You prompt something like &quot;&#x2F;lathe build a 3D slicer in Erlang&quot;, run `lathe s",
+      "summary_en": "Hey HN!<p>Lathe is an experiment in using LLMs to teach me something new, instead of doing the work for me. It generates a hands-on, source-backed tutorial for any technical topic you want to learn. Then you work through it yourself by reading and typing the code by hand (<i>gasp</i>) in a local UI built for exactly that.<p>It&#x27;s a Go CLI plus LLM agent skills (Claude Code &#x2F; Cursor &#x2F; Codex). You prompt something like &quot;&#x2F;lathe build a 3D slicer in Erlang&quot;, run `lathe s",
+      "url": "https://github.com/devenjarvis/lathe",
+      "source": "Hacker News",
+      "source_icon": "hackernews",
+      "heat": 5.0,
+      "tags": [
+        "LLM",
+        "学习工具",
+        "知识获取"
+      ],
+      "student_note": null,
+      "published_at": "2026-06-07T11:16:46+00:00",
+      "meta": "▲ 200 · 💬 41",
+      "detail_summary": "项目 Lathe 在 Hacker News 上展示：利用大语言模型帮助用户深入学习新领域，而非直接跳过学习过程。Lathe 通过引导提问、拆解概念和生成练习，让 AI 扮演 '导师' 而非 '答案提供者'。对于大学生，这代表了 AI 在教育中的良性应用——促进深度理解，值得尝试用于自学课程或研究领域。",
+      "key_points": [
+        "AI辅助学习而非跳步",
+        "引导式提问",
+        "适合自主学习"
+      ]
+    },
+    {
+      "title_cn": "Sam Altman Heads To Washington As OpenAI Stakes Out Its AI Policy Stance",
+      "title_en": "Sam Altman Heads To Washington As OpenAI Stakes Out Its AI Policy Stance",
+      "summary_cn": "Sam Altman Heads To Washington As OpenAI Stakes Out Its AI Policy Stance&nbsp;&nbsp;Yahoo",
+      "summary_en": "Sam Altman Heads To Washington As OpenAI Stakes Out Its AI Policy Stance&nbsp;&nbsp;Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNU1NLZnRNdmRoTnBLUzBjY2dUajg2dExPSkU2d1NhbVd2bFctOEpwclhCeFlaSl9sSXRKd3ZQOTJwRXNaaURGYXZ5QXJLeFhSVGNudXRIZDdiX0M1UnRDRTVfUFpTWWNENjhmaFVUMEFmdjhrODJyeFk4ZzNOd3VQUS14T0VlV3IxU205ejMtRWc3X19fMkxHYkV3?oc=5",
+      "source": "Sam Altman · Yahoo",
+      "source_icon": "altman",
+      "heat": 7.0,
+      "tags": [
+        "Sam Altman",
+        "AI政策",
+        "OpenAI"
+      ],
+      "student_note": null,
+      "published_at": "2026-06-07T13:31:52+00:00",
+      "detail_summary": "Sam Altman 前往华盛顿特区，为 OpenAI 的 AI 政策立场游说。他主张在鼓励创新的同时建立合理监管框架，包括对高风险 AI 模型的强制测试和透明度要求。此举正值全球 AI 立法加速期，OpenAI 希望影响规则制定。对于大学生，未来就业和创业都将受到 AI 政策影响，了解监管动态有助于职业选择和合规意识。",
+      "key_points": [
+        "Altman游说AI政策",
+        "平衡创新与监管",
+        "影响未来就业环境"
+      ]
+    },
+    {
+      "title_cn": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
+      "title_en": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
+      "summary_cn": "",
+      "summary_en": "",
+      "url": "https://arxiv.org/abs/2601.14470",
+      "source": "Hacker News",
+      "source_icon": "hackernews",
+      "heat": 6.0,
+      "tags": [
+        "tokenomics",
+        "智能体",
+        "软件工程"
+      ],
+      "student_note": null,
+      "published_at": "2026-06-07T01:37:11+00:00",
+      "meta": "▲ 163 · 💬 66",
+      "detail_summary": "学术文章《Tokenomics》定量分析了在智能体软件工程中 token 的使用分布，揭示不同任务（如代码生成、调试、文档编写）的 token 消耗差异。研究提出优化策略以减少浪费，对构建高效 AI agent 有指导意义。对于计算机专业学生，理解 token 经济学能帮助设计轻量化 agent 应用，节省 API 费用。",
+      "key_points": [
+        "量化token使用分布",
+        "优化agent成本",
+        "学术研究前沿"
+      ]
+    },
+    {
+      "title_cn": "Trees to Flows and Back: Unifying Decision Trees and Diffusion Models",
+      "title_en": "Trees to Flows and Back: Unifying Decision Trees and Diffusion Models",
+      "summary_cn": "",
+      "summary_en": "",
+      "url": "https://arxiv.org/abs/2605.00414",
+      "source": "Hacker News",
+      "source_icon": "hackernews",
+      "heat": 6.0,
+      "tags": [
+        "决策树",
+        "扩散模型",
+        "统一框架"
+      ],
+      "student_note": null,
+      "published_at": "2026-06-06T12:59:59+00:00",
+      "meta": "▲ 52 · 💬 11",
+      "detail_summary": "论文《Trees to Flows and Back》提出统一框架，将决策树与扩散模型连接起来，使传统可解释模型与现代生成模型能在同一数学结构下工作。该工作有望推动可解释 AI 和生成模型交叉领域的突破，例如在金融风控或医学图像中同时实现高精度与可解释性。对于对 AI 理论感兴趣的大学生，这是理解模型关联性的重要文献。",
+      "key_points": [
+        "统一决策树与扩散模型",
+        "可解释性与生成能力结合",
+        "理论创新"
       ]
     }
   ]
