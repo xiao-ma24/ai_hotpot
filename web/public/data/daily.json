@@ -1,93 +1,74 @@
 {
-  "date": "2026-06-09",
-  "generated_at": "2026-06-09T06:14:57.423167+08:00",
+  "date": "2026-06-10",
+  "generated_at": "2026-06-10T06:10:40.662916+08:00",
   "headlines": [
     {
-      "title_cn": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
-      "title_en": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
-      "summary_cn": "Apple primarily made the case for an improved experience with its longstanding Siri assistant, which like most other announcements had a hefty helping of AI.",
-      "summary_en": "Apple primarily made the case for an improved experience with its longstanding Siri assistant, which like most other announcements had a hefty helping of AI.",
-      "url": "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
-      "source": "TechCrunch AI",
-      "source_icon": "techcrunch",
-      "heat": 9.0,
-      "tags": [
-        "Apple",
-        "WWDC",
-        "Siri",
-        "iOS"
-      ],
-      "student_note": null,
-      "published_at": "2026-06-08T19:41:32+00:00"
-    },
-    {
-      "title_cn": "OpenAI Submits S-1 Draft to SEC",
-      "title_en": "OpenAI Submits S-1 Draft to SEC",
-      "summary_cn": "",
-      "summary_en": "",
-      "url": "https://openai.com/index/openai-submits-confidential-s-1/",
+      "title_cn": "Claude Fable 5",
+      "title_en": "Claude Fable 5",
+      "summary_cn": "System Card [pdf]: <a href=\"https:&#x2F;&#x2F;www-cdn.anthropic.com&#x2F;d00db56fa754a1b115b6dd7cb2e3c342ee809620.pdf\" rel=\"nofollow\">https:&#x2F;&#x2F;www-cdn.anthropic.com&#x2F;d00db56fa754a1b115b6dd7cb2e3c3...</a>",
+      "summary_en": "System Card [pdf]: <a href=\"https:&#x2F;&#x2F;www-cdn.anthropic.com&#x2F;d00db56fa754a1b115b6dd7cb2e3c342ee809620.pdf\" rel=\"nofollow\">https:&#x2F;&#x2F;www-cdn.anthropic.com&#x2F;d00db56fa754a1b115b6dd7cb2e3c3...</a>",
+      "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
       "source": "Hacker News",
       "source_icon": "hackernews",
-      "heat": 8.5,
-      "tags": [
-        "IPO",
-        "OpenAI",
-        "公司动态"
-      ],
+      "heat": 5.0,
+      "tags": [],
       "student_note": null,
-      "published_at": "2026-06-08T21:22:43+00:00",
-      "meta": "▲ 62 · 💬 17"
+      "published_at": "2026-06-09T16:58:01+00:00",
+      "meta": "▲ 1493 · 💬 1168"
     },
     {
-      "title_cn": "OpenAI files for IPO as AI investment race intensifies",
-      "title_en": "OpenAI files for IPO as AI investment race intensifies",
-      "summary_cn": "OpenAI files for IPO as AI investment race intensifies&nbsp;&nbsp;NBC News",
-      "summary_en": "OpenAI files for IPO as AI investment race intensifies&nbsp;&nbsp;NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPek90QTVxaDRveGlyZ2UxUHR0OEt0d05NTEpMVVh2VG5nSHU2OG5hbERwT0pVRjk3ZldWYzBtRF9fQmY5dkxsX2Jva3phX0pGMDVzd21lY2p4N3RxcTlxbzhxRlZNQkRLQkFxQ1lrMkhMWUlqeHRzaEt0Sm1INzh4SElB?oc=5",
-      "source": "Sam Altman · NBC News",
-      "source_icon": "altman",
-      "heat": 8.5,
-      "tags": [
-        "IPO",
-        "OpenAI",
-        "融资"
-      ],
+      "title_cn": "If Claude Fable stops helping you, you'll never know",
+      "title_en": "If Claude Fable stops helping you, you'll never know",
+      "summary_cn": "",
+      "summary_en": "",
+      "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
+      "source": "Hacker News",
+      "source_icon": "hackernews",
+      "heat": 5.0,
+      "tags": [],
       "student_note": null,
-      "published_at": "2026-06-08T21:39:10+00:00"
+      "published_at": "2026-06-09T21:19:11+00:00",
+      "meta": "▲ 74 · 💬 23"
     },
     {
-      "title_cn": "Following Anthropic, OpenAI files confidentially for IPO",
-      "title_en": "Following Anthropic, OpenAI files confidentially for IPO",
-      "summary_cn": "The filing comes a little more than a week after its main rival, Anthropic, also filed to go public, ramping up the race between the two AI firms.",
-      "summary_en": "The filing comes a little more than a week after its main rival, Anthropic, also filed to go public, ramping up the race between the two AI firms.",
-      "url": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
+      "title_cn": "Musk’s xAI, SpaceX hit with class action over data center ‘nuisance’",
+      "title_en": "Musk’s xAI, SpaceX hit with class action over data center ‘nuisance’",
+      "summary_cn": "Musk’s xAI, SpaceX hit with class action over data center ‘nuisance’&nbsp;&nbsp;Reuters",
+      "summary_en": "Musk’s xAI, SpaceX hit with class action over data center ‘nuisance’&nbsp;&nbsp;Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbEFyQzQ4ZU9aVGpfNzdpR204a01GdlJQTFJvTERRNktfNTBVMDVyT2xXQWF0aTduWXNYUmVMRk8yT0s2RU5GZ0UwaVA3MlBOaGNGSFpXN01naTBHczNCdjU4WHV6empVc3ZPYTkxOGJrSkVmNnR2cW8wT0RlTnRDaV84dXVNVUtKZ21KTnktUERQWVlBTXdrZGkySTlQeG1fNkw4TWMycm9NWG5QMjdDc2dBQ3laYV9J?oc=5",
+      "source": "Elon Musk · Reuters",
+      "source_icon": "musk",
+      "heat": 5.0,
+      "tags": [],
+      "student_note": null,
+      "published_at": "2026-06-09T21:01:56+00:00"
+    },
+    {
+      "title_cn": "CEOs Who Think AI Replaces Their Employees Are Just Bad CEOs",
+      "title_en": "CEOs Who Think AI Replaces Their Employees Are Just Bad CEOs",
+      "summary_cn": "",
+      "summary_en": "",
+      "url": "https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/",
+      "source": "Hacker News",
+      "source_icon": "hackernews",
+      "heat": 5.0,
+      "tags": [],
+      "student_note": null,
+      "published_at": "2026-06-09T18:45:59+00:00",
+      "meta": "▲ 217 · 💬 96"
+    },
+    {
+      "title_cn": "Hey Siri, here’s what I actually want from AI",
+      "title_en": "Hey Siri, here’s what I actually want from AI",
+      "summary_cn": "I'm desperate for a personal AI assistant, but do I really want to become the kind of person who can't function without the friendly robot voice in my phone?",
+      "summary_en": "I'm desperate for a personal AI assistant, but do I really want to become the kind of person who can't function without the friendly robot voice in my phone?",
+      "url": "https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/",
       "source": "TechCrunch AI",
       "source_icon": "techcrunch",
-      "heat": 8.5,
-      "tags": [
-        "IPO",
-        "OpenAI",
-        "Anthropic"
-      ],
+      "heat": 5.0,
+      "tags": [],
       "student_note": null,
-      "published_at": "2026-06-08T21:29:57+00:00"
-    },
-    {
-      "title_cn": "OpenAI files paperwork for an IPO",
-      "title_en": "OpenAI files paperwork for an IPO",
-      "summary_cn": "OpenAI files paperwork for an IPO&nbsp;&nbsp;Axios",
-      "summary_en": "OpenAI files paperwork for an IPO&nbsp;&nbsp;Axios",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zYlJFR3NXNW5ndGtZeVFKRHUyRkdVMmNJZHF6MENydkVtODlaNWd4Zk04a0t6QktUS25QNzdwd09kLWl6VWVRZlZkLVdNNmlaeVZlR1l3?oc=5",
-      "source": "Sam Altman · Axios",
-      "source_icon": "altman",
-      "heat": 8.5,
-      "tags": [
-        "IPO",
-        "OpenAI",
-        "资本市场"
-      ],
-      "student_note": null,
-      "published_at": "2026-06-08T21:23:38+00:00"
+      "published_at": "2026-06-09T20:50:17+00:00"
     }
   ],
   "sections": [
@@ -96,135 +77,136 @@
       "title_cn": "GitHub AI 热门",
       "title_en": "GitHub AI Trending",
       "icon": "🐙",
-      "items": [
-        {
-          "title_cn": "Gitdot：开源反AI的GitHub替代品",
-          "title_en": "Show HN: Gitdot – a better GitHub. Open-source, anti-AI, and written in Rust",
-          "summary_cn": "Gitdot是用Rust编写的开源Git平台，强调隐私、反AI过度介入，支持导入GitHub仓库，适合注重自主控制的开发者。",
-          "summary_en": "Gitdot is an open-source, anti-AI Git platform written in Rust, prioritizing privacy and developer control. It can import GitHub repos and already supports core Git operations.",
-          "url": "https://gitdot.io/",
-          "source": "Hacker News",
-          "source_icon": "hackernews",
-          "heat": 6.0,
-          "tags": [
-            "开源",
-            "Git",
-            "反AI"
-          ],
-          "student_note": "建议对开源和隐私感兴趣的同学尝试，关注其反AI立场背后的理念。",
-          "published_at": "2026-06-08T16:52:11+00:00",
-          "meta": "▲ 71 · 💬 55"
-        }
-      ]
+      "items": []
     },
     {
       "id": "vendor",
       "title_cn": "大模型厂商动态",
       "title_en": "LLM Vendors Updates",
       "icon": "🧠",
+      "items": []
+    },
+    {
+      "id": "people",
+      "title_cn": "AI 科技人物",
+      "title_en": "AI Key Figures",
+      "icon": "👤",
+      "items": []
+    },
+    {
+      "id": "news",
+      "title_cn": "AI 行业新闻",
+      "title_en": "AI Industry News",
+      "icon": "📰",
       "items": [
         {
-          "title_cn": "OpenAI Submits S-1 Draft to SEC",
-          "title_en": "OpenAI Submits S-1 Draft to SEC",
-          "summary_cn": "",
-          "summary_en": "",
-          "url": "https://openai.com/index/openai-submits-confidential-s-1/",
+          "title_cn": "Claude Fable 5",
+          "title_en": "Claude Fable 5",
+          "summary_cn": "System Card [pdf]: <a href=\"https:&#x2F;&#x2F;www-cdn.anthropic.com&#x2F;d00db56fa754a1b115b6dd7cb2e3c342ee809620.pdf\" rel=\"nofollow\">https:&#x2F;&#x2F;www-cdn.anthropic.com&#x2F;d00db56fa754a1b115b6dd7cb2e3c3...</a>",
+          "summary_en": "System Card [pdf]: <a href=\"https:&#x2F;&#x2F;www-cdn.anthropic.com&#x2F;d00db56fa754a1b115b6dd7cb2e3c342ee809620.pdf\" rel=\"nofollow\">https:&#x2F;&#x2F;www-cdn.anthropic.com&#x2F;d00db56fa754a1b115b6dd7cb2e3c3...</a>",
+          "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
           "source": "Hacker News",
           "source_icon": "hackernews",
-          "heat": 8.5,
-          "tags": [
-            "IPO",
-            "OpenAI",
-            "公司动态"
-          ],
+          "heat": 5.0,
+          "tags": [],
           "student_note": null,
-          "published_at": "2026-06-08T21:22:43+00:00",
-          "meta": "▲ 62 · 💬 17"
+          "published_at": "2026-06-09T16:58:01+00:00",
+          "meta": "▲ 1493 · 💬 1168"
         },
         {
-          "title_cn": "OpenAI files for IPO as AI investment race intensifies",
-          "title_en": "OpenAI files for IPO as AI investment race intensifies",
-          "summary_cn": "OpenAI files for IPO as AI investment race intensifies&nbsp;&nbsp;NBC News",
-          "summary_en": "OpenAI files for IPO as AI investment race intensifies&nbsp;&nbsp;NBC News",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPek90QTVxaDRveGlyZ2UxUHR0OEt0d05NTEpMVVh2VG5nSHU2OG5hbERwT0pVRjk3ZldWYzBtRF9fQmY5dkxsX2Jva3phX0pGMDVzd21lY2p4N3RxcTlxbzhxRlZNQkRLQkFxQ1lrMkhMWUlqeHRzaEt0Sm1INzh4SElB?oc=5",
-          "source": "Sam Altman · NBC News",
-          "source_icon": "altman",
-          "heat": 8.5,
-          "tags": [
-            "IPO",
-            "OpenAI",
-            "融资"
-          ],
+          "title_cn": "If Claude Fable stops helping you, you'll never know",
+          "title_en": "If Claude Fable stops helping you, you'll never know",
+          "summary_cn": "",
+          "summary_en": "",
+          "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
+          "source": "Hacker News",
+          "source_icon": "hackernews",
+          "heat": 5.0,
+          "tags": [],
           "student_note": null,
-          "published_at": "2026-06-08T21:39:10+00:00"
+          "published_at": "2026-06-09T21:19:11+00:00",
+          "meta": "▲ 74 · 💬 23"
         },
         {
-          "title_cn": "Following Anthropic, OpenAI files confidentially for IPO",
-          "title_en": "Following Anthropic, OpenAI files confidentially for IPO",
-          "summary_cn": "The filing comes a little more than a week after its main rival, Anthropic, also filed to go public, ramping up the race between the two AI firms.",
-          "summary_en": "The filing comes a little more than a week after its main rival, Anthropic, also filed to go public, ramping up the race between the two AI firms.",
-          "url": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
+          "title_cn": "Musk’s xAI, SpaceX hit with class action over data center ‘nuisance’",
+          "title_en": "Musk’s xAI, SpaceX hit with class action over data center ‘nuisance’",
+          "summary_cn": "Musk’s xAI, SpaceX hit with class action over data center ‘nuisance’&nbsp;&nbsp;Reuters",
+          "summary_en": "Musk’s xAI, SpaceX hit with class action over data center ‘nuisance’&nbsp;&nbsp;Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbEFyQzQ4ZU9aVGpfNzdpR204a01GdlJQTFJvTERRNktfNTBVMDVyT2xXQWF0aTduWXNYUmVMRk8yT0s2RU5GZ0UwaVA3MlBOaGNGSFpXN01naTBHczNCdjU4WHV6empVc3ZPYTkxOGJrSkVmNnR2cW8wT0RlTnRDaV84dXVNVUtKZ21KTnktUERQWVlBTXdrZGkySTlQeG1fNkw4TWMycm9NWG5QMjdDc2dBQ3laYV9J?oc=5",
+          "source": "Elon Musk · Reuters",
+          "source_icon": "musk",
+          "heat": 5.0,
+          "tags": [],
+          "student_note": null,
+          "published_at": "2026-06-09T21:01:56+00:00"
+        },
+        {
+          "title_cn": "CEOs Who Think AI Replaces Their Employees Are Just Bad CEOs",
+          "title_en": "CEOs Who Think AI Replaces Their Employees Are Just Bad CEOs",
+          "summary_cn": "",
+          "summary_en": "",
+          "url": "https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/",
+          "source": "Hacker News",
+          "source_icon": "hackernews",
+          "heat": 5.0,
+          "tags": [],
+          "student_note": null,
+          "published_at": "2026-06-09T18:45:59+00:00",
+          "meta": "▲ 217 · 💬 96"
+        },
+        {
+          "title_cn": "Hey Siri, here’s what I actually want from AI",
+          "title_en": "Hey Siri, here’s what I actually want from AI",
+          "summary_cn": "I'm desperate for a personal AI assistant, but do I really want to become the kind of person who can't function without the friendly robot voice in my phone?",
+          "summary_en": "I'm desperate for a personal AI assistant, but do I really want to become the kind of person who can't function without the friendly robot voice in my phone?",
+          "url": "https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/",
           "source": "TechCrunch AI",
           "source_icon": "techcrunch",
-          "heat": 8.5,
-          "tags": [
-            "IPO",
-            "OpenAI",
-            "Anthropic"
-          ],
+          "heat": 5.0,
+          "tags": [],
           "student_note": null,
-          "published_at": "2026-06-08T21:29:57+00:00"
+          "published_at": "2026-06-09T20:50:17+00:00"
         },
         {
-          "title_cn": "OpenAI files paperwork for an IPO",
-          "title_en": "OpenAI files paperwork for an IPO",
-          "summary_cn": "OpenAI files paperwork for an IPO&nbsp;&nbsp;Axios",
-          "summary_en": "OpenAI files paperwork for an IPO&nbsp;&nbsp;Axios",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zYlJFR3NXNW5ndGtZeVFKRHUyRkdVMmNJZHF6MENydkVtODlaNWd4Zk04a0t6QktUS25QNzdwd09kLWl6VWVRZlZkLVdNNmlaeVZlR1l3?oc=5",
-          "source": "Sam Altman · Axios",
-          "source_icon": "altman",
-          "heat": 8.5,
-          "tags": [
-            "IPO",
-            "OpenAI",
-            "资本市场"
-          ],
-          "student_note": null,
-          "published_at": "2026-06-08T21:23:38+00:00"
-        },
-        {
-          "title_cn": "OpenAI confidentially files for IPO, prepping Wall Street for mega AI debut",
-          "title_en": "OpenAI confidentially files for IPO, prepping Wall Street for mega AI debut",
-          "summary_cn": "OpenAI confidentially files for IPO, prepping Wall Street for mega AI debut&nbsp;&nbsp;CNBC",
-          "summary_en": "OpenAI confidentially files for IPO, prepping Wall Street for mega AI debut&nbsp;&nbsp;CNBC",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMVhyczJEUzJvM0ktd0k2RmJwZGY2YW1CRThUTTdLNERQY0ZXVXUyNjhHMklyRFVSdnRoTlc3dTFZd0NqNDd2TDJrYk43NTc4Y0Z5R0Qta08zLU5XdVVSd05LNF94WTlDS05xRklDYzluVnpWUjFqeHg2QWVZZWdSMkJHN0VVYWQtSU9BNVA3ejg2V3YyOHM3TkhsZFRtakxoRXY2WjZxWkdUZw?oc=5",
-          "source": "Sam Altman · CNBC",
-          "source_icon": "altman",
-          "heat": 8.5,
-          "tags": [
-            "IPO",
-            "OpenAI",
-            "华尔街"
-          ],
-          "student_note": null,
-          "published_at": "2026-06-08T21:14:27+00:00"
-        },
-        {
-          "title_cn": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
-          "title_en": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
+          "title_cn": "GPT-2: Too Dangerous To Release (2019)",
+          "title_en": "GPT-2: Too Dangerous To Release (2019)",
           "summary_cn": "",
           "summary_en": "",
-          "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
+          "url": "https://naokishibuya.github.io/blog/2022-12-30-gpt-2-2019/",
           "source": "Hacker News",
           "source_icon": "hackernews",
-          "heat": 8.5,
-          "tags": [
-            "模型发布",
-            "效率提升"
-          ],
+          "heat": 5.0,
+          "tags": [],
           "student_note": null,
-          "published_at": "2026-06-08T15:27:33+00:00",
-          "meta": "▲ 442 · 💬 300"
+          "published_at": "2026-06-09T18:21:43+00:00",
+          "meta": "▲ 239 · 💬 91"
+        },
+        {
+          "title_cn": "Anthropic’s Fable 5 can make weirdly fun video games with the click of a button",
+          "title_en": "Anthropic’s Fable 5 can make weirdly fun video games with the click of a button",
+          "summary_cn": "Anthropic's Claude Fable 5 is going to be a big hit with the web's vibe coders.",
+          "summary_en": "Anthropic's Claude Fable 5 is going to be a big hit with the web's vibe coders.",
+          "url": "https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/",
+          "source": "TechCrunch AI",
+          "source_icon": "techcrunch",
+          "heat": 5.0,
+          "tags": [],
+          "student_note": null,
+          "published_at": "2026-06-09T20:37:49+00:00"
+        },
+        {
+          "title_cn": "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
+          "title_en": "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
+          "summary_cn": "<a href=\"https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260609200156&#x2F;https:&#x2F;&#x2F;aarushgupta.io&#x2F;posts&#x2F;kan-fpga&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260609200156&#x2F;https:&#x2F;&#x2F;aarushgup...</a>",
+          "summary_en": "<a href=\"https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260609200156&#x2F;https:&#x2F;&#x2F;aarushgupta.io&#x2F;posts&#x2F;kan-fpga&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260609200156&#x2F;https:&#x2F;&#x2F;aarushgup...</a>",
+          "url": "https://aarushgupta.io/posts/kan-fpga/",
+          "source": "Hacker News",
+          "source_icon": "hackernews",
+          "heat": 5.0,
+          "tags": [],
+          "student_note": null,
+          "published_at": "2026-06-09T19:21:45+00:00",
+          "meta": "▲ 105 · 💬 14"
         },
         {
           "title_cn": "Apple reveals new AI architecture built around Google Gemini models",
@@ -234,558 +216,38 @@
           "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
           "source": "Hacker News",
           "source_icon": "hackernews",
-          "heat": 7.5,
-          "tags": [
-            "Apple",
-            "Google Gemini",
-            "模型合作"
-          ],
+          "heat": 5.0,
+          "tags": [],
           "student_note": null,
           "published_at": "2026-06-08T19:14:47+00:00",
-          "meta": "▲ 271 · 💬 223"
+          "meta": "▲ 705 · 💬 549"
         },
         {
-          "title_cn": "OpenAI秘密提交IPO文件",
-          "title_en": "Confidential submission of draft S-1 to the SEC",
-          "summary_cn": "OpenAI确认已向美国SEC秘密提交了S-1注册声明草案，这是公司上市前的正式步骤，但尚未确定下一步时间。此举意味着OpenAI可能在筹备IPO。",
-          "summary_en": "OpenAI confirms it has confidentially submitted a draft S-1 registration statement to the SEC, a formal step toward going public, though timing remains undetermined.",
-          "url": "https://openai.com/index/openai-submits-confidential-s-1",
-          "source": "OpenAI Blog",
-          "source_icon": "openai",
-          "heat": 7.5,
-          "tags": [
-            "OpenAI",
-            "IPO",
-            "上市",
-            "S-1"
-          ],
-          "student_note": "关注AI领域资本动向的同学可以留意这一里程碑事件。",
-          "published_at": "2026-06-08T14:00:00+00:00"
-        },
-        {
-          "title_cn": "Microsoft's AI Chief Insists He's Not Posting Thirst Traps on Main After Messy Breakup With OpenAI",
-          "title_en": "Microsoft's AI Chief Insists He's Not Posting Thirst Traps on Main After Messy Breakup With OpenAI",
-          "summary_cn": "Microsoft's AI Chief Insists He's Not Posting Thirst Traps on Main After Messy Breakup With OpenAI&nbsp;&nbsp;Gizmodo",
-          "summary_en": "Microsoft's AI Chief Insists He's Not Posting Thirst Traps on Main After Messy Breakup With OpenAI&nbsp;&nbsp;Gizmodo",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONjJ3NVhtQW1NMGM1ZzJidzE1dDltYWxiM1FLZk4xQ1phV1VGWHh4WXlyZGF3Z0xleGdQQlEzUkNjOGtMakJMWDVVQTZWNFRmUzFYRXBkZVBlZVdrZU9vRDI0V2FDeC10MDZ6Rzg4TnFzQlNmQlI0bHRJSl9FUFlHX18tMy1lVWhpb0lwQkktYlhTWEdCRXl3STVQdWlBY3lDaWVlNnFyY3lqRHZpTjBaalhfRmtBQTNBS2dNVG41bEgwUHVCMlE?oc=5",
-          "source": "Sam Altman · Gizmodo",
-          "source_icon": "altman",
-          "heat": 6.5,
-          "tags": [
-            "微软",
-            "OpenAI",
-            "争议"
-          ],
-          "student_note": null,
-          "published_at": "2026-06-08T19:25:04+00:00"
-        },
-        {
-          "title_cn": "DeepSeek V4 Pro在精度上超越GPT-5.5 Pro",
-          "title_en": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision",
-          "summary_cn": "据Hacker News消息，DeepSeek新模型在精确度指标上击败GPT-5.5 Pro，显示中国AI模型在特定评测上的竞争力。",
-          "summary_en": "According to Hacker News, DeepSeek V4 Pro outperforms GPT-5.5 Pro on precision benchmarks, demonstrating the growing competitiveness of Chinese AI models.",
-          "url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
-          "source": "Hacker News",
-          "source_icon": "hackernews",
-          "heat": 6.5,
-          "tags": [
-            "DeepSeek",
-            "模型发布",
-            "评测"
-          ],
-          "student_note": "推荐关注，了解国产大模型进展及模型评估指标。",
-          "published_at": "2026-06-08T01:39:30+00:00",
-          "meta": "▲ 386 · 💬 212"
-        },
-        {
-          "title_cn": "Built to benefit everyone: our plan",
-          "title_en": "Built to benefit everyone: our plan",
-          "summary_cn": "Built to benefit everyone: our plan&nbsp;&nbsp;OpenAI",
-          "summary_en": "Built to benefit everyone: our plan&nbsp;&nbsp;OpenAI",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1acHQzdUtIMzJkVmlHbkJ1Z294Y3p1d0JIR0FieFFQOHZwaENrUkFQNWFhNmctWVU0ODlSZDdFN0NZQUFpUHBqeEVxTWhNTlRNV3Z2NVRHMHlVcVBEckt4VXhScnhDaU9OcEd3cw?oc=5",
-          "source": "Sam Altman · OpenAI",
-          "source_icon": "altman",
-          "heat": 5.5,
-          "tags": [
-            "OpenAI",
-            "公司愿景",
-            "公开信"
-          ],
-          "student_note": null,
-          "published_at": "2026-06-08T21:11:15+00:00"
-        },
-        {
-          "title_cn": "OpenAI经济研究交流平台",
-          "title_en": "Introducing the OpenAI Economic Research Exchange",
-          "summary_cn": "OpenAI推出Economic Research Exchange平台，专门研究AI对就业、生产力和经济的影响。现已开放研究项目申请，鼓励学者提交提案。",
-          "summary_en": "OpenAI launches the Economic Research Exchange to study AI's impact on jobs, productivity, and the economy. Applications are now open for selected research projects.",
-          "url": "https://openai.com/index/economic-research-exchange",
-          "source": "OpenAI Blog",
-          "source_icon": "openai",
-          "heat": 5.5,
-          "tags": [
-            "OpenAI",
-            "经济研究",
-            "AI就业",
-            "学术合作"
-          ],
-          "student_note": "经济学或公共政策方向的学生可关注此平台的研究资助机会。",
-          "published_at": "2026-06-08T00:00:00+00:00"
-        },
-        {
-          "title_cn": "OpenAI造福人人计划",
-          "title_en": "Built to benefit everyone: our plan",
-          "summary_cn": "OpenAI发布未来愿景计划，强调AI应广泛可及、安全可控，并致力于共享繁荣，确保AGI（通用人工智能）能惠及全人类。",
-          "summary_en": "OpenAI publishes its vision plan emphasizing broad accessibility, safety, and shared prosperity, aiming to ensure AGI benefits all of humanity.",
-          "url": "https://openai.com/index/built-to-benefit-everyone-our-plan",
-          "source": "OpenAI Blog",
-          "source_icon": "openai",
-          "heat": 5.0,
-          "tags": [
-            "OpenAI",
-            "AGI",
-            "普惠AI",
-            "安全"
-          ],
-          "student_note": "了解主流AI公司的伦理立场，对理解行业价值观有参考价值。",
-          "published_at": "2026-06-08T01:30:00+00:00"
-        },
-        {
-          "title_cn": "Notion恢复Anthropic服务",
-          "title_en": "Notion restores access to Anthropic after service disruption",
-          "summary_cn": "Notion曾一度中断对Anthropic（Claude AI开发商）的访问，现已恢复。Notion产品负责人对大量用户转发此事表示惊讶。",
-          "summary_en": "Notion briefly disrupted access to Anthropic (creator of Claude AI) but has since restored it. Notion's product lead expressed astonishment at the widespread user reaction.",
-          "url": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
+          "title_cn": "Can tech companies learn to love cheaper AI models?",
+          "title_en": "Can tech companies learn to love cheaper AI models?",
+          "summary_cn": "If those same AI workloads can be handled by cheaper models without affecting quality, it would mean a massive shift in the economics of AI.",
+          "summary_en": "If those same AI workloads can be handled by cheaper models without affecting quality, it would mean a massive shift in the economics of AI.",
+          "url": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
           "source": "TechCrunch AI",
           "source_icon": "techcrunch",
           "heat": 5.0,
-          "tags": [
-            "Notion",
-            "Anthropic",
-            "服务中断"
-          ],
+          "tags": [],
           "student_note": null,
-          "published_at": "2026-06-07T17:56:22+00:00"
-        }
-      ]
-    },
-    {
-      "id": "people",
-      "title_cn": "AI 科技人物",
-      "title_en": "AI Key Figures",
-      "icon": "👤",
-      "items": [
-        {
-          "title_cn": "哈萨比斯：人类只有几年准备",
-          "title_en": "Google AI CEO Demis Hassabis wants everyone to take note on AI: Humans only have a few years left to prep",
-          "summary_cn": "Google DeepMind CEO Demis Hassabis警告，人类只有几年时间为AGI（通用人工智能）的到来做准备，呼吁全球认真对待AI安全和治理。",
-          "summary_en": "Google DeepMind CEO Demis Hassabis warns that humans have only a few years to prepare for AGI, urging global attention on AI safety and governance.",
-          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPSzZyVlZVbW1STzczMHBZVVNHdWZQdTRqcTRDV1hMb3hDTUdOOEFHdVE5blg1cEhUYmZnOFFpNzdHY1F0aGVEalg3aFRrX0dlWnlXMk03dVdrc2xzd2E3bVFVZGdkampBTW1QaVRzZnNmT1BsTkxwNXdtTmlCYVBHX216M1l3MXdGajFDYUJzekdFZXhuNVZFdkFWY3pGR3JtUG50WjRldWhsemN5Q0VNWDlwQkVWaFJna21BZnl3WmtDTURydzFKeTVLclZPZFdVQVVBUlIxMmtQeVJ3ZDhRZXljRkdlLWlKYTA5VWtsd1o5WDZpdFVDR21sbmx2bldYUG00cjQ4WW53UjJtU3RYQ1NmTVhaRnZKTkNZS2FYNXfSAaYCQVVfeXFMTTI4Qm13VTdwR2wzZDBxeldLVWkxMjA1UkxoVGIxRVBHWVRjQ1BrWXhDbFppN2NHS0N3dG9rb2hQTGxObDRaelBtR3AtZXg1OGxPQUZ6UlBxOGFJczFXWWtFLUM5cDVfQ1BLSnJ1YVJEcE9BSmwzVWd4NHB0R1ZkTUs1R092NTJDcXBkVllxUUJDVnNYQUVUQjBjVktkV3BkOG9qeXFCazZTaVQtRGhidi1MNXRvS3ZoM1JaMzYyOUFKZVRPaVd2N1pOZWtKR1pRRGNnLXk4amliclFkRVRqblNVN1BwdkN5WGQ4RG1rVnp2ZUY5X3VwTDdwcDlzVHNucGFfc0oyajc3clN4c001cWg0NTdXSWlKa2ZXRWZTZGJzbGg2Q3N3?oc=5",
-          "source": "Demis Hassabis · The Times of India",
-          "source_icon": "hassabis",
-          "heat": 8.0,
-          "tags": [
-            "Demis Hassabis",
-            "AGI",
-            "AI安全",
-            "Google DeepMind"
-          ],
-          "student_note": "这是重要的警示观点，建议思考AI伦理和长期风险议题。",
-          "published_at": "2026-06-08T10:29:00+00:00"
+          "published_at": "2026-06-09T18:56:09+00:00"
         },
         {
-          "title_cn": "Yann LeCun赌注十亿对抗LLM",
-          "title_en": "Yann LeCun World Models Bet: AMI Labs Stakes $1.03 Billion Against Large Language Models",
-          "summary_cn": "AMI Labs投资10.3亿美元支持Yann LeCun提出的“世界模型”理念，认为其可能超越当前的大语言模型（LLM），引发AI研究路线的争议。",
-          "summary_en": "AMI Labs invests $1.03 billion to back Yann LeCun's 'world model' concept, which may surpass current LLMs, sparking a debate on AI research directions.",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObHpWVE9TUXZYaHdQTXhoX1B0NUsxT29hNl9EVldtdEM2Vm9ENzE2NDlHTl9xa3JBdGZFUXNVNzB6TnU2WkYyUG00a0lDRXhQbjRrV3ljXy1tNjBwdmFWdU10ZG5lWWZsTjBLUTRPcEUwY0ZGaklsRkphaE9XQlJIc1dvdDJ0QWtTVTlONll6ZzdzUmlzZTNCbnplNVFKUU1BY0YyRkRza21IV0tQYzNlYnUtX1B6V08tbENsX2VGSDJDNU9VSFhNVUNmQzBYVUpLUkFCZFdVNA?oc=5",
-          "source": "Yann LeCun · Tech Times",
-          "source_icon": "lecun",
-          "heat": 8.0,
-          "tags": [
-            "Yann LeCun",
-            "世界模型",
-            "大语言模型",
-            "AI路线"
-          ],
-          "student_note": "关注AI研究前沿的同学，可以了解世界模型与LLM的差异和优劣。",
-          "published_at": "2026-06-07T01:49:45+00:00"
-        },
-        {
-          "title_cn": "Yann LeCun融资10亿美元挑战现有AI模型",
-          "title_en": "Yann LeCun raises $1B to bet against flawed AI models like ChatGPT",
-          "summary_cn": "Yann LeCun筹集10亿美元押注不同于ChatGPT的AI方向，他认为当前大模型有根本性缺陷，将推动新范式。",
-          "summary_en": "Yann LeCun raises $1 billion to fund alternatives to flawed AI models like ChatGPT, advocating for a new paradigm beyond large language models.",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1aOVc0NlhIbl9QY1F2R3JFUUNXbF9pVlZEd2dwOENMMElIdWR1RlJlZzVrU0FpdHI2OWFhZTgzaWw1ZFJ5ODBjMWNGU1NTNXBfWkxoWmNzQnhwalJWY0dhbXk5U0lNY19VUno4YkRn?oc=5",
-          "source": "Yann LeCun · Crypto Briefing",
-          "source_icon": "lecun",
-          "heat": 7.0,
-          "tags": [
-            "Yann LeCun",
-            "融资",
-            "AI新范式"
-          ],
-          "student_note": "推荐阅读，了解AI研究中的不同技术路线，丰富学术视野。",
-          "published_at": "2026-06-08T17:37:41+00:00"
-        },
-        {
-          "title_cn": "奥特曼称金钱应退出政治",
-          "title_en": "Sam Altman Says He Wants Money Out Of Politics, Pushes Back On OpenAI Lobbying Criticism: 'Love To See The Rules Across The Board Change'",
-          "summary_cn": "Sam Altman公开表示希望减少金钱在政治中的影响，并回应外界对OpenAI游说活动过度的批评，称支持全面规则改革。",
-          "summary_en": "Sam Altman publicly states he wants money out of politics and pushes back against criticism of OpenAI's lobbying, saying he'd love to see comprehensive rule changes.",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcGZrd2NIbnJrLTlnS09IZUpVZ3U1bHhzakpxMzlNd2xOVktlbTNPczJUU2JUQXp6ZVZxWTJUSlJZY3JwVGl2Z0NwSDF2Wlc2WWI1QlhlS0k1UWRneEtfbnJpMXlVc0plam5TeXBLalgzQU8wNUo1UDZCOUY1YzhhcS1LOXREVW96R1lKQ0ttLWh5Z1ktT2Mw?oc=5",
-          "source": "Sam Altman · Yahoo Finance",
-          "source_icon": "altman",
-          "heat": 7.0,
-          "tags": [
-            "Sam Altman",
-            "OpenAI",
-            "政治影响",
-            "AI治理"
-          ],
-          "student_note": null,
-          "published_at": "2026-06-06T23:31:20+00:00"
-        },
-        {
-          "title_cn": "Ilya Sutskever谈AI的双重性",
-          "title_en": "Ilya Sutskever Discusses AI's Dual Nature: Transformative Potential And As",
-          "summary_cn": "OpenAI联合创始人Ilya Sutskever在《Fathom Journal》访谈中深入探讨了人工智能的双重性：既拥有巨大的变革潜力，也伴随潜在风险。他强调了在推动AI发展的同时必须重视安全与伦理对齐。",
-          "summary_en": "In an interview with Fathom Journal, OpenAI co-founder Ilya Sutskever delves into the dual nature of artificial intelligence, highlighting its immense transformative potential alongside significant risks. He underscores the critical need to prioritize safety and ethical alignment as AI advances.",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5XNWpjS0RXaS0wQ0tYSEQ2S2d3aVMwMC05bVZDWHcxNGcwbU1BZVFvR3BxOXpTWjJXck9aLTFYVUdNbEMwVnpvdm56QlRhWjM0M3BwT291dlF5YTBIeVI0VzluZXhzSzNCY2c5VTdaOUNaQnhKdUE?oc=5",
-          "source": "Ilya Sutskever · Fathom Journal",
-          "source_icon": "sutskever",
-          "heat": 7.0,
-          "tags": [
-            "Ilya Sutskever",
-            "AI伦理",
-            "安全对齐",
-            "OpenAI"
-          ],
-          "student_note": "推荐阅读，了解AI领域顶级思想家的风险与机遇观，有助于开阔技术伦理视野。",
-          "published_at": "2026-06-06T23:43:06+00:00"
-        },
-        {
-          "title_cn": "xAI花费10亿美元购买特斯拉电池",
-          "title_en": "Elon Musk’s xAI Just Spent $1 Billion on Tesla Batteries as the AI Power Race Reshapes Global Energy",
-          "summary_cn": "xAI为AI数据中心大量购买特斯拉电池，反映AI算力需求对能源基础设施的巨大影响。",
-          "summary_en": "xAI spends $1 billion on Tesla batteries to power its AI datacenters, highlighting the massive energy demands of AI and its impact on global energy infrastructure.",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPc2dieUZyc25lRkVnZG4zMFprbnpRQ0t0Wk02TzI1U2VBX0lBUTRnVUhiZ2pCd2R5SlI2WUlESER6dExGd0hwNXh3RnZNcDJYUVNEamRsdExNbTd0QnBDRTQ2dXo4S2dUNWxZSUdvdU1uVXJlTnJQbndEdEt4Q2RNVDVCWHJpUC1UYVZVREFIcEVpMXhYLXdRVnBWX3pMb0tRUHpfYzBiVjVrMzBtbHNQdG9CY1hwQ0oxaEUxdmkxQWhCams?oc=5",
-          "source": "Elon Musk · CarbonCredits.com",
-          "source_icon": "musk",
-          "heat": 6.0,
-          "tags": [
-            "xAI",
-            "特斯拉",
-            "能源"
-          ],
-          "student_note": "推荐阅读，了解AI与能源问题的交叉领域，关注可持续发展。",
-          "published_at": "2026-06-08T16:56:25+00:00"
-        },
-        {
-          "title_cn": "xAI招募中文AI导师",
-          "title_en": "xAI recruits Chinese AI tutors in push into China",
-          "summary_cn": "马斯克的AI公司xAI正在招聘中文AI培训师，为其拓展中国市场做准备。这显示xAI加速全球化布局。",
-          "summary_en": "Elon Musk's xAI is recruiting Chinese AI tutors as part of its push into the Chinese market, signaling accelerated global expansion.",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZ2l5NUJVZ1ZMN0h2bnlEX1I2MGxpSE5GdmVNcHlUUEpOTHBzcDBNVHJTQ05XWDloaGRVdTE4NDViQnVNMWVTTEpiMkJ2VGtqN2dUMUtfbHVxRm1KVjAtRGlSVVgzeTZWemhVX0FORnJGNmhGYkMtcVIydEtSTFFnNS1CX01MZVU?oc=5",
-          "source": "Elon Musk · digitimes",
-          "source_icon": "musk",
-          "heat": 6.0,
-          "tags": [
-            "xAI",
-            "Elon Musk",
-            "中文培训",
-            "全球化"
-          ],
-          "student_note": "对AI行业国际动态和就业机会感兴趣的同学可关注。",
-          "published_at": "2026-06-07T23:41:23+00:00"
-        },
-        {
-          "title_cn": "xAI更像数据中心REIT而非前沿实验室",
+          "title_cn": "xAI is looking more like a datacentre REIT than a frontier lab",
           "title_en": "xAI is looking more like a datacentre REIT than a frontier lab",
-          "summary_cn": "评论认为xAI大量投资数据中心基础设施，模式类似房地产信托基金（REIT），引发对其科研导向与商业模式的质疑。",
-          "summary_en": "Commentary suggests xAI's heavy investment in datacenter infrastructure makes it resemble a REIT more than a research lab, raising questions about its scientific focus.",
+          "summary_cn": "",
+          "summary_en": "",
           "url": "https://martinalderson.com/posts/xais-new-rental-business/",
           "source": "Hacker News",
           "source_icon": "hackernews",
           "heat": 5.0,
-          "tags": [
-            "xAI",
-            "数据中心",
-            "商业模式"
-          ],
-          "student_note": "推荐阅读，分析AI公司资本配置与科研平衡，理解行业生态。",
+          "tags": [],
+          "student_note": null,
           "published_at": "2026-06-08T15:13:43+00:00",
-          "meta": "▲ 323 · 💬 243"
-        },
-        {
-          "title_cn": "AI先驱Yann LeCun获科学中心表彰",
-          "title_en": "New Jersey AI Pioneer Honored at Liberty Science Center’s 2026 Genius Gala",
-          "summary_cn": "Yann LeCun在自由科学中心2026年天才晚会上被表彰，他是卷积网络和AI领域的奠基人。",
-          "summary_en": "Yann LeCun, a pioneer in convolutional networks and AI, was honored at the Liberty Science Center's 2026 Genius Gala.",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdmR3UG5lS29CSUtYakxsb25GRG9UOFdhWGtzVHpPQVhtYVJXc1ZqaE1IVGQxMnlxM2Z4QTdDU3Y3MUI3NXJOUGx1LV9ieENQT1FMaXlBX1NtUFdGSW1vRUkzekNqMGxfbGIxcjRWeGttd0JvN0hxMU51QUtXSUNuUE5BbFI2VWFEUGFfdXFWanU5Nk5XVWFleVRNOVZ5a1JqekVJcmV3anVPSlEyT280ZnNnckpaRHU5S3Q4?oc=5",
-          "source": "Yann LeCun · New Jersey Monthly Magazine",
-          "source_icon": "lecun",
-          "heat": 4.0,
-          "tags": [
-            "Yann LeCun",
-            "表彰",
-            "深度学习"
-          ],
-          "student_note": "了解LeCun的学术贡献，可关注其最新研究方向（如世界模型）。",
-          "published_at": "2026-06-08T17:58:15+00:00"
-        },
-        {
-          "title_cn": "奥特曼日常自律崩了",
-          "title_en": "OpenAI’s Sam Altman says his highly disciplined daily routine has ‘fallen to crap’",
-          "summary_cn": "OpenAI CEO Sam Altman承认自己曾极力推崇的高强度自律作息已彻底崩溃，反映出创业高压下的真实状态。",
-          "summary_en": "OpenAI CEO Sam Altman admits his once-vaunted disciplined daily routine has completely fallen apart, revealing the real pressure of running a startup.",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZG9NdllyTU5QVk5iSnhjWmtmTkV5OXV0R19HVnprb2M3RTNBLXdhWXktdnY1cHdOVXY2N191alNlS0VVYWZXanl6anpHWE9kNEh2eWhsUml4V2JXSWhlWTI0V2xCQVU3TkY0M0R2c3Y3dXZqc05mcHdYOFZXLXR3ODJnRlM5LVMtNjZRaWJNcTdmRGtfNE5B?oc=5",
-          "source": "Sam Altman · Fortune",
-          "source_icon": "altman",
-          "heat": 4.0,
-          "tags": [
-            "Sam Altman",
-            "创业压力",
-            "自律"
-          ],
-          "student_note": null,
-          "published_at": "2026-06-08T15:12:10+00:00"
-        }
-      ]
-    },
-    {
-      "id": "news",
-      "title_cn": "AI 行业新闻",
-      "title_en": "AI Industry News",
-      "icon": "📰",
-      "items": [
-        {
-          "title_cn": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
-          "title_en": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
-          "summary_cn": "Apple primarily made the case for an improved experience with its longstanding Siri assistant, which like most other announcements had a hefty helping of AI.",
-          "summary_en": "Apple primarily made the case for an improved experience with its longstanding Siri assistant, which like most other announcements had a hefty helping of AI.",
-          "url": "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
-          "source": "TechCrunch AI",
-          "source_icon": "techcrunch",
-          "heat": 9.0,
-          "tags": [
-            "Apple",
-            "WWDC",
-            "Siri",
-            "iOS"
-          ],
-          "student_note": null,
-          "published_at": "2026-06-08T19:41:32+00:00"
-        },
-        {
-          "title_cn": "Apple Core AI Framework",
-          "title_en": "Apple Core AI Framework",
-          "summary_cn": "",
-          "summary_en": "",
-          "url": "https://developer.apple.com/documentation/coreai/",
-          "source": "Hacker News",
-          "source_icon": "hackernews",
-          "heat": 8.0,
-          "tags": [
-            "Apple",
-            "AI框架"
-          ],
-          "student_note": null,
-          "published_at": "2026-06-08T18:47:38+00:00",
-          "meta": "▲ 80 · 💬 4"
-        },
-        {
-          "title_cn": "Apple plays catch-up at WWDC",
-          "title_en": "Apple plays catch-up at WWDC",
-          "summary_cn": "Apple spent much of its WWDC keynote highlighting fixes, performance improvements, and long-requested features before unveiling its upgraded AI-powered Siri, signaling that the company wants users to see AI as just one part of a broader effort to improve its software.",
-          "summary_en": "Apple spent much of its WWDC keynote highlighting fixes, performance improvements, and long-requested features before unveiling its upgraded AI-powered Siri, signaling that the company wants users to see AI as just one part of a broader effort to improve its software.",
-          "url": "https://techcrunch.com/2026/06/08/apple-plays-catch-up-at-wwdc/",
-          "source": "TechCrunch AI",
-          "source_icon": "techcrunch",
-          "heat": 7.0,
-          "tags": [
-            "Apple",
-            "WWDC",
-            "AI战略"
-          ],
-          "student_note": null,
-          "published_at": "2026-06-08T21:15:42+00:00"
-        },
-        {
-          "title_cn": "苹果AI赋能iPhone多项功能",
-          "title_en": "Apple just taught your iPhone to finish your sentences, your photos, and your workflows",
-          "summary_cn": "苹果在Safari、快捷指令和密码应用中引入AI功能，让iPhone能自动补全句子、编辑照片和工作流程。这标志着苹果在系统级AI整合上迈出重要一步。",
-          "summary_en": "Apple is adding AI-powered features to Safari, Shortcuts, and Password apps, enabling sentence completion, photo editing, and workflow automation. This marks a major step in Apple's system-wide AI integration.",
-          "url": "https://techcrunch.com/2026/06/08/apple-just-taught-your-iphone-to-finish-your-sentences-your-photos-and-your-workflows/",
-          "source": "TechCrunch AI",
-          "source_icon": "techcrunch",
-          "heat": 7.0,
-          "tags": [
-            "Apple",
-            "AI功能",
-            "iPhone"
-          ],
-          "student_note": "推荐苹果用户关注，体验AI如何提升日常学习和生活效率。",
-          "published_at": "2026-06-08T18:48:45+00:00"
-        },
-        {
-          "title_cn": "苹果Siri迎来重大AI升级",
-          "title_en": "Apple’s long-awaited AI Siri overhaul is finally here",
-          "summary_cn": "Siri从语音助手升级为AI伴侣，能执行更复杂任务，如理解上下文和主动建议，苹果AI战略核心落地。",
-          "summary_en": "Siri evolves from a voice assistant to an AI companion capable of understanding context and making proactive suggestions, marking Apple's core AI strategy.",
-          "url": "https://techcrunch.com/2026/06/08/apples-long-awaited-ai-siri-overhaul-is-finally-here/",
-          "source": "TechCrunch AI",
-          "source_icon": "techcrunch",
-          "heat": 7.0,
-          "tags": [
-            "苹果",
-            "Siri",
-            "AI升级"
-          ],
-          "student_note": null,
-          "published_at": "2026-06-08T17:56:21+00:00"
-        },
-        {
-          "title_cn": "WWDC 2026前瞻",
-          "title_en": "WWDC 2026: What to expect, from Siri’s highly anticipated revamp to Apple Intelligence and iOS 27",
-          "summary_cn": "苹果WWDC 2026即将到来，传闻Siri将迎来重大改版，并与Apple Intelligence深度整合。同时iOS 27等新系统也有望登场，AI成为大会核心看点。",
-          "summary_en": "Apple's WWDC 2026 is approaching, with rumors of a major Siri revamp and tighter integration with Apple Intelligence. New systems like iOS 27 are also expected, making AI the central theme.",
-          "url": "https://techcrunch.com/2026/06/08/wwdc-2026-what-to-expect-from-siris-highly-anticipated-revamp-to-apple-intelligence-and-ios-27/",
-          "source": "TechCrunch AI",
-          "source_icon": "techcrunch",
-          "heat": 7.0,
-          "tags": [
-            "苹果",
-            "WWDC",
-            "Siri",
-            "AI整合"
-          ],
-          "student_note": "对苹果生态和AI产品感兴趣的同学，可重点关注Siri的AI化方向。",
-          "published_at": "2026-06-08T15:34:59+00:00"
-        },
-        {
-          "title_cn": "苹果快捷指令新增AI工作流",
-          "title_en": "Apple will let you build workflows using AI in its new Shortcuts app",
-          "summary_cn": "苹果升级快捷指令应用，支持用自然语言描述工作流程，AI自动生成自动化任务，降低编程门槛。",
-          "summary_en": "Apple upgrades Shortcuts app: users can describe a workflow in natural language, and AI will generate the automation. This lowers the barrier to creating productivity scripts.",
-          "url": "https://techcrunch.com/2026/06/08/apple-will-let-you-build-workflows-using-ai-in-its-new-shortcuts-app/",
-          "source": "TechCrunch AI",
-          "source_icon": "techcrunch",
-          "heat": 6.5,
-          "tags": [
-            "Apple",
-            "快捷指令",
-            "自动化"
-          ],
-          "student_note": "推荐学习自动化思维，尝试用AI构建学习或生活工作流，提高效率。",
-          "published_at": "2026-06-08T18:45:12+00:00"
-        },
-        {
-          "title_cn": "苹果AI图像生成器大幅改进",
-          "title_en": "Apple’s Image Playground doesn’t suck anymore",
-          "summary_cn": "苹果的Image Playground经过重新设计，AI图像生成能力显著提升，有望与Midjourney等工具竞争。",
-          "summary_en": "Apple's Image Playground gets a major overhaul, making its AI image generation much more competitive with tools like Midjourney.",
-          "url": "https://techcrunch.com/2026/06/08/apples-image-playground-doesnt-suck-anymore/",
-          "source": "TechCrunch AI",
-          "source_icon": "techcrunch",
-          "heat": 6.5,
-          "tags": [
-            "Apple",
-            "图像生成",
-            "Image Playground"
-          ],
-          "student_note": "对AI绘画感兴趣的同学可关注，了解苹果与现有主流工具的差异。",
-          "published_at": "2026-06-08T18:38:07+00:00"
-        },
-        {
-          "title_cn": "LLM影响职业的讨论",
-          "title_en": "Replies to comments on my \"LLMs are eroding my career\" post",
-          "summary_cn": "作者回应对其之前那篇《大模型正在侵蚀我的职业生涯》文章的评论，深入讨论LLM对个人职业前景的冲击，以及如何应对AI带来的就业焦虑。",
-          "summary_en": "The author responds to comments on their earlier post \"LLMs are eroding my career\", discussing the real impact of LLMs on individual career prospects and how to deal with AI-driven employment anxiety.",
-          "url": "https://human-in-the-loop.bearblog.dev/replies-to-comments-on-my-llms-are-eroding-my-career-post/",
-          "source": "Hacker News",
-          "source_icon": "hackernews",
-          "heat": 6.5,
-          "tags": [
-            "LLM",
-            "职业影响",
-            "AI焦虑",
-            "职业前景"
-          ],
-          "student_note": "对职业规划有警示意义，建议思考如何提升AI无法替代的核心能力。",
-          "published_at": "2026-06-08T09:52:03+00:00",
-          "meta": "▲ 126 · 💬 182"
-        },
-        {
-          "title_cn": "Apple bets cheaper AI will woo small developers",
-          "title_en": "Apple bets cheaper AI will woo small developers",
-          "summary_cn": "As AI experimentation grows more expensive, Apple is waiving cloud API costs for developers with fewer than 2 million first-time App Store downloads.",
-          "summary_en": "As AI experimentation grows more expensive, Apple is waiving cloud API costs for developers with fewer than 2 million first-time App Store downloads.",
-          "url": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/",
-          "source": "TechCrunch AI",
-          "source_icon": "techcrunch",
-          "heat": 6.0,
-          "tags": [
-            "Apple",
-            "开发者",
-            "AI定价",
-            "竞争策略"
-          ],
-          "student_note": null,
-          "published_at": "2026-06-08T20:53:55+00:00"
-        },
-        {
-          "title_cn": "苹果照片应用新增AI编辑功能",
-          "title_en": "Apple’s Photos app is getting new AI editing features",
-          "summary_cn": "照片应用加入AI空间“重构图”功能，可自动调整视角和构图，让照片编辑更智能。",
-          "summary_en": "The Photos app gains a spatial AI 'Reframe' feature that automatically adjusts perspective and composition, making photo editing smarter.",
-          "url": "https://techcrunch.com/2026/06/08/apples-photos-app-is-getting-new-ai-editing-features/",
-          "source": "TechCrunch AI",
-          "source_icon": "techcrunch",
-          "heat": 6.0,
-          "tags": [
-            "Apple",
-            "照片编辑",
-            "AI"
-          ],
-          "student_note": null,
-          "published_at": "2026-06-08T18:36:04+00:00"
-        },
-        {
-          "title_cn": "苹果为Siri推出独立应用",
-          "title_en": "Apple gives Siri its own dedicated app",
-          "summary_cn": "Siri将拥有独立应用，这可能意味着更强大的交互能力和更深入的系统整合。",
-          "summary_en": "Siri is getting its own dedicated app, potentially enabling richer interactions and deeper system integration.",
-          "url": "https://techcrunch.com/2026/06/08/apple-gives-siri-its-own-dedicated-app/",
-          "source": "TechCrunch AI",
-          "source_icon": "techcrunch",
-          "heat": 6.0,
-          "tags": [
-            "苹果",
-            "Siri",
-            "应用更新"
-          ],
-          "student_note": null,
-          "published_at": "2026-06-08T18:33:42+00:00"
-        },
-        {
-          "title_cn": "配置文件代码执行安全盲点",
-          "title_en": "Config Files That Run Code: Supply Chain Security Blindspot",
-          "summary_cn": "文章指出一些配置文件（如YAML/TOML）可能包含可执行代码，成为供应链安全的盲点，攻击者可利用此漏洞植入后门，值得开发者和安全团队重视。",
-          "summary_en": "The article highlights that configuration files (e.g., YAML/TOML) can contain executable code, creating a blind spot in supply chain security. Attackers could exploit this to inject backdoors.",
-          "url": "https://safedep.io/config-files-that-run-code/",
-          "source": "Hacker News",
-          "source_icon": "hackernews",
-          "heat": 6.0,
-          "tags": [
-            "配置文件",
-            "供应链安全",
-            "代码执行",
-            "开发安全"
-          ],
-          "student_note": "软件工程和安全方向的同学应了解此类风险，提升代码审查意识。",
-          "published_at": "2026-06-08T09:35:19+00:00",
-          "meta": "▲ 67 · 💬 21"
+          "meta": "▲ 670 · 💬 528"
         },
         {
           "title_cn": "Siri AI",
@@ -795,34 +257,52 @@
           "url": "https://www.apple.com/apple-intelligence/",
           "source": "Hacker News",
           "source_icon": "hackernews",
-          "heat": 5.5,
-          "tags": [
-            "Apple",
-            "Siri",
-            "AI助手"
-          ],
+          "heat": 5.0,
+          "tags": [],
           "student_note": null,
           "published_at": "2026-06-08T18:17:53+00:00",
-          "meta": "▲ 278 · 💬 209"
+          "meta": "▲ 659 · 💬 683"
         },
         {
-          "title_cn": "我用Claude设计多于Figma",
-          "title_en": "I design with Claude more than Figma now",
-          "summary_cn": "一位设计师分享其工作流程的变化：越来越多地使用AI工具Claude进行设计，使用Figma等传统工具的频率明显下降。这反映了AI在设计领域的渗透趋势。",
-          "summary_en": "A designer shares how their workflow has shifted: they now use Claude for design more than traditional tools like Figma, reflecting AI's growing role in the design field.",
-          "url": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
+          "title_cn": "Where is the AI jobs crisis?",
+          "title_en": "Where is the AI jobs crisis?",
+          "summary_cn": "",
+          "summary_en": "",
+          "url": "https://www.apollo.com/wealth/the-daily-spark/where-is-the-ai-jobs-crisis",
           "source": "Hacker News",
           "source_icon": "hackernews",
-          "heat": 5.5,
-          "tags": [
-            "AI设计",
-            "Claude",
-            "Figma",
-            "工作流"
-          ],
-          "student_note": "设计专业学生应关注AI辅助设计工具，提升人机协作效率。",
-          "published_at": "2026-06-07T05:04:24+00:00",
-          "meta": "▲ 306 · 💬 265"
+          "heat": 5.0,
+          "tags": [],
+          "student_note": null,
+          "published_at": "2026-06-09T17:29:17+00:00",
+          "meta": "▲ 119 · 💬 174"
+        },
+        {
+          "title_cn": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
+          "title_en": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
+          "summary_cn": "",
+          "summary_en": "",
+          "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
+          "source": "Hacker News",
+          "source_icon": "hackernews",
+          "heat": 5.0,
+          "tags": [],
+          "student_note": null,
+          "published_at": "2026-06-08T15:27:33+00:00",
+          "meta": "▲ 609 · 💬 460"
+        },
+        {
+          "title_cn": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more",
+          "title_en": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more",
+          "summary_cn": "Apple primarily made the case for an improved experience with its long-standing Siri assistant, which like most other announcements had a hefty helping of AI.",
+          "summary_en": "Apple primarily made the case for an improved experience with its long-standing Siri assistant, which like most other announcements had a hefty helping of AI.",
+          "url": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+          "source": "TechCrunch AI",
+          "source_icon": "techcrunch",
+          "heat": 5.0,
+          "tags": [],
+          "student_note": null,
+          "published_at": "2026-06-09T18:04:24+00:00"
         }
       ]
     },
@@ -836,29 +316,129 @@
   ],
   "must_read": [
     {
-      "title_cn": "OpenAI Submits S-1 Draft to SEC",
-      "title_en": "OpenAI Submits S-1 Draft to SEC",
-      "summary_cn": "",
-      "summary_en": "",
-      "url": "https://openai.com/index/openai-submits-confidential-s-1/",
+      "title_cn": "Claude Fable 5",
+      "title_en": "Claude Fable 5",
+      "summary_cn": "System Card [pdf]: <a href=\"https:&#x2F;&#x2F;www-cdn.anthropic.com&#x2F;d00db56fa754a1b115b6dd7cb2e3c342ee809620.pdf\" rel=\"nofollow\">https:&#x2F;&#x2F;www-cdn.anthropic.com&#x2F;d00db56fa754a1b115b6dd7cb2e3c3...</a>",
+      "summary_en": "System Card [pdf]: <a href=\"https:&#x2F;&#x2F;www-cdn.anthropic.com&#x2F;d00db56fa754a1b115b6dd7cb2e3c342ee809620.pdf\" rel=\"nofollow\">https:&#x2F;&#x2F;www-cdn.anthropic.com&#x2F;d00db56fa754a1b115b6dd7cb2e3c3...</a>",
+      "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
       "source": "Hacker News",
       "source_icon": "hackernews",
-      "heat": 8.5,
-      "tags": [
-        "IPO",
-        "OpenAI",
-        "公司动态"
-      ],
+      "heat": 5.0,
+      "tags": [],
       "student_note": null,
-      "published_at": "2026-06-08T21:22:43+00:00",
-      "meta": "▲ 62 · 💬 17",
-      "detail_summary": "OpenAI 已向美国证券交易委员会（SEC）秘密提交 S-1 草案，正式启动首次公开募股（IPO）流程。此举标志着 OpenAI 从非营利组织向商业巨头的转型进入新阶段，旨在通过上市筹集大量资金以维持研发投入并扩大市场影响力。作为 AI 领域最受关注的公司，其 IPO 将重塑行业资本格局。对大学生而言，这不仅是观察科技公司资本运作的绝佳案例，也意味着 AI 领域将涌现更多就业与实习机会。",
-      "key_points": [
-        "秘密提交S-1草案",
-        "AI领域最受关注IPO",
-        "资本市场格局重塑",
-        "催生就业新机会"
-      ]
+      "published_at": "2026-06-09T16:58:01+00:00",
+      "meta": "▲ 1493 · 💬 1168",
+      "detail_summary": "",
+      "key_points": []
+    },
+    {
+      "title_cn": "If Claude Fable stops helping you, you'll never know",
+      "title_en": "If Claude Fable stops helping you, you'll never know",
+      "summary_cn": "",
+      "summary_en": "",
+      "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
+      "source": "Hacker News",
+      "source_icon": "hackernews",
+      "heat": 5.0,
+      "tags": [],
+      "student_note": null,
+      "published_at": "2026-06-09T21:19:11+00:00",
+      "meta": "▲ 74 · 💬 23",
+      "detail_summary": "",
+      "key_points": []
+    },
+    {
+      "title_cn": "Musk’s xAI, SpaceX hit with class action over data center ‘nuisance’",
+      "title_en": "Musk’s xAI, SpaceX hit with class action over data center ‘nuisance’",
+      "summary_cn": "Musk’s xAI, SpaceX hit with class action over data center ‘nuisance’&nbsp;&nbsp;Reuters",
+      "summary_en": "Musk’s xAI, SpaceX hit with class action over data center ‘nuisance’&nbsp;&nbsp;Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbEFyQzQ4ZU9aVGpfNzdpR204a01GdlJQTFJvTERRNktfNTBVMDVyT2xXQWF0aTduWXNYUmVMRk8yT0s2RU5GZ0UwaVA3MlBOaGNGSFpXN01naTBHczNCdjU4WHV6empVc3ZPYTkxOGJrSkVmNnR2cW8wT0RlTnRDaV84dXVNVUtKZ21KTnktUERQWVlBTXdrZGkySTlQeG1fNkw4TWMycm9NWG5QMjdDc2dBQ3laYV9J?oc=5",
+      "source": "Elon Musk · Reuters",
+      "source_icon": "musk",
+      "heat": 5.0,
+      "tags": [],
+      "student_note": null,
+      "published_at": "2026-06-09T21:01:56+00:00",
+      "detail_summary": "",
+      "key_points": []
+    },
+    {
+      "title_cn": "CEOs Who Think AI Replaces Their Employees Are Just Bad CEOs",
+      "title_en": "CEOs Who Think AI Replaces Their Employees Are Just Bad CEOs",
+      "summary_cn": "",
+      "summary_en": "",
+      "url": "https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/",
+      "source": "Hacker News",
+      "source_icon": "hackernews",
+      "heat": 5.0,
+      "tags": [],
+      "student_note": null,
+      "published_at": "2026-06-09T18:45:59+00:00",
+      "meta": "▲ 217 · 💬 96",
+      "detail_summary": "",
+      "key_points": []
+    },
+    {
+      "title_cn": "Hey Siri, here’s what I actually want from AI",
+      "title_en": "Hey Siri, here’s what I actually want from AI",
+      "summary_cn": "I'm desperate for a personal AI assistant, but do I really want to become the kind of person who can't function without the friendly robot voice in my phone?",
+      "summary_en": "I'm desperate for a personal AI assistant, but do I really want to become the kind of person who can't function without the friendly robot voice in my phone?",
+      "url": "https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/",
+      "source": "TechCrunch AI",
+      "source_icon": "techcrunch",
+      "heat": 5.0,
+      "tags": [],
+      "student_note": null,
+      "published_at": "2026-06-09T20:50:17+00:00",
+      "detail_summary": "",
+      "key_points": []
+    },
+    {
+      "title_cn": "GPT-2: Too Dangerous To Release (2019)",
+      "title_en": "GPT-2: Too Dangerous To Release (2019)",
+      "summary_cn": "",
+      "summary_en": "",
+      "url": "https://naokishibuya.github.io/blog/2022-12-30-gpt-2-2019/",
+      "source": "Hacker News",
+      "source_icon": "hackernews",
+      "heat": 5.0,
+      "tags": [],
+      "student_note": null,
+      "published_at": "2026-06-09T18:21:43+00:00",
+      "meta": "▲ 239 · 💬 91",
+      "detail_summary": "",
+      "key_points": []
+    },
+    {
+      "title_cn": "Anthropic’s Fable 5 can make weirdly fun video games with the click of a button",
+      "title_en": "Anthropic’s Fable 5 can make weirdly fun video games with the click of a button",
+      "summary_cn": "Anthropic's Claude Fable 5 is going to be a big hit with the web's vibe coders.",
+      "summary_en": "Anthropic's Claude Fable 5 is going to be a big hit with the web's vibe coders.",
+      "url": "https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/",
+      "source": "TechCrunch AI",
+      "source_icon": "techcrunch",
+      "heat": 5.0,
+      "tags": [],
+      "student_note": null,
+      "published_at": "2026-06-09T20:37:49+00:00",
+      "detail_summary": "",
+      "key_points": []
+    },
+    {
+      "title_cn": "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
+      "title_en": "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
+      "summary_cn": "<a href=\"https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260609200156&#x2F;https:&#x2F;&#x2F;aarushgupta.io&#x2F;posts&#x2F;kan-fpga&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260609200156&#x2F;https:&#x2F;&#x2F;aarushgup...</a>",
+      "summary_en": "<a href=\"https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260609200156&#x2F;https:&#x2F;&#x2F;aarushgupta.io&#x2F;posts&#x2F;kan-fpga&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260609200156&#x2F;https:&#x2F;&#x2F;aarushgup...</a>",
+      "url": "https://aarushgupta.io/posts/kan-fpga/",
+      "source": "Hacker News",
+      "source_icon": "hackernews",
+      "heat": 5.0,
+      "tags": [],
+      "student_note": null,
+      "published_at": "2026-06-09T19:21:45+00:00",
+      "meta": "▲ 105 · 💬 14",
+      "detail_summary": "",
+      "key_points": []
     },
     {
       "title_cn": "Apple reveals new AI architecture built around Google Gemini models",
@@ -868,166 +448,44 @@
       "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
       "source": "Hacker News",
       "source_icon": "hackernews",
-      "heat": 7.5,
-      "tags": [
-        "Apple",
-        "Google Gemini",
-        "模型合作"
-      ],
+      "heat": 5.0,
+      "tags": [],
       "student_note": null,
       "published_at": "2026-06-08T19:14:47+00:00",
-      "meta": "▲ 271 · 💬 223",
-      "detail_summary": "Apple 在最新 AI 架构中整合了 Google Gemini 模型，而非完全自研，这一策略性合作引发行业热议。Apple 选择与 Gemini 合作，意在快速弥补自身在大语言模型方面的短板，同时保持其隐私与生态优势。此举对开发者意味着未来 iOS/macOS 的 AI 功能将更加开放，大学生可优先学习 Gemini API 以构建跨平台应用。",
-      "key_points": [
-        "Apple采用Gemini模型",
-        "借外力补齐AI短板",
-        "开发者可关注API",
-        "隐私优势仍保留"
-      ]
+      "meta": "▲ 705 · 💬 549",
+      "detail_summary": "",
+      "key_points": []
     },
     {
-      "title_cn": "OpenAI files for IPO as AI investment race intensifies",
-      "title_en": "OpenAI files for IPO as AI investment race intensifies",
-      "summary_cn": "OpenAI files for IPO as AI investment race intensifies&nbsp;&nbsp;NBC News",
-      "summary_en": "OpenAI files for IPO as AI investment race intensifies&nbsp;&nbsp;NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPek90QTVxaDRveGlyZ2UxUHR0OEt0d05NTEpMVVh2VG5nSHU2OG5hbERwT0pVRjk3ZldWYzBtRF9fQmY5dkxsX2Jva3phX0pGMDVzd21lY2p4N3RxcTlxbzhxRlZNQkRLQkFxQ1lrMkhMWUlqeHRzaEt0Sm1INzh4SElB?oc=5",
-      "source": "Sam Altman · NBC News",
-      "source_icon": "altman",
-      "heat": 8.5,
-      "tags": [
-        "IPO",
-        "OpenAI",
-        "融资"
-      ],
-      "student_note": null,
-      "published_at": "2026-06-08T21:39:10+00:00",
-      "detail_summary": "随着 AI 投资竞赛白热化，OpenAI 正式提交 IPO 文件，计划在华尔街上市。CEO Sam Altman 通过 NBC News 确认了这一消息，称上市将加速 AGI 研发并回馈早期支持者。当前 AI 公司估值普遍高企，OpenAI 的 IPO 将为市场提供新的定价锚点。大学生应关注其招股书中的技术路线图与财务数据，这对理解 AI 产业商业模式至关重要。",
-      "key_points": [
-        "AI投资竞赛升级",
-        "IPO加速AGI研发",
-        "提供估值新锚点",
-        "招股书值得深读"
-      ]
-    },
-    {
-      "title_cn": "Following Anthropic, OpenAI files confidentially for IPO",
-      "title_en": "Following Anthropic, OpenAI files confidentially for IPO",
-      "summary_cn": "The filing comes a little more than a week after its main rival, Anthropic, also filed to go public, ramping up the race between the two AI firms.",
-      "summary_en": "The filing comes a little more than a week after its main rival, Anthropic, also filed to go public, ramping up the race between the two AI firms.",
-      "url": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
+      "title_cn": "Can tech companies learn to love cheaper AI models?",
+      "title_en": "Can tech companies learn to love cheaper AI models?",
+      "summary_cn": "If those same AI workloads can be handled by cheaper models without affecting quality, it would mean a massive shift in the economics of AI.",
+      "summary_en": "If those same AI workloads can be handled by cheaper models without affecting quality, it would mean a massive shift in the economics of AI.",
+      "url": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
       "source": "TechCrunch AI",
       "source_icon": "techcrunch",
-      "heat": 8.5,
-      "tags": [
-        "IPO",
-        "OpenAI",
-        "Anthropic"
-      ],
+      "heat": 5.0,
+      "tags": [],
       "student_note": null,
-      "published_at": "2026-06-08T21:29:57+00:00",
-      "detail_summary": "继 Anthropic 之后，OpenAI 也以保密方式提交 IPO 申请，两家顶级 AI 公司竞相登陆资本市场。TechCrunch 指出，这种“秘密递交”常见于初创公司以避免信息过早泄露，但 OpenAI 的体量使其备受关注。Anthropic 的先行一步可能刺激 OpenAI 加速进程。大学生可对比两家公司的技术路线（GPT系列 vs Claude系列）与商业策略，思考差异化竞争。",
-      "key_points": [
-        "继Anthropic后跟进",
-        "秘密递交保信息",
-        "竞相登陆资本市场",
-        "技术路线可对比"
-      ]
+      "published_at": "2026-06-09T18:56:09+00:00",
+      "detail_summary": "",
+      "key_points": []
     },
     {
-      "title_cn": "OpenAI files paperwork for an IPO",
-      "title_en": "OpenAI files paperwork for an IPO",
-      "summary_cn": "OpenAI files paperwork for an IPO&nbsp;&nbsp;Axios",
-      "summary_en": "OpenAI files paperwork for an IPO&nbsp;&nbsp;Axios",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zYlJFR3NXNW5ndGtZeVFKRHUyRkdVMmNJZHF6MENydkVtODlaNWd4Zk04a0t6QktUS25QNzdwd09kLWl6VWVRZlZkLVdNNmlaeVZlR1l3?oc=5",
-      "source": "Sam Altman · Axios",
-      "source_icon": "altman",
-      "heat": 8.5,
-      "tags": [
-        "IPO",
-        "OpenAI",
-        "资本市场"
-      ],
+      "title_cn": "xAI is looking more like a datacentre REIT than a frontier lab",
+      "title_en": "xAI is looking more like a datacentre REIT than a frontier lab",
+      "summary_cn": "",
+      "summary_en": "",
+      "url": "https://martinalderson.com/posts/xais-new-rental-business/",
+      "source": "Hacker News",
+      "source_icon": "hackernews",
+      "heat": 5.0,
+      "tags": [],
       "student_note": null,
-      "published_at": "2026-06-08T21:23:38+00:00",
-      "detail_summary": "Axios 报道 OpenAI 已提交 IPO 相关文件，CEO Sam Altman 亲自确认这一里程碑。此次上市可能成为科技史上规模最大的 AI 公司 IPO，预计融资数十亿美元。OpenAI 将利用资金扩大算力规模、招募顶尖人才并推动产品商业化。对于计算机科学专业学生，这标志着 AI 工程师需求将持续高涨，建议加强底层模型训练与推理优化技能。",
-      "key_points": [
-        "史上最大AI公司IPO",
-        "融资数十亿美元",
-        "扩大算力与人才",
-        "AI工程师需求旺"
-      ]
-    },
-    {
-      "title_cn": "Apple plays catch-up at WWDC",
-      "title_en": "Apple plays catch-up at WWDC",
-      "summary_cn": "Apple spent much of its WWDC keynote highlighting fixes, performance improvements, and long-requested features before unveiling its upgraded AI-powered Siri, signaling that the company wants users to see AI as just one part of a broader effort to improve its software.",
-      "summary_en": "Apple spent much of its WWDC keynote highlighting fixes, performance improvements, and long-requested features before unveiling its upgraded AI-powered Siri, signaling that the company wants users to see AI as just one part of a broader effort to improve its software.",
-      "url": "https://techcrunch.com/2026/06/08/apple-plays-catch-up-at-wwdc/",
-      "source": "TechCrunch AI",
-      "source_icon": "techcrunch",
-      "heat": 7.0,
-      "tags": [
-        "Apple",
-        "WWDC",
-        "AI战略"
-      ],
-      "student_note": null,
-      "published_at": "2026-06-08T21:15:42+00:00",
-      "detail_summary": "WWDC 2026 主题演讲中，Apple 展现了在 AI 领域的追赶姿态，推出多项基于设备端智能的新功能。尽管相比 Google、Microsoft 起步较晚，Apple 强调隐私优先与生态系统整合，试图通过差异化竞争赢得用户。大学生应注意 Apple 新推出的机器学习框架和开发工具，这些将直接影响到 iOS/macOS 应用的 AI 功能开发。",
-      "key_points": [
-        "WWDC2026追赶上",
-        "设备端智能为主",
-        "隐私优先差异化",
-        "关注新ML框架"
-      ]
-    },
-    {
-      "title_cn": "OpenAI confidentially files for IPO, prepping Wall Street for mega AI debut",
-      "title_en": "OpenAI confidentially files for IPO, prepping Wall Street for mega AI debut",
-      "summary_cn": "OpenAI confidentially files for IPO, prepping Wall Street for mega AI debut&nbsp;&nbsp;CNBC",
-      "summary_en": "OpenAI confidentially files for IPO, prepping Wall Street for mega AI debut&nbsp;&nbsp;CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMVhyczJEUzJvM0ktd0k2RmJwZGY2YW1CRThUTTdLNERQY0ZXVXUyNjhHMklyRFVSdnRoTlc3dTFZd0NqNDd2TDJrYk43NTc4Y0Z5R0Qta08zLU5XdVVSd05LNF94WTlDS05xRklDYzluVnpWUjFqeHg2QWVZZWdSMkJHN0VVYWQtSU9BNVA3ejg2V3YyOHM3TkhsZFRtakxoRXY2WjZxWkdUZw?oc=5",
-      "source": "Sam Altman · CNBC",
-      "source_icon": "altman",
-      "heat": 8.5,
-      "tags": [
-        "IPO",
-        "OpenAI",
-        "华尔街"
-      ],
-      "student_note": null,
-      "published_at": "2026-06-08T21:14:27+00:00",
-      "detail_summary": "CNBC 报道 OpenAI 已向 SEC 秘密提交 IPO 文件，准备在华尔街上演一场 AI 重磅首秀。分析人士预计其估值可能超过 3000 亿美元，成为近年来最大的科技公司上市事件之一。OpenAI 的上市将深刻影响 AI 行业的投资流向与竞争格局。对金融或管理专业的大学生，这是一次学习科技公司估值与资本运作的经典案例。",
-      "key_points": [
-        "秘密提交IPO文件",
-        "市值或超3000亿",
-        "影响行业投资流向",
-        "科技公司估值案例"
-      ]
-    },
-    {
-      "title_cn": "Built to benefit everyone: our plan",
-      "title_en": "Built to benefit everyone: our plan",
-      "summary_cn": "Built to benefit everyone: our plan&nbsp;&nbsp;OpenAI",
-      "summary_en": "Built to benefit everyone: our plan&nbsp;&nbsp;OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1acHQzdUtIMzJkVmlHbkJ1Z294Y3p1d0JIR0FieFFQOHZwaENrUkFQNWFhNmctWVU0ODlSZDdFN0NZQUFpUHBqeEVxTWhNTlRNV3Z2NVRHMHlVcVBEckt4VXhScnhDaU9OcEd3cw?oc=5",
-      "source": "Sam Altman · OpenAI",
-      "source_icon": "altman",
-      "heat": 5.5,
-      "tags": [
-        "OpenAI",
-        "公司愿景",
-        "公开信"
-      ],
-      "student_note": null,
-      "published_at": "2026-06-08T21:11:15+00:00",
-      "detail_summary": "OpenAI 官方发布公开信《Built to benefit everyone: our plan》，阐述公司使命与未来发展路线图。信中重申其目标：确保通用人工智能（AGI）惠及全人类，并规划了从当前模型到 AGI 的阶段性步骤。尽管这是愿景陈述，但为投资者和开发者提供了长期战略坐标。大学生可以此理解 AI 安全与伦理的重要性，并思考自己如何参与构建负责任 AI。",
-      "key_points": [
-        "确保AGI惠及人类",
-        "发布长期路线图",
-        "强调AI安全与伦理",
-        "战略坐标参考"
-      ]
+      "published_at": "2026-06-08T15:13:43+00:00",
+      "meta": "▲ 670 · 💬 528",
+      "detail_summary": "",
+      "key_points": []
     },
     {
       "title_cn": "Siri AI",
@@ -1037,47 +495,29 @@
       "url": "https://www.apple.com/apple-intelligence/",
       "source": "Hacker News",
       "source_icon": "hackernews",
-      "heat": 5.5,
-      "tags": [
-        "Apple",
-        "Siri",
-        "AI助手"
-      ],
+      "heat": 5.0,
+      "tags": [],
       "student_note": null,
       "published_at": "2026-06-08T18:17:53+00:00",
-      "meta": "▲ 278 · 💬 209",
-      "detail_summary": "Hacker News 社区热议 Apple 全新 Siri AI 升级，新版本基于大语言模型实现更自然的对话与任务处理。Siri 将能理解上下文、执行多步骤指令，并深度整合 Apple 原生应用。这对于经常使用 Apple 设备的大学生而言意味着更高效的助手体验，同时开发者可利用新 SiriKit 扩展创造个性化技能。",
-      "key_points": [
-        "Siri基于大语言模型",
-        "上下文理解多步骤",
-        "深度整合设备应用",
-        "新SiriKit待探索"
-      ]
+      "meta": "▲ 659 · 💬 683",
+      "detail_summary": "",
+      "key_points": []
     },
     {
-      "title_cn": "Apple bets cheaper AI will woo small developers",
-      "title_en": "Apple bets cheaper AI will woo small developers",
-      "summary_cn": "As AI experimentation grows more expensive, Apple is waiving cloud API costs for developers with fewer than 2 million first-time App Store downloads.",
-      "summary_en": "As AI experimentation grows more expensive, Apple is waiving cloud API costs for developers with fewer than 2 million first-time App Store downloads.",
-      "url": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/",
-      "source": "TechCrunch AI",
-      "source_icon": "techcrunch",
-      "heat": 6.0,
-      "tags": [
-        "Apple",
-        "开发者",
-        "AI定价",
-        "竞争策略"
-      ],
+      "title_cn": "Where is the AI jobs crisis?",
+      "title_en": "Where is the AI jobs crisis?",
+      "summary_cn": "",
+      "summary_en": "",
+      "url": "https://www.apollo.com/wealth/the-daily-spark/where-is-the-ai-jobs-crisis",
+      "source": "Hacker News",
+      "source_icon": "hackernews",
+      "heat": 5.0,
+      "tags": [],
       "student_note": null,
-      "published_at": "2026-06-08T20:53:55+00:00",
-      "detail_summary": "Apple 推出更便宜的 AI API 定价策略，旨在吸引小型开发者加入其生态系统。不同于高价位的云端大模型，Apple 利用设备端算力与模型蒸馏技术降低调用成本，使独立开发者也能负担 AI 功能集成。这对大学生创业项目尤其友好，可以利用低成本构建 AI 原型，快速验证想法。",
-      "key_points": [
-        "低价AI API策略",
-        "吸引小型开发者",
-        "利用设备端算力",
-        "创业成本更低"
-      ]
+      "published_at": "2026-06-09T17:29:17+00:00",
+      "meta": "▲ 119 · 💬 174",
+      "detail_summary": "",
+      "key_points": []
     },
     {
       "title_cn": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
@@ -1087,118 +527,28 @@
       "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
       "source": "Hacker News",
       "source_icon": "hackernews",
-      "heat": 8.5,
-      "tags": [
-        "模型发布",
-        "效率提升"
-      ],
+      "heat": 5.0,
+      "tags": [],
       "student_note": null,
       "published_at": "2026-06-08T15:27:33+00:00",
-      "meta": "▲ 442 · 💬 300",
-      "detail_summary": "MiMo-v2.5-Pro-UltraSpeed 模型发布，拥有 1 万亿参数且推理速度达到惊人的每秒 1000 tokens，效率远超主流模型。该模型在保持超大容量的同时实现了极低延迟，可能源于新型稀疏激活或量化技术。对于研究自然语言处理的大学生，这提示了模型压缩与加速方向的前沿进展，值得跟踪其技术论文。",
-      "key_points": [
-        "1万亿参数模型",
-        "每秒1000 tokens",
-        "推理速度极快",
-        "稀疏激活或量化"
-      ]
+      "meta": "▲ 609 · 💬 460",
+      "detail_summary": "",
+      "key_points": []
     },
     {
-      "title_cn": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
-      "title_en": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
-      "summary_cn": "Apple primarily made the case for an improved experience with its longstanding Siri assistant, which like most other announcements had a hefty helping of AI.",
-      "summary_en": "Apple primarily made the case for an improved experience with its longstanding Siri assistant, which like most other announcements had a hefty helping of AI.",
-      "url": "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+      "title_cn": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more",
+      "title_en": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more",
+      "summary_cn": "Apple primarily made the case for an improved experience with its long-standing Siri assistant, which like most other announcements had a hefty helping of AI.",
+      "summary_en": "Apple primarily made the case for an improved experience with its long-standing Siri assistant, which like most other announcements had a hefty helping of AI.",
+      "url": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
       "source": "TechCrunch AI",
       "source_icon": "techcrunch",
-      "heat": 9.0,
-      "tags": [
-        "Apple",
-        "WWDC",
-        "Siri",
-        "iOS"
-      ],
-      "student_note": null,
-      "published_at": "2026-06-08T19:41:32+00:00",
-      "detail_summary": "WWDC 2026 大会宣布多项重大更新：Siri AI 全面升级、iOS 27 引入深度设备端智能、Apple Intelligence 平台开放给第三方开发者。此外还推出全新 Core AI 框架，允许在 iPhone、Mac 上本地运行复杂模型。虽然标题年份为 2026 可能为未来预测或笔误，但反映了 Apple 长期 AI 战略方向。大学生应关注其 Developer 网站上的 beta 资源，尽早适配新框架。",
-      "key_points": [
-        "WWDC2026重大更新",
-        "Siri AI全面升级",
-        "iOS 27设备端智能",
-        "Core AI框架开放"
-      ]
-    },
-    {
-      "title_cn": "Apple Core AI Framework",
-      "title_en": "Apple Core AI Framework",
-      "summary_cn": "",
-      "summary_en": "",
-      "url": "https://developer.apple.com/documentation/coreai/",
-      "source": "Hacker News",
-      "source_icon": "hackernews",
-      "heat": 8.0,
-      "tags": [
-        "Apple",
-        "AI框架"
-      ],
-      "student_note": null,
-      "published_at": "2026-06-08T18:47:38+00:00",
-      "meta": "▲ 80 · 💬 4",
-      "detail_summary": "Apple 正式发布 Core AI Framework，这是一套为开发者提供的端侧 AI 工具集，旨在简化模型部署与推理优化。该框架支持 Core ML、TensorFlow 和 PyTorch 模型的转换，并提供隐私计算特性，所有推理在本地完成。对于有志于移动端 AI 开发的大学生，学习 Core AI Framework 将直接提升 iOS/macOS 应用开发竞争力。",
-      "key_points": [
-        "Apple Core AI框架",
-        "端侧模型部署",
-        "支持多种格式转换",
-        "隐私本地计算"
-      ]
-    },
-    {
-      "title_cn": "Microsoft's AI Chief Insists He's Not Posting Thirst Traps on Main After Messy Breakup With OpenAI",
-      "title_en": "Microsoft's AI Chief Insists He's Not Posting Thirst Traps on Main After Messy Breakup With OpenAI",
-      "summary_cn": "Microsoft's AI Chief Insists He's Not Posting Thirst Traps on Main After Messy Breakup With OpenAI&nbsp;&nbsp;Gizmodo",
-      "summary_en": "Microsoft's AI Chief Insists He's Not Posting Thirst Traps on Main After Messy Breakup With OpenAI&nbsp;&nbsp;Gizmodo",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONjJ3NVhtQW1NMGM1ZzJidzE1dDltYWxiM1FLZk4xQ1phV1VGWHh4WXlyZGF3Z0xleGdQQlEzUkNjOGtMakJMWDVVQTZWNFRmUzFYRXBkZVBlZVdrZU9vRDI0V2FDeC10MDZ6Rzg4TnFzQlNmQlI0bHRJSl9FUFlHX18tMy1lVWhpb0lwQkktYlhTWEdCRXl3STVQdWlBY3lDaWVlNnFyY3lqRHZpTjBaalhfRmtBQTNBS2dNVG41bEgwUHVCMlE?oc=5",
-      "source": "Sam Altman · Gizmodo",
-      "source_icon": "altman",
-      "heat": 6.5,
-      "tags": [
-        "微软",
-        "OpenAI",
-        "争议"
-      ],
-      "student_note": null,
-      "published_at": "2026-06-08T19:25:04+00:00",
-      "detail_summary": "微软 AI 部门负责人因与 OpenAI 关系破裂后在社交媒体上发布争议性内容，被嘲讽为“求关注”。Gizmodo 报道称，该负责人否认这些动态是刻意吸引注意力，而是个人表达的误解。这一事件折射出两大 AI 巨头间微妙的竞争与合作关系。对大学生而言，这是理解科技公司间博弈与公关技巧的生动案例。",
-      "key_points": [
-        "微软AI主管争议",
-        "与OpenAI关系破裂",
-        "社交媒体风波",
-        "科技公司公关案例"
-      ]
-    },
-    {
-      "title_cn": "Ask HN: What are tools you have made for yourself since the advent of AI?",
-      "title_en": "Ask HN: What are tools you have made for yourself since the advent of AI?",
-      "summary_cn": "",
-      "summary_en": "",
-      "url": "https://news.ycombinator.com/item?id=48449187",
-      "source": "Hacker News",
-      "source_icon": "hackernews",
       "heat": 5.0,
-      "tags": [
-        "社区讨论",
-        "开发工具"
-      ],
+      "tags": [],
       "student_note": null,
-      "published_at": "2026-06-08T18:22:39+00:00",
-      "meta": "▲ 77 · 💬 116",
-      "detail_summary": "Hacker News 社区发起讨论：自 AI 时代以来，你为自己创造了哪些工具？开发者们分享了各类个人化 AI 工具，如自动化文本摘要、代码生成助手、学习笔记整理器等。这些工具多基于 GPT API 或开源模型构建，展现 AI 降低开发门槛后个人创造力爆发。大学生可通过此帖发掘灵感，利用 AI 为自己量身打造效率工具，提升学习与生活品质。",
-      "key_points": [
-        "个人自制AI工具",
-        "基于GPT或开源",
-        "提升学习效率",
-        "低成本创造灵感"
-      ]
+      "published_at": "2026-06-09T18:04:24+00:00",
+      "detail_summary": "",
+      "key_points": []
     }
   ]
 }
